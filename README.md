@@ -45,6 +45,7 @@ Run individual figure blocks:
 
 ```bash
 ./run_figure1.sh
+python3 scripts/generate_figure1.py
 ./run_figure2.sh
 ./run_figure3.sh
 ./run_supplementary.sh
@@ -128,11 +129,21 @@ These notebooks call the same audited scripts used by the batch runner. They do 
 - `submission_assets/audited_html_report/`
   - HTML reproducibility report and machine-readable manifest.
 
+## Figure 1 Note
+
+Figure 1 in this package is exposed through `scripts/generate_figure1.py` and `run_figure1.sh`, both of which call the audited rebuild in `_audit/Nitrogen-Surplus-restructuring/repro/figure1_pipeline.py`.
+
+The historical checkout did not preserve a standalone legacy Figure 1 plotting script. The current repository therefore ships the audited reconstruction path together with its generated CSVs and audit note:
+
+- `_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_panel_abc_joined.csv`
+- `_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_panel_d_state_area.csv`
+- `_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduction_summary.md`
+
 ## Figure-to-Code Map
 
 | Figure block | Main command | Primary output | Source data |
 |---|---|---|---|
-| Figure 1 | `./run_figure1.sh` | `_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduced.png` | `submission_assets/source_data/csv/Fig1_abc.csv`, `submission_assets/source_data/csv/Fig1d_state_area.csv` |
+| Figure 1 | `python3 scripts/generate_figure1.py` or `./run_figure1.sh` | `_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduced.png` | `submission_assets/source_data/csv/Fig1_abc.csv`, `submission_assets/source_data/csv/Fig1d_state_area.csv` |
 | Figure 2 | `./run_figure2.sh` | `figures/working_variants/Figure2_equivalent.png` | `submission_assets/source_data/csv/Fig2a_pareto.csv` through `Fig2d_flows.csv` |
 | Figure 3 | `./run_figure3.sh` | `figures/working_variants/Figure3_equivalent.png` | `submission_assets/source_data/csv/Fig3a_state_area.csv` through `Fig3c_nodes.csv` |
 | Supplementary robustness block | `./run_supplementary.sh` | `figures/manuscript_final/si_*.png` | `submission_assets/source_data/csv/FigS*.csv`, `submission_assets/source_data/csv/TableS10_prices.csv` |
