@@ -45,6 +45,14 @@ CENTERS_CSV = DATA_DIR / "figure2b_no_historical_cap_core_values.csv"
 COEFF_COLS = ["CWR m3/ha", "net_N_applied(kg/ha)", "net_P_applied(kg/ha)"]
 
 
+def signed_display_change(metric: str, pct_reduction: float, original_total: float) -> float:
+    del metric
+    pct = float(pct_reduction)
+    if float(original_total) < 0:
+        return pct
+    return -pct
+
+
 def canon(value: object) -> str:
     if pd.isna(value):
         return "__missing__"
@@ -62,6 +70,56 @@ def lower_key_columns(frame: pd.DataFrame) -> pd.DataFrame:
         if col in out.columns:
             out[col] = out[col].map(canon)
     return out
+
+
+def _coerce_finite_numeric(series: pd.Series) -> pd.Series:
+    values = pd.to_numeric(series, errors="coerce")
+    return values.where(np.isfinite(values), np.nan)
+
+
+def _crop_quantile_bounds(
+    valid: pd.DataFrame,
+    col: str,
+    lower_q: float = 0.01,
+    upper_q: float = 0.99,
+) -> tuple[dict[str, float], dict[str, float]]:
+    lower_map: dict[str, float] = {}
+    upper_map: dict[str, float] = {}
+    for crop, group in valid.groupby("crop", sort=False):
+        values = group[col].dropna().astype(float)
+        if values.empty:
+            continue
+        if values.size < 20:
+            lower = float(values.min())
+            upper = float(values.max())
+        else:
+            lower = float(values.quantile(lower_q))
+            upper = float(values.quantile(upper_q))
+        lower_map[str(crop)] = lower
+        upper_map[str(crop)] = upper
+    return lower_map, upper_map
+
+
+def sanitize_sampling_panel(raw_panel: pd.DataFrame) -> pd.DataFrame:
+    frame = raw_panel.copy()
+    for col in COEFF_COLS:
+        frame[col] = _coerce_finite_numeric(frame[col])
+
+    valid = frame.dropna(subset=COEFF_COLS).copy()
+    if valid.empty:
+        return valid
+
+    keep_mask = pd.Series(True, index=valid.index)
+    for col in COEFF_COLS:
+        lower_map, upper_map = _crop_quantile_bounds(valid, col)
+        crop_lower = valid["crop"].map(lower_map)
+        crop_upper = valid["crop"].map(upper_map)
+        keep_mask &= valid[col].ge(crop_lower) & valid[col].le(crop_upper)
+
+    cleaned = valid.loc[keep_mask].copy()
+    if cleaned.empty:
+        return valid
+    return cleaned
 
 
 def build_pool(frame: pd.DataFrame, cols: list[str], by: list[str]) -> dict[object, list[tuple[float, ...]]]:
@@ -92,6 +150,7 @@ def load_sampling_pools(layout, season: str, notebook_name: str) -> dict[str, ob
         namespace = _prepare_namespace(layout, notebook_name)
 
     raw_panel = lower_key_columns(namespace[season])
+    raw_panel = sanitize_sampling_panel(raw_panel)
     exact_pool = build_pool(raw_panel, COEFF_COLS, ["state", "district", "crop"])
     state_crop_pool = build_pool(raw_panel, COEFF_COLS, ["state", "crop"])
     crop_pool = build_pool(raw_panel, COEFF_COLS, ["crop"])
@@ -154,12 +213,12 @@ def draw_coefficients(
         base_net_n = float(nitrogen_rate.get(key, mean_net_n))
         base_net_p = float(p_rate.get(key, mean_net_p))
 
-        if math.isfinite(water_draw):
-            water_rate[key] = max(0.0, base_water + (float(water_draw) - mean_water))
-        if math.isfinite(net_n_draw):
-            nitrogen_rate[key] = max(0.0, base_net_n + (float(net_n_draw) - mean_net_n))
-        if math.isfinite(net_p_draw):
-            p_rate[key] = max(0.0, base_net_p + (float(net_p_draw) - mean_net_p))
+        if math.isfinite(water_draw) and math.isfinite(mean_water) and mean_water > 0:
+            water_rate[key] = max(0.0, base_water * (float(water_draw) / mean_water))
+        if math.isfinite(net_n_draw) and math.isfinite(mean_net_n) and mean_net_n > 0:
+            nitrogen_rate[key] = max(0.0, base_net_n * (float(net_n_draw) / mean_net_n))
+        if math.isfinite(net_p_draw) and math.isfinite(mean_net_p) and mean_net_p > 0:
+            p_rate[key] = max(0.0, base_net_p * (float(net_p_draw) / mean_net_p))
 
     return nitrogen_rate, p_rate, water_rate
 
@@ -282,7 +341,11 @@ def run_bootstrap(
                         "kharif_status": statuses.get("kharif", "NA"),
                         "rabi_status": statuses.get("rabi", "NA"),
                         "pct_reduction": pct_reduction,
-                        "display_pct_change": -pct_reduction if pd.notna(pct_reduction) else np.nan,
+                        "display_pct_change": (
+                            signed_display_change(metric_label, pct_reduction, annual_baseline[metric_key])
+                            if pd.notna(pct_reduction)
+                            else np.nan
+                        ),
                     }
                 )
 
@@ -293,13 +356,20 @@ def run_bootstrap(
 
 def build_summary(iterations: pd.DataFrame, centers: pd.DataFrame) -> pd.DataFrame:
     center_map = {
-        (row.scenario, row.metric): (float(row.pct_reduction), float(row.display_pct_change))
+        (
+            row.scenario,
+            row.metric,
+        ): (
+            float(row.pct_reduction),
+            signed_display_change(row.metric, float(row.pct_reduction), float(row.original_total)),
+            float(row.original_total),
+        )
         for row in centers.itertuples(index=False)
     }
     rows = []
     for (scenario, metric), group in iterations.groupby(["scenario", "metric"], sort=False):
         valid = group[group["status"] == "Optimal"]["pct_reduction"].astype(float)
-        center_pct, center_display = center_map[(scenario, metric)]
+        center_pct, center_display, original_total = center_map[(scenario, metric)]
 
         if valid.empty:
             rows.append(
@@ -324,8 +394,10 @@ def build_summary(iterations: pd.DataFrame, centers: pd.DataFrame) -> pd.DataFra
 
         p2_5 = float(valid.quantile(0.025))
         p97_5 = float(valid.quantile(0.975))
-        display_low = min(-p2_5, -p97_5)
-        display_high = max(-p2_5, -p97_5)
+        display_p2_5 = signed_display_change(metric, p2_5, original_total)
+        display_p97_5 = signed_display_change(metric, p97_5, original_total)
+        display_low = min(display_p2_5, display_p97_5)
+        display_high = max(display_p2_5, display_p97_5)
 
         rows.append(
             {
@@ -336,7 +408,9 @@ def build_summary(iterations: pd.DataFrame, centers: pd.DataFrame) -> pd.DataFra
                 "bootstrap_mean_pct_reduction": float(valid.mean()),
                 "bootstrap_p2_5_pct_reduction": p2_5,
                 "bootstrap_p97_5_pct_reduction": p97_5,
-                "bootstrap_mean_display_pct": float((-valid).mean()),
+                "bootstrap_mean_display_pct": float(
+                    valid.map(lambda value: signed_display_change(metric, value, original_total)).mean()
+                ),
                 "display_interval_low": display_low,
                 "display_interval_high": display_high,
                 "lower_err_display": max(center_display - display_low, 0.0),
@@ -428,7 +502,7 @@ def build_figure(summary: pd.DataFrame) -> None:
     ax.set_yticks(positions)
     ax.set_yticklabels(metric_order)
     ax.invert_yaxis()
-    ax.set_xlabel("% Change")
+    ax.set_xlabel("Change relative to baseline (%)")
     ax.set_title("Percentage Change in Socio-Environmental Objectives", fontweight="bold", pad=8)
     ax.text(-0.12, 1.02, "b", transform=ax.transAxes, fontsize=12, fontweight="bold", va="bottom")
     ax.grid(axis="x", color="#d9d9d9", linewidth=0.6, linestyle="-", alpha=0.85, zorder=1)
@@ -444,7 +518,7 @@ def build_figure(summary: pd.DataFrame) -> None:
         float((water["center_display_pct"] + water["upper_err_display"]).max()),
         float((nitrogen["center_display_pct"] + nitrogen["upper_err_display"]).max()),
     )
-    ax.set_xlim(min(-50.0, x_min - 4.0), max(30.0, x_max + 4.0))
+    ax.set_xlim(min(-52.0, x_min - 4.0), max(30.0, x_max + 4.0))
 
     fig.savefig(OUT_PNG, dpi=400, bbox_inches="tight", facecolor="white")
     fig.savefig(OUT_PDF, bbox_inches="tight", facecolor="white")

@@ -8,6 +8,7 @@ import sys
 from pathlib import Path
 
 import matplotlib.pyplot as plt
+import numpy as np
 import pandas as pd
 from matplotlib.lines import Line2D
 
@@ -97,21 +98,98 @@ def load_ratio_scenarios() -> dict[str, dict[str, float]]:
     return scenarios
 
 
-def load_state_price_lookup() -> dict[tuple[str, str, str], float]:
+def load_state_price_bundle() -> tuple[
+    dict[tuple[str, str, str], float],
+    dict[tuple[str, str], float],
+    set[tuple[str, str, str]],
+]:
     state_price = pd.read_csv(STATE_PRICE_CSV)
-    state_price = state_price[
-        state_price["year"].isin(SCENARIO_YEARS)
-        & (state_price["join_status"] == "matched")
-        & state_price["unit_price_inr_per_tonne"].notna()
+    state_price = state_price[state_price["year"].isin(SCENARIO_YEARS)].copy()
+    state_price["crop_key"] = state_price["crop_name"].map(CROP_MAP)
+    state_price["state_key"] = state_price["des_state_name"].map(canon)
+    state_price["production_tonnes_total"] = pd.to_numeric(
+        state_price["production_tonnes_total"], errors="coerce"
+    )
+    state_price["value_output_inr"] = pd.to_numeric(state_price["value_output_inr"], errors="coerce")
+    state_price["unit_price_inr_per_tonne"] = pd.to_numeric(
+        state_price["unit_price_inr_per_tonne"], errors="coerce"
+    )
+    state_price["unit_price_inr_per_tonne"] = state_price["unit_price_inr_per_tonne"].where(
+        np.isfinite(state_price["unit_price_inr_per_tonne"]),
+        np.nan,
+    )
+
+    usable_direct = state_price[
+        (state_price["join_status"] == "matched")
+        & state_price["crop_key"].notna()
+        & state_price["state_key"].notna()
+        & state_price["state_key"].ne("")
+        & state_price["unit_price_inr_per_tonne"].gt(0)
     ].copy()
-    lookup: dict[tuple[str, str, str], float] = {}
-    for row in state_price.itertuples(index=False):
-        crop_key = CROP_MAP.get(row.crop_name)
-        state_key = canon(row.des_state_name)
-        if crop_key is None or not state_key:
-            continue
-        lookup[(str(row.year), state_key, crop_key)] = float(row.unit_price_inr_per_tonne) / 10.0
-    return lookup
+
+    direct_grouped = (
+        usable_direct.groupby(["year", "state_key", "crop_key"], as_index=False)
+        .agg(
+            value_output_inr=("value_output_inr", "sum"),
+            production_tonnes_total=("production_tonnes_total", "sum"),
+            mean_unit_price_inr_per_tonne=("unit_price_inr_per_tonne", "mean"),
+        )
+        .reset_index(drop=True)
+    )
+    direct_lookup: dict[tuple[str, str, str], float] = {}
+    for row in direct_grouped.itertuples(index=False):
+        if pd.notna(row.value_output_inr) and pd.notna(row.production_tonnes_total) and row.production_tonnes_total > 0 and row.value_output_inr > 0:
+            price_qtl = float(row.value_output_inr) / float(row.production_tonnes_total) / 10.0
+        else:
+            price_qtl = float(row.mean_unit_price_inr_per_tonne) / 10.0
+        direct_lookup[(str(row.year), str(row.state_key), str(row.crop_key))] = price_qtl
+
+    usable_national = state_price[
+        state_price["crop_key"].notna()
+        & state_price["value_output_inr"].gt(0)
+        & state_price["production_tonnes_total"].gt(0)
+    ].copy()
+    national_grouped = (
+        usable_national.groupby(["year", "crop_key"], as_index=False)[
+            ["value_output_inr", "production_tonnes_total"]
+        ]
+        .sum()
+        .reset_index(drop=True)
+    )
+    national_lookup: dict[tuple[str, str], float] = {}
+    for row in national_grouped.itertuples(index=False):
+        national_lookup[(str(row.year), str(row.crop_key))] = (
+            float(row.value_output_inr) / float(row.production_tonnes_total) / 10.0
+        )
+
+    unusable_direct = state_price[
+        (state_price["join_status"] == "matched")
+        & state_price["crop_key"].notna()
+        & state_price["state_key"].notna()
+        & state_price["state_key"].ne("")
+        & (
+            state_price["unit_price_inr_per_tonne"].isna()
+            | state_price["unit_price_inr_per_tonne"].le(0)
+        )
+    ].copy()
+    unusable_direct_keys = {
+        (str(row.year), str(row.state_key), str(row.crop_key))
+        for row in unusable_direct.itertuples(index=False)
+    }
+
+    return direct_lookup, national_lookup, unusable_direct_keys
+
+
+def load_state_price_lookup() -> dict[tuple[str, str, str], float]:
+    return load_state_price_bundle()[0]
+
+
+def load_national_price_lookup() -> dict[tuple[str, str], float]:
+    return load_state_price_bundle()[1]
+
+
+def load_unusable_direct_price_keys() -> set[tuple[str, str, str]]:
+    return load_state_price_bundle()[2]
 
 
 def load_crop_year_coverage() -> pd.DataFrame:
@@ -137,18 +215,32 @@ def apply_hybrid_price_context(
     year: str,
     crop_ratios: dict[str, float],
     state_price_lookup: dict[tuple[str, str, str], float],
+    national_price_lookup: dict[tuple[str, str], float] | None = None,
+    unusable_direct_keys: set[tuple[str, str, str]] | None = None,
 ) -> tuple[dict[str, object], dict[str, float]]:
     context = copy.deepcopy(base_context)
     hybrid_msp = {}
     direct_keys = 0
+    national_mean_keys = 0
     fallback_keys = 0
+    national_price_lookup = national_price_lookup or {}
+    unusable_direct_keys = unusable_direct_keys or set()
 
     for key, value in context["msp_per_prod"].items():
         state, _, crop = key
-        direct_price = state_price_lookup.get((year, canon(state), canon(crop)))
+        key_lookup = (year, canon(state), canon(crop))
+        direct_price = state_price_lookup.get(key_lookup)
         if direct_price is not None:
             hybrid_msp[key] = direct_price
             direct_keys += 1
+        elif key_lookup in unusable_direct_keys:
+            national_price = national_price_lookup.get((year, canon(crop)))
+            if national_price is not None:
+                hybrid_msp[key] = float(national_price)
+                national_mean_keys += 1
+            else:
+                hybrid_msp[key] = float(value) * float(crop_ratios.get(crop, 1.0))
+                fallback_keys += 1
         else:
             hybrid_msp[key] = float(value) * float(crop_ratios.get(crop, 1.0))
             fallback_keys += 1
@@ -170,6 +262,7 @@ def apply_hybrid_price_context(
     context["initial_state_profit"] = initial_state_profit
     return context, {
         "direct_keys": float(direct_keys),
+        "national_mean_keys": float(national_mean_keys),
         "fallback_keys": float(fallback_keys),
     }
 
@@ -179,8 +272,12 @@ def solve_scenario_bundle(
     scenario_key: str,
     state_price_lookup: dict[tuple[str, str, str], float],
     crop_ratios: dict[str, float] | None = None,
+    national_price_lookup: dict[tuple[str, str], float] | None = None,
+    unusable_direct_keys: set[tuple[str, str, str]] | None = None,
 ) -> tuple[pd.DataFrame, pd.DataFrame]:
     crop_ratios = crop_ratios or {crop: 1.0 for crop in CROP_MAP.values()}
+    if scenario_key != "MSP" and (national_price_lookup is None or unusable_direct_keys is None):
+        _, national_price_lookup, unusable_direct_keys = load_state_price_bundle()
     contexts = {}
     coverage_rows = []
     annual_area = annual_area_by_key(base_contexts)
@@ -202,9 +299,17 @@ def solve_scenario_bundle(
             )
             continue
 
-        hybrid_context, counts = apply_hybrid_price_context(context, scenario_key, crop_ratios, state_price_lookup)
+        hybrid_context, counts = apply_hybrid_price_context(
+            context,
+            scenario_key,
+            crop_ratios,
+            state_price_lookup,
+            national_price_lookup=national_price_lookup,
+            unusable_direct_keys=unusable_direct_keys,
+        )
         contexts[season] = hybrid_context
         direct_area = 0.0
+        national_mean_area = 0.0
         fallback_area = 0.0
         for key in context["msp_per_prod"]:
             state_key = canon(key[0])
@@ -212,17 +317,26 @@ def solve_scenario_bundle(
             area_value = annual_area.get(key, 0.0)
             if (scenario_key, state_key, crop_key) in state_price_lookup:
                 direct_area += area_value
+            elif (
+                unusable_direct_keys is not None
+                and (scenario_key, state_key, crop_key) in unusable_direct_keys
+                and national_price_lookup is not None
+                and (scenario_key, crop_key) in national_price_lookup
+            ):
+                national_mean_area += area_value
             else:
                 fallback_area += area_value
-        total_area = direct_area + fallback_area
-        total_keys = counts["direct_keys"] + counts["fallback_keys"]
+        total_area = direct_area + national_mean_area + fallback_area
+        total_keys = counts["direct_keys"] + counts["national_mean_keys"] + counts["fallback_keys"]
         coverage_rows.append(
             {
                 "scenario_key": scenario_key,
                 "season": season,
                 "direct_key_share": counts["direct_keys"] / total_keys if total_keys else 0.0,
+                "national_mean_key_share": counts["national_mean_keys"] / total_keys if total_keys else 0.0,
                 "fallback_key_share": counts["fallback_keys"] / total_keys if total_keys else 0.0,
                 "direct_area_share": direct_area / total_area if total_area else 0.0,
+                "national_mean_area_share": national_mean_area / total_area if total_area else 0.0,
                 "fallback_area_share": fallback_area / total_area if total_area else 0.0,
                 "total_keys": total_keys,
             }

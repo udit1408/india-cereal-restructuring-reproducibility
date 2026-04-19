@@ -45,14 +45,18 @@ def build_summary() -> pd.DataFrame:
     from generate_figure2b_clean import SEASON_NOTEBOOKS, build_context
     from generate_si_hybrid_revenue_profit_sensitivity import (
         canon,
+        load_national_price_lookup,
         load_ratio_scenarios,
         load_state_price_lookup,
+        load_unusable_direct_price_keys,
     )
     from repro.config import default_layout
 
     layout = default_layout(AUDIT_ROOT)
     crop_ratios = load_ratio_scenarios()[SCENARIO_YEAR]
     state_price_lookup = load_state_price_lookup()
+    national_price_lookup = load_national_price_lookup()
+    unusable_direct_keys = load_unusable_direct_price_keys()
 
     records: list[dict[str, object]] = []
     for season, notebook_name in SEASON_NOTEBOOKS.items():
@@ -65,9 +69,23 @@ def build_summary() -> pd.DataFrame:
             if crop_key not in CROP_ORDER:
                 continue
 
-            direct_price = state_price_lookup.get((SCENARIO_YEAR, canon(state), crop_key))
+            lookup_key = (SCENARIO_YEAR, canon(state), crop_key)
+            direct_price = state_price_lookup.get(lookup_key)
+            national_price = (
+                national_price_lookup.get((SCENARIO_YEAR, crop_key))
+                if lookup_key in unusable_direct_keys
+                else None
+            )
             fallback_price = float(msp_value) * float(crop_ratios.get(crop_key, 1.0))
-            benchmark_price = float(direct_price) if direct_price is not None else fallback_price
+            if direct_price is not None:
+                benchmark_price = float(direct_price)
+                price_source = "direct_state_year"
+            elif national_price is not None:
+                benchmark_price = float(national_price)
+                price_source = "national_mean_fill"
+            else:
+                benchmark_price = fallback_price
+                price_source = "ratio_fallback"
 
             records.append(
                 {
@@ -81,6 +99,8 @@ def build_summary() -> pd.DataFrame:
                     "fallback_price_rs_per_quintal": fallback_price,
                     "benchmark_price_rs_per_quintal": benchmark_price,
                     "direct_realized_price_used": direct_price is not None,
+                    "national_mean_fill_used": national_price is not None,
+                    "price_source": price_source,
                 }
             )
 

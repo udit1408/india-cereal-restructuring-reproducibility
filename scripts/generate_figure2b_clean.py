@@ -64,6 +64,14 @@ def output_paths(stem: str) -> dict[str, Path]:
     }
 
 
+def signed_display_change(metric: str, pct_reduction: float, original_total: float) -> float:
+    del metric
+    pct = float(pct_reduction)
+    if float(original_total) < 0:
+        return pct
+    return -pct
+
+
 def float_triplet_map(mapping: object) -> dict[tuple[str, str, str], float]:
     if isinstance(mapping, pd.Series):
         mapping = mapping.to_dict()
@@ -498,7 +506,11 @@ def build_metric_table(
                     "original_total": original_total,
                     "optimized_total": optimized_total,
                     "pct_reduction": pct_reduction,
-                    "display_pct_change": -pct_reduction,
+                    "display_pct_change": signed_display_change(
+                        metric_label,
+                        pct_reduction,
+                        original_total,
+                    ),
                 }
             )
     table = pd.DataFrame(rows)
@@ -623,7 +635,7 @@ def build_figure(table: pd.DataFrame, out_png: Path, out_pdf: Path) -> None:
     ax.set_yticks(positions)
     ax.set_yticklabels(metric_order)
     ax.invert_yaxis()
-    ax.set_xlabel("% Change")
+    ax.set_xlabel("Change relative to baseline (%)")
     ax.set_title("Percentage Change in Socio-Environmental Objectives", fontweight="bold", pad=8)
     ax.text(-0.12, 1.02, "b", transform=ax.transAxes, fontsize=12, fontweight="bold", va="bottom")
     ax.grid(axis="x", color="#d9d9d9", linewidth=0.6, linestyle="-", alpha=0.85, zorder=1)
@@ -632,7 +644,7 @@ def build_figure(table: pd.DataFrame, out_png: Path, out_pdf: Path) -> None:
 
     min_x = min(water["display_pct_change"].min(), nitrogen["display_pct_change"].min())
     max_x = max(water["display_pct_change"].max(), nitrogen["display_pct_change"].max())
-    ax.set_xlim(min(-50.0, float(min_x) - 5.0), max(30.0, float(max_x) + 5.0))
+    ax.set_xlim(min(-52.0, float(min_x) - 5.0), max(30.0, float(max_x) + 5.0))
     ax.legend(loc="upper right", frameon=False, fontsize=8)
 
     fig.savefig(out_png, dpi=400, bbox_inches="tight", facecolor="white")

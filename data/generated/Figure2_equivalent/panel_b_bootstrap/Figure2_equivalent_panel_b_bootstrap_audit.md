@@ -8,8 +8,8 @@ application in the same style as the primary Figure 2(b) whisker workflow.
 This means the whiskers reflect optimization sensitivity to agronomic coefficient variation under
 the realized-price benchmark, rather than a second ad hoc uncertainty model for realized prices.
 
-Bootstrap iterations requested: 5
-Elapsed time (s): 0.95
+Bootstrap iterations requested: 500
+Elapsed time (s): 75.87
 
 ## Deterministic reproduction check
 
@@ -36,28 +36,28 @@ Elapsed time (s): 0.95
 
 ## Bootstrap feasibility
 
-- Nitrogen based | Optimal: 5
-- Water based | Optimal: 5
+- Nitrogen based | Optimal: 500
+- Water based | Optimal: 500
 
 ## Summary by metric
 
-- Nitrogen based | Nitrogen Emission: center 17.800%, mean 20.761%, 95% CI [19.701, 21.457]%, optimal 5/5
-- Water based | Nitrogen Emission: center 7.391%, mean 5.910%, 95% CI [4.767, 7.134]%, optimal 5/5
-- Nitrogen based | Nitrogen Leach: center 19.798%, mean 23.108%, 95% CI [21.582, 24.185]%, optimal 5/5
-- Water based | Nitrogen Leach: center 9.972%, mean 9.232%, 95% CI [8.194, 10.217]%, optimal 5/5
-- Nitrogen based | Greenhouse Gas emission: center 24.672%, mean 22.288%, 95% CI [21.821, 22.927]%, optimal 5/5
-- Water based | Greenhouse Gas emission: center 31.117%, mean 27.568%, 95% CI [27.229, 28.126]%, optimal 5/5
-- Nitrogen based | Profit: center -3.625%, mean -3.710%, 95% CI [-4.892, -2.620]%, optimal 5/5
-- Water based | Profit: center -3.412%, mean -1.407%, 95% CI [-2.024, -0.685]%, optimal 5/5
-- Nitrogen based | Calorie: center -5.182%, mean -4.550%, 95% CI [-4.738, -4.244]%, optimal 5/5
-- Water based | Calorie: center -8.442%, mean -5.810%, 95% CI [-6.606, -4.933]%, optimal 5/5
-- Nitrogen based | Phosphorus application: center 8.414%, mean 10.124%, 95% CI [9.074, 11.078]%, optimal 5/5
-- Water based | Phosphorus application: center 1.845%, mean 2.759%, 95% CI [2.256, 3.250]%, optimal 5/5
-- Nitrogen based | Nitrogen application: center 9.684%, mean 11.828%, 95% CI [11.103, 12.354]%, optimal 5/5
-- Water based | Nitrogen application: center 1.905%, mean 1.832%, 95% CI [1.011, 2.679]%, optimal 5/5
-- Nitrogen based | Phosphorus Surplus: center 13.023%, mean 14.874%, 95% CI [13.566, 15.978]%, optimal 5/5
-- Water based | Phosphorus Surplus: center 5.682%, mean 6.002%, 95% CI [5.220, 6.820]%, optimal 5/5
-- Nitrogen based | Nitrogen Surplus: center 17.621%, mean 20.450%, 95% CI [19.374, 21.179]%, optimal 5/5
-- Water based | Nitrogen Surplus: center 7.486%, mean 6.035%, 95% CI [4.851, 7.269]%, optimal 5/5
-- Nitrogen based | Water Demand: center 25.527%, mean 20.876%, 95% CI [15.002, 24.186]%, optimal 5/5
-- Water based | Water Demand: center 35.698%, mean 40.848%, 95% CI [39.943, 41.718]%, optimal 5/5
+- Nitrogen based | Nitrogen Emission: center 17.800%, mean 19.759%, 95% CI [18.653, 20.926]%, optimal 500/500
+- Water based | Nitrogen Emission: center 7.391%, mean 6.771%, 95% CI [4.909, 8.594]%, optimal 500/500
+- Nitrogen based | Nitrogen Leach: center 19.798%, mean 21.478%, 95% CI [20.242, 22.790]%, optimal 500/500
+- Water based | Nitrogen Leach: center 9.972%, mean 9.410%, 95% CI [7.639, 11.229]%, optimal 500/500
+- Nitrogen based | Greenhouse Gas emission: center 24.672%, mean 23.048%, 95% CI [21.217, 24.706]%, optimal 500/500
+- Water based | Greenhouse Gas emission: center 31.117%, mean 29.954%, 95% CI [29.121, 30.679]%, optimal 500/500
+- Nitrogen based | Profit: center -3.625%, mean -2.797%, 95% CI [-4.326, -1.486]%, optimal 500/500
+- Water based | Profit: center -3.412%, mean -2.244%, 95% CI [-3.449, -0.692]%, optimal 500/500
+- Nitrogen based | Calorie: center -5.182%, mean -4.668%, 95% CI [-5.487, -3.933]%, optimal 500/500
+- Water based | Calorie: center -8.442%, mean -7.229%, 95% CI [-8.028, -6.248]%, optimal 500/500
+- Nitrogen based | Phosphorus application: center 8.414%, mean 9.318%, 95% CI [7.439, 11.019]%, optimal 500/500
+- Water based | Phosphorus application: center 1.845%, mean 2.610%, 95% CI [0.534, 4.639]%, optimal 500/500
+- Nitrogen based | Nitrogen application: center 9.684%, mean 11.147%, 95% CI [10.479, 11.888]%, optimal 500/500
+- Water based | Nitrogen application: center 1.905%, mean 1.875%, 95% CI [0.686, 3.163]%, optimal 500/500
+- Nitrogen based | Phosphorus Surplus: center 13.023%, mean 13.935%, 95% CI [11.629, 16.083]%, optimal 500/500
+- Water based | Phosphorus Surplus: center 5.682%, mean 6.287%, 95% CI [3.640, 8.848]%, optimal 500/500
+- Nitrogen based | Nitrogen Surplus: center 17.621%, mean 19.520%, 95% CI [18.459, 20.661]%, optimal 500/500
+- Water based | Nitrogen Surplus: center 7.486%, mean 6.881%, 95% CI [5.080, 8.649]%, optimal 500/500
+- Nitrogen based | Water Demand: center 25.527%, mean 24.074%, 95% CI [20.137, 27.345]%, optimal 500/500
+- Water based | Water Demand: center 35.698%, mean 37.542%, 95% CI [36.395, 38.672]%, optimal 500/500

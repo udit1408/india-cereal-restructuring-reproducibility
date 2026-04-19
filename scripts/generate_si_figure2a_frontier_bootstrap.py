@@ -50,8 +50,10 @@ from repro.figure2a_clean_rebuild import (  # noqa: E402
 )
 import generate_Figure2_equivalent as figure2eq  # noqa: E402
 from generate_si_hybrid_revenue_profit_sensitivity import (  # noqa: E402
+    load_national_price_lookup,
     load_ratio_scenarios,
     load_state_price_lookup,
+    load_unusable_direct_price_keys,
 )
 
 
@@ -60,6 +62,8 @@ def build_contexts(layout) -> tuple[dict[str, dict[str, object]], pd.DataFrame]:
     coverage_rows: list[dict[str, object]] = []
     crop_ratios = load_ratio_scenarios()[PRIMARY_SCENARIO_YEAR]
     state_price_lookup = load_state_price_lookup()
+    national_price_lookup = load_national_price_lookup()
+    unusable_direct_keys = load_unusable_direct_price_keys()
     for season, notebook_name in SEASON_NOTEBOOKS.items():
         buffer = io.StringIO()
         with contextlib.redirect_stdout(buffer), contextlib.redirect_stderr(buffer):
@@ -69,6 +73,8 @@ def build_contexts(layout) -> tuple[dict[str, dict[str, object]], pd.DataFrame]:
             scenario_year=PRIMARY_SCENARIO_YEAR,
             crop_ratios=crop_ratios,
             state_price_lookup=state_price_lookup,
+            national_price_lookup=national_price_lookup,
+            unusable_direct_keys=unusable_direct_keys,
             panel_key="s20_frontier_bootstrap",
         )
         coverage_rows.append(coverage)

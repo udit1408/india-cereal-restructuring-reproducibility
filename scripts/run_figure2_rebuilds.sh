@@ -10,7 +10,16 @@ echo "Rebuilding approved Figure 2(a) assets under fixed district area and histo
 echo "Rebuilding approved Figure 2(b) endpoint panel under fixed district area and historically observed cereals..."
 "$PYTHON" "$ROOT/scripts/generate_figure2b_clean.py" --no-historical-caps --output-stem figure2b_no_historical_cap_core
 
-echo "Rebuilding approved Figure 2(b) national state-bootstrap whiskers..."
+echo "Rebuilding approved Figure 2(b) district-input bootstrap summaries..."
+"$PYTHON" "$ROOT/scripts/bootstrap_figure2b_no_historical_cap_core.py" --iterations 500 --seed 42
+
+echo "Rebuilding approved Figure 2(b) all-metric bootstrap panel..."
+"$PYTHON" "$ROOT/scripts/generate_figure2b_all_metric_bootstrap.py"
+
+echo "Rebuilding approved Figure 2(b) primary-endpoint bootstrap panel..."
+"$PYTHON" "$ROOT/scripts/generate_figure2b_primary_endpoint_bootstrap.py"
+
+echo "Rebuilding approved Figure 2(b) national state-bootstrap whiskers (diagnostic)..."
 "$PYTHON" "$ROOT/scripts/generate_figure2b_state_bootstrap.py"
 
 echo "Rebuilding Figure 2(c) cap variants..."
@@ -31,8 +40,8 @@ echo "Writing Figure 2 cap-variant audit..."
 echo "Writing Figure 2 legacy-faithful audit..."
 "$PYTHON" "$ROOT/scripts/audit_figure2_legacy_faithful.py"
 
-echo "Assembling refreshed Figure 2 composite..."
-"$PYTHON" "$ROOT/scripts/assemble_figure2_composite.py"
+echo "Assembling Supplementary MSP benchmark Figure 2 composite..."
+"$PYTHON" "$ROOT/scripts/assemble_si_msp_benchmark_figure2.py"
 
 echo "Done. See:"
 echo "  $ROOT/figures"

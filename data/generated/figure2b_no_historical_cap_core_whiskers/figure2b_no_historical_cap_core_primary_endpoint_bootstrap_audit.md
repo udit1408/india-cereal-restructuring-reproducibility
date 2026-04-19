@@ -17,9 +17,9 @@ and the two preserved outcome metrics, while avoiding visually dominant
 asymmetric whiskers on the secondary co-benefit bars.
 
 Displayed intervals:
-- Water based | Water Demand: center 44.493% ; 95% CI [44.904, 47.678]%
-- Nitrogen based | Nitrogen Surplus: center 21.408% ; 95% CI [20.052, 22.473]%
-- Water based | Profit: center -23.133% ; 95% CI [-21.459, -13.877]%
-- Nitrogen based | Profit: center -17.253% ; 95% CI [-21.184, -14.381]%
-- Water based | Calorie: center -4.156% ; 95% CI [-5.040, -3.060]%
-- Nitrogen based | Calorie: center -1.102% ; 95% CI [-3.167, -1.599]%
+- Water based | Water Demand: center 42.890% ; 95% CI [43.745, 45.521]%
+- Nitrogen based | Nitrogen Surplus: center 20.040% ; 95% CI [21.129, 23.289]%
+- Water based | Profit: center -16.226% ; 95% CI [-19.346, -11.568]%
+- Nitrogen based | Profit: center -17.910% ; 95% CI [-21.111, -13.957]%
+- Water based | Calorie: center -8.103% ; 95% CI [-8.126, -6.375]%
+- Nitrogen based | Calorie: center -6.055% ; 95% CI [-6.064, -4.333]%

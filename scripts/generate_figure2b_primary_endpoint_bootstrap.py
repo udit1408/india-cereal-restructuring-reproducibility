@@ -105,7 +105,7 @@ def build_figure(summary: pd.DataFrame) -> None:
     ax.set_yticks(positions)
     ax.set_yticklabels(metric_order)
     ax.invert_yaxis()
-    ax.set_xlabel("Change relative to baseline (%)")
+    ax.set_xlabel("Beneficial change relative to baseline (%)")
     ax.text(-0.12, 1.02, "b", transform=ax.transAxes, fontsize=12, fontweight="bold", va="bottom")
     ax.grid(axis="x", color="#d9d9d9", linewidth=0.6, linestyle="-", alpha=0.85, zorder=1)
     ax.spines["top"].set_visible(False)
@@ -118,7 +118,7 @@ def build_figure(summary: pd.DataFrame) -> None:
         row = frame.loc[metric]
         x_min = min(x_min, float(row["center_display_pct"]) - float(row["lower_err_display"]))
         x_max = max(x_max, float(row["center_display_pct"]) + float(row["upper_err_display"]))
-    ax.set_xlim(min(-52.0, x_min - 4.0), max(30.0, x_max + 4.0))
+    ax.set_xlim(min(-5.0, x_min - 4.0), max(30.0, x_max + 4.0))
 
     handles = [
         plt.Rectangle((0, 0), 1, 1, facecolor="#2a9d8f", edgecolor="black", linewidth=0.5),

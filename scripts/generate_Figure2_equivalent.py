@@ -68,8 +68,10 @@ from generate_figure2d_clean import (  # noqa: E402
 )
 from generate_si_hybrid_revenue_profit_sensitivity import (  # noqa: E402
     canon,
+    load_national_price_lookup,
     load_ratio_scenarios,
     load_state_price_lookup,
+    load_unusable_direct_price_keys,
 )
 from repro.config import default_layout  # noqa: E402
 from repro.figure2a_clean_rebuild import (  # noqa: E402
@@ -157,25 +159,42 @@ def _apply_hybrid_price_to_dict_context(
     scenario_year: str,
     crop_ratios: dict[str, float],
     state_price_lookup: dict[tuple[str, str, str], float],
+    national_price_lookup: dict[tuple[str, str], float] | None = None,
+    unusable_direct_keys: set[tuple[str, str, str]] | None = None,
     panel_key: str,
 ) -> tuple[dict[str, object], dict[str, object]]:
     context = copy.deepcopy(base_context)
     hybrid_prices: dict[tuple[str, str, str], float] = {}
     direct_keys = 0
+    national_mean_keys = 0
     fallback_keys = 0
     direct_area = 0.0
+    national_mean_area = 0.0
     fallback_area = 0.0
+    national_price_lookup = national_price_lookup or {}
+    unusable_direct_keys = unusable_direct_keys or set()
 
     current_cereal_area = _current_cereal_area_from_dict_context(context)
     context["current_cereal_area"] = current_cereal_area
     for key, value in context["msp_per_prod"].items():
         state, _, crop = key
-        direct_price = state_price_lookup.get((scenario_year, canon(state), canon(crop)))
+        key_lookup = (scenario_year, canon(state), canon(crop))
+        direct_price = state_price_lookup.get(key_lookup)
         area = float(current_cereal_area.get(key, 0.0))
         if direct_price is not None:
             hybrid_prices[key] = float(direct_price)
             direct_keys += 1
             direct_area += area
+        elif key_lookup in unusable_direct_keys:
+            national_price = national_price_lookup.get((scenario_year, canon(crop)))
+            if national_price is not None:
+                hybrid_prices[key] = float(national_price)
+                national_mean_keys += 1
+                national_mean_area += area
+            else:
+                hybrid_prices[key] = float(value) * float(crop_ratios.get(_crop_key(crop), 1.0))
+                fallback_keys += 1
+                fallback_area += area
         else:
             hybrid_prices[key] = float(value) * float(crop_ratios.get(_crop_key(crop), 1.0))
             fallback_keys += 1
@@ -192,17 +211,20 @@ def _apply_hybrid_price_to_dict_context(
         cost_per_prod=context["cost_per_prod"],
     )
 
-    total_keys = direct_keys + fallback_keys
-    total_area = direct_area + fallback_area
+    total_keys = direct_keys + national_mean_keys + fallback_keys
+    total_area = direct_area + national_mean_area + fallback_area
     coverage = {
         "panel": panel_key,
         "season": str(context["season"]),
         "scenario_year": scenario_year,
         "direct_keys": direct_keys,
+        "national_mean_keys": national_mean_keys,
         "fallback_keys": fallback_keys,
         "direct_key_share": direct_keys / total_keys if total_keys else np.nan,
+        "national_mean_key_share": national_mean_keys / total_keys if total_keys else np.nan,
         "fallback_key_share": fallback_keys / total_keys if total_keys else np.nan,
         "direct_area_share": direct_area / total_area if total_area else np.nan,
+        "national_mean_area_share": national_mean_area / total_area if total_area else np.nan,
         "fallback_area_share": fallback_area / total_area if total_area else np.nan,
     }
     return context, coverage
@@ -214,23 +236,40 @@ def _apply_hybrid_price_to_season_context(
     scenario_year: str,
     crop_ratios: dict[str, float],
     state_price_lookup: dict[tuple[str, str, str], float],
+    national_price_lookup: dict[tuple[str, str], float] | None = None,
+    unusable_direct_keys: set[tuple[str, str, str]] | None = None,
     panel_key: str,
 ) -> tuple[SeasonContext, dict[str, object]]:
     context = copy.deepcopy(base_context)
     hybrid_prices: dict[tuple[str, str, str], float] = {}
     direct_keys = 0
+    national_mean_keys = 0
     fallback_keys = 0
     direct_area = 0.0
+    national_mean_area = 0.0
     fallback_area = 0.0
+    national_price_lookup = national_price_lookup or {}
+    unusable_direct_keys = unusable_direct_keys or set()
 
     for key, value in context.msp_per_prod.items():
         state, _, crop = key
-        direct_price = state_price_lookup.get((scenario_year, canon(state), canon(crop)))
+        key_lookup = (scenario_year, canon(state), canon(crop))
+        direct_price = state_price_lookup.get(key_lookup)
         area = float(context.current_cereal_area.get(key, 0.0))
         if direct_price is not None:
             hybrid_prices[key] = float(direct_price)
             direct_keys += 1
             direct_area += area
+        elif key_lookup in unusable_direct_keys:
+            national_price = national_price_lookup.get((scenario_year, canon(crop)))
+            if national_price is not None:
+                hybrid_prices[key] = float(national_price)
+                national_mean_keys += 1
+                national_mean_area += area
+            else:
+                hybrid_prices[key] = float(value) * float(crop_ratios.get(_crop_key(crop), 1.0))
+                fallback_keys += 1
+                fallback_area += area
         else:
             hybrid_prices[key] = float(value) * float(crop_ratios.get(_crop_key(crop), 1.0))
             fallback_keys += 1
@@ -247,17 +286,20 @@ def _apply_hybrid_price_to_season_context(
         cost_per_prod=context.cost_per_prod,
     )
 
-    total_keys = direct_keys + fallback_keys
-    total_area = direct_area + fallback_area
+    total_keys = direct_keys + national_mean_keys + fallback_keys
+    total_area = direct_area + national_mean_area + fallback_area
     coverage = {
         "panel": panel_key,
         "season": str(context.season),
         "scenario_year": scenario_year,
         "direct_keys": direct_keys,
+        "national_mean_keys": national_mean_keys,
         "fallback_keys": fallback_keys,
         "direct_key_share": direct_keys / total_keys if total_keys else np.nan,
+        "national_mean_key_share": national_mean_keys / total_keys if total_keys else np.nan,
         "fallback_key_share": fallback_keys / total_keys if total_keys else np.nan,
         "direct_area_share": direct_area / total_area if total_area else np.nan,
+        "national_mean_area_share": national_mean_area / total_area if total_area else np.nan,
         "fallback_area_share": fallback_area / total_area if total_area else np.nan,
     }
     return context, coverage
@@ -268,6 +310,8 @@ def _build_panel_a(
     scenario_year: str,
     crop_ratios: dict[str, float],
     state_price_lookup: dict[tuple[str, str, str], float],
+    national_price_lookup: dict[tuple[str, str], float] | None = None,
+    unusable_direct_keys: set[tuple[str, str, str]] | None = None,
 ) -> tuple[pd.DataFrame, list[dict[str, object]], list[dict[str, object]]]:
     layout = default_layout(AUDIT_ROOT)
     contexts: dict[str, dict[str, object]] = {}
@@ -279,6 +323,8 @@ def _build_panel_a(
             scenario_year=scenario_year,
             crop_ratios=crop_ratios,
             state_price_lookup=state_price_lookup,
+            national_price_lookup=national_price_lookup,
+            unusable_direct_keys=unusable_direct_keys,
             panel_key="a",
         )
         contexts[season] = context
@@ -602,6 +648,8 @@ def _build_panel_b(
     scenario_year: str,
     crop_ratios: dict[str, float],
     state_price_lookup: dict[tuple[str, str, str], float],
+    national_price_lookup: dict[tuple[str, str], float] | None = None,
+    unusable_direct_keys: set[tuple[str, str, str]] | None = None,
     bootstrap_iterations: int = 0,
     bootstrap_seed: int = 42,
 ) -> tuple[pd.DataFrame, list[dict[str, object]], list[dict[str, object]]]:
@@ -615,6 +663,8 @@ def _build_panel_b(
             scenario_year=scenario_year,
             crop_ratios=crop_ratios,
             state_price_lookup=state_price_lookup,
+            national_price_lookup=national_price_lookup,
+            unusable_direct_keys=unusable_direct_keys,
             panel_key="b",
         )
         contexts[season] = context
@@ -658,6 +708,8 @@ def _build_panel_c(
     scenario_year: str,
     crop_ratios: dict[str, float],
     state_price_lookup: dict[tuple[str, str, str], float],
+    national_price_lookup: dict[tuple[str, str], float] | None = None,
+    unusable_direct_keys: set[tuple[str, str, str]] | None = None,
 ) -> tuple[pd.DataFrame, list[dict[str, object]], list[dict[str, object]]]:
     coverage_rows: list[dict[str, object]] = []
     contexts: dict[str, SeasonContext] = {}
@@ -668,6 +720,8 @@ def _build_panel_c(
             scenario_year=scenario_year,
             crop_ratios=crop_ratios,
             state_price_lookup=state_price_lookup,
+            national_price_lookup=national_price_lookup,
+            unusable_direct_keys=unusable_direct_keys,
             panel_key="c",
         )
         contexts[season] = context
@@ -716,6 +770,8 @@ def _build_panel_d(
     scenario_year: str,
     crop_ratios: dict[str, float],
     state_price_lookup: dict[tuple[str, str, str], float],
+    national_price_lookup: dict[tuple[str, str], float] | None = None,
+    unusable_direct_keys: set[tuple[str, str, str]] | None = None,
 ) -> tuple[pd.DataFrame, pd.DataFrame, list[dict[str, object]], list[dict[str, object]]]:
     layout = default_layout(AUDIT_ROOT)
     contexts: dict[str, dict[str, object]] = {}
@@ -727,6 +783,8 @@ def _build_panel_d(
             scenario_year=scenario_year,
             crop_ratios=crop_ratios,
             state_price_lookup=state_price_lookup,
+            national_price_lookup=national_price_lookup,
+            unusable_direct_keys=unusable_direct_keys,
             panel_key="d",
         )
         contexts[season] = context
@@ -977,17 +1035,23 @@ def main(
     if scenario_year not in ratio_scenarios:
         raise ValueError(f"Unsupported scenario year: {scenario_year}")
     state_price_lookup = load_state_price_lookup()
+    national_price_lookup = load_national_price_lookup()
+    unusable_direct_keys = load_unusable_direct_price_keys()
     crop_ratios = ratio_scenarios[scenario_year]
 
     panel_a, cov_a, summary_a = _build_panel_a(
         scenario_year=scenario_year,
         crop_ratios=crop_ratios,
         state_price_lookup=state_price_lookup,
+        national_price_lookup=national_price_lookup,
+        unusable_direct_keys=unusable_direct_keys,
     )
     panel_b, cov_b, summary_b = _build_panel_b(
         scenario_year=scenario_year,
         crop_ratios=crop_ratios,
         state_price_lookup=state_price_lookup,
+        national_price_lookup=national_price_lookup,
+        unusable_direct_keys=unusable_direct_keys,
         bootstrap_iterations=bootstrap_iterations,
         bootstrap_seed=bootstrap_seed,
     )
@@ -995,11 +1059,15 @@ def main(
         scenario_year=scenario_year,
         crop_ratios=crop_ratios,
         state_price_lookup=state_price_lookup,
+        national_price_lookup=national_price_lookup,
+        unusable_direct_keys=unusable_direct_keys,
     )
     panel_d_summary, _panel_d_transition, cov_d, summary_d = _build_panel_d(
         scenario_year=scenario_year,
         crop_ratios=crop_ratios,
         state_price_lookup=state_price_lookup,
+        national_price_lookup=national_price_lookup,
+        unusable_direct_keys=unusable_direct_keys,
     )
 
     _assemble_composite()

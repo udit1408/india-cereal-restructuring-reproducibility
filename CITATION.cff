@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the software release."
+title: "India Cereal Restructuring Reproducibility"
+type: software
+authors:
+  - family-names: "Goyal"
+    given-names: "Shekhar Sharan"
+  - family-names: "Kumar"
+    given-names: "Rohini"
+  - family-names: "Bhatia"
+    given-names: "Udit"
+repository-code: "https://github.com/udit1408/india-cereal-restructuring-reproducibility"
+license: "Apache-2.0"
+abstract: "Audited computational workflow, shareable inputs, figure-generation scripts, and source-data exports for reproducing a district-level cereal crop restructuring analysis in India."

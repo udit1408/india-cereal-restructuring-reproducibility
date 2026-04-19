@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-04-19T06:48:33.566923+00:00",
+  "generated_utc": "2026-04-19T17:57:02.703295+00:00",
   "root": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release",
   "run_context": {
-    "timestamp_utc": "2026-04-19T06:47:06Z",
+    "timestamp_utc": "2026-04-19T17:57:02Z",
     "mode": "report-only",
     "runner": "code_final/run_final_revision2_batch.sh",
     "manifest": "code_final/FINAL_CODE_MANIFEST.md",
     "method_notation_map": "code_final/METHOD_NOTATION_MAP.md",
-    "log_file": "logs/revision2_final_batch_20260419T064706Z.log"
+    "log_file": "logs/revision2_final_batch_20260419T175702Z.log"
   },
   "previews": [
     {
@@ -54,9 +54,9 @@
         "kind": "pdf",
         "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduced.pdf",
         "exists": true,
-        "size_bytes": 8180630,
-        "modified_utc": "2026-04-19T06:45:47.663692+00:00",
-        "sha256": "8d6dcfe95b304749677ddde80a0eb8423522d5935eebf32245dc794f011b8297"
+        "size_bytes": 8180623,
+        "modified_utc": "2026-04-19T11:05:35.376889+00:00",
+        "sha256": "3c1ad2839a4ce55d08e8a8b7cfe031dbed84d997e0812aa5c91f110fa73fffff"
       },
       {
         "label": "Figure 2 primary realized-price composite PDF",
@@ -64,9 +64,9 @@
         "kind": "pdf",
         "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/fig2_main_revision2.pdf",
         "exists": true,
-        "size_bytes": 974470,
-        "modified_utc": "2026-04-18T19:47:28+00:00",
-        "sha256": "45fd96467d73d98c22a35a00912863459bbc90e2eabd9a14fea5ad0d007dff75"
+        "size_bytes": 972923,
+        "modified_utc": "2026-04-19T12:09:17.632288+00:00",
+        "sha256": "2d8368aab4e808ebb2f9916f927db32729de4ed25fcdefdfc9d0b10a0dcccc51"
       },
       {
         "label": "Figure 2 primary realized-price composite PNG",
@@ -74,9 +74,9 @@
         "kind": "png",
         "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/fig2_main_revision2.png",
         "exists": true,
-        "size_bytes": 1057313,
-        "modified_utc": "2026-04-18T19:47:28+00:00",
-        "sha256": "37113d686e7ff627d549c22a92e9fe04ab74488a33802c3331cc1aeeb449c632",
+        "size_bytes": 1055271,
+        "modified_utc": "2026-04-19T12:09:17.629671+00:00",
+        "sha256": "953ff5e9c51c8f594ec149f6bc5f5d3b058b2acd30b4fe11f9ebf5df52a9cac3",
         "preview_name": "fig2_main_revision2.png"
       },
       {
@@ -155,9 +155,9 @@
         "kind": "pdf",
         "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/figure3_clean_preview.pdf",
         "exists": true,
-        "size_bytes": 2670770,
-        "modified_utc": "2026-04-19T04:40:15+00:00",
-        "sha256": "23a93dfbb0c99d5290b0a4a04c8dc9587bdb79945e11c232eff6a45d92e3a4b3"
+        "size_bytes": 2577080,
+        "modified_utc": "2026-04-19T17:13:56.677765+00:00",
+        "sha256": "69f2043aa398d8212fda9cf0e8a9adde6b6028d56674751b313d1bbfdb4f471a"
       }
     ],
     "si_outputs": [
@@ -265,9 +265,9 @@
         "kind": "xlsx",
         "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/submission_assets/source_data/Source Data.xlsx",
         "exists": true,
-        "size_bytes": 615124,
-        "modified_utc": "2026-04-19T06:48:33.416533+00:00",
-        "sha256": "1e7aeb36c0dfe06cd471dcceeea37382daf125c2ff53659ade617070063aeda4"
+        "size_bytes": 637745,
+        "modified_utc": "2026-04-19T17:12:55+00:00",
+        "sha256": "3f4be50d9029e4ff2035388c146f81e1492749b8f07722d1180d286270219976"
       },
       {
         "label": "Source Data zip",
@@ -275,9 +275,9 @@
         "kind": "zip",
         "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/submission_assets/source_data/Source_Data_package.zip",
         "exists": true,
-        "size_bytes": 831631,
-        "modified_utc": "2026-04-19T06:48:33.447477+00:00",
-        "sha256": "a855967934b66ebacb50b0cc59adb56bbc146ce8a6b4e5a4412c3f1de14ff3a6"
+        "size_bytes": 863478,
+        "modified_utc": "2026-04-19T17:12:55+00:00",
+        "sha256": "1f76b3a43d5fd869bcb00d366de95867f9d187583b8cd2ecb4291372f08a47cb"
       },
       {
         "label": "Source Data README",
@@ -285,9 +285,9 @@
         "kind": "md",
         "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/submission_assets/source_data/README.md",
         "exists": true,
-        "size_bytes": 7674,
-        "modified_utc": "2026-04-19T06:48:33.416742+00:00",
-        "sha256": "87f49be964a0ec2ef96b106ef7c10f2a923479a0db3609ea2fb77dcc4f41e588"
+        "size_bytes": 8514,
+        "modified_utc": "2026-04-19T17:12:55+00:00",
+        "sha256": "8f057a6467980561fbd5060c623a8222cd03e770808f59c9f4e2b0a1a00703e7"
       }
     ],
     "audits": [
@@ -325,9 +325,9 @@
         "kind": "md",
         "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduction_summary.md",
         "exists": true,
-        "size_bytes": 755,
-        "modified_utc": "2026-04-19T06:45:47.673553+00:00",
-        "sha256": "3a6ed8609cc553ec77b0a973c8e2a20b95a43be652d192fb3f3ef4baf14c77dd"
+        "size_bytes": 790,
+        "modified_utc": "2026-04-19T11:05:35.384470+00:00",
+        "sha256": "4b76f222b6496c374a0495e095867f6bd2ca81ea332470c6ad10d404805b8853"
       },
       {
         "label": "Figure 2 cap-variant audit",
@@ -468,8 +468,8 @@
         "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/code_final/run_final_revision2_batch.sh",
         "exists": true,
         "size_bytes": 3779,
-        "modified_utc": "2026-04-19T06:45:30.942934+00:00",
-        "sha256": "1fbb9ee1829fb6494b9fff22495e56846e40c0529b17167c56cdc82b4d42288c"
+        "modified_utc": "2026-04-19T11:05:24.417168+00:00",
+        "sha256": "5584f4d3492372eeece0c7809f6ed00897ce950716b806eacee73ba5ed7b108b"
       },
       {
         "label": "Final Docker runner",
@@ -498,8 +498,8 @@
         "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/scripts/run_audited_revision2_batch.sh",
         "exists": true,
         "size_bytes": 3501,
-        "modified_utc": "2026-04-18T19:44:15+00:00",
-        "sha256": "4bfc4527519a79c9aa11a6575c044e91ad904747f217ff3037a054b54c5d422d"
+        "modified_utc": "2026-04-19T11:05:24.417672+00:00",
+        "sha256": "9f5cd4f9b52984fe2833b1fca2c747d21eaf287882688dbced0ec707fe8706d7"
       },
       {
         "label": "HTML report generator",

@@ -1,17 +1,29 @@
-# Nitrogen Crop Restructuring Reproducibility Package
+# India Cereal Restructuring Reproducibility
 
-This repository contains the reproducibility package for:
+This repository is a reproducibility release for a district-level cereal crop restructuring analysis in India. It packages the audited workflow, shareable inputs, regenerated figure outputs, source-data tables, and a Dockerized rerun path needed to reproduce the public-facing computational results.
 
-_Quantifying Environmental Co-Benefits of Nitrogen-Based Crop Restructuring and Its Implications on India's Interstate Trade Network_
+It is a reproducibility workflow, not a general-purpose Python library. The repository is organized around executable scripts, pinned dependencies, audited intermediate tables, and figure-level outputs.
 
-It is built from the final audited workflow used for the revision. The package includes:
+## What Is Included
 
-- the final figure-generation code path;
-- Docker and local runners;
-- the shareable input tables used in the revised analysis;
-- current regenerated outputs for the main figures and supplementary robustness figures;
-- the Source Data workbook and CSV exports aligned with the revised manuscript;
-- figure-wise notebooks for stepwise inspection and reruns.
+- scripted reruns for the main figure blocks and supplementary robustness outputs;
+- shareable public-source inputs and benchmark tables in `data/input/`;
+- regenerated outputs in `data/generated/` and `figures/manuscript_final/`;
+- source-data exports in `submission_assets/source_data/`;
+- an HTML reproducibility report in `submission_assets/audited_html_report/`;
+- notebook walkthroughs that call the same scripted workflow;
+- a Docker build path for containerized reruns.
+
+## What Is Not Included
+
+- article text and editorial documents;
+- non-shareable private datasets.
+
+## System Requirements
+
+The workflow is intended for macOS and Linux and is pinned to Python 3.11 in the containerized path. A standard workstation is sufficient for the scripted reruns.
+
+Core Python dependencies are listed in [requirements.txt](requirements.txt) and include `numpy`, `pandas`, `matplotlib`, `PuLP`, `highspy`, `geopandas`, `pyogrio`, `pyproj`, `shapely`, `openpyxl`, and `pycirclize`.
 
 ## Quick Start
 
@@ -20,146 +32,92 @@ Create a local environment and install the pinned dependencies:
 ```bash
 python3 -m venv .venv
 . .venv/bin/activate
+python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Run the full audited workflow locally:
+Run the full audited workflow:
 
 ```bash
 ./run_all.sh
 ```
 
-Run the same workflow in Docker:
-
-```bash
-./run_docker.sh
-```
-
-Refresh only the HTML reproducibility report from existing outputs:
+Refresh only the reproducibility report from existing outputs:
 
 ```bash
 ./run_all.sh --report-only
 ```
 
-Run individual figure blocks:
+## Docker Reproduction
+
+Use Docker if you want the cleanest rerun path with a pinned Python base image:
+
+```bash
+./run_docker.sh --report-only
+./run_docker.sh
+```
+
+The container path builds from [Dockerfile](Dockerfile), installs the pinned requirements, mounts the repository into `/workspace`, and writes outputs back into the host working tree.
+
+## Figure-Level Entry Points
+
+Run the main blocks independently:
 
 ```bash
 ./run_figure1.sh
-python3 scripts/generate_figure1.py
 ./run_figure2.sh
 ./run_figure3.sh
 ./run_supplementary.sh
 ```
 
-## Docker Reproducibility
+The root entry points delegate to the audited batch runners in [code_final](code_final/) and the implementation scripts in [scripts](scripts/).
 
-Users who want the cleanest rerun path can use Docker instead of a local Python environment.
+## Expected Outputs
 
-What to do:
+After a full rerun, the main checkpoints are:
 
-1. Install Docker Desktop or another recent Docker runtime and make sure the Docker daemon is running.
-2. Clone this repository and move into its root directory.
-3. Run a lightweight container check:
-
-```bash
-./run_docker.sh --report-only
-```
-
-4. Run the full containerized workflow:
-
-```bash
-./run_docker.sh
-```
-
-What this does:
-
-- builds the container image from the pinned dependency set;
-- mounts the repository into the container at `/workspace`;
-- runs the same audited batch used by the local entry point;
-- writes outputs back into the repository working tree on the host machine.
-
-Where to look after the run:
-
+- `figures/manuscript_final/`
+- `data/generated/`
+- `submission_assets/source_data/Source Data.xlsx`
+- `submission_assets/source_data/csv/`
 - `submission_assets/audited_html_report/index.html`
 - `submission_assets/audited_html_report/repro_manifest.json`
-- `submission_assets/source_data/Source Data.xlsx`
-- `figures/working_variants/Figure2_equivalent.png`
-- `figures/working_variants/Figure3_equivalent.png`
-
-Notes:
-
-- no separate local Python installation is required for the Docker path;
-- the first Docker run will take longer because the image must be built;
-- rerunning the workflow updates the generated outputs in place.
-
-## Notebook Walkthrough
-
-The `notebooks/` folder provides a figure-wise walkthrough:
-
-- `00_environment_and_data.ipynb`
-- `01_figure1.ipynb`
-- `02_figure2.ipynb`
-- `03_figure3.ipynb`
-- `04_supplementary_and_source_data.ipynb`
-
-These notebooks call the same audited scripts used by the batch runner. They do not reimplement the model logic.
 
 ## Repository Layout
 
-- `code_final/`
-  - authoritative batch runners, code manifest, and method-notation map.
-- `container/`
-  - Docker image definition and entrypoint.
 - `scripts/`
-  - implementation scripts used by the final workflow.
-- `_audit/Nitrogen-Surplus-restructuring/`
-  - audited code and shareable data tables inherited from the original repository checkout.
-- `_audit/external/`
-  - external boundary asset used by the audited Figure 1 rebuild.
+  - figure-generation, robustness-analysis, source-data, and report-generation scripts.
+- `code_final/`
+  - audited batch runners, manifest files, and notation maps.
+- `container/`
+  - container entrypoint and dependency lock-in for Docker reruns.
 - `data/input/`
-  - revised revenue-benchmark, DES cost-concept, MSP, and public-source snapshot inputs.
+  - shareable benchmark inputs and public-source snapshots.
 - `data/generated/`
-  - regenerated figure tables, bootstrap summaries, and supporting outputs.
+  - regenerated tables, bootstrap summaries, audits, and figure-ready intermediates.
 - `figures/manuscript_final/`
-  - manuscript-facing figure exports.
-- `figures/working_variants/`
-  - current composite and panel-level figure outputs produced by the audited scripts.
+  - public-facing figure exports used by the reproducibility package.
 - `submission_assets/source_data/`
-  - Source Data workbook, CSV exports, and zip package.
+  - workbook and CSV exports aligned with the generated figures.
 - `submission_assets/audited_html_report/`
-  - HTML reproducibility report and machine-readable manifest.
+  - human-readable and machine-readable reproducibility checks.
+- `_audit/`
+  - audited inherited checkout and static support assets needed by the final workflow.
+- `notebooks/`
+  - notebook walkthroughs that mirror the scripted run path.
 
 ## Figure 1 Note
 
-Figure 1 in this package is exposed through `scripts/generate_figure1.py` and `run_figure1.sh`, both of which call the audited rebuild in `_audit/Nitrogen-Surplus-restructuring/repro/figure1_pipeline.py`.
+Figure 1 is rebuilt through the audited reconstruction path bundled in `_audit/Nitrogen-Surplus-restructuring/`. The original historical checkout did not preserve a standalone public plotting script for that panel set, so this repository ships the audited reconstruction workflow together with its generated audit tables.
 
-The historical checkout did not preserve a standalone legacy Figure 1 plotting script. The current repository therefore ships the audited reconstruction path together with its generated CSVs and audit note:
+## Data Provenance
 
-- `_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_panel_abc_joined.csv`
-- `_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_panel_d_state_area.csv`
-- `_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduction_summary.md`
+Public-source provenance for the bundled benchmark inputs is summarized in [EXTERNAL_DATA_SOURCES.md](EXTERNAL_DATA_SOURCES.md). The realized-price and production benchmark inputs shipped in `data/input/` are further documented in [data/input/README.md](data/input/README.md).
 
-## Figure-to-Code Map
+## License
 
-| Figure block | Main command | Primary output | Source data |
-|---|---|---|---|
-| Figure 1 | `python3 scripts/generate_figure1.py` or `./run_figure1.sh` | `_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduced.png` | `submission_assets/source_data/csv/Fig1_abc.csv`, `submission_assets/source_data/csv/Fig1d_state_area.csv` |
-| Figure 2 | `./run_figure2.sh` | `figures/working_variants/Figure2_equivalent.png` | `submission_assets/source_data/csv/Fig2a_pareto.csv` through `Fig2d_flows.csv` |
-| Figure 3 | `./run_figure3.sh` | `figures/working_variants/Figure3_equivalent.png` | `submission_assets/source_data/csv/Fig3a_state_area.csv` through `Fig3c_nodes.csv` |
-| Supplementary robustness block | `./run_supplementary.sh` | `figures/manuscript_final/si_*.png` | `submission_assets/source_data/csv/FigS*.csv`, `submission_assets/source_data/csv/TableS10_prices.csv` |
+This repository is released under the Apache 2.0 License. See [LICENSE](LICENSE).
 
-## Data Notes
+## Citation
 
-This package includes the shareable inputs and derived tables needed to reproduce the revised figures. Official source provenance for the revenue benchmark, DES production denominator, cost concepts, and public production-route snapshot is summarized in [EXTERNAL_DATA_SOURCES.md](EXTERNAL_DATA_SOURCES.md).
-
-The exact manuscript-linked Source Data package is included under `submission_assets/source_data/`.
-
-## Output Verification
-
-After a full run, the main checkpoints are:
-
-- `submission_assets/audited_html_report/index.html`
-- `submission_assets/audited_html_report/repro_manifest.json`
-- `submission_assets/source_data/Source Data.xlsx`
-- `figures/working_variants/Figure2_equivalent.png`
-- `figures/working_variants/Figure3_equivalent.png`
+Software citation metadata is provided in [CITATION.cff](CITATION.cff).

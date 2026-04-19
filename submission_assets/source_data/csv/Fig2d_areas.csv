@@ -31,11 +31,11 @@ kharif,andhra pradesh,krishna,bajra,0.0,0.0
 kharif,andhra pradesh,krishna,jowar,16.0,0.0
 kharif,andhra pradesh,krishna,maize,5288.0,0.0
 kharif,andhra pradesh,krishna,rice,235984.0,241288.0
-kharif,andhra pradesh,kurnool,bajra,7885.0,67136.8585105797
+kharif,andhra pradesh,kurnool,bajra,7885.0,94108.00863797245
 kharif,andhra pradesh,kurnool,jowar,5940.0,0.0
 kharif,andhra pradesh,kurnool,maize,39752.0,0.0
 kharif,andhra pradesh,kurnool,ragi,0.0,0.0
-kharif,andhra pradesh,kurnool,rice,59592.0,46032.141489420304
+kharif,andhra pradesh,kurnool,rice,59592.0,19060.991362027547
 kharif,andhra pradesh,nellore,rice,21184.0,21184.0
 kharif,andhra pradesh,prakasam,bajra,17246.0,0.0
 kharif,andhra pradesh,prakasam,jowar,610.0,0.0
@@ -47,11 +47,11 @@ kharif,andhra pradesh,spsr nellore,jowar,10.0,0.0
 kharif,andhra pradesh,spsr nellore,maize,82.0,0.0
 kharif,andhra pradesh,spsr nellore,ragi,59.0,0.0
 kharif,andhra pradesh,spsr nellore,rice,0.0,1953.0
-kharif,andhra pradesh,srikakulam,bajra,87.0,11281.258880921174
+kharif,andhra pradesh,srikakulam,bajra,87.0,0.0
 kharif,andhra pradesh,srikakulam,jowar,16.0,0.0
 kharif,andhra pradesh,srikakulam,maize,11430.0,0.0
 kharif,andhra pradesh,srikakulam,ragi,154.0,0.0
-kharif,andhra pradesh,srikakulam,rice,210682.0,211087.74111907883
+kharif,andhra pradesh,srikakulam,rice,210682.0,222369.0
 kharif,andhra pradesh,visakhapatanam,bajra,1696.0,0.0
 kharif,andhra pradesh,visakhapatanam,jowar,285.0,0.0
 kharif,andhra pradesh,visakhapatanam,maize,5805.0,0.0
@@ -61,9 +61,9 @@ kharif,andhra pradesh,visakhapatnam,ragi,0.0,0.0
 kharif,andhra pradesh,visakhapatnam,rice,104922.0,104922.0
 kharif,andhra pradesh,vizianagaram,bajra,110.0,0.0
 kharif,andhra pradesh,vizianagaram,jowar,54.0,0.0
-kharif,andhra pradesh,vizianagaram,maize,18027.0,0.0
+kharif,andhra pradesh,vizianagaram,maize,18027.0,31557.01854106602
 kharif,andhra pradesh,vizianagaram,ragi,1809.0,0.0
-kharif,andhra pradesh,vizianagaram,rice,122675.0,142675.0
+kharif,andhra pradesh,vizianagaram,rice,122675.0,111117.98145893398
 kharif,andhra pradesh,west godavari,jowar,16.0,0.0
 kharif,andhra pradesh,west godavari,maize,2911.0,0.0
 kharif,andhra pradesh,west godavari,ragi,0.0,0.0
@@ -76,8 +76,8 @@ kharif,arunachal pradesh,dibang valley,maize,1973.0,3780.0
 kharif,arunachal pradesh,dibang valley,rice,1807.0,0.0
 kharif,arunachal pradesh,east kameng,maize,2845.0,11940.0
 kharif,arunachal pradesh,east kameng,rice,9095.0,0.0
-kharif,arunachal pradesh,east siang,maize,3116.0,14907.0
-kharif,arunachal pradesh,east siang,rice,11791.0,0.0
+kharif,arunachal pradesh,east siang,maize,3116.0,0.0
+kharif,arunachal pradesh,east siang,rice,11791.0,14907.0
 kharif,arunachal pradesh,kra daadi,maize,306.0,0.0
 kharif,arunachal pradesh,kra daadi,rice,570.0,876.0
 kharif,arunachal pradesh,kurung kumey,maize,234.0,0.0
@@ -106,8 +106,8 @@ kharif,arunachal pradesh,upper subansiri,maize,1284.0,0.0
 kharif,arunachal pradesh,upper subansiri,rice,5169.0,6453.0
 kharif,arunachal pradesh,west kameng,maize,3071.0,4001.0
 kharif,arunachal pradesh,west kameng,rice,930.0,0.0
-kharif,arunachal pradesh,west siang,maize,2649.0,16028.481623371155
-kharif,arunachal pradesh,west siang,rice,19431.0,6051.518376628845
+kharif,arunachal pradesh,west siang,maize,2649.0,6439.238163588062
+kharif,arunachal pradesh,west siang,rice,19431.0,15640.761836411937
 kharif,assam,baksa,maize,410.0,0.0
 kharif,assam,baksa,rice,96150.0,96560.0
 kharif,assam,barpeta,maize,169.0,0.0
@@ -120,8 +120,8 @@ kharif,assam,chirang,maize,363.0,0.0
 kharif,assam,chirang,rice,40281.0,40644.0
 kharif,assam,darrang,maize,5393.0,0.0
 kharif,assam,darrang,rice,55064.0,60457.0
-kharif,assam,dhemaji,maize,353.0,30180.368471613223
-kharif,assam,dhemaji,rice,65320.0,35492.63152838677
+kharif,assam,dhemaji,maize,353.0,23051.303033376822
+kharif,assam,dhemaji,rice,65320.0,42621.696966623174
 kharif,assam,dhubri,maize,1192.0,0.0
 kharif,assam,dhubri,rice,36772.0,37964.0
 kharif,assam,dibrugarh,maize,116.0,0.0
@@ -184,16 +184,16 @@ kharif,bihar,bhagalpur,rice,33691.0,50609.0
 kharif,bihar,bhojpur,bajra,975.0,0.0
 kharif,bihar,bhojpur,jowar,608.0,0.0
 kharif,bihar,bhojpur,maize,1723.0,0.0
-kharif,bihar,bhojpur,ragi,1.0,100412.0
-kharif,bihar,bhojpur,rice,97105.0,0.0
+kharif,bihar,bhojpur,ragi,1.0,0.0
+kharif,bihar,bhojpur,rice,97105.0,100412.0
 kharif,bihar,buxar,bajra,3299.0,0.0
 kharif,bihar,buxar,jowar,642.0,0.0
 kharif,bihar,buxar,maize,1099.0,0.0
 kharif,bihar,buxar,rice,87481.0,92521.0
 kharif,bihar,darbhanga,jowar,0.0,0.0
 kharif,bihar,darbhanga,maize,1546.0,0.0
-kharif,bihar,darbhanga,ragi,585.0,78986.0
-kharif,bihar,darbhanga,rice,76855.0,0.0
+kharif,bihar,darbhanga,ragi,585.0,0.0
+kharif,bihar,darbhanga,rice,76855.0,78986.0
 kharif,bihar,gaya,bajra,0.0,0.0
 kharif,bihar,gaya,jowar,0.0,0.0
 kharif,bihar,gaya,maize,2061.0,0.0
@@ -203,240 +203,240 @@ kharif,bihar,gopalganj,bajra,0.0,0.0
 kharif,bihar,gopalganj,maize,5084.0,0.0
 kharif,bihar,gopalganj,ragi,15.0,0.0
 kharif,bihar,gopalganj,rice,83241.0,88340.0
-kharif,bihar,jamui,maize,2105.0,67903.0
-kharif,bihar,jamui,rice,65798.0,0.0
+kharif,bihar,jamui,maize,2105.0,0.0
+kharif,bihar,jamui,rice,65798.0,67903.0
 kharif,bihar,jehanabad,maize,156.0,0.0
 kharif,bihar,jehanabad,ragi,17.0,0.0
 kharif,bihar,jehanabad,rice,35531.0,35704.0
 kharif,bihar,kaimur,rice,117434.0,117434.0
-kharif,bihar,kaimur (bhabua),maize,119.0,119.0
+kharif,bihar,kaimur (bhabua),maize,119.0,0.0
 kharif,bihar,kaimur (bhabua),ragi,0.0,0.0
-kharif,bihar,kaimur (bhabua),rice,0.0,0.0
+kharif,bihar,kaimur (bhabua),rice,0.0,119.0
 kharif,bihar,katihar,bajra,0.0,0.0
 kharif,bihar,katihar,maize,14832.0,42734.0
 kharif,bihar,katihar,rice,27902.0,0.0
 kharif,bihar,khagaria,jowar,0.0,0.0
 kharif,bihar,khagaria,maize,17946.0,0.0
-kharif,bihar,khagaria,ragi,91.0,36577.0
-kharif,bihar,khagaria,rice,18540.0,0.0
-kharif,bihar,kishanganj,maize,368.0,65685.0
+kharif,bihar,khagaria,ragi,91.0,0.0
+kharif,bihar,khagaria,rice,18540.0,36577.0
+kharif,bihar,kishanganj,maize,368.0,0.0
 kharif,bihar,kishanganj,ragi,113.0,0.0
-kharif,bihar,kishanganj,rice,65204.0,0.0
+kharif,bihar,kishanganj,rice,65204.0,65685.0
 kharif,bihar,lakhisarai,maize,2474.0,0.0
 kharif,bihar,lakhisarai,rice,31680.0,34154.0
 kharif,bihar,madhepura,bajra,0.0,0.0
-kharif,bihar,madhepura,maize,6033.0,76513.0
+kharif,bihar,madhepura,maize,6033.0,0.0
 kharif,bihar,madhepura,ragi,67.0,0.0
-kharif,bihar,madhepura,rice,70413.0,0.0
+kharif,bihar,madhepura,rice,70413.0,76513.0
 kharif,bihar,madhubani,jowar,0.0,0.0
 kharif,bihar,madhubani,maize,48.0,0.0
-kharif,bihar,madhubani,ragi,69.0,197974.0
-kharif,bihar,madhubani,rice,197857.0,0.0
+kharif,bihar,madhubani,ragi,69.0,0.0
+kharif,bihar,madhubani,rice,197857.0,197974.0
 kharif,bihar,munger,maize,771.0,0.0
 kharif,bihar,munger,ragi,0.0,0.0
 kharif,bihar,munger,rice,26914.0,27685.0
 kharif,bihar,muzaffarpur,maize,12245.0,0.0
-kharif,bihar,muzaffarpur,ragi,1.0,134990.0
-kharif,bihar,muzaffarpur,rice,122744.0,0.0
-kharif,bihar,nalanda,maize,1930.0,121713.0
+kharif,bihar,muzaffarpur,ragi,1.0,0.0
+kharif,bihar,muzaffarpur,rice,122744.0,134990.0
+kharif,bihar,nalanda,maize,1930.0,0.0
 kharif,bihar,nalanda,ragi,1.0,0.0
-kharif,bihar,nalanda,rice,119782.0,0.0
+kharif,bihar,nalanda,rice,119782.0,121713.0
 kharif,bihar,nawada,bajra,0.0,0.0
 kharif,bihar,nawada,jowar,0.0,0.0
-kharif,bihar,nawada,maize,826.0,77964.0
+kharif,bihar,nawada,maize,826.0,0.0
 kharif,bihar,nawada,ragi,90.0,0.0
-kharif,bihar,nawada,rice,77048.0,0.0
+kharif,bihar,nawada,rice,77048.0,77964.0
 kharif,bihar,pashchim champaran,bajra,0.0,0.0
 kharif,bihar,pashchim champaran,jowar,0.0,0.0
 kharif,bihar,pashchim champaran,maize,934.0,0.0
-kharif,bihar,pashchim champaran,ragi,2.0,141212.0
-kharif,bihar,pashchim champaran,rice,140276.0,0.0
+kharif,bihar,pashchim champaran,ragi,2.0,0.0
+kharif,bihar,pashchim champaran,rice,140276.0,141212.0
 kharif,bihar,patna,bajra,14.0,0.0
 kharif,bihar,patna,jowar,9.0,0.0
-kharif,bihar,patna,maize,3418.0,75544.0
+kharif,bihar,patna,maize,3418.0,0.0
 kharif,bihar,patna,ragi,0.0,0.0
-kharif,bihar,patna,rice,72103.0,0.0
+kharif,bihar,patna,rice,72103.0,75544.0
 kharif,bihar,purbi champaran,bajra,0.0,0.0
-kharif,bihar,purbi champaran,maize,38281.0,126148.74719668932
-kharif,bihar,purbi champaran,ragi,0.0,101079.25280331068
-kharif,bihar,purbi champaran,rice,188947.0,0.0
+kharif,bihar,purbi champaran,maize,38281.0,0.0
+kharif,bihar,purbi champaran,ragi,0.0,0.0
+kharif,bihar,purbi champaran,rice,188947.0,227228.0
 kharif,bihar,purnia,maize,5563.0,0.0
 kharif,bihar,purnia,rice,105508.0,111071.0
 kharif,bihar,rohtas,bajra,0.0,0.0
 kharif,bihar,rohtas,jowar,0.0,0.0
-kharif,bihar,rohtas,maize,74.0,190797.0
+kharif,bihar,rohtas,maize,74.0,0.0
 kharif,bihar,rohtas,ragi,0.0,0.0
-kharif,bihar,rohtas,rice,190723.0,0.0
+kharif,bihar,rohtas,rice,190723.0,190797.0
 kharif,bihar,saharsa,jowar,0.0,0.0
-kharif,bihar,saharsa,maize,0.0,67146.0
+kharif,bihar,saharsa,maize,0.0,0.0
 kharif,bihar,saharsa,ragi,447.0,0.0
-kharif,bihar,saharsa,rice,66699.0,0.0
-kharif,bihar,samastipur,bajra,0.0,0.0
+kharif,bihar,saharsa,rice,66699.0,67146.0
+kharif,bihar,samastipur,bajra,0.0,112144.0
 kharif,bihar,samastipur,jowar,0.0,0.0
 kharif,bihar,samastipur,maize,17182.0,0.0
-kharif,bihar,samastipur,ragi,1.0,112144.0
+kharif,bihar,samastipur,ragi,1.0,0.0
 kharif,bihar,samastipur,rice,94961.0,0.0
-kharif,bihar,saran,bajra,0.0,0.0
+kharif,bihar,saran,bajra,0.0,38747.958990968735
 kharif,bihar,saran,jowar,0.0,0.0
-kharif,bihar,saran,maize,16061.0,78840.0
+kharif,bihar,saran,maize,16061.0,2792.797705219822
 kharif,bihar,saran,ragi,392.0,0.0
-kharif,bihar,saran,rice,62387.0,0.0
+kharif,bihar,saran,rice,62387.0,37299.24330381144
 kharif,bihar,sheikhpura,jowar,0.0,0.0
 kharif,bihar,sheikhpura,maize,474.0,0.0
 kharif,bihar,sheikhpura,ragi,1.0,0.0
 kharif,bihar,sheikhpura,rice,30698.0,31173.0
 kharif,bihar,sheohar,maize,235.0,0.0
-kharif,bihar,sheohar,ragi,4.0,22255.0
-kharif,bihar,sheohar,rice,22016.0,0.0
+kharif,bihar,sheohar,ragi,4.0,0.0
+kharif,bihar,sheohar,rice,22016.0,22255.0
 kharif,bihar,sitamarhi,bajra,0.0,0.0
 kharif,bihar,sitamarhi,maize,1050.0,0.0
-kharif,bihar,sitamarhi,ragi,49.0,98996.0
-kharif,bihar,sitamarhi,rice,97897.0,0.0
-kharif,bihar,siwan,bajra,81.0,0.0
+kharif,bihar,sitamarhi,ragi,49.0,0.0
+kharif,bihar,sitamarhi,rice,97897.0,98996.0
+kharif,bihar,siwan,bajra,81.0,103438.0
 kharif,bihar,siwan,jowar,0.0,0.0
 kharif,bihar,siwan,maize,11816.0,0.0
-kharif,bihar,siwan,ragi,538.0,103438.0
+kharif,bihar,siwan,ragi,538.0,0.0
 kharif,bihar,siwan,rice,91003.0,0.0
 kharif,bihar,supaul,jowar,0.0,0.0
-kharif,bihar,supaul,maize,2664.0,102782.0
+kharif,bihar,supaul,maize,2664.0,0.0
 kharif,bihar,supaul,ragi,1534.0,0.0
-kharif,bihar,supaul,rice,98584.0,0.0
+kharif,bihar,supaul,rice,98584.0,102782.0
 kharif,bihar,vaishali,jowar,0.0,0.0
-kharif,bihar,vaishali,maize,11771.0,53841.0
+kharif,bihar,vaishali,maize,11771.0,0.0
 kharif,bihar,vaishali,ragi,40.0,0.0
-kharif,bihar,vaishali,rice,42030.0,0.0
+kharif,bihar,vaishali,rice,42030.0,53841.0
 kharif,chandigarh,chandigarh,maize,0.0,0.0
 kharif,chandigarh,chandigarh,rice,10.0,10.0
-kharif,chhattisgarh,balod,jowar,0.0,317.0
+kharif,chhattisgarh,balod,jowar,0.0,0.0
 kharif,chhattisgarh,balod,maize,310.0,0.0
 kharif,chhattisgarh,balod,ragi,7.0,0.0
-kharif,chhattisgarh,balod,rice,0.0,0.0
+kharif,chhattisgarh,balod,rice,0.0,317.0
 kharif,chhattisgarh,baloda bazar,bajra,0.0,0.0
-kharif,chhattisgarh,baloda bazar,jowar,0.0,232445.51924384924
-kharif,chhattisgarh,baloda bazar,maize,88.0,168184.48075615076
-kharif,chhattisgarh,baloda bazar,rice,400542.0,0.0
+kharif,chhattisgarh,baloda bazar,jowar,0.0,0.0
+kharif,chhattisgarh,baloda bazar,maize,88.0,0.0
+kharif,chhattisgarh,baloda bazar,rice,400542.0,400630.0
 kharif,chhattisgarh,balrampur,bajra,0.0,0.0
 kharif,chhattisgarh,balrampur,jowar,0.0,0.0
-kharif,chhattisgarh,balrampur,maize,21589.0,105591.0
+kharif,chhattisgarh,balrampur,maize,21589.0,0.0
 kharif,chhattisgarh,balrampur,ragi,306.0,0.0
-kharif,chhattisgarh,balrampur,rice,83696.0,0.0
+kharif,chhattisgarh,balrampur,rice,83696.0,105591.0
 kharif,chhattisgarh,bastar,jowar,0.0,0.0
-kharif,chhattisgarh,bastar,maize,9298.0,10837.0
+kharif,chhattisgarh,bastar,maize,9298.0,0.0
 kharif,chhattisgarh,bastar,ragi,1539.0,0.0
-kharif,chhattisgarh,bastar,rice,0.0,0.0
+kharif,chhattisgarh,bastar,rice,0.0,10837.0
 kharif,chhattisgarh,bemetara,bajra,0.0,0.0
-kharif,chhattisgarh,bemetara,jowar,0.0,169306.0
+kharif,chhattisgarh,bemetara,jowar,0.0,0.0
 kharif,chhattisgarh,bemetara,maize,24.0,0.0
-kharif,chhattisgarh,bemetara,rice,169282.0,0.0
+kharif,chhattisgarh,bemetara,rice,169282.0,169306.0
 kharif,chhattisgarh,bijapur,jowar,0.0,0.0
-kharif,chhattisgarh,bijapur,maize,602.0,62793.0
+kharif,chhattisgarh,bijapur,maize,602.0,0.0
 kharif,chhattisgarh,bijapur,ragi,36.0,0.0
-kharif,chhattisgarh,bijapur,rice,62155.0,0.0
+kharif,chhattisgarh,bijapur,rice,62155.0,62793.0
 kharif,chhattisgarh,bilaspur,bajra,16.0,0.0
 kharif,chhattisgarh,bilaspur,jowar,0.0,0.0
-kharif,chhattisgarh,bilaspur,maize,2515.0,220114.0
-kharif,chhattisgarh,bilaspur,rice,217583.0,0.0
+kharif,chhattisgarh,bilaspur,maize,2515.0,144572.1461269739
+kharif,chhattisgarh,bilaspur,rice,217583.0,75541.85387302609
 kharif,chhattisgarh,dantewada,jowar,0.0,0.0
-kharif,chhattisgarh,dantewada,maize,2763.0,73692.0
+kharif,chhattisgarh,dantewada,maize,2763.0,17236.82002507938
 kharif,chhattisgarh,dantewada,ragi,241.0,0.0
-kharif,chhattisgarh,dantewada,rice,70688.0,0.0
+kharif,chhattisgarh,dantewada,rice,70688.0,56455.17997492062
 kharif,chhattisgarh,dhamtari,jowar,0.0,0.0
-kharif,chhattisgarh,dhamtari,maize,1729.0,146777.0
+kharif,chhattisgarh,dhamtari,maize,1729.0,0.0
 kharif,chhattisgarh,dhamtari,ragi,180.0,0.0
-kharif,chhattisgarh,dhamtari,rice,144868.0,0.0
+kharif,chhattisgarh,dhamtari,rice,144868.0,146777.0
 kharif,chhattisgarh,durg,bajra,15.0,0.0
 kharif,chhattisgarh,durg,jowar,0.0,0.0
-kharif,chhattisgarh,durg,maize,449.0,127300.0
+kharif,chhattisgarh,durg,maize,449.0,0.0
 kharif,chhattisgarh,durg,ragi,0.0,0.0
-kharif,chhattisgarh,durg,rice,126836.0,0.0
+kharif,chhattisgarh,durg,rice,126836.0,127300.0
 kharif,chhattisgarh,gariaband,rice,145003.0,145003.0
 kharif,chhattisgarh,gariyaband,bajra,0.0,0.0
 kharif,chhattisgarh,gariyaband,jowar,0.0,0.0
-kharif,chhattisgarh,gariyaband,maize,3753.0,3765.0
+kharif,chhattisgarh,gariyaband,maize,3753.0,0.0
 kharif,chhattisgarh,gariyaband,ragi,12.0,0.0
-kharif,chhattisgarh,gariyaband,rice,0.0,0.0
+kharif,chhattisgarh,gariyaband,rice,0.0,3765.0
 kharif,chhattisgarh,janjgir-champa,maize,280.0,280.0
 kharif,chhattisgarh,janjgirchampa,rice,254651.0,254651.0
 kharif,chhattisgarh,jashpur,bajra,23.0,0.0
 kharif,chhattisgarh,jashpur,jowar,0.0,0.0
-kharif,chhattisgarh,jashpur,maize,5435.0,189615.0
+kharif,chhattisgarh,jashpur,maize,5435.0,0.0
 kharif,chhattisgarh,jashpur,ragi,243.0,0.0
-kharif,chhattisgarh,jashpur,rice,183914.0,0.0
+kharif,chhattisgarh,jashpur,rice,183914.0,189615.0
 kharif,chhattisgarh,kabirdham,bajra,0.0,0.0
 kharif,chhattisgarh,kabirdham,jowar,0.0,0.0
-kharif,chhattisgarh,kabirdham,maize,2215.0,108875.0
-kharif,chhattisgarh,kabirdham,rice,106660.0,0.0
+kharif,chhattisgarh,kabirdham,maize,2215.0,0.0
+kharif,chhattisgarh,kabirdham,rice,106660.0,108875.0
 kharif,chhattisgarh,kanker,jowar,0.0,0.0
-kharif,chhattisgarh,kanker,maize,9892.0,11282.0
+kharif,chhattisgarh,kanker,maize,9892.0,0.0
 kharif,chhattisgarh,kanker,ragi,1390.0,0.0
-kharif,chhattisgarh,kanker,rice,0.0,0.0
+kharif,chhattisgarh,kanker,rice,0.0,11282.0
 kharif,chhattisgarh,kondagaon,jowar,0.0,0.0
-kharif,chhattisgarh,kondagaon,maize,15479.0,123362.0
+kharif,chhattisgarh,kondagaon,maize,15479.0,0.0
 kharif,chhattisgarh,kondagaon,ragi,2402.0,0.0
-kharif,chhattisgarh,kondagaon,rice,105481.0,0.0
+kharif,chhattisgarh,kondagaon,rice,105481.0,123362.0
 kharif,chhattisgarh,korba,bajra,0.0,0.0
 kharif,chhattisgarh,korba,jowar,0.0,0.0
-kharif,chhattisgarh,korba,maize,4082.0,113020.0
-kharif,chhattisgarh,korba,rice,108938.0,0.0
+kharif,chhattisgarh,korba,maize,4082.0,0.0
+kharif,chhattisgarh,korba,rice,108938.0,113020.0
 kharif,chhattisgarh,korea,bajra,0.0,0.0
 kharif,chhattisgarh,korea,jowar,0.0,0.0
-kharif,chhattisgarh,korea,maize,7553.0,75310.0
+kharif,chhattisgarh,korea,maize,7553.0,0.0
 kharif,chhattisgarh,korea,ragi,5.0,0.0
-kharif,chhattisgarh,korea,rice,67752.0,0.0
+kharif,chhattisgarh,korea,rice,67752.0,75310.0
 kharif,chhattisgarh,mahasamund,bajra,0.0,0.0
 kharif,chhattisgarh,mahasamund,jowar,0.0,0.0
-kharif,chhattisgarh,mahasamund,maize,161.0,281305.0
-kharif,chhattisgarh,mahasamund,rice,281144.0,0.0
+kharif,chhattisgarh,mahasamund,maize,161.0,0.0
+kharif,chhattisgarh,mahasamund,rice,281144.0,281305.0
 kharif,chhattisgarh,mungeli,bajra,0.0,0.0
 kharif,chhattisgarh,mungeli,jowar,0.0,0.0
-kharif,chhattisgarh,mungeli,maize,88.0,115926.0
+kharif,chhattisgarh,mungeli,maize,88.0,0.0
 kharif,chhattisgarh,mungeli,ragi,0.0,0.0
-kharif,chhattisgarh,mungeli,rice,115838.0,0.0
+kharif,chhattisgarh,mungeli,rice,115838.0,115926.0
 kharif,chhattisgarh,narayanpur,jowar,0.0,0.0
-kharif,chhattisgarh,narayanpur,maize,1175.0,25801.0
+kharif,chhattisgarh,narayanpur,maize,1175.0,0.0
 kharif,chhattisgarh,narayanpur,ragi,369.0,0.0
-kharif,chhattisgarh,narayanpur,rice,24257.0,0.0
+kharif,chhattisgarh,narayanpur,rice,24257.0,25801.0
 kharif,chhattisgarh,raigarh,bajra,7.0,0.0
 kharif,chhattisgarh,raigarh,jowar,0.0,0.0
-kharif,chhattisgarh,raigarh,maize,856.0,228070.0
-kharif,chhattisgarh,raigarh,rice,227207.0,0.0
+kharif,chhattisgarh,raigarh,maize,856.0,0.0
+kharif,chhattisgarh,raigarh,rice,227207.0,228070.0
 kharif,chhattisgarh,raipur,bajra,0.0,0.0
 kharif,chhattisgarh,raipur,jowar,0.0,0.0
-kharif,chhattisgarh,raipur,maize,402.0,162818.0
+kharif,chhattisgarh,raipur,maize,402.0,0.0
 kharif,chhattisgarh,raipur,ragi,0.0,0.0
-kharif,chhattisgarh,raipur,rice,162416.0,0.0
+kharif,chhattisgarh,raipur,rice,162416.0,162818.0
 kharif,chhattisgarh,rajnandgaon,bajra,0.0,0.0
 kharif,chhattisgarh,rajnandgaon,jowar,0.0,0.0
-kharif,chhattisgarh,rajnandgaon,maize,6893.0,301210.0
+kharif,chhattisgarh,rajnandgaon,maize,6893.0,0.0
 kharif,chhattisgarh,rajnandgaon,ragi,0.0,0.0
-kharif,chhattisgarh,rajnandgaon,rice,294317.0,0.0
+kharif,chhattisgarh,rajnandgaon,rice,294317.0,301210.0
 kharif,chhattisgarh,sukma,jowar,0.0,0.0
-kharif,chhattisgarh,sukma,maize,2732.0,87423.0
+kharif,chhattisgarh,sukma,maize,2732.0,0.0
 kharif,chhattisgarh,sukma,ragi,328.0,0.0
-kharif,chhattisgarh,sukma,rice,84363.0,0.0
+kharif,chhattisgarh,sukma,rice,84363.0,87423.0
 kharif,chhattisgarh,surajpur,jowar,0.0,0.0
-kharif,chhattisgarh,surajpur,maize,10229.0,119352.0
+kharif,chhattisgarh,surajpur,maize,10229.0,0.0
 kharif,chhattisgarh,surajpur,ragi,212.0,0.0
-kharif,chhattisgarh,surajpur,rice,108911.0,0.0
+kharif,chhattisgarh,surajpur,rice,108911.0,119352.0
 kharif,chhattisgarh,surguja,bajra,0.0,0.0
 kharif,chhattisgarh,surguja,jowar,0.0,0.0
-kharif,chhattisgarh,surguja,maize,9025.0,125742.0
+kharif,chhattisgarh,surguja,maize,9025.0,0.0
 kharif,chhattisgarh,surguja,ragi,4.0,0.0
-kharif,chhattisgarh,surguja,rice,116713.0,0.0
+kharif,chhattisgarh,surguja,rice,116713.0,125742.0
 kharif,chhattisgarh,uttar bastar kanker,rice,313411.0,313411.0
-kharif,dadra and nagar haveli,dadra and nagar haveli,jowar,451.0,517.3156939021025
+kharif,dadra and nagar haveli,dadra and nagar haveli,jowar,451.0,541.8412263212164
 kharif,dadra and nagar haveli,dadra and nagar haveli,maize,108.0,0.0
-kharif,dadra and nagar haveli,dadra and nagar haveli,ragi,1135.0,1157.2153305186487
-kharif,dadra and nagar haveli,dadra and nagar haveli,rice,13817.0,13836.468975579248
-kharif,gujarat,ahmadabad,bajra,1243.0,0.0
+kharif,dadra and nagar haveli,dadra and nagar haveli,ragi,1135.0,1129.744127853763
+kharif,dadra and nagar haveli,dadra and nagar haveli,rice,13817.0,13839.414645825022
+kharif,gujarat,ahmadabad,bajra,1243.0,119198.0
 kharif,gujarat,ahmadabad,jowar,0.0,0.0
 kharif,gujarat,ahmadabad,maize,0.0,0.0
-kharif,gujarat,ahmadabad,rice,117955.0,119198.0
-kharif,gujarat,amreli,bajra,2727.0,0.0
-kharif,gujarat,amreli,jowar,0.0,2727.0
+kharif,gujarat,ahmadabad,rice,117955.0,0.0
+kharif,gujarat,amreli,bajra,2727.0,2727.0
+kharif,gujarat,amreli,jowar,0.0,0.0
 kharif,gujarat,amreli,maize,0.0,0.0
-kharif,gujarat,anand,bajra,13252.0,0.0
-kharif,gujarat,anand,jowar,0.0,124173.0
+kharif,gujarat,anand,bajra,13252.0,124173.0
+kharif,gujarat,anand,jowar,0.0,0.0
 kharif,gujarat,anand,maize,123.0,0.0
 kharif,gujarat,anand,rice,110798.0,0.0
 kharif,gujarat,aravalli,bajra,0.0,0.0
@@ -445,15 +445,15 @@ kharif,gujarat,aravalli,maize,0.0,0.0
 kharif,gujarat,aravalli,rice,1208.0,1208.0
 kharif,gujarat,arvalli,bajra,800.0,31366.0
 kharif,gujarat,arvalli,maize,30566.0,0.0
-kharif,gujarat,banas kantha,bajra,17985.0,0.0
+kharif,gujarat,banas kantha,bajra,17985.0,28309.552934326766
 kharif,gujarat,banas kantha,jowar,15500.0,0.0
 kharif,gujarat,banas kantha,maize,7736.0,0.0
 kharif,gujarat,banas kantha,ragi,0.0,0.0
-kharif,gujarat,banas kantha,rice,0.0,41221.0
+kharif,gujarat,banas kantha,rice,0.0,12911.447065673234
 kharif,gujarat,bharuch,bajra,40.0,0.0
-kharif,gujarat,bharuch,jowar,980.0,9560.0
+kharif,gujarat,bharuch,jowar,980.0,0.0
 kharif,gujarat,bharuch,maize,550.0,0.0
-kharif,gujarat,bharuch,rice,7990.0,0.0
+kharif,gujarat,bharuch,rice,7990.0,9560.0
 kharif,gujarat,bhavnagar,bajra,32693.0,32693.0
 kharif,gujarat,bhavnagar,jowar,0.0,0.0
 kharif,gujarat,bhavnagar,maize,0.0,0.0
@@ -465,29 +465,29 @@ kharif,gujarat,dang,jowar,690.0,0.0
 kharif,gujarat,dang,maize,0.0,0.0
 kharif,gujarat,dang,ragi,7562.0,0.0
 kharif,gujarat,dang,rice,20829.0,29081.0
-kharif,gujarat,devbhumi dwarka,bajra,78.0,0.0
-kharif,gujarat,devbhumi dwarka,jowar,17.0,215.0
+kharif,gujarat,devbhumi dwarka,bajra,78.0,215.0
+kharif,gujarat,devbhumi dwarka,jowar,17.0,0.0
 kharif,gujarat,devbhumi dwarka,maize,120.0,0.0
-kharif,gujarat,dohad,jowar,0.0,157685.0
+kharif,gujarat,dohad,jowar,0.0,67949.22144457247
 kharif,gujarat,dohad,maize,107805.0,0.0
-kharif,gujarat,dohad,rice,49880.0,0.0
-kharif,gujarat,gandhinagar,bajra,1576.0,0.0
-kharif,gujarat,gandhinagar,jowar,107.0,11729.0
+kharif,gujarat,dohad,rice,49880.0,89735.77855542753
+kharif,gujarat,gandhinagar,bajra,1576.0,11729.0
+kharif,gujarat,gandhinagar,jowar,107.0,0.0
 kharif,gujarat,gandhinagar,maize,145.0,0.0
 kharif,gujarat,gandhinagar,rice,9901.0,0.0
 kharif,gujarat,gir somnath,bajra,1429.0,1429.0
 kharif,gujarat,gir somnath,jowar,0.0,0.0
 kharif,gujarat,gir somnath,maize,0.0,0.0
 kharif,gujarat,gir somnath,rice,0.0,0.0
-kharif,gujarat,jamnagar,bajra,242.0,0.0
-kharif,gujarat,jamnagar,jowar,10.0,252.0
+kharif,gujarat,jamnagar,bajra,242.0,252.0
+kharif,gujarat,jamnagar,jowar,10.0,0.0
 kharif,gujarat,jamnagar,maize,0.0,0.0
 kharif,gujarat,junagadh,bajra,387.0,0.0
-kharif,gujarat,junagadh,jowar,0.0,387.0
+kharif,gujarat,junagadh,jowar,0.0,0.0
 kharif,gujarat,junagadh,maize,0.0,0.0
-kharif,gujarat,junagadh,rice,0.0,0.0
-kharif,gujarat,kachchh,bajra,25412.0,0.0
-kharif,gujarat,kachchh,jowar,26120.0,51594.0
+kharif,gujarat,junagadh,rice,0.0,387.0
+kharif,gujarat,kachchh,bajra,25412.0,51594.0
+kharif,gujarat,kachchh,jowar,26120.0,0.0
 kharif,gujarat,kachchh,maize,62.0,0.0
 kharif,gujarat,kheda,bajra,21645.0,0.0
 kharif,gujarat,kheda,jowar,0.0,0.0
@@ -521,8 +521,8 @@ kharif,gujarat,panch mahals,rice,47036.0,0.0
 kharif,gujarat,patan,bajra,11207.0,0.0
 kharif,gujarat,patan,jowar,1360.0,12607.0
 kharif,gujarat,patan,maize,40.0,0.0
-kharif,gujarat,rajkot,bajra,1121.0,0.0
-kharif,gujarat,rajkot,jowar,0.0,1161.0
+kharif,gujarat,rajkot,bajra,1121.0,1161.0
+kharif,gujarat,rajkot,jowar,0.0,0.0
 kharif,gujarat,rajkot,maize,40.0,0.0
 kharif,gujarat,sabar kantha,bajra,44.0,0.0
 kharif,gujarat,sabar kantha,jowar,2.0,0.0
@@ -537,9 +537,9 @@ kharif,gujarat,surendranagar,jowar,40.0,0.0
 kharif,gujarat,surendranagar,maize,5.0,0.0
 kharif,gujarat,surendranagar,rice,848.0,0.0
 kharif,gujarat,tapi,bajra,0.0,0.0
-kharif,gujarat,tapi,jowar,10098.0,24469.926902204494
-kharif,gujarat,tapi,maize,1219.0,4538.160398520332
-kharif,gujarat,tapi,rice,53483.0,35791.91269927518
+kharif,gujarat,tapi,jowar,10098.0,0.0
+kharif,gujarat,tapi,maize,1219.0,0.0
+kharif,gujarat,tapi,rice,53483.0,64800.0
 kharif,gujarat,vadodara,bajra,3380.0,0.0
 kharif,gujarat,vadodara,jowar,0.0,0.0
 kharif,gujarat,vadodara,maize,449.0,0.0
@@ -557,8 +557,8 @@ kharif,haryana,bhiwani,bajra,121200.0,0.0
 kharif,haryana,bhiwani,jowar,0.0,0.0
 kharif,haryana,bhiwani,maize,100.0,0.0
 kharif,haryana,bhiwani,rice,21700.0,143000.0
-kharif,haryana,charki dadri,bajra,40100.0,0.0
-kharif,haryana,charki dadri,jowar,2000.0,51500.0
+kharif,haryana,charki dadri,bajra,40100.0,51500.0
+kharif,haryana,charki dadri,jowar,2000.0,0.0
 kharif,haryana,charki dadri,maize,0.0,0.0
 kharif,haryana,charki dadri,rice,9400.0,0.0
 kharif,haryana,faridabad,bajra,2100.0,0.0
@@ -611,19 +611,19 @@ kharif,haryana,panipat,bajra,100.0,0.0
 kharif,haryana,panipat,jowar,0.0,0.0
 kharif,haryana,panipat,maize,0.0,0.0
 kharif,haryana,panipat,rice,77200.0,77300.0
-kharif,haryana,rewari,bajra,67800.0,70000.0
+kharif,haryana,rewari,bajra,67800.0,57108.609156883605
 kharif,haryana,rewari,jowar,400.0,0.0
-kharif,haryana,rewari,rice,1800.0,0.0
+kharif,haryana,rewari,rice,1800.0,12891.390843116395
 kharif,haryana,rohtak,bajra,11800.0,0.0
 kharif,haryana,rohtak,jowar,14000.0,0.0
 kharif,haryana,rohtak,maize,500.0,0.0
 kharif,haryana,rohtak,rice,48900.0,75200.0
-kharif,haryana,sirsa,bajra,3200.0,71326.82467285712
+kharif,haryana,sirsa,bajra,3200.0,82124.67418415459
 kharif,haryana,sirsa,jowar,0.0,0.0
 kharif,haryana,sirsa,maize,100.0,0.0
-kharif,haryana,sirsa,rice,95500.0,27473.175327142875
-kharif,haryana,sonipat,bajra,5900.0,117734.74676678615
-kharif,haryana,sonipat,jowar,4300.0,365.25323321384514
+kharif,haryana,sirsa,rice,95500.0,16675.32581584541
+kharif,haryana,sonipat,bajra,5900.0,118100.0
+kharif,haryana,sonipat,jowar,4300.0,0.0
 kharif,haryana,sonipat,maize,200.0,0.0
 kharif,haryana,sonipat,rice,107700.0,0.0
 kharif,haryana,yamunanagar,bajra,100.0,0.0
@@ -684,8 +684,8 @@ kharif,jammu and kashmir,doda,rice,1570.0,0.0
 kharif,jammu and kashmir,ganderbal,maize,3974.0,0.0
 kharif,jammu and kashmir,ganderbal,rice,7791.0,11765.0
 kharif,jammu and kashmir,jammu,bajra,5526.0,0.0
-kharif,jammu and kashmir,jammu,maize,20865.0,75051.9413992031
-kharif,jammu and kashmir,jammu,rice,64348.0,15687.058600796896
+kharif,jammu and kashmir,jammu,maize,20865.0,0.0
+kharif,jammu and kashmir,jammu,rice,64348.0,90739.0
 kharif,jammu and kashmir,kathua,bajra,1608.0,0.0
 kharif,jammu and kashmir,kathua,maize,17747.0,53280.0
 kharif,jammu and kashmir,kathua,rice,33925.0,0.0
@@ -693,25 +693,25 @@ kharif,jammu and kashmir,kishtwar,bajra,0.0,0.0
 kharif,jammu and kashmir,kishtwar,maize,11691.0,0.0
 kharif,jammu and kashmir,kishtwar,ragi,178.0,0.0
 kharif,jammu and kashmir,kishtwar,rice,1170.0,13039.0
-kharif,jammu and kashmir,kulgam,maize,3126.0,16441.0
-kharif,jammu and kashmir,kulgam,rice,13315.0,0.0
-kharif,jammu and kashmir,kupwara,bajra,0.0,27498.623110476605
+kharif,jammu and kashmir,kulgam,maize,3126.0,0.0
+kharif,jammu and kashmir,kulgam,rice,13315.0,16441.0
+kharif,jammu and kashmir,kupwara,bajra,0.0,0.0
 kharif,jammu and kashmir,kupwara,maize,18465.0,0.0
-kharif,jammu and kashmir,kupwara,rice,17423.0,8389.376889523395
-kharif,jammu and kashmir,poonch,maize,24095.0,26923.0
-kharif,jammu and kashmir,poonch,rice,2828.0,0.0
+kharif,jammu and kashmir,kupwara,rice,17423.0,35888.0
+kharif,jammu and kashmir,poonch,maize,24095.0,0.0
+kharif,jammu and kashmir,poonch,rice,2828.0,26923.0
 kharif,jammu and kashmir,pulwama,maize,2894.0,0.0
 kharif,jammu and kashmir,pulwama,rice,12014.0,14908.0
-kharif,jammu and kashmir,rajauri,bajra,651.0,0.0
-kharif,jammu and kashmir,rajauri,maize,47978.0,53031.0
+kharif,jammu and kashmir,rajauri,bajra,651.0,44297.95160886448
+kharif,jammu and kashmir,rajauri,maize,47978.0,8733.048391135519
 kharif,jammu and kashmir,rajauri,rice,4402.0,0.0
 kharif,jammu and kashmir,ramban,maize,18360.0,19577.0
 kharif,jammu and kashmir,ramban,rice,1217.0,0.0
 kharif,jammu and kashmir,reasi,bajra,490.0,24542.0
 kharif,jammu and kashmir,reasi,maize,22930.0,0.0
 kharif,jammu and kashmir,reasi,rice,1122.0,0.0
-kharif,jammu and kashmir,samba,bajra,2694.0,0.0
-kharif,jammu and kashmir,samba,jowar,63.0,27982.0
+kharif,jammu and kashmir,samba,bajra,2694.0,27982.0
+kharif,jammu and kashmir,samba,jowar,63.0,0.0
 kharif,jammu and kashmir,samba,maize,6320.0,0.0
 kharif,jammu and kashmir,samba,rice,18905.0,0.0
 kharif,jammu and kashmir,shopian,maize,530.0,0.0
@@ -769,8 +769,8 @@ kharif,jharkhand,gumla,rice,181782.0,190146.0
 kharif,jharkhand,hazaribagh,bajra,0.0,0.0
 kharif,jharkhand,hazaribagh,jowar,50.0,0.0
 kharif,jharkhand,hazaribagh,maize,12380.0,0.0
-kharif,jharkhand,hazaribagh,ragi,1303.0,18123.86116881239
-kharif,jharkhand,hazaribagh,rice,80976.0,76585.1388311876
+kharif,jharkhand,hazaribagh,ragi,1303.0,4484.71774841171
+kharif,jharkhand,hazaribagh,rice,80976.0,90224.28225158829
 kharif,jharkhand,jamtara,bajra,0.0,0.0
 kharif,jharkhand,jamtara,jowar,12.0,62677.0
 kharif,jharkhand,jamtara,maize,13345.0,0.0
@@ -779,8 +779,8 @@ kharif,jharkhand,jamtara,rice,49320.0,0.0
 kharif,jharkhand,khunti,bajra,0.0,0.0
 kharif,jharkhand,khunti,jowar,18.0,0.0
 kharif,jharkhand,khunti,maize,3627.0,0.0
-kharif,jharkhand,khunti,ragi,3335.0,58331.38155190186
-kharif,jharkhand,khunti,rice,76000.0,24648.61844809814
+kharif,jharkhand,khunti,ragi,3335.0,0.0
+kharif,jharkhand,khunti,rice,76000.0,82980.0
 kharif,jharkhand,koderma,bajra,0.0,0.0
 kharif,jharkhand,koderma,jowar,36.0,0.0
 kharif,jharkhand,koderma,maize,8453.0,0.0
@@ -803,10 +803,10 @@ kharif,jharkhand,palamu,jowar,0.0,0.0
 kharif,jharkhand,palamu,maize,27520.0,0.0
 kharif,jharkhand,palamu,ragi,0.0,0.0
 kharif,jharkhand,palamu,rice,46451.0,73971.0
-kharif,jharkhand,ramgarh,bajra,0.0,0.0
+kharif,jharkhand,ramgarh,bajra,0.0,11293.478948683474
 kharif,jharkhand,ramgarh,jowar,26.0,0.0
 kharif,jharkhand,ramgarh,maize,10032.0,0.0
-kharif,jharkhand,ramgarh,ragi,620.0,43038.0
+kharif,jharkhand,ramgarh,ragi,620.0,31744.521051316526
 kharif,jharkhand,ramgarh,rice,32360.0,0.0
 kharif,jharkhand,ranchi,jowar,51.0,0.0
 kharif,jharkhand,ranchi,maize,11287.0,0.0
@@ -1022,14 +1022,14 @@ kharif,kerala,palakkad,rice,73271.0,73271.0
 kharif,kerala,pathanamthitta,rice,450.0,450.0
 kharif,kerala,thiruvananthapuram,rice,1353.0,1353.0
 kharif,kerala,thrissur,rice,12632.0,12632.0
-kharif,kerala,wayanad,jowar,0.0,0.00015186676722360505
-kharif,kerala,wayanad,rice,7391.0,7390.999848133233
-kharif,madhya pradesh,agar malwa,bajra,0.0,19100.0
-kharif,madhya pradesh,agar malwa,jowar,800.0,0.0
+kharif,kerala,wayanad,jowar,0.0,0.00023441188199029578
+kharif,kerala,wayanad,rice,7391.0,7390.999765588118
+kharif,madhya pradesh,agar malwa,bajra,0.0,0.0
+kharif,madhya pradesh,agar malwa,jowar,800.0,19100.0
 kharif,madhya pradesh,agar malwa,maize,18300.0,0.0
 kharif,madhya pradesh,agar malwa,rice,0.0,0.0
-kharif,madhya pradesh,alirajpur,bajra,17000.0,72120.0
-kharif,madhya pradesh,alirajpur,jowar,8600.0,0.0
+kharif,madhya pradesh,alirajpur,bajra,17000.0,0.0
+kharif,madhya pradesh,alirajpur,jowar,8600.0,72120.0
 kharif,madhya pradesh,alirajpur,maize,41500.0,0.0
 kharif,madhya pradesh,alirajpur,rice,5020.0,0.0
 kharif,madhya pradesh,anuppur,bajra,0.0,0.0
@@ -1046,8 +1046,8 @@ kharif,madhya pradesh,balaghat,maize,10000.0,0.0
 kharif,madhya pradesh,balaghat,ragi,0.0,0.0
 kharif,madhya pradesh,balaghat,rice,215000.0,0.0
 kharif,madhya pradesh,barwani,bajra,8500.0,0.0
-kharif,madhya pradesh,barwani,jowar,33900.0,104110.0
-kharif,madhya pradesh,barwani,maize,61010.0,0.0
+kharif,madhya pradesh,barwani,jowar,33900.0,0.0
+kharif,madhya pradesh,barwani,maize,61010.0,104110.0
 kharif,madhya pradesh,barwani,rice,700.0,0.0
 kharif,madhya pradesh,betul,bajra,0.0,0.0
 kharif,madhya pradesh,betul,jowar,7500.0,132500.0
@@ -1070,14 +1070,14 @@ kharif,madhya pradesh,chhatarpur,jowar,7000.0,0.0
 kharif,madhya pradesh,chhatarpur,maize,1100.0,0.0
 kharif,madhya pradesh,chhatarpur,rice,6330.0,0.0
 kharif,madhya pradesh,chhindwara,bajra,0.0,0.0
-kharif,madhya pradesh,chhindwara,jowar,14000.0,37902.556935895635
-kharif,madhya pradesh,chhindwara,maize,262500.0,272607.44306410436
+kharif,madhya pradesh,chhindwara,jowar,14000.0,9631.705512466366
+kharif,madhya pradesh,chhindwara,maize,262500.0,300878.2944875336
 kharif,madhya pradesh,chhindwara,ragi,0.0,0.0
 kharif,madhya pradesh,chhindwara,rice,34010.0,0.0
 kharif,madhya pradesh,damoh,bajra,0.0,0.0
-kharif,madhya pradesh,damoh,jowar,3100.0,83830.0
+kharif,madhya pradesh,damoh,jowar,3100.0,0.0
 kharif,madhya pradesh,damoh,maize,5030.0,0.0
-kharif,madhya pradesh,damoh,rice,75700.0,0.0
+kharif,madhya pradesh,damoh,rice,75700.0,83830.0
 kharif,madhya pradesh,datia,bajra,0.0,0.0
 kharif,madhya pradesh,datia,jowar,4600.0,22500.0
 kharif,madhya pradesh,datia,maize,1300.0,0.0
@@ -1090,8 +1090,8 @@ kharif,madhya pradesh,dhar,bajra,2900.0,0.0
 kharif,madhya pradesh,dhar,jowar,17000.0,93030.0
 kharif,madhya pradesh,dhar,maize,72900.0,0.0
 kharif,madhya pradesh,dhar,rice,230.0,0.0
-kharif,madhya pradesh,dindori,bajra,0.0,106900.0
-kharif,madhya pradesh,dindori,jowar,100.0,0.0
+kharif,madhya pradesh,dindori,bajra,0.0,0.0
+kharif,madhya pradesh,dindori,jowar,100.0,106900.0
 kharif,madhya pradesh,dindori,maize,28000.0,0.0
 kharif,madhya pradesh,dindori,rice,78800.0,0.0
 kharif,madhya pradesh,guna,bajra,0.0,0.0
@@ -1102,8 +1102,8 @@ kharif,madhya pradesh,gwalior,bajra,11900.0,0.0
 kharif,madhya pradesh,gwalior,jowar,13400.0,34400.0
 kharif,madhya pradesh,gwalior,maize,200.0,0.0
 kharif,madhya pradesh,gwalior,rice,8900.0,0.0
-kharif,madhya pradesh,harda,bajra,0.0,16500.0
-kharif,madhya pradesh,harda,jowar,700.0,0.0
+kharif,madhya pradesh,harda,bajra,0.0,0.0
+kharif,madhya pradesh,harda,jowar,700.0,16500.0
 kharif,madhya pradesh,harda,maize,14000.0,0.0
 kharif,madhya pradesh,harda,rice,1800.0,0.0
 kharif,madhya pradesh,hoshangabad,bajra,0.0,0.0
@@ -1115,18 +1115,18 @@ kharif,madhya pradesh,indore,jowar,100.0,9100.0
 kharif,madhya pradesh,indore,maize,9000.0,0.0
 kharif,madhya pradesh,indore,rice,0.0,0.0
 kharif,madhya pradesh,jabalpur,bajra,0.0,0.0
-kharif,madhya pradesh,jabalpur,jowar,40.0,116040.0
+kharif,madhya pradesh,jabalpur,jowar,40.0,0.0
 kharif,madhya pradesh,jabalpur,maize,7000.0,0.0
-kharif,madhya pradesh,jabalpur,rice,109000.0,0.0
+kharif,madhya pradesh,jabalpur,rice,109000.0,116040.0
 kharif,madhya pradesh,jhabua,bajra,40.0,0.0
 kharif,madhya pradesh,jhabua,jowar,1500.0,0.0
 kharif,madhya pradesh,jhabua,maize,66700.0,76610.0
 kharif,madhya pradesh,jhabua,rice,8370.0,0.0
 kharif,madhya pradesh,katni,bajra,0.0,0.0
-kharif,madhya pradesh,katni,jowar,4600.0,110200.0
+kharif,madhya pradesh,katni,jowar,4600.0,0.0
 kharif,madhya pradesh,katni,maize,4400.0,0.0
 kharif,madhya pradesh,katni,ragi,0.0,0.0
-kharif,madhya pradesh,katni,rice,101200.0,0.0
+kharif,madhya pradesh,katni,rice,101200.0,110200.0
 kharif,madhya pradesh,khandwa,bajra,200.0,0.0
 kharif,madhya pradesh,khandwa,jowar,6300.0,46400.0
 kharif,madhya pradesh,khandwa,maize,34600.0,0.0
@@ -1143,10 +1143,10 @@ kharif,madhya pradesh,mandsaur,bajra,170.0,0.0
 kharif,madhya pradesh,mandsaur,jowar,160.0,0.0
 kharif,madhya pradesh,mandsaur,maize,45000.0,45330.0
 kharif,madhya pradesh,mandsaur,rice,0.0,0.0
-kharif,madhya pradesh,morena,bajra,121500.0,127120.0
+kharif,madhya pradesh,morena,bajra,121500.0,77562.95007077773
 kharif,madhya pradesh,morena,jowar,3600.0,0.0
 kharif,madhya pradesh,morena,maize,620.0,0.0
-kharif,madhya pradesh,morena,rice,1400.0,0.0
+kharif,madhya pradesh,morena,rice,1400.0,49557.049929222274
 kharif,madhya pradesh,narsinghpur,bajra,1000.0,0.0
 kharif,madhya pradesh,narsinghpur,jowar,800.0,0.0
 kharif,madhya pradesh,narsinghpur,maize,5000.0,0.0
@@ -1159,16 +1159,16 @@ kharif,madhya pradesh,panna,bajra,0.0,0.0
 kharif,madhya pradesh,panna,jowar,7600.0,68600.0
 kharif,madhya pradesh,panna,maize,2600.0,0.0
 kharif,madhya pradesh,panna,rice,58400.0,0.0
-kharif,madhya pradesh,raisen,bajra,0.0,120200.0
+kharif,madhya pradesh,raisen,bajra,0.0,0.0
 kharif,madhya pradesh,raisen,jowar,1300.0,0.0
 kharif,madhya pradesh,raisen,maize,6900.0,0.0
-kharif,madhya pradesh,raisen,rice,112000.0,0.0
+kharif,madhya pradesh,raisen,rice,112000.0,120200.0
 kharif,madhya pradesh,rajgarh,bajra,0.0,0.0
 kharif,madhya pradesh,rajgarh,jowar,100.0,0.0
 kharif,madhya pradesh,rajgarh,maize,63900.0,65150.0
 kharif,madhya pradesh,rajgarh,rice,1150.0,0.0
-kharif,madhya pradesh,ratlam,bajra,0.0,55660.0
-kharif,madhya pradesh,ratlam,jowar,160.0,0.0
+kharif,madhya pradesh,ratlam,bajra,0.0,0.0
+kharif,madhya pradesh,ratlam,jowar,160.0,55660.0
 kharif,madhya pradesh,ratlam,maize,55500.0,0.0
 kharif,madhya pradesh,ratlam,rice,0.0,0.0
 kharif,madhya pradesh,rewa,bajra,8000.0,0.0
@@ -1180,17 +1180,17 @@ kharif,madhya pradesh,sagar,jowar,7000.0,15660.0
 kharif,madhya pradesh,sagar,maize,3600.0,0.0
 kharif,madhya pradesh,sagar,rice,5060.0,0.0
 kharif,madhya pradesh,satna,bajra,400.0,0.0
-kharif,madhya pradesh,satna,jowar,7600.0,144200.0
+kharif,madhya pradesh,satna,jowar,7600.0,0.0
 kharif,madhya pradesh,satna,maize,4200.0,0.0
-kharif,madhya pradesh,satna,rice,132000.0,0.0
+kharif,madhya pradesh,satna,rice,132000.0,144200.0
 kharif,madhya pradesh,sehore,bajra,60.0,0.0
-kharif,madhya pradesh,sehore,jowar,1900.0,40660.0
+kharif,madhya pradesh,sehore,jowar,1900.0,0.0
 kharif,madhya pradesh,sehore,maize,11200.0,0.0
-kharif,madhya pradesh,sehore,rice,27500.0,0.0
+kharif,madhya pradesh,sehore,rice,27500.0,40660.0
 kharif,madhya pradesh,seoni,bajra,0.0,0.0
 kharif,madhya pradesh,seoni,jowar,500.0,0.0
-kharif,madhya pradesh,seoni,maize,98200.0,132885.60077233065
-kharif,madhya pradesh,seoni,rice,131100.0,96914.39922766936
+kharif,madhya pradesh,seoni,maize,98200.0,0.0
+kharif,madhya pradesh,seoni,rice,131100.0,229800.0
 kharif,madhya pradesh,shahdol,bajra,0.0,0.0
 kharif,madhya pradesh,shahdol,jowar,2000.0,114300.0
 kharif,madhya pradesh,shahdol,maize,14200.0,0.0
@@ -1208,13 +1208,13 @@ kharif,madhya pradesh,shivpuri,jowar,400.0,0.0
 kharif,madhya pradesh,shivpuri,maize,6600.0,0.0
 kharif,madhya pradesh,shivpuri,rice,4400.0,20100.0
 kharif,madhya pradesh,sidhi,bajra,8900.0,0.0
-kharif,madhya pradesh,sidhi,jowar,11500.0,98400.0
+kharif,madhya pradesh,sidhi,jowar,11500.0,0.0
 kharif,madhya pradesh,sidhi,maize,9500.0,0.0
-kharif,madhya pradesh,sidhi,rice,68500.0,0.0
-kharif,madhya pradesh,singrauli,bajra,23600.0,109260.0
+kharif,madhya pradesh,sidhi,rice,68500.0,98400.0
+kharif,madhya pradesh,singrauli,bajra,23600.0,0.0
 kharif,madhya pradesh,singrauli,jowar,12010.0,0.0
 kharif,madhya pradesh,singrauli,maize,28200.0,0.0
-kharif,madhya pradesh,singrauli,rice,45450.0,0.0
+kharif,madhya pradesh,singrauli,rice,45450.0,109260.0
 kharif,madhya pradesh,tikamgarh,bajra,0.0,0.0
 kharif,madhya pradesh,tikamgarh,jowar,1000.0,7260.0
 kharif,madhya pradesh,tikamgarh,maize,1700.0,0.0
@@ -1262,8 +1262,8 @@ kharif,maharashtra,buldana,jowar,20202.0,0.0
 kharif,maharashtra,buldana,maize,0.0,20202.0
 kharif,maharashtra,buldana,rice,0.0,0.0
 kharif,maharashtra,buldhana,bajra,2180.0,0.0
-kharif,maharashtra,buldhana,maize,31840.0,21261.854600248425
-kharif,maharashtra,buldhana,ragi,0.0,12758.145399751575
+kharif,maharashtra,buldhana,maize,31840.0,34020.0
+kharif,maharashtra,buldhana,ragi,0.0,0.0
 kharif,maharashtra,chandrapur,bajra,0.0,0.0
 kharif,maharashtra,chandrapur,jowar,2200.0,0.0
 kharif,maharashtra,chandrapur,maize,26.0,131626.0
@@ -1337,9 +1337,9 @@ kharif,maharashtra,raigad,rice,110500.0,117200.0
 kharif,maharashtra,ratnagiri,ragi,14200.0,89400.0
 kharif,maharashtra,ratnagiri,rice,75200.0,0.0
 kharif,maharashtra,sangli,bajra,58800.0,0.0
-kharif,maharashtra,sangli,jowar,53800.0,0.0
+kharif,maharashtra,sangli,jowar,53800.0,114364.53950908093
 kharif,maharashtra,sangli,maize,35500.0,0.0
-kharif,maharashtra,sangli,ragi,0.0,165100.0
+kharif,maharashtra,sangli,ragi,0.0,50735.46049091905
 kharif,maharashtra,sangli,rice,17000.0,0.0
 kharif,maharashtra,satara,bajra,67400.0,0.0
 kharif,maharashtra,satara,jowar,24100.0,0.0
@@ -1349,9 +1349,9 @@ kharif,maharashtra,satara,rice,45800.0,0.0
 kharif,maharashtra,sindhudurg,ragi,1800.0,0.0
 kharif,maharashtra,sindhudurg,rice,62500.0,64300.0
 kharif,maharashtra,solapur,bajra,28600.0,0.0
-kharif,maharashtra,solapur,jowar,0.0,0.0
-kharif,maharashtra,solapur,maize,21500.0,0.0
-kharif,maharashtra,solapur,ragi,0.0,50700.0
+kharif,maharashtra,solapur,jowar,0.0,39917.62081502532
+kharif,maharashtra,solapur,maize,21500.0,10782.379184974676
+kharif,maharashtra,solapur,ragi,0.0,0.0
 kharif,maharashtra,solapur,rice,600.0,0.0
 kharif,maharashtra,thane,ragi,2600.0,57300.0
 kharif,maharashtra,thane,rice,54700.0,0.0
@@ -1367,26 +1367,26 @@ kharif,maharashtra,yavatmal,maize,1700.0,24283.0
 kharif,maharashtra,yavatmal,rice,0.0,0.0
 kharif,manipur,bishnupur,maize,880.0,0.0
 kharif,manipur,bishnupur,rice,31480.0,32360.0
-kharif,manipur,chandel,maize,3000.0,13010.0
-kharif,manipur,chandel,rice,10010.0,0.0
-kharif,manipur,churachandpur,maize,5440.0,14877.719080249444
-kharif,manipur,churachandpur,rice,29040.0,19602.280919750556
+kharif,manipur,chandel,maize,3000.0,0.0
+kharif,manipur,chandel,rice,10010.0,13010.0
+kharif,manipur,churachandpur,maize,5440.0,19718.286543890343
+kharif,manipur,churachandpur,rice,29040.0,14761.713456109657
 kharif,manipur,imphal east,maize,610.0,0.0
 kharif,manipur,imphal east,rice,40690.0,41300.0
 kharif,manipur,imphal west,maize,600.0,0.0
 kharif,manipur,imphal west,rice,43740.0,44340.0
 kharif,manipur,senapati,maize,3900.0,0.0
 kharif,manipur,senapati,rice,12100.0,16000.0
-kharif,manipur,tamenglong,maize,1940.0,29380.0
-kharif,manipur,tamenglong,rice,27440.0,0.0
+kharif,manipur,tamenglong,maize,1940.0,0.0
+kharif,manipur,tamenglong,rice,27440.0,29380.0
 kharif,manipur,thoubal,maize,1470.0,0.0
 kharif,manipur,thoubal,rice,32100.0,33570.0
 kharif,manipur,ukhrul,maize,1970.0,0.0
 kharif,manipur,ukhrul,rice,10110.0,12080.0
 kharif,meghalaya,east garo hills,maize,801.0,0.0
 kharif,meghalaya,east garo hills,rice,9126.0,9927.0
-kharif,meghalaya,east jaintia hills,maize,355.0,3833.1803196029077
-kharif,meghalaya,east jaintia hills,rice,4388.0,909.8196803970923
+kharif,meghalaya,east jaintia hills,maize,355.0,200.18966091537462
+kharif,meghalaya,east jaintia hills,rice,4388.0,4542.810339084625
 kharif,meghalaya,east khasi hills,maize,2111.0,7847.0
 kharif,meghalaya,east khasi hills,rice,5736.0,0.0
 kharif,meghalaya,north garo hills,maize,296.0,0.0
@@ -1405,20 +1405,20 @@ kharif,meghalaya,west jaintia hills,maize,2868.0,0.0
 kharif,meghalaya,west jaintia hills,rice,8030.0,10898.0
 kharif,meghalaya,west khasi hills,maize,3097.0,9119.0
 kharif,meghalaya,west khasi hills,rice,6022.0,0.0
-kharif,mizoram,aizawl,maize,505.0,4363.0
-kharif,mizoram,aizawl,rice,3858.0,0.0
-kharif,mizoram,champhai,maize,425.8,2270.5604118649603
-kharif,mizoram,champhai,rice,8890.4,7045.639588135038
+kharif,mizoram,aizawl,maize,505.0,0.0
+kharif,mizoram,aizawl,rice,3858.0,4363.0
+kharif,mizoram,champhai,maize,425.8,0.0
+kharif,mizoram,champhai,rice,8890.4,9316.199999999999
 kharif,mizoram,kolasib,maize,731.0,0.0
 kharif,mizoram,kolasib,rice,5668.0,6399.0
-kharif,mizoram,lawngtlai,maize,693.0,6030.0
-kharif,mizoram,lawngtlai,rice,5337.0,0.0
-kharif,mizoram,lunglei,maize,487.2,3876.8999999999996
-kharif,mizoram,lunglei,rice,3389.7,0.0
-kharif,mizoram,mamit,maize,896.0,4046.0
-kharif,mizoram,mamit,rice,3150.0,0.0
-kharif,mizoram,saiha,maize,206.0,1344.0
-kharif,mizoram,saiha,rice,1138.0,0.0
+kharif,mizoram,lawngtlai,maize,693.0,3468.900896489401
+kharif,mizoram,lawngtlai,rice,5337.0,2561.099103510599
+kharif,mizoram,lunglei,maize,487.2,0.0
+kharif,mizoram,lunglei,rice,3389.7,3876.8999999999996
+kharif,mizoram,mamit,maize,896.0,0.0
+kharif,mizoram,mamit,rice,3150.0,4046.0
+kharif,mizoram,saiha,maize,206.0,0.0
+kharif,mizoram,saiha,rice,1138.0,1344.0
 kharif,mizoram,serchhip,maize,1530.0,0.0
 kharif,mizoram,serchhip,rice,4196.1,5726.1
 kharif,nagaland,dimapur,bajra,60.0,0.0
@@ -1426,25 +1426,25 @@ kharif,nagaland,dimapur,maize,5360.0,0.0
 kharif,nagaland,dimapur,ragi,50.0,0.0
 kharif,nagaland,dimapur,rice,46630.0,52100.0
 kharif,nagaland,kiphire,bajra,30.0,0.0
-kharif,nagaland,kiphire,maize,7260.0,19320.0
-kharif,nagaland,kiphire,ragi,30.0,0.0
-kharif,nagaland,kiphire,rice,12000.0,0.0
+kharif,nagaland,kiphire,maize,7260.0,0.0
+kharif,nagaland,kiphire,ragi,30.0,821.5194597504475
+kharif,nagaland,kiphire,rice,12000.0,18498.48054024955
 kharif,nagaland,kohima,bajra,90.0,0.0
 kharif,nagaland,kohima,jowar,60.0,0.0
 kharif,nagaland,kohima,maize,4610.0,0.0
 kharif,nagaland,kohima,rice,16210.0,20970.0
 kharif,nagaland,longleng,bajra,50.0,0.0
-kharif,nagaland,longleng,maize,3040.0,11680.0
+kharif,nagaland,longleng,maize,3040.0,0.0
 kharif,nagaland,longleng,ragi,20.0,0.0
-kharif,nagaland,longleng,rice,8570.0,0.0
+kharif,nagaland,longleng,rice,8570.0,11680.0
 kharif,nagaland,mokokchung,bajra,60.0,0.0
 kharif,nagaland,mokokchung,maize,3100.0,0.0
 kharif,nagaland,mokokchung,ragi,80.0,0.0
 kharif,nagaland,mokokchung,rice,16670.0,19910.0
 kharif,nagaland,mon,bajra,100.0,0.0
 kharif,nagaland,mon,jowar,60.0,0.0
-kharif,nagaland,mon,maize,4570.0,25860.0
-kharif,nagaland,mon,ragi,40.0,0.0
+kharif,nagaland,mon,maize,4570.0,0.0
+kharif,nagaland,mon,ragi,40.0,25860.0
 kharif,nagaland,mon,rice,21090.0,0.0
 kharif,nagaland,peren,bajra,40.0,0.0
 kharif,nagaland,peren,maize,3100.0,0.0
@@ -1454,18 +1454,18 @@ kharif,nagaland,phek,jowar,50.0,0.0
 kharif,nagaland,phek,maize,8110.0,0.0
 kharif,nagaland,phek,rice,16740.0,24970.0
 kharif,nagaland,tuensang,bajra,100.0,0.0
-kharif,nagaland,tuensang,maize,10150.0,6381.466818634133
+kharif,nagaland,tuensang,maize,10150.0,0.0
 kharif,nagaland,tuensang,ragi,80.0,0.0
-kharif,nagaland,tuensang,rice,17170.0,21118.533181365867
+kharif,nagaland,tuensang,rice,17170.0,27500.0
 kharif,nagaland,wokha,bajra,40.0,0.0
 kharif,nagaland,wokha,jowar,50.0,0.0
 kharif,nagaland,wokha,maize,4280.0,0.0
 kharif,nagaland,wokha,ragi,40.0,0.0
 kharif,nagaland,wokha,rice,19770.0,24180.0
 kharif,nagaland,zunheboto,bajra,60.0,0.0
-kharif,nagaland,zunheboto,jowar,50.0,3811.8312414707907
-kharif,nagaland,zunheboto,maize,10100.0,21078.16875852921
-kharif,nagaland,zunheboto,rice,14680.0,0.0
+kharif,nagaland,zunheboto,jowar,50.0,0.0
+kharif,nagaland,zunheboto,maize,10100.0,0.0
+kharif,nagaland,zunheboto,rice,14680.0,24890.0
 kharif,odisha,anugul,maize,388.0,0.0
 kharif,odisha,anugul,ragi,0.0,0.0
 kharif,odisha,anugul,rice,91570.0,91958.0
@@ -1474,9 +1474,9 @@ kharif,odisha,balangir,maize,526.0,0.0
 kharif,odisha,balangir,ragi,0.0,0.0
 kharif,odisha,balangir,rice,155240.0,155766.0
 kharif,odisha,baleshwar,rice,185400.0,185400.0
-kharif,odisha,bargarh,maize,203.0,159339.7185668304
-kharif,odisha,bargarh,ragi,0.0,74173.28143316961
-kharif,odisha,bargarh,rice,233310.0,0.0
+kharif,odisha,bargarh,maize,203.0,0.0
+kharif,odisha,bargarh,ragi,0.0,0.0
+kharif,odisha,bargarh,rice,233310.0,233513.0
 kharif,odisha,bhadrak,maize,0.0,0.0
 kharif,odisha,bhadrak,rice,156750.0,156750.0
 kharif,odisha,boudh,maize,92.0,0.0
@@ -1523,9 +1523,9 @@ kharif,odisha,kandhamal,rice,30000.0,30928.0
 kharif,odisha,kendrapara,rice,121810.0,121810.0
 kharif,odisha,kendujhar,bajra,0.0,0.0
 kharif,odisha,kendujhar,jowar,0.0,0.0
-kharif,odisha,kendujhar,maize,2046.0,0.0
+kharif,odisha,kendujhar,maize,2046.0,165753.05729150874
 kharif,odisha,kendujhar,ragi,0.0,0.0
-kharif,odisha,kendujhar,rice,187440.0,189486.0
+kharif,odisha,kendujhar,rice,187440.0,23732.94270849126
 kharif,odisha,khordha,maize,1.0,0.0
 kharif,odisha,khordha,ragi,1.0,0.0
 kharif,odisha,khordha,rice,83600.0,83602.0
@@ -1551,10 +1551,10 @@ kharif,odisha,nayagarh,maize,199.0,0.0
 kharif,odisha,nayagarh,ragi,28.0,0.0
 kharif,odisha,nayagarh,rice,90620.0,90847.0
 kharif,odisha,nuapada,bajra,0.0,0.0
-kharif,odisha,nuapada,jowar,0.0,87761.0
+kharif,odisha,nuapada,jowar,0.0,0.0
 kharif,odisha,nuapada,maize,791.0,0.0
 kharif,odisha,nuapada,ragi,150.0,0.0
-kharif,odisha,nuapada,rice,86820.0,0.0
+kharif,odisha,nuapada,rice,86820.0,87761.0
 kharif,odisha,puri,ragi,0.0,0.0
 kharif,odisha,puri,rice,85190.0,85190.0
 kharif,odisha,rayagada,bajra,0.0,0.0
@@ -1563,9 +1563,9 @@ kharif,odisha,rayagada,maize,2506.0,0.0
 kharif,odisha,rayagada,ragi,8310.0,0.0
 kharif,odisha,rayagada,rice,50860.0,61676.0
 kharif,odisha,sambalpur,jowar,0.0,0.0
-kharif,odisha,sambalpur,maize,0.0,129460.0
+kharif,odisha,sambalpur,maize,0.0,25855.23657564407
 kharif,odisha,sambalpur,ragi,0.0,0.0
-kharif,odisha,sambalpur,rice,129460.0,0.0
+kharif,odisha,sambalpur,rice,129460.0,103604.76342435593
 kharif,odisha,sonepur,maize,0.0,0.0
 kharif,odisha,sonepur,ragi,0.0,0.0
 kharif,odisha,sonepur,rice,95270.0,95270.0
@@ -1574,12 +1574,12 @@ kharif,odisha,sundargarh,jowar,0.0,0.0
 kharif,odisha,sundargarh,maize,549.0,0.0
 kharif,odisha,sundargarh,ragi,315.0,0.0
 kharif,odisha,sundargarh,rice,198800.0,199664.0
-kharif,puducherry,karaikal,ragi,0.0,19.172707171068847
-kharif,puducherry,karaikal,rice,532.0,512.8272928289311
-kharif,puducherry,pondicherry,bajra,9.0,0.0
-kharif,puducherry,pondicherry,jowar,3.0,41.33909144066274
+kharif,puducherry,karaikal,ragi,0.0,15.170411234755273
+kharif,puducherry,karaikal,rice,532.0,516.8295887652447
+kharif,puducherry,pondicherry,bajra,9.0,35.84585196142325
+kharif,puducherry,pondicherry,jowar,3.0,0.0
 kharif,puducherry,pondicherry,ragi,19.0,0.0
-kharif,puducherry,pondicherry,rice,3504.0,3493.6609085593373
+kharif,puducherry,pondicherry,rice,3504.0,3499.1541480385767
 kharif,puducherry,yanam,rice,289.0,289.0
 kharif,punjab,amritsar,bajra,0.0,0.0
 kharif,punjab,amritsar,maize,2000.0,0.0
@@ -1666,8 +1666,8 @@ kharif,rajasthan,bundi,bajra,922.0,0.0
 kharif,rajasthan,bundi,jowar,99.0,0.0
 kharif,rajasthan,bundi,maize,22944.0,70971.0
 kharif,rajasthan,bundi,rice,47006.0,0.0
-kharif,rajasthan,chittaurgarh,jowar,13326.0,88417.1555510919
-kharif,rajasthan,chittaurgarh,maize,106827.0,31735.8444489081
+kharif,rajasthan,chittaurgarh,jowar,13326.0,42639.35480610732
+kharif,rajasthan,chittaurgarh,maize,106827.0,77513.64519389268
 kharif,rajasthan,chittorgarh,bajra,31.0,1107.0
 kharif,rajasthan,chittorgarh,jowar,0.0,0.0
 kharif,rajasthan,chittorgarh,rice,1076.0,0.0
@@ -1701,10 +1701,10 @@ kharif,rajasthan,jaisalmer,jowar,2748.0,0.0
 kharif,rajasthan,jalore,bajra,314116.0,318783.0
 kharif,rajasthan,jalore,jowar,4633.0,0.0
 kharif,rajasthan,jalore,maize,34.0,0.0
-kharif,rajasthan,jhalawar,bajra,11.0,0.0
+kharif,rajasthan,jhalawar,bajra,11.0,13379.814788156982
 kharif,rajasthan,jhalawar,jowar,632.0,0.0
-kharif,rajasthan,jhalawar,maize,45990.0,9273.130638934796
-kharif,rajasthan,jhalawar,rice,4445.0,41804.869361065204
+kharif,rajasthan,jhalawar,maize,45990.0,0.0
+kharif,rajasthan,jhalawar,rice,4445.0,37698.18521184302
 kharif,rajasthan,jhunjhunun,bajra,219330.0,219330.0
 kharif,rajasthan,jodhpur,bajra,421940.0,456434.0
 kharif,rajasthan,jodhpur,jowar,34491.0,0.0
@@ -1727,8 +1727,8 @@ kharif,rajasthan,pratapgarh,bajra,7.0,43052.0
 kharif,rajasthan,pratapgarh,jowar,6.0,0.0
 kharif,rajasthan,pratapgarh,maize,42210.0,0.0
 kharif,rajasthan,pratapgarh,rice,829.0,0.0
-kharif,rajasthan,rajsamand,bajra,315.0,0.0
-kharif,rajasthan,rajsamand,jowar,10049.0,73905.0
+kharif,rajasthan,rajsamand,bajra,315.0,73905.0
+kharif,rajasthan,rajsamand,jowar,10049.0,0.0
 kharif,rajasthan,rajsamand,maize,63510.0,0.0
 kharif,rajasthan,rajsamand,rice,31.0,0.0
 kharif,rajasthan,sawai madhopur,bajra,63400.0,65701.0
@@ -1756,11 +1756,11 @@ kharif,sikkim,north district,maize,2827.0,3750.0
 kharif,sikkim,north district,rice,923.0,0.0
 kharif,sikkim,south district,maize,13500.0,15300.0
 kharif,sikkim,south district,rice,1800.0,0.0
-kharif,sikkim,west district,maize,13142.0,6766.003887659077
-kharif,sikkim,west district,rice,1969.0,8344.996112340923
-kharif,tamil nadu,ariyalur,bajra,1473.0,0.0
+kharif,sikkim,west district,maize,13142.0,6351.910736050226
+kharif,sikkim,west district,rice,1969.0,8759.089263949774
+kharif,tamil nadu,ariyalur,bajra,1473.0,36736.0
 kharif,tamil nadu,ariyalur,jowar,241.0,0.0
-kharif,tamil nadu,ariyalur,maize,12828.0,36736.0
+kharif,tamil nadu,ariyalur,maize,12828.0,0.0
 kharif,tamil nadu,ariyalur,ragi,10.0,0.0
 kharif,tamil nadu,ariyalur,rice,22184.0,0.0
 kharif,tamil nadu,coimbatore,bajra,116.0,0.0
@@ -1773,14 +1773,14 @@ kharif,tamil nadu,cuddalore,jowar,17.0,0.0
 kharif,tamil nadu,cuddalore,maize,17894.0,0.0
 kharif,tamil nadu,cuddalore,ragi,97.0,0.0
 kharif,tamil nadu,cuddalore,rice,123810.0,0.0
-kharif,tamil nadu,dharmapuri,bajra,390.0,0.0
+kharif,tamil nadu,dharmapuri,bajra,390.0,33336.155128585684
 kharif,tamil nadu,dharmapuri,jowar,21775.0,0.0
-kharif,tamil nadu,dharmapuri,maize,6531.0,56530.0
+kharif,tamil nadu,dharmapuri,maize,6531.0,23193.844871414316
 kharif,tamil nadu,dharmapuri,ragi,10562.0,0.0
 kharif,tamil nadu,dharmapuri,rice,17272.0,0.0
-kharif,tamil nadu,dindigul,bajra,243.0,0.0
+kharif,tamil nadu,dindigul,bajra,243.0,31421.0
 kharif,tamil nadu,dindigul,jowar,21263.0,0.0
-kharif,tamil nadu,dindigul,maize,4596.0,31421.0
+kharif,tamil nadu,dindigul,maize,4596.0,0.0
 kharif,tamil nadu,dindigul,ragi,9.0,0.0
 kharif,tamil nadu,dindigul,rice,5310.0,0.0
 kharif,tamil nadu,erode,bajra,150.0,0.0
@@ -1788,11 +1788,11 @@ kharif,tamil nadu,erode,jowar,21.0,0.0
 kharif,tamil nadu,erode,maize,11636.0,26302.0
 kharif,tamil nadu,erode,ragi,5458.0,0.0
 kharif,tamil nadu,erode,rice,9037.0,0.0
-kharif,tamil nadu,kancheepuram,ragi,0.0,68387.0
-kharif,tamil nadu,kancheepuram,rice,68387.0,0.0
-kharif,tamil nadu,kanchipuram,bajra,19.0,0.0
+kharif,tamil nadu,kancheepuram,ragi,0.0,0.0
+kharif,tamil nadu,kancheepuram,rice,68387.0,68387.0
+kharif,tamil nadu,kanchipuram,bajra,19.0,99.0
 kharif,tamil nadu,kanchipuram,jowar,5.0,0.0
-kharif,tamil nadu,kanchipuram,maize,0.0,99.0
+kharif,tamil nadu,kanchipuram,maize,0.0,0.0
 kharif,tamil nadu,kanchipuram,ragi,75.0,0.0
 kharif,tamil nadu,kanniyakumari,jowar,1.0,0.0
 kharif,tamil nadu,kanniyakumari,maize,1.0,9516.0
@@ -1802,9 +1802,9 @@ kharif,tamil nadu,karur,jowar,10495.0,0.0
 kharif,tamil nadu,karur,maize,354.0,22094.0
 kharif,tamil nadu,karur,ragi,2.0,0.0
 kharif,tamil nadu,karur,rice,11011.0,0.0
-kharif,tamil nadu,krishnagiri,bajra,612.0,0.0
+kharif,tamil nadu,krishnagiri,bajra,612.0,58864.0
 kharif,tamil nadu,krishnagiri,jowar,3729.0,0.0
-kharif,tamil nadu,krishnagiri,maize,2357.0,58864.0
+kharif,tamil nadu,krishnagiri,maize,2357.0,0.0
 kharif,tamil nadu,krishnagiri,ragi,36166.0,0.0
 kharif,tamil nadu,krishnagiri,rice,16000.0,0.0
 kharif,tamil nadu,madurai,bajra,909.0,35415.0
@@ -1826,92 +1826,92 @@ kharif,tamil nadu,perambalur,jowar,482.0,0.0
 kharif,tamil nadu,perambalur,maize,37015.0,45289.0
 kharif,tamil nadu,perambalur,ragi,2.0,0.0
 kharif,tamil nadu,perambalur,rice,7734.0,0.0
-kharif,tamil nadu,pudukkottai,bajra,9.0,0.0
+kharif,tamil nadu,pudukkottai,bajra,9.0,85848.0
 kharif,tamil nadu,pudukkottai,jowar,27.0,0.0
 kharif,tamil nadu,pudukkottai,maize,1741.0,0.0
-kharif,tamil nadu,pudukkottai,ragi,9.0,85848.0
+kharif,tamil nadu,pudukkottai,ragi,9.0,0.0
 kharif,tamil nadu,pudukkottai,rice,84062.0,0.0
 kharif,tamil nadu,ramanathapuram,jowar,0.0,0.0
 kharif,tamil nadu,ramanathapuram,maize,0.0,126644.0
 kharif,tamil nadu,ramanathapuram,ragi,1.0,0.0
 kharif,tamil nadu,ramanathapuram,rice,126643.0,0.0
-kharif,tamil nadu,salem,bajra,547.0,0.0
+kharif,tamil nadu,salem,bajra,547.0,81210.0
 kharif,tamil nadu,salem,jowar,36502.0,0.0
-kharif,tamil nadu,salem,maize,25079.0,81210.0
+kharif,tamil nadu,salem,maize,25079.0,0.0
 kharif,tamil nadu,salem,ragi,4619.0,0.0
 kharif,tamil nadu,salem,rice,14463.0,0.0
-kharif,tamil nadu,sivaganga,bajra,1.0,0.0
+kharif,tamil nadu,sivaganga,bajra,1.0,72142.0
 kharif,tamil nadu,sivaganga,jowar,53.0,0.0
-kharif,tamil nadu,sivaganga,maize,19.0,72142.0
+kharif,tamil nadu,sivaganga,maize,19.0,0.0
 kharif,tamil nadu,sivaganga,ragi,49.0,0.0
 kharif,tamil nadu,sivaganga,rice,72020.0,0.0
-kharif,tamil nadu,thanjavur,bajra,2.0,0.0
+kharif,tamil nadu,thanjavur,bajra,2.0,157760.0
 kharif,tamil nadu,thanjavur,jowar,4.0,0.0
-kharif,tamil nadu,thanjavur,maize,593.0,157760.0
+kharif,tamil nadu,thanjavur,maize,593.0,0.0
 kharif,tamil nadu,thanjavur,ragi,2.0,0.0
 kharif,tamil nadu,thanjavur,rice,157159.0,0.0
 kharif,tamil nadu,the nilgiris,jowar,0.0,0.0
 kharif,tamil nadu,the nilgiris,maize,0.0,239.0
 kharif,tamil nadu,the nilgiris,ragi,0.0,0.0
 kharif,tamil nadu,the nilgiris,rice,239.0,0.0
-kharif,tamil nadu,theni,bajra,637.0,0.0
+kharif,tamil nadu,theni,bajra,637.0,15103.0
 kharif,tamil nadu,theni,jowar,4765.0,0.0
-kharif,tamil nadu,theni,maize,2943.0,15103.0
+kharif,tamil nadu,theni,maize,2943.0,0.0
 kharif,tamil nadu,theni,ragi,14.0,0.0
 kharif,tamil nadu,theni,rice,6744.0,0.0
-kharif,tamil nadu,thiruvallur,bajra,692.0,0.0
+kharif,tamil nadu,thiruvallur,bajra,692.0,78599.0
 kharif,tamil nadu,thiruvallur,jowar,15.0,0.0
-kharif,tamil nadu,thiruvallur,maize,0.0,78599.0
+kharif,tamil nadu,thiruvallur,maize,0.0,0.0
 kharif,tamil nadu,thiruvallur,ragi,52.0,0.0
 kharif,tamil nadu,thiruvallur,rice,77840.0,0.0
 kharif,tamil nadu,thiruvarur,maize,0.0,170956.0
 kharif,tamil nadu,thiruvarur,rice,170956.0,0.0
-kharif,tamil nadu,tiruchirappalli,bajra,440.0,0.0
+kharif,tamil nadu,tiruchirappalli,bajra,440.0,84710.0
 kharif,tamil nadu,tiruchirappalli,jowar,28756.0,0.0
-kharif,tamil nadu,tiruchirappalli,maize,11580.0,84710.0
+kharif,tamil nadu,tiruchirappalli,maize,11580.0,0.0
 kharif,tamil nadu,tiruchirappalli,ragi,4.0,0.0
 kharif,tamil nadu,tiruchirappalli,rice,43930.0,0.0
-kharif,tamil nadu,tirunelveli,bajra,0.0,0.0
+kharif,tamil nadu,tirunelveli,bajra,0.0,40248.0
 kharif,tamil nadu,tirunelveli,jowar,318.0,0.0
-kharif,tamil nadu,tirunelveli,maize,1836.0,40248.0
+kharif,tamil nadu,tirunelveli,maize,1836.0,0.0
 kharif,tamil nadu,tirunelveli,ragi,1.0,0.0
 kharif,tamil nadu,tirunelveli,rice,38093.0,0.0
-kharif,tamil nadu,tiruppur,bajra,183.0,0.0
+kharif,tamil nadu,tiruppur,bajra,183.0,26371.0
 kharif,tamil nadu,tiruppur,jowar,16887.0,0.0
-kharif,tamil nadu,tiruppur,maize,2396.0,26371.0
+kharif,tamil nadu,tiruppur,maize,2396.0,0.0
 kharif,tamil nadu,tiruppur,ragi,0.0,0.0
 kharif,tamil nadu,tiruppur,rice,6905.0,0.0
-kharif,tamil nadu,tiruvannamalai,bajra,5175.0,0.0
+kharif,tamil nadu,tiruvannamalai,bajra,5175.0,108419.0
 kharif,tamil nadu,tiruvannamalai,jowar,308.0,0.0
-kharif,tamil nadu,tiruvannamalai,maize,544.0,108419.0
+kharif,tamil nadu,tiruvannamalai,maize,544.0,0.0
 kharif,tamil nadu,tiruvannamalai,ragi,1452.0,0.0
 kharif,tamil nadu,tiruvannamalai,rice,100940.0,0.0
-kharif,tamil nadu,tuticorin,bajra,0.0,0.0
+kharif,tamil nadu,tuticorin,bajra,0.0,4075.0
 kharif,tamil nadu,tuticorin,jowar,0.0,0.0
-kharif,tamil nadu,tuticorin,maize,0.0,4075.0
+kharif,tamil nadu,tuticorin,maize,0.0,0.0
 kharif,tamil nadu,tuticorin,ragi,0.0,0.0
 kharif,tamil nadu,tuticorin,rice,4075.0,0.0
 kharif,tamil nadu,vellore,bajra,1346.0,0.0
 kharif,tamil nadu,vellore,jowar,4648.0,0.0
-kharif,tamil nadu,vellore,maize,2588.0,23991.029494385282
-kharif,tamil nadu,vellore,ragi,2230.0,18494.970505614718
+kharif,tamil nadu,vellore,maize,2588.0,42486.0
+kharif,tamil nadu,vellore,ragi,2230.0,0.0
 kharif,tamil nadu,vellore,rice,31674.0,0.0
-kharif,tamil nadu,villupuram,bajra,27311.0,0.0
+kharif,tamil nadu,villupuram,bajra,27311.0,28662.0
 kharif,tamil nadu,villupuram,jowar,1351.0,0.0
-kharif,tamil nadu,villupuram,maize,0.0,28662.0
+kharif,tamil nadu,villupuram,maize,0.0,0.0
 kharif,tamil nadu,villupuram,ragi,0.0,0.0
-kharif,tamil nadu,viluppuram,bajra,0.0,0.0
-kharif,tamil nadu,viluppuram,maize,9669.0,131508.0
+kharif,tamil nadu,viluppuram,bajra,0.0,131508.0
+kharif,tamil nadu,viluppuram,maize,9669.0,0.0
 kharif,tamil nadu,viluppuram,ragi,1131.0,0.0
 kharif,tamil nadu,viluppuram,rice,120708.0,0.0
-kharif,tamil nadu,virudhunagar,bajra,77.0,0.0
+kharif,tamil nadu,virudhunagar,bajra,77.0,16788.0
 kharif,tamil nadu,virudhunagar,jowar,0.0,0.0
-kharif,tamil nadu,virudhunagar,maize,0.0,16788.0
+kharif,tamil nadu,virudhunagar,maize,0.0,0.0
 kharif,tamil nadu,virudhunagar,ragi,7.0,0.0
 kharif,tamil nadu,virudhunagar,rice,16704.0,0.0
-kharif,tamil nadu,virudunagar,bajra,0.0,0.0
+kharif,tamil nadu,virudunagar,bajra,0.0,9394.0
 kharif,tamil nadu,virudunagar,jowar,5125.0,0.0
-kharif,tamil nadu,virudunagar,maize,4269.0,9394.0
+kharif,tamil nadu,virudunagar,maize,4269.0,0.0
 kharif,tamil nadu,virudunagar,rice,0.0,0.0
 kharif,telangana,adilabad,bajra,0.0,3889.0
 kharif,telangana,adilabad,jowar,3005.0,0.0
@@ -1926,10 +1926,10 @@ kharif,telangana,hanumakonda,ragi,0.0,0.0
 kharif,telangana,hanumakonda,rice,16651.0,0.0
 kharif,telangana,jagitial,maize,21863.0,0.0
 kharif,telangana,jagitial,rice,43602.0,65465.0
-kharif,telangana,jangoan,jowar,14.0,6899.9001152146
-kharif,telangana,jangoan,maize,9482.0,28841.0998847854
+kharif,telangana,jangoan,jowar,14.0,0.0
+kharif,telangana,jangoan,maize,9482.0,0.0
 kharif,telangana,jangoan,ragi,0.0,0.0
-kharif,telangana,jangoan,rice,26245.0,0.0
+kharif,telangana,jangoan,rice,26245.0,35741.0
 kharif,telangana,jayashankar,maize,2046.0,62016.0
 kharif,telangana,jayashankar,ragi,0.0,0.0
 kharif,telangana,jayashankar,rice,59970.0,0.0
@@ -1939,9 +1939,9 @@ kharif,telangana,jogulamba,maize,6910.0,0.0
 kharif,telangana,jogulamba,ragi,0.0,0.0
 kharif,telangana,jogulamba,rice,17677.0,0.0
 kharif,telangana,kamareddy,jowar,153.0,0.0
-kharif,telangana,kamareddy,maize,26288.0,80015.26580793258
+kharif,telangana,kamareddy,maize,26288.0,0.0
 kharif,telangana,kamareddy,ragi,0.0,0.0
-kharif,telangana,kamareddy,rice,54599.0,1024.734192067419
+kharif,telangana,kamareddy,rice,54599.0,81040.0
 kharif,telangana,karimnagar,jowar,0.0,0.0
 kharif,telangana,karimnagar,maize,8394.0,0.0
 kharif,telangana,karimnagar,rice,46710.0,55104.0
@@ -1955,8 +1955,8 @@ kharif,telangana,komaram bheem asifabad,jowar,1743.0,0.0
 kharif,telangana,komaram bheem asifabad,maize,1148.0,0.0
 kharif,telangana,komaram bheem asifabad,ragi,0.0,0.0
 kharif,telangana,komaram bheem asifabad,rice,7311.0,0.0
-kharif,telangana,mahabubabad,jowar,20.0,0.0
-kharif,telangana,mahabubabad,maize,14631.0,50993.0
+kharif,telangana,mahabubabad,jowar,20.0,5136.158693164632
+kharif,telangana,mahabubabad,maize,14631.0,45856.84130683537
 kharif,telangana,mahabubabad,rice,36342.0,0.0
 kharif,telangana,mahbubnagar,bajra,0.0,86186.0
 kharif,telangana,mahbubnagar,jowar,15116.0,0.0
@@ -1980,11 +1980,11 @@ kharif,telangana,nagarkurnool,jowar,3577.0,0.0
 kharif,telangana,nagarkurnool,maize,65344.0,0.0
 kharif,telangana,nagarkurnool,ragi,207.0,0.0
 kharif,telangana,nagarkurnool,rice,8272.0,0.0
-kharif,telangana,nalgonda,bajra,127.0,0.0
-kharif,telangana,nalgonda,jowar,245.0,64099.0
+kharif,telangana,nalgonda,bajra,127.0,5210.682421971229
+kharif,telangana,nalgonda,jowar,245.0,0.0
 kharif,telangana,nalgonda,maize,66.0,0.0
 kharif,telangana,nalgonda,ragi,0.0,0.0
-kharif,telangana,nalgonda,rice,63661.0,0.0
+kharif,telangana,nalgonda,rice,63661.0,58888.31757802877
 kharif,telangana,nirmal,jowar,4.0,0.0
 kharif,telangana,nirmal,maize,7982.0,28299.0
 kharif,telangana,nirmal,ragi,0.0,0.0
@@ -1997,20 +1997,20 @@ kharif,telangana,peddapalli,jowar,0.0,0.0
 kharif,telangana,peddapalli,maize,1499.0,51568.0
 kharif,telangana,peddapalli,ragi,0.0,0.0
 kharif,telangana,peddapalli,rice,50069.0,0.0
-kharif,telangana,rajanna,bajra,0.0,24689.0
+kharif,telangana,rajanna,bajra,0.0,0.0
 kharif,telangana,rajanna,jowar,0.0,0.0
 kharif,telangana,rajanna,maize,1965.0,0.0
 kharif,telangana,rajanna,ragi,0.0,0.0
-kharif,telangana,rajanna,rice,22724.0,0.0
+kharif,telangana,rajanna,rice,22724.0,24689.0
 kharif,telangana,rangareddi,bajra,66.0,69585.0
 kharif,telangana,rangareddi,jowar,5719.0,0.0
 kharif,telangana,rangareddi,maize,50529.0,0.0
 kharif,telangana,rangareddi,ragi,15.0,0.0
 kharif,telangana,rangareddi,rice,13256.0,0.0
-kharif,telangana,sangareddy,bajra,98.0,39885.0
+kharif,telangana,sangareddy,bajra,98.0,0.0
 kharif,telangana,sangareddy,jowar,5186.0,0.0
 kharif,telangana,sangareddy,maize,13561.0,0.0
-kharif,telangana,sangareddy,rice,21040.0,0.0
+kharif,telangana,sangareddy,rice,21040.0,39885.0
 kharif,telangana,siddipet,jowar,16.0,0.0
 kharif,telangana,siddipet,maize,68570.0,0.0
 kharif,telangana,siddipet,rice,34495.0,103081.0
@@ -2141,14 +2141,14 @@ kharif,uttar pradesh,chandauli,bajra,4150.0,0.0
 kharif,uttar pradesh,chandauli,jowar,768.0,0.0
 kharif,uttar pradesh,chandauli,maize,46.0,0.0
 kharif,uttar pradesh,chandauli,rice,114635.0,119599.0
-kharif,uttar pradesh,chitrakoot,bajra,10188.0,0.0
-kharif,uttar pradesh,chitrakoot,jowar,16806.0,35956.0
-kharif,uttar pradesh,chitrakoot,maize,5.0,0.0
+kharif,uttar pradesh,chitrakoot,bajra,10188.0,14697.13434678898
+kharif,uttar pradesh,chitrakoot,jowar,16806.0,0.0
+kharif,uttar pradesh,chitrakoot,maize,5.0,21258.865653211018
 kharif,uttar pradesh,chitrakoot,rice,8957.0,0.0
-kharif,uttar pradesh,deoria,bajra,148.0,37019.07024126398
+kharif,uttar pradesh,deoria,bajra,148.0,141357.0
 kharif,uttar pradesh,deoria,jowar,43.0,0.0
 kharif,uttar pradesh,deoria,maize,5277.0,0.0
-kharif,uttar pradesh,deoria,rice,135889.0,104337.92975873602
+kharif,uttar pradesh,deoria,rice,135889.0,0.0
 kharif,uttar pradesh,etah,bajra,49031.0,85708.0
 kharif,uttar pradesh,etah,jowar,0.0,0.0
 kharif,uttar pradesh,etah,maize,22433.0,0.0
@@ -2166,9 +2166,9 @@ kharif,uttar pradesh,farrukhabad,jowar,1099.0,0.0
 kharif,uttar pradesh,farrukhabad,maize,31324.0,0.0
 kharif,uttar pradesh,farrukhabad,rice,14261.0,50585.0
 kharif,uttar pradesh,fatehpur,bajra,7395.0,0.0
-kharif,uttar pradesh,fatehpur,jowar,8489.0,92601.09807363396
+kharif,uttar pradesh,fatehpur,jowar,8489.0,0.0
 kharif,uttar pradesh,fatehpur,maize,295.0,0.0
-kharif,uttar pradesh,fatehpur,rice,82064.0,5641.901926366046
+kharif,uttar pradesh,fatehpur,rice,82064.0,98243.0
 kharif,uttar pradesh,firozabad,bajra,83416.0,112759.0
 kharif,uttar pradesh,firozabad,jowar,32.0,0.0
 kharif,uttar pradesh,firozabad,maize,6782.0,0.0
@@ -2181,8 +2181,8 @@ kharif,uttar pradesh,ghaziabad,bajra,165.0,0.0
 kharif,uttar pradesh,ghaziabad,jowar,2.0,0.0
 kharif,uttar pradesh,ghaziabad,maize,234.0,0.0
 kharif,uttar pradesh,ghaziabad,rice,8948.0,9349.0
-kharif,uttar pradesh,ghazipur,bajra,14763.0,0.0
-kharif,uttar pradesh,ghazipur,jowar,2695.0,172901.0
+kharif,uttar pradesh,ghazipur,bajra,14763.0,172901.0
+kharif,uttar pradesh,ghazipur,jowar,2695.0,0.0
 kharif,uttar pradesh,ghazipur,maize,628.0,0.0
 kharif,uttar pradesh,ghazipur,rice,154815.0,0.0
 kharif,uttar pradesh,gonda,bajra,0.0,171410.0
@@ -2229,9 +2229,9 @@ kharif,uttar pradesh,kanpur dehat,jowar,11731.0,0.0
 kharif,uttar pradesh,kanpur dehat,maize,11578.0,0.0
 kharif,uttar pradesh,kanpur dehat,rice,40688.0,81286.0
 kharif,uttar pradesh,kanpur nagar,bajra,1173.0,0.0
-kharif,uttar pradesh,kanpur nagar,jowar,11705.0,79914.0
+kharif,uttar pradesh,kanpur nagar,jowar,11705.0,0.0
 kharif,uttar pradesh,kanpur nagar,maize,19698.0,0.0
-kharif,uttar pradesh,kanpur nagar,rice,47338.0,0.0
+kharif,uttar pradesh,kanpur nagar,rice,47338.0,79914.0
 kharif,uttar pradesh,kasganj,bajra,39789.0,82078.0
 kharif,uttar pradesh,kasganj,jowar,49.0,0.0
 kharif,uttar pradesh,kasganj,maize,27691.0,0.0
@@ -2240,8 +2240,8 @@ kharif,uttar pradesh,kaushambi,bajra,11466.0,0.0
 kharif,uttar pradesh,kaushambi,jowar,5426.0,0.0
 kharif,uttar pradesh,kaushambi,maize,165.0,0.0
 kharif,uttar pradesh,kaushambi,rice,48758.0,65815.0
-kharif,uttar pradesh,kheri,bajra,640.0,0.0
-kharif,uttar pradesh,kheri,jowar,43.0,7842.0
+kharif,uttar pradesh,kheri,bajra,640.0,7842.0
+kharif,uttar pradesh,kheri,jowar,43.0,0.0
 kharif,uttar pradesh,kheri,maize,7159.0,0.0
 kharif,uttar pradesh,kushi nagar,bajra,103.0,2875.0
 kharif,uttar pradesh,kushi nagar,jowar,0.0,0.0
@@ -2264,10 +2264,10 @@ kharif,uttar pradesh,mahoba,bajra,0.0,1998.0
 kharif,uttar pradesh,mahoba,jowar,1936.0,0.0
 kharif,uttar pradesh,mahoba,maize,26.0,0.0
 kharif,uttar pradesh,mahoba,rice,36.0,0.0
-kharif,uttar pradesh,mainpuri,bajra,18473.0,0.0
+kharif,uttar pradesh,mainpuri,bajra,18473.0,75313.56294875906
 kharif,uttar pradesh,mainpuri,jowar,506.0,0.0
 kharif,uttar pradesh,mainpuri,maize,40210.0,0.0
-kharif,uttar pradesh,mainpuri,rice,61658.0,120847.0
+kharif,uttar pradesh,mainpuri,rice,61658.0,45533.43705124094
 kharif,uttar pradesh,mathura,bajra,37588.0,0.0
 kharif,uttar pradesh,mathura,jowar,24.0,0.0
 kharif,uttar pradesh,mathura,maize,109.0,0.0
@@ -2361,9 +2361,9 @@ kharif,uttar pradesh,varanasi,rice,51719.0,63652.0
 kharif,uttarakhand,almora,maize,1874.0,47780.0
 kharif,uttarakhand,almora,ragi,31517.0,0.0
 kharif,uttarakhand,almora,rice,14389.0,0.0
-kharif,uttarakhand,bageshwar,bajra,0.0,0.0
+kharif,uttarakhand,bageshwar,bajra,0.0,20089.0
 kharif,uttarakhand,bageshwar,maize,288.0,0.0
-kharif,uttarakhand,bageshwar,ragi,5401.0,20089.0
+kharif,uttarakhand,bageshwar,ragi,5401.0,0.0
 kharif,uttarakhand,bageshwar,rice,14400.0,0.0
 kharif,uttarakhand,chamoli,maize,206.0,0.0
 kharif,uttarakhand,chamoli,ragi,9641.0,20874.0
@@ -2376,14 +2376,14 @@ kharif,uttarakhand,dehradun,maize,6748.0,17209.0
 kharif,uttarakhand,dehradun,ragi,1169.0,0.0
 kharif,uttarakhand,dehradun,rice,9292.0,0.0
 kharif,uttarakhand,hardwar,rice,13455.0,13455.0
-kharif,uttarakhand,haridwar,bajra,0.0,0.0
-kharif,uttarakhand,haridwar,jowar,0.0,583.0
+kharif,uttarakhand,haridwar,bajra,0.0,583.0
+kharif,uttarakhand,haridwar,jowar,0.0,0.0
 kharif,uttarakhand,haridwar,maize,583.0,0.0
 kharif,uttarakhand,haridwar,rice,0.0,0.0
-kharif,uttarakhand,nainital,bajra,0.0,0.0
+kharif,uttarakhand,nainital,bajra,0.0,14197.832329251749
 kharif,uttarakhand,nainital,maize,3384.0,0.0
 kharif,uttarakhand,nainital,ragi,1903.0,0.0
-kharif,uttarakhand,nainital,rice,10925.0,16212.0
+kharif,uttarakhand,nainital,rice,10925.0,2014.167670748251
 kharif,uttarakhand,pauri garhwal,maize,2221.0,0.0
 kharif,uttarakhand,pauri garhwal,ragi,17075.0,29314.0
 kharif,uttarakhand,pauri garhwal,rice,10018.0,0.0
@@ -2393,8 +2393,8 @@ kharif,uttarakhand,pithoragarh,rice,21103.0,30067.0
 kharif,uttarakhand,rudra prayag,maize,146.0,0.0
 kharif,uttarakhand,rudra prayag,ragi,6567.0,15276.0
 kharif,uttarakhand,rudra prayag,rice,8563.0,0.0
-kharif,uttarakhand,tehri garhwal,maize,2107.0,15251.094152420173
-kharif,uttarakhand,tehri garhwal,ragi,11080.0,8350.905847579827
+kharif,uttarakhand,tehri garhwal,maize,2107.0,5421.3872826978695
+kharif,uttarakhand,tehri garhwal,ragi,11080.0,18180.61271730213
 kharif,uttarakhand,tehri garhwal,rice,10415.0,0.0
 kharif,uttarakhand,udam singh nagar,maize,30.0,30.0
 kharif,uttarakhand,udam singh nagar,rice,0.0,0.0
@@ -2403,8 +2403,8 @@ kharif,uttarakhand,uttar kashi,maize,472.0,15950.0
 kharif,uttarakhand,uttar kashi,ragi,5229.0,0.0
 kharif,uttarakhand,uttar kashi,rice,10249.0,0.0
 kharif,west bengal,alipurduar,maize,3932.0,0.0
-kharif,west bengal,alipurduar,ragi,11.0,80522.0
-kharif,west bengal,alipurduar,rice,76579.0,0.0
+kharif,west bengal,alipurduar,ragi,11.0,0.0
+kharif,west bengal,alipurduar,rice,76579.0,80522.0
 kharif,west bengal,bankura,bajra,0.0,0.0
 kharif,west bengal,bankura,maize,333.0,0.0
 kharif,west bengal,bankura,rice,335271.0,335604.0
@@ -2413,12 +2413,12 @@ kharif,west bengal,birbhum,maize,370.0,0.0
 kharif,west bengal,birbhum,rice,335523.0,335893.0
 kharif,west bengal,coochbehar,bajra,0.0,0.0
 kharif,west bengal,coochbehar,maize,3884.0,0.0
-kharif,west bengal,coochbehar,ragi,0.0,140922.7572857332
-kharif,west bengal,coochbehar,rice,218126.0,81087.24271426679
+kharif,west bengal,coochbehar,ragi,0.0,0.0
+kharif,west bengal,coochbehar,rice,218126.0,222010.0
 kharif,west bengal,dakshin dinajpur,rice,164421.0,164421.0
 kharif,west bengal,darjeeling,maize,6102.0,0.0
-kharif,west bengal,darjeeling,ragi,0.0,32054.0
-kharif,west bengal,darjeeling,rice,25952.0,0.0
+kharif,west bengal,darjeeling,ragi,0.0,0.0
+kharif,west bengal,darjeeling,rice,25952.0,32054.0
 kharif,west bengal,dinajpur dakshin,maize,71.0,71.0
 kharif,west bengal,dinajpur dakshin,rice,0.0,0.0
 kharif,west bengal,dinajpur uttar,maize,6872.0,6872.0
@@ -2432,17 +2432,17 @@ kharif,west bengal,jalpaiguri,rice,116467.0,118631.0
 kharif,west bengal,jhargram,maize,72.0,0.0
 kharif,west bengal,jhargram,rice,169789.0,169861.0
 kharif,west bengal,kalimpong,maize,12125.0,0.0
-kharif,west bengal,kalimpong,ragi,3329.0,20278.0
-kharif,west bengal,kalimpong,rice,4824.0,0.0
-kharif,west bengal,maldah,maize,5840.0,156588.0
-kharif,west bengal,maldah,rice,150748.0,0.0
+kharif,west bengal,kalimpong,ragi,3329.0,12904.261499530568
+kharif,west bengal,kalimpong,rice,4824.0,7373.7385004694315
+kharif,west bengal,maldah,maize,5840.0,10045.014054966305
+kharif,west bengal,maldah,rice,150748.0,146542.9859450337
 kharif,west bengal,medinipur east,maize,0.0,0.0
 kharif,west bengal,medinipur east,rice,263188.0,263188.0
 kharif,west bengal,medinipur west,maize,38.0,0.0
 kharif,west bengal,medinipur west,rice,379380.0,379418.0
 kharif,west bengal,murshidabad,jowar,0.0,0.0
-kharif,west bengal,murshidabad,maize,2722.0,253949.0
-kharif,west bengal,murshidabad,rice,251227.0,0.0
+kharif,west bengal,murshidabad,maize,2722.0,0.0
+kharif,west bengal,murshidabad,rice,251227.0,253949.0
 kharif,west bengal,nadia,maize,897.0,0.0
 kharif,west bengal,nadia,rice,147852.0,148749.0
 kharif,west bengal,paraganas north,maize,183.0,0.0
@@ -2477,10 +2477,10 @@ rabi,andhra pradesh,east godavari,maize,0.0,0.0
 rabi,andhra pradesh,east godavari,ragi,0.0,0.0
 rabi,andhra pradesh,east godavari,rice,160856.0,162551.0
 rabi,andhra pradesh,guntur,bajra,63.0,0.0
-rabi,andhra pradesh,guntur,jowar,34359.0,16750.543491088516
-rabi,andhra pradesh,guntur,maize,57371.0,6776.286720872849
+rabi,andhra pradesh,guntur,jowar,34359.0,0.0
+rabi,andhra pradesh,guntur,maize,57371.0,7377.124426741644
 rabi,andhra pradesh,guntur,ragi,371.0,0.0
-rabi,andhra pradesh,guntur,rice,18663.0,87300.16978803862
+rabi,andhra pradesh,guntur,rice,18663.0,103449.87557325835
 rabi,andhra pradesh,guntur,wheat,0.0,0.0
 rabi,andhra pradesh,kadapa,bajra,3979.0,0.0
 rabi,andhra pradesh,kadapa,jowar,8278.0,0.0
@@ -2491,10 +2491,10 @@ rabi,andhra pradesh,kadapa,wheat,14.0,0.0
 rabi,andhra pradesh,krishna,jowar,1335.0,0.0
 rabi,andhra pradesh,krishna,maize,23547.0,0.0
 rabi,andhra pradesh,krishna,rice,22744.0,47626.0
-rabi,andhra pradesh,kurnool,bajra,310.0,0.0
+rabi,andhra pradesh,kurnool,bajra,310.0,43050.791288942346
 rabi,andhra pradesh,kurnool,jowar,47424.0,0.0
 rabi,andhra pradesh,kurnool,maize,12880.0,0.0
-rabi,andhra pradesh,kurnool,ragi,0.0,103128.0
+rabi,andhra pradesh,kurnool,ragi,0.0,60077.208711057654
 rabi,andhra pradesh,kurnool,rice,42498.0,0.0
 rabi,andhra pradesh,kurnool,wheat,16.0,0.0
 rabi,andhra pradesh,nellore,rice,203344.0,203344.0
@@ -2572,8 +2572,8 @@ rabi,assam,karimganj,rice,5235.0,5240.0
 rabi,assam,karimganj,wheat,5.0,0.0
 rabi,assam,kokrajhar,rice,17958.0,18796.0
 rabi,assam,kokrajhar,wheat,838.0,0.0
-rabi,assam,lakhimpur,rice,15176.0,0.0
-rabi,assam,lakhimpur,wheat,4.0,15180.0
+rabi,assam,lakhimpur,rice,15176.0,7418.738515003872
+rabi,assam,lakhimpur,wheat,4.0,7761.261484996128
 rabi,assam,marigaon,wheat,1931.0,1931.0
 rabi,assam,morigaon,rice,43748.0,43748.0
 rabi,assam,nagaon,rice,43753.0,45201.0
@@ -2607,11 +2607,11 @@ rabi,bihar,bhagalpur,wheat,47503.0,69510.0
 rabi,bihar,bhojpur,maize,391.0,71898.0
 rabi,bihar,bhojpur,rice,0.0,0.0
 rabi,bihar,bhojpur,wheat,71507.0,0.0
-rabi,bihar,buxar,maize,250.0,0.0
-rabi,bihar,buxar,wheat,78758.0,79008.0
+rabi,bihar,buxar,maize,250.0,79008.0
+rabi,bihar,buxar,wheat,78758.0,0.0
 rabi,bihar,darbhanga,maize,7835.0,0.0
-rabi,bihar,darbhanga,rice,1710.0,0.0
-rabi,bihar,darbhanga,wheat,57918.0,67463.0
+rabi,bihar,darbhanga,rice,1710.0,67463.0
+rabi,bihar,darbhanga,wheat,57918.0,0.0
 rabi,bihar,gaya,maize,823.0,72768.0
 rabi,bihar,gaya,rice,0.0,0.0
 rabi,bihar,gaya,wheat,71945.0,0.0
@@ -2628,23 +2628,23 @@ rabi,bihar,katihar,wheat,56498.0,0.0
 rabi,bihar,khagaria,maize,41563.0,70400.0
 rabi,bihar,khagaria,rice,360.0,0.0
 rabi,bihar,khagaria,wheat,28477.0,0.0
-rabi,bihar,kishanganj,maize,3194.0,34299.0
+rabi,bihar,kishanganj,maize,3194.0,0.0
 rabi,bihar,kishanganj,rice,13334.0,0.0
-rabi,bihar,kishanganj,wheat,17771.0,0.0
+rabi,bihar,kishanganj,wheat,17771.0,34299.0
 rabi,bihar,lakhisarai,maize,0.0,0.0
 rabi,bihar,lakhisarai,wheat,29691.0,29691.0
 rabi,bihar,madhepura,maize,31579.0,65102.0
 rabi,bihar,madhepura,rice,1491.0,0.0
 rabi,bihar,madhepura,wheat,32032.0,0.0
-rabi,bihar,madhubani,maize,118.0,96115.0
-rabi,bihar,madhubani,rice,5542.0,0.0
+rabi,bihar,madhubani,maize,118.0,0.0
+rabi,bihar,madhubani,rice,5542.0,96115.0
 rabi,bihar,madhubani,wheat,90455.0,0.0
 rabi,bihar,munger,maize,1429.0,0.0
 rabi,bihar,munger,rice,262.0,0.0
 rabi,bihar,munger,wheat,13894.0,15585.0
 rabi,bihar,muzaffarpur,maize,22793.0,0.0
-rabi,bihar,muzaffarpur,rice,0.0,0.0
-rabi,bihar,muzaffarpur,wheat,91868.0,114661.0
+rabi,bihar,muzaffarpur,rice,0.0,114661.0
+rabi,bihar,muzaffarpur,wheat,91868.0,0.0
 rabi,bihar,nalanda,maize,4987.0,0.0
 rabi,bihar,nalanda,rice,10.0,0.0
 rabi,bihar,nalanda,wheat,80500.0,85497.0
@@ -2652,20 +2652,20 @@ rabi,bihar,nawada,maize,385.0,0.0
 rabi,bihar,nawada,rice,3.0,0.0
 rabi,bihar,nawada,wheat,43026.0,43414.0
 rabi,bihar,pashchim champaran,maize,3968.0,0.0
-rabi,bihar,pashchim champaran,rice,0.0,74281.0
-rabi,bihar,pashchim champaran,wheat,70313.0,0.0
+rabi,bihar,pashchim champaran,rice,0.0,0.0
+rabi,bihar,pashchim champaran,wheat,70313.0,74281.0
 rabi,bihar,patna,maize,2146.0,0.0
 rabi,bihar,patna,rice,0.0,0.0
 rabi,bihar,patna,wheat,68180.0,70326.0
 rabi,bihar,purbi champaran,maize,7810.0,0.0
 rabi,bihar,purbi champaran,rice,0.0,126629.0
 rabi,bihar,purbi champaran,wheat,118819.0,0.0
-rabi,bihar,purnia,maize,24964.0,50232.0
-rabi,bihar,purnia,rice,5488.0,0.0
+rabi,bihar,purnia,maize,24964.0,0.0
+rabi,bihar,purnia,rice,5488.0,50232.0
 rabi,bihar,purnia,wheat,19780.0,0.0
-rabi,bihar,rohtas,maize,0.0,135477.73712913395
-rabi,bihar,rohtas,rice,0.0,0.0
-rabi,bihar,rohtas,wheat,140752.0,5274.262870866049
+rabi,bihar,rohtas,maize,0.0,132009.03031023944
+rabi,bihar,rohtas,rice,0.0,8742.96968976056
+rabi,bihar,rohtas,wheat,140752.0,0.0
 rabi,bihar,saharsa,maize,26139.0,76360.0
 rabi,bihar,saharsa,rice,840.0,0.0
 rabi,bihar,saharsa,wheat,49381.0,0.0
@@ -2673,8 +2673,8 @@ rabi,bihar,samastipur,maize,49711.0,0.0
 rabi,bihar,samastipur,rice,2148.0,0.0
 rabi,bihar,samastipur,wheat,55968.0,107827.0
 rabi,bihar,saran,maize,10829.0,0.0
-rabi,bihar,saran,rice,0.0,0.0
-rabi,bihar,saran,wheat,77597.0,88426.0
+rabi,bihar,saran,rice,0.0,88426.0
+rabi,bihar,saran,wheat,77597.0,0.0
 rabi,bihar,sheikhpura,maize,132.0,22065.0
 rabi,bihar,sheikhpura,wheat,21933.0,0.0
 rabi,bihar,sheohar,maize,1397.0,0.0
@@ -2683,8 +2683,8 @@ rabi,bihar,sitamarhi,maize,4291.0,0.0
 rabi,bihar,sitamarhi,rice,0.0,0.0
 rabi,bihar,sitamarhi,wheat,87787.0,92078.0
 rabi,bihar,siwan,maize,7148.0,0.0
-rabi,bihar,siwan,rice,0.0,0.0
-rabi,bihar,siwan,wheat,90626.0,97774.0
+rabi,bihar,siwan,rice,0.0,97774.0
+rabi,bihar,siwan,wheat,90626.0,0.0
 rabi,bihar,supaul,maize,15242.0,70593.0
 rabi,bihar,supaul,rice,2728.0,0.0
 rabi,bihar,supaul,wheat,52623.0,0.0
@@ -2718,10 +2718,10 @@ rabi,chhattisgarh,rajnandgaon,wheat,12798.0,12798.0
 rabi,chhattisgarh,sukma,wheat,2.0,2.0
 rabi,chhattisgarh,surajpur,wheat,5324.0,5324.0
 rabi,chhattisgarh,surguja,wheat,5412.0,5412.0
-rabi,dadra and nagar haveli,dadra and nagar haveli,rice,409.0,408.9999994568649
-rabi,dadra and nagar haveli,dadra and nagar haveli,wheat,0.0,5.431351155493758e-07
-rabi,gujarat,ahmadabad,bajra,717.0,77023.62735431056
-rabi,gujarat,ahmadabad,jowar,407.0,108415.37264568944
+rabi,dadra and nagar haveli,dadra and nagar haveli,rice,409.0,408.9999999818082
+rabi,dadra and nagar haveli,dadra and nagar haveli,wheat,0.0,1.8191826711699832e-08
+rabi,gujarat,ahmadabad,bajra,717.0,185439.0
+rabi,gujarat,ahmadabad,jowar,407.0,0.0
 rabi,gujarat,ahmadabad,maize,1046.0,0.0
 rabi,gujarat,ahmadabad,rice,33885.0,0.0
 rabi,gujarat,ahmadabad,wheat,149384.0,0.0
@@ -2729,35 +2729,35 @@ rabi,gujarat,amreli,bajra,1070.0,0.0
 rabi,gujarat,amreli,jowar,71.0,9182.0
 rabi,gujarat,amreli,maize,0.0,0.0
 rabi,gujarat,amreli,wheat,8041.0,0.0
-rabi,gujarat,anand,bajra,26351.0,0.0
+rabi,gujarat,anand,bajra,26351.0,85965.0
 rabi,gujarat,anand,jowar,0.0,0.0
 rabi,gujarat,anand,maize,0.0,0.0
 rabi,gujarat,anand,rice,564.0,0.0
-rabi,gujarat,anand,wheat,59050.0,85965.0
-rabi,gujarat,aravalli,bajra,0.0,0.0
+rabi,gujarat,anand,wheat,59050.0,0.0
+rabi,gujarat,aravalli,bajra,0.0,290.0
 rabi,gujarat,aravalli,jowar,290.0,0.0
 rabi,gujarat,aravalli,maize,0.0,0.0
 rabi,gujarat,aravalli,rice,0.0,0.0
-rabi,gujarat,aravalli,wheat,0.0,290.0
+rabi,gujarat,aravalli,wheat,0.0,0.0
 rabi,gujarat,arvalli,bajra,2735.0,77673.0
 rabi,gujarat,arvalli,maize,9688.0,0.0
 rabi,gujarat,arvalli,wheat,65250.0,0.0
-rabi,gujarat,banas kantha,bajra,144982.0,124471.60897459944
+rabi,gujarat,banas kantha,bajra,144982.0,218957.0
 rabi,gujarat,banas kantha,jowar,0.0,0.0
 rabi,gujarat,banas kantha,maize,0.0,0.0
-rabi,gujarat,banas kantha,wheat,73975.0,94485.39102540056
+rabi,gujarat,banas kantha,wheat,73975.0,0.0
 rabi,gujarat,bharuch,bajra,320.0,0.0
 rabi,gujarat,bharuch,jowar,2220.0,21900.0
 rabi,gujarat,bharuch,maize,0.0,0.0
 rabi,gujarat,bharuch,rice,800.0,0.0
 rabi,gujarat,bharuch,wheat,18560.0,0.0
-rabi,gujarat,bhavnagar,bajra,1566.0,0.0
+rabi,gujarat,bhavnagar,bajra,1566.0,15458.0
 rabi,gujarat,bhavnagar,jowar,0.0,0.0
 rabi,gujarat,bhavnagar,maize,14.0,0.0
-rabi,gujarat,bhavnagar,wheat,13878.0,15458.0
-rabi,gujarat,botad,bajra,90.0,0.0
+rabi,gujarat,bhavnagar,wheat,13878.0,0.0
+rabi,gujarat,botad,bajra,90.0,7763.0
 rabi,gujarat,botad,maize,0.0,0.0
-rabi,gujarat,botad,wheat,7673.0,7763.0
+rabi,gujarat,botad,wheat,7673.0,0.0
 rabi,gujarat,chhotaudepur,bajra,53.0,15457.0
 rabi,gujarat,chhotaudepur,jowar,400.0,0.0
 rabi,gujarat,chhotaudepur,maize,14510.0,0.0
@@ -2773,35 +2773,35 @@ rabi,gujarat,dohad,bajra,5.0,70766.0
 rabi,gujarat,dohad,jowar,0.0,0.0
 rabi,gujarat,dohad,maize,27518.0,0.0
 rabi,gujarat,dohad,wheat,43243.0,0.0
-rabi,gujarat,gandhinagar,bajra,6753.0,0.0
-rabi,gujarat,gandhinagar,jowar,0.0,0.0
+rabi,gujarat,gandhinagar,bajra,6753.0,23197.570198477657
+rabi,gujarat,gandhinagar,jowar,0.0,13461.429801522343
 rabi,gujarat,gandhinagar,maize,25.0,0.0
 rabi,gujarat,gandhinagar,rice,128.0,0.0
-rabi,gujarat,gandhinagar,wheat,29753.0,36659.0
+rabi,gujarat,gandhinagar,wheat,29753.0,0.0
 rabi,gujarat,gir somnath,bajra,3113.0,53380.0
 rabi,gujarat,gir somnath,jowar,1010.0,0.0
 rabi,gujarat,gir somnath,maize,430.0,0.0
 rabi,gujarat,gir somnath,wheat,48827.0,0.0
-rabi,gujarat,jamnagar,bajra,354.0,0.0
-rabi,gujarat,jamnagar,jowar,0.0,7499.0
+rabi,gujarat,jamnagar,bajra,354.0,7499.0
+rabi,gujarat,jamnagar,jowar,0.0,0.0
 rabi,gujarat,jamnagar,maize,115.0,0.0
 rabi,gujarat,jamnagar,wheat,7030.0,0.0
 rabi,gujarat,junagadh,bajra,1530.0,0.0
 rabi,gujarat,junagadh,jowar,2844.0,0.0
 rabi,gujarat,junagadh,maize,0.0,0.0
 rabi,gujarat,junagadh,wheat,42956.0,47330.0
-rabi,gujarat,kachchh,bajra,1616.0,0.0
+rabi,gujarat,kachchh,bajra,1616.0,22999.0
 rabi,gujarat,kachchh,maize,56.0,0.0
-rabi,gujarat,kachchh,wheat,21327.0,22999.0
+rabi,gujarat,kachchh,wheat,21327.0,0.0
 rabi,gujarat,kheda,bajra,25298.0,0.0
-rabi,gujarat,kheda,jowar,0.0,0.0
+rabi,gujarat,kheda,jowar,0.0,112174.0
 rabi,gujarat,kheda,maize,104.0,0.0
-rabi,gujarat,kheda,rice,6663.0,112174.0
+rabi,gujarat,kheda,rice,6663.0,0.0
 rabi,gujarat,kheda,wheat,80109.0,0.0
-rabi,gujarat,mahesana,bajra,12298.0,0.0
+rabi,gujarat,mahesana,bajra,12298.0,85479.0
 rabi,gujarat,mahesana,maize,12.0,0.0
 rabi,gujarat,mahesana,rice,402.0,0.0
-rabi,gujarat,mahesana,wheat,72767.0,85479.0
+rabi,gujarat,mahesana,wheat,72767.0,0.0
 rabi,gujarat,mahisagar,bajra,2059.0,0.0
 rabi,gujarat,mahisagar,jowar,91.0,34801.0
 rabi,gujarat,mahisagar,maize,10416.0,0.0
@@ -2810,61 +2810,61 @@ rabi,gujarat,mahisagar,wheat,22018.0,0.0
 rabi,gujarat,morbi,bajra,135.0,16069.0
 rabi,gujarat,morbi,jowar,0.0,0.0
 rabi,gujarat,morbi,wheat,15934.0,0.0
-rabi,gujarat,narmada,bajra,85.0,0.0
+rabi,gujarat,narmada,bajra,85.0,3329.0
 rabi,gujarat,narmada,jowar,791.0,0.0
 rabi,gujarat,narmada,maize,1210.0,0.0
 rabi,gujarat,narmada,rice,0.0,0.0
-rabi,gujarat,narmada,wheat,1243.0,3329.0
-rabi,gujarat,navsari,bajra,0.0,0.0
+rabi,gujarat,narmada,wheat,1243.0,0.0
+rabi,gujarat,navsari,bajra,0.0,1750.0
 rabi,gujarat,navsari,jowar,567.0,0.0
 rabi,gujarat,navsari,maize,351.0,0.0
-rabi,gujarat,navsari,rice,643.0,1750.0
+rabi,gujarat,navsari,rice,643.0,0.0
 rabi,gujarat,navsari,wheat,189.0,0.0
-rabi,gujarat,panch mahals,bajra,751.0,0.0
+rabi,gujarat,panch mahals,bajra,751.0,34235.0
 rabi,gujarat,panch mahals,jowar,0.0,0.0
 rabi,gujarat,panch mahals,maize,19387.0,0.0
-rabi,gujarat,panch mahals,rice,1613.0,34235.0
+rabi,gujarat,panch mahals,rice,1613.0,0.0
 rabi,gujarat,panch mahals,wheat,12484.0,0.0
 rabi,gujarat,patan,bajra,4142.0,0.0
 rabi,gujarat,patan,jowar,0.0,41966.0
 rabi,gujarat,patan,maize,94.0,0.0
 rabi,gujarat,patan,rice,520.0,0.0
 rabi,gujarat,patan,wheat,37210.0,0.0
-rabi,gujarat,porbandar,bajra,88.0,0.0
+rabi,gujarat,porbandar,bajra,88.0,17653.0
 rabi,gujarat,porbandar,jowar,10540.0,0.0
 rabi,gujarat,porbandar,maize,0.0,0.0
-rabi,gujarat,porbandar,wheat,7025.0,17653.0
-rabi,gujarat,rajkot,bajra,273.0,0.0
+rabi,gujarat,porbandar,wheat,7025.0,0.0
+rabi,gujarat,rajkot,bajra,273.0,60669.0
 rabi,gujarat,rajkot,jowar,45.0,0.0
 rabi,gujarat,rajkot,maize,303.0,0.0
-rabi,gujarat,rajkot,wheat,60048.0,60669.0
-rabi,gujarat,sabar kantha,bajra,3190.0,0.0
+rabi,gujarat,rajkot,wheat,60048.0,0.0
+rabi,gujarat,sabar kantha,bajra,3190.0,94030.02863600239
 rabi,gujarat,sabar kantha,jowar,0.0,0.0
-rabi,gujarat,sabar kantha,maize,3783.0,0.0
-rabi,gujarat,sabar kantha,wheat,89002.0,95975.0
-rabi,gujarat,surat,bajra,26.0,0.0
+rabi,gujarat,sabar kantha,maize,3783.0,1944.9713639976069
+rabi,gujarat,sabar kantha,wheat,89002.0,0.0
+rabi,gujarat,surat,bajra,26.0,11534.0
 rabi,gujarat,surat,jowar,2372.0,0.0
 rabi,gujarat,surat,maize,602.0,0.0
 rabi,gujarat,surat,rice,3939.0,0.0
-rabi,gujarat,surat,wheat,4595.0,11534.0
-rabi,gujarat,surendranagar,bajra,329.0,0.0
+rabi,gujarat,surat,wheat,4595.0,0.0
+rabi,gujarat,surendranagar,bajra,329.0,38121.0
 rabi,gujarat,surendranagar,jowar,0.0,0.0
 rabi,gujarat,surendranagar,maize,0.0,0.0
-rabi,gujarat,surendranagar,wheat,37792.0,38121.0
+rabi,gujarat,surendranagar,wheat,37792.0,0.0
 rabi,gujarat,tapi,bajra,0.0,0.0
 rabi,gujarat,tapi,jowar,1854.0,0.0
 rabi,gujarat,tapi,maize,508.0,0.0
 rabi,gujarat,tapi,rice,1856.0,0.0
 rabi,gujarat,tapi,wheat,3510.0,7728.0
-rabi,gujarat,vadodara,bajra,4181.0,0.0
+rabi,gujarat,vadodara,bajra,4181.0,31251.0
 rabi,gujarat,vadodara,jowar,222.00000000000003,0.0
 rabi,gujarat,vadodara,maize,6363.0,0.0
-rabi,gujarat,vadodara,rice,397.0,31251.0
+rabi,gujarat,vadodara,rice,397.0,0.0
 rabi,gujarat,vadodara,wheat,20088.0,0.0
-rabi,gujarat,valsad,jowar,169.0,0.0
+rabi,gujarat,valsad,jowar,169.0,1178.0
 rabi,gujarat,valsad,maize,15.0,0.0
 rabi,gujarat,valsad,rice,989.0,0.0
-rabi,gujarat,valsad,wheat,5.0,1178.0
+rabi,gujarat,valsad,wheat,5.0,0.0
 rabi,haryana,ambala,wheat,87200.0,87200.0
 rabi,haryana,bhiwani,wheat,234800.0,234800.0
 rabi,haryana,charki dadri,wheat,54800.0,54800.0
@@ -2903,14 +2903,14 @@ rabi,jammu and kashmir,badgam,wheat,979.0,979.0
 rabi,jammu and kashmir,doda,wheat,4754.0,4754.0
 rabi,jammu and kashmir,jammu,bajra,0.0,0.0
 rabi,jammu and kashmir,jammu,wheat,86839.0,86839.0
-rabi,jammu and kashmir,kargil,ragi,3924.0,3649.457316120574
-rabi,jammu and kashmir,kargil,wheat,1491.0,1765.542683879426
+rabi,jammu and kashmir,kargil,ragi,3924.0,3660.0612017791027
+rabi,jammu and kashmir,kargil,wheat,1491.0,1754.9387982208973
 rabi,jammu and kashmir,kathua,bajra,0.0,0.0
 rabi,jammu and kashmir,kathua,wheat,51302.0,51302.0
 rabi,jammu and kashmir,kishtwar,wheat,2406.0,2406.0
 rabi,jammu and kashmir,leh ladakh,bajra,0.0,0.0
-rabi,jammu and kashmir,leh ladakh,ragi,4562.0,5078.745689432089
-rabi,jammu and kashmir,leh ladakh,wheat,2271.0,1754.2543105679108
+rabi,jammu and kashmir,leh ladakh,ragi,4562.0,5076.224526451637
+rabi,jammu and kashmir,leh ladakh,wheat,2271.0,1756.7754735483634
 rabi,jammu and kashmir,poonch,wheat,15013.0,15013.0
 rabi,jammu and kashmir,pulwama,wheat,294.0,294.0
 rabi,jammu and kashmir,rajauri,wheat,46847.0,46847.0
@@ -2947,8 +2947,8 @@ rabi,jharkhand,khunti,wheat,6916.0,7023.0
 rabi,jharkhand,koderma,maize,135.0,0.0
 rabi,jharkhand,koderma,wheat,8462.0,8597.0
 rabi,jharkhand,latehar,wheat,8640.0,8640.0
-rabi,jharkhand,lohardaga,maize,0.0,5221.909270195577
-rabi,jharkhand,lohardaga,wheat,7525.0,2303.090729804423
+rabi,jharkhand,lohardaga,maize,0.0,5221.908876034498
+rabi,jharkhand,lohardaga,wheat,7525.0,2303.0911239655024
 rabi,jharkhand,pakur,maize,734.0,0.0
 rabi,jharkhand,pakur,wheat,8518.0,9252.0
 rabi,jharkhand,palamu,maize,1028.0,0.0
@@ -2962,8 +2962,8 @@ rabi,jharkhand,sahebganj,wheat,0.0,937.0
 rabi,jharkhand,sahibganj,wheat,11846.0,11846.0
 rabi,jharkhand,saraikela kharsawan,maize,480.0,0.0
 rabi,jharkhand,saraikela kharsawan,wheat,4880.0,5360.0
-rabi,jharkhand,simdega,maize,1005.0,3457.581156396638
-rabi,jharkhand,simdega,wheat,9585.0,7132.418843603362
+rabi,jharkhand,simdega,maize,1005.0,3457.580902171322
+rabi,jharkhand,simdega,wheat,9585.0,7132.419097828678
 rabi,jharkhand,west singhbhum,maize,34.0,0.0
 rabi,jharkhand,west singhbhum,wheat,4054.0,4088.0
 rabi,karnataka,bagalkot,jowar,0.0,43787.0
@@ -3006,9 +3006,9 @@ rabi,karnataka,bidar,rice,0.0,0.0
 rabi,karnataka,bidar,wheat,4657.0,0.0
 rabi,karnataka,chamarajanagara,bajra,0.0,0.0
 rabi,karnataka,chamarajanagara,jowar,40.0,0.0
-rabi,karnataka,chamarajanagara,maize,6994.0,0.0
+rabi,karnataka,chamarajanagara,maize,6994.0,7397.0
 rabi,karnataka,chamarajanagara,ragi,0.0,0.0
-rabi,karnataka,chamarajanagara,rice,363.0,7397.0
+rabi,karnataka,chamarajanagara,rice,363.0,0.0
 rabi,karnataka,chamarajanagara,wheat,0.0,0.0
 rabi,karnataka,chamrajnagar,maize,0.0,0.0
 rabi,karnataka,chamrajnagar,ragi,503.0,503.0
@@ -3017,15 +3017,15 @@ rabi,karnataka,chikballapura,maize,696.0,1132.0
 rabi,karnataka,chikballapura,ragi,436.0,0.0
 rabi,karnataka,chikballapura,rice,0.0,0.0
 rabi,karnataka,chikkaballapura,bajra,0.0,0.0
-rabi,karnataka,chikkaballapura,jowar,0.0,0.0
+rabi,karnataka,chikkaballapura,jowar,0.0,188.0
 rabi,karnataka,chikkaballapura,maize,0.0,0.0
 rabi,karnataka,chikkaballapura,ragi,0.0,0.0
-rabi,karnataka,chikkaballapura,rice,188.0,188.0
+rabi,karnataka,chikkaballapura,rice,188.0,0.0
 rabi,karnataka,chikkaballapura,wheat,0.0,0.0
-rabi,karnataka,chikmagalur,jowar,12739.0,0.0
+rabi,karnataka,chikmagalur,jowar,12739.0,15543.0
 rabi,karnataka,chikmagalur,maize,0.0,0.0
 rabi,karnataka,chikmagalur,ragi,0.0,0.0
-rabi,karnataka,chikmagalur,rice,2804.0,15543.0
+rabi,karnataka,chikmagalur,rice,2804.0,0.0
 rabi,karnataka,chitradurga,bajra,0.0,0.0
 rabi,karnataka,chitradurga,jowar,9404.0,19617.0
 rabi,karnataka,chitradurga,maize,4725.0,0.0
@@ -3042,17 +3042,17 @@ rabi,karnataka,davanagere,ragi,4796.0,0.0
 rabi,karnataka,davanagere,rice,0.0,0.0
 rabi,karnataka,davanagere,wheat,196.0,0.0
 rabi,karnataka,davangere,bajra,0.0,0.0
-rabi,karnataka,davangere,jowar,0.0,0.0
+rabi,karnataka,davangere,jowar,0.0,48528.0
 rabi,karnataka,davangere,maize,0.0,0.0
 rabi,karnataka,davangere,ragi,0.0,0.0
-rabi,karnataka,davangere,rice,48528.0,48528.0
+rabi,karnataka,davangere,rice,48528.0,0.0
 rabi,karnataka,davangere,wheat,0.0,0.0
 rabi,karnataka,dharwad,bajra,0.0,0.0
 rabi,karnataka,dharwad,jowar,59586.0,0.0
 rabi,karnataka,dharwad,maize,2665.0,0.0
 rabi,karnataka,dharwad,ragi,0.0,0.0
-rabi,karnataka,dharwad,rice,5.0,50934.68573829036
-rabi,karnataka,dharwad,wheat,35874.0,47195.31426170964
+rabi,karnataka,dharwad,rice,5.0,0.0
+rabi,karnataka,dharwad,wheat,35874.0,98130.0
 rabi,karnataka,gadag,bajra,0.0,0.0
 rabi,karnataka,gadag,jowar,74081.0,0.0
 rabi,karnataka,gadag,maize,3008.0,96247.0
@@ -3061,9 +3061,9 @@ rabi,karnataka,gadag,rice,1116.0,0.0
 rabi,karnataka,gadag,wheat,18042.0,0.0
 rabi,karnataka,hassan,bajra,0.0,0.0
 rabi,karnataka,hassan,jowar,426.0,0.0
-rabi,karnataka,hassan,maize,1195.0,0.0
+rabi,karnataka,hassan,maize,1195.0,5253.0
 rabi,karnataka,hassan,ragi,3023.0,0.0
-rabi,karnataka,hassan,rice,609.0,5253.0
+rabi,karnataka,hassan,rice,609.0,0.0
 rabi,karnataka,hassan,wheat,0.0,0.0
 rabi,karnataka,haveri,bajra,0.0,0.0
 rabi,karnataka,haveri,jowar,31366.0,51185.0
@@ -3094,10 +3094,10 @@ rabi,karnataka,koppal,ragi,0.0,0.0
 rabi,karnataka,koppal,rice,17654.0,0.0
 rabi,karnataka,koppal,wheat,6536.0,0.0
 rabi,karnataka,mandya,bajra,0.0,0.0
-rabi,karnataka,mandya,jowar,0.0,0.0
+rabi,karnataka,mandya,jowar,0.0,28347.53237601552
 rabi,karnataka,mandya,maize,2884.0,0.0
 rabi,karnataka,mandya,ragi,17121.0,0.0
-rabi,karnataka,mandya,rice,21487.0,41492.0
+rabi,karnataka,mandya,rice,21487.0,13144.467623984481
 rabi,karnataka,mandya,wheat,0.0,0.0
 rabi,karnataka,mysuru,bajra,0.0,0.0
 rabi,karnataka,mysuru,jowar,250.0,32088.0
@@ -3106,16 +3106,16 @@ rabi,karnataka,mysuru,ragi,17591.0,0.0
 rabi,karnataka,mysuru,rice,7951.0,0.0
 rabi,karnataka,mysuru,wheat,0.0,0.0
 rabi,karnataka,raichur,bajra,0.0,0.0
-rabi,karnataka,raichur,jowar,67057.0,90715.0
-rabi,karnataka,raichur,maize,52.0,0.0
+rabi,karnataka,raichur,jowar,67057.0,0.0
+rabi,karnataka,raichur,maize,52.0,90715.0
 rabi,karnataka,raichur,ragi,0.0,0.0
 rabi,karnataka,raichur,rice,23215.0,0.0
 rabi,karnataka,raichur,wheat,391.0,0.0
 rabi,karnataka,ramanagara,bajra,86.0,0.0
-rabi,karnataka,ramanagara,jowar,0.0,0.0
+rabi,karnataka,ramanagara,jowar,0.0,1080.0
 rabi,karnataka,ramanagara,maize,481.0,0.0
 rabi,karnataka,ramanagara,ragi,247.0,0.0
-rabi,karnataka,ramanagara,rice,266.0,1080.0
+rabi,karnataka,ramanagara,rice,266.0,0.0
 rabi,karnataka,ramanagara,wheat,0.0,0.0
 rabi,karnataka,shivamogga,bajra,0.0,0.0
 rabi,karnataka,shivamogga,jowar,45.0,14861.0
@@ -3154,8 +3154,8 @@ rabi,karnataka,yadagiri,maize,22.0,0.0
 rabi,karnataka,yadagiri,ragi,0.0,0.0
 rabi,karnataka,yadagiri,rice,0.0,0.0
 rabi,karnataka,yadagiri,wheat,95.0,0.0
-rabi,karnataka,yadgir,jowar,44673.0,57366.009127627905
-rabi,karnataka,yadgir,maize,0.0,34794.990872372095
+rabi,karnataka,yadgir,jowar,44673.0,0.0
+rabi,karnataka,yadgir,maize,0.0,92161.0
 rabi,karnataka,yadgir,rice,47488.0,0.0
 rabi,karnataka,yadgir,wheat,0.0,0.0
 rabi,kerala,alappuzha,rice,21689.0,21689.0
@@ -3184,12 +3184,12 @@ rabi,madhya pradesh,ashoknagar,maize,20.0,0.0
 rabi,madhya pradesh,ashoknagar,rice,20.0,0.0
 rabi,madhya pradesh,ashoknagar,wheat,143410.0,143450.0
 rabi,madhya pradesh,balaghat,maize,40.0,0.0
-rabi,madhya pradesh,balaghat,rice,5210.0,60810.0
-rabi,madhya pradesh,balaghat,wheat,55560.0,0.0
+rabi,madhya pradesh,balaghat,rice,5210.0,0.0
+rabi,madhya pradesh,balaghat,wheat,55560.0,60810.0
 rabi,madhya pradesh,barwani,jowar,0.0,0.0
-rabi,madhya pradesh,barwani,maize,80.0,8384.946134508897
+rabi,madhya pradesh,barwani,maize,80.0,0.0
 rabi,madhya pradesh,barwani,rice,660.0,0.0
-rabi,madhya pradesh,barwani,wheat,48000.0,40355.05386549111
+rabi,madhya pradesh,barwani,wheat,48000.0,48740.0
 rabi,madhya pradesh,betul,maize,50.0,0.0
 rabi,madhya pradesh,betul,rice,0.0,0.0
 rabi,madhya pradesh,betul,wheat,104400.0,104450.0
@@ -3234,9 +3234,9 @@ rabi,madhya pradesh,indore,rice,450.0,0.0
 rabi,madhya pradesh,indore,wheat,110400.0,114050.0
 rabi,madhya pradesh,jabalpur,wheat,171560.0,171560.0
 rabi,madhya pradesh,jhabua,jowar,0.0,0.0
-rabi,madhya pradesh,jhabua,maize,220.0,59220.0
+rabi,madhya pradesh,jhabua,maize,220.0,37887.93758523361
 rabi,madhya pradesh,jhabua,rice,0.0,0.0
-rabi,madhya pradesh,jhabua,wheat,59000.0,0.0
+rabi,madhya pradesh,jhabua,wheat,59000.0,21332.06241476639
 rabi,madhya pradesh,katni,maize,2500.0,0.0
 rabi,madhya pradesh,katni,wheat,129140.0,131640.0
 rabi,madhya pradesh,khandwa,jowar,0.0,0.0
@@ -3263,10 +3263,10 @@ rabi,madhya pradesh,raisen,maize,20.0,0.0
 rabi,madhya pradesh,raisen,wheat,197600.0,197620.0
 rabi,madhya pradesh,rajgarh,maize,10.0,0.0
 rabi,madhya pradesh,rajgarh,wheat,152000.0,152010.0
-rabi,madhya pradesh,ratlam,jowar,0.0,47850.16265648268
+rabi,madhya pradesh,ratlam,jowar,0.0,0.0
 rabi,madhya pradesh,ratlam,maize,0.0,0.0
 rabi,madhya pradesh,ratlam,rice,0.0,0.0
-rabi,madhya pradesh,ratlam,wheat,110400.0,62549.83734351732
+rabi,madhya pradesh,ratlam,wheat,110400.0,110400.0
 rabi,madhya pradesh,rewa,wheat,173600.0,173600.0
 rabi,madhya pradesh,sagar,maize,0.0,0.0
 rabi,madhya pradesh,sagar,wheat,278000.0,278000.0
@@ -3417,8 +3417,8 @@ rabi,manipur,imphal west,maize,720.0,1000.0
 rabi,manipur,imphal west,wheat,280.0,0.0
 rabi,manipur,senapati,maize,920.0,1460.0
 rabi,manipur,senapati,wheat,540.0,0.0
-rabi,manipur,tamenglong,maize,910.0,345.5778256364819
-rabi,manipur,tamenglong,wheat,0.0,564.422174363518
+rabi,manipur,tamenglong,maize,910.0,512.2523346170874
+rabi,manipur,tamenglong,wheat,0.0,397.7476653829126
 rabi,manipur,thoubal,maize,660.0,1060.0
 rabi,manipur,thoubal,wheat,400.0,0.0
 rabi,manipur,ukhrul,maize,730.0,0.0
@@ -3478,8 +3478,8 @@ rabi,odisha,anugul,maize,16.0,0.0
 rabi,odisha,anugul,rice,100.0,116.0
 rabi,odisha,anugul,wheat,0.0,0.0
 rabi,odisha,balangir,maize,0.0,0.0
-rabi,odisha,balangir,rice,1340.0,1343.0
-rabi,odisha,balangir,wheat,3.0,0.0
+rabi,odisha,balangir,rice,1340.0,81.57196542595237
+rabi,odisha,balangir,wheat,3.0,1261.4280345740476
 rabi,odisha,baleshwar,maize,0.0,0.0
 rabi,odisha,baleshwar,rice,26490.0,26490.0
 rabi,odisha,baleshwar,wheat,0.0,0.0
@@ -3511,9 +3511,9 @@ rabi,odisha,jagatsinghapur,wheat,0.0,0.0
 rabi,odisha,jajapur,maize,0.0,0.0
 rabi,odisha,jajapur,rice,1260.0,1260.0
 rabi,odisha,jajapur,wheat,0.0,0.0
-rabi,odisha,jharsuguda,maize,2.0,593.0
+rabi,odisha,jharsuguda,maize,2.0,0.0
 rabi,odisha,jharsuguda,ragi,1.0,0.0
-rabi,odisha,jharsuguda,rice,590.0,0.0
+rabi,odisha,jharsuguda,rice,590.0,593.0
 rabi,odisha,jharsuguda,wheat,0.0,0.0
 rabi,odisha,kalahandi,maize,2.0,0.0
 rabi,odisha,kalahandi,rice,28660.0,28663.0
@@ -3550,9 +3550,9 @@ rabi,odisha,nabarangpur,wheat,0.0,0.0
 rabi,odisha,nuapada,maize,0.0,0.0
 rabi,odisha,nuapada,rice,2420.0,2420.0
 rabi,odisha,nuapada,wheat,0.0,0.0
-rabi,odisha,puri,maize,0.0,1216.3228901219115
+rabi,odisha,puri,maize,0.0,0.0
 rabi,odisha,puri,ragi,0.0,0.0
-rabi,odisha,puri,rice,16510.0,15293.677109878088
+rabi,odisha,puri,rice,16510.0,16510.0
 rabi,odisha,puri,wheat,0.0,0.0
 rabi,odisha,rayagada,maize,21.0,0.0
 rabi,odisha,rayagada,ragi,1.0,0.0
@@ -3640,8 +3640,8 @@ rabi,tamil nadu,coimbatore,jowar,7588.0,0.0
 rabi,tamil nadu,coimbatore,maize,2359.0,10037.0
 rabi,tamil nadu,coimbatore,ragi,1.0,0.0
 rabi,tamil nadu,coimbatore,rice,0.0,0.0
-rabi,tamil nadu,cuddalore,bajra,38.0,0.0
-rabi,tamil nadu,cuddalore,jowar,0.0,8495.0
+rabi,tamil nadu,cuddalore,bajra,38.0,8495.0
+rabi,tamil nadu,cuddalore,jowar,0.0,0.0
 rabi,tamil nadu,cuddalore,maize,963.0,0.0
 rabi,tamil nadu,cuddalore,ragi,82.0,0.0
 rabi,tamil nadu,cuddalore,rice,7412.0,0.0
@@ -3660,8 +3660,8 @@ rabi,tamil nadu,erode,jowar,103.0,0.0
 rabi,tamil nadu,erode,maize,6573.0,8556.0
 rabi,tamil nadu,erode,ragi,30.0,0.0
 rabi,tamil nadu,erode,rice,1731.0,0.0
-rabi,tamil nadu,kancheepuram,ragi,0.0,13676.048926686153
-rabi,tamil nadu,kancheepuram,rice,22227.0,8550.951073313847
+rabi,tamil nadu,kancheepuram,ragi,0.0,0.0
+rabi,tamil nadu,kancheepuram,rice,22227.0,22227.0
 rabi,tamil nadu,kanchipuram,bajra,24.0,0.0
 rabi,tamil nadu,kanchipuram,jowar,1.0,0.0
 rabi,tamil nadu,kanchipuram,maize,0.0,122.0
@@ -3724,8 +3724,8 @@ rabi,tamil nadu,thanjavur,maize,307.0,13851.0
 rabi,tamil nadu,thanjavur,ragi,1.0,0.0
 rabi,tamil nadu,thanjavur,rice,13538.0,0.0
 rabi,tamil nadu,theni,bajra,849.0,0.0
-rabi,tamil nadu,theni,jowar,5295.0,10491.0
-rabi,tamil nadu,theni,maize,4029.0,0.0
+rabi,tamil nadu,theni,jowar,5295.0,0.0
+rabi,tamil nadu,theni,maize,4029.0,10491.0
 rabi,tamil nadu,theni,ragi,7.0,0.0
 rabi,tamil nadu,theni,rice,311.0,0.0
 rabi,tamil nadu,thiruvallur,bajra,17.0,0.0
@@ -3756,15 +3756,15 @@ rabi,tamil nadu,tiruvannamalai,jowar,380.0,0.0
 rabi,tamil nadu,tiruvannamalai,maize,1564.0,0.0
 rabi,tamil nadu,tiruvannamalai,ragi,3387.0,0.0
 rabi,tamil nadu,tiruvannamalai,rice,60769.0,0.0
-rabi,tamil nadu,tuticorin,bajra,9610.0,0.0
-rabi,tamil nadu,tuticorin,jowar,10646.0,63104.0
+rabi,tamil nadu,tuticorin,bajra,9610.0,14183.00791898543
+rabi,tamil nadu,tuticorin,jowar,10646.0,48920.99208101457
 rabi,tamil nadu,tuticorin,maize,33212.0,0.0
 rabi,tamil nadu,tuticorin,ragi,25.0,0.0
 rabi,tamil nadu,tuticorin,rice,9611.0,0.0
 rabi,tamil nadu,vellore,bajra,6.0,0.0
 rabi,tamil nadu,vellore,jowar,177.0,0.0
-rabi,tamil nadu,vellore,maize,671.0,0.0
-rabi,tamil nadu,vellore,ragi,4552.0,28670.0
+rabi,tamil nadu,vellore,maize,671.0,28670.0
+rabi,tamil nadu,vellore,ragi,4552.0,0.0
 rabi,tamil nadu,vellore,rice,23264.0,0.0
 rabi,tamil nadu,villupuram,bajra,1755.0,0.0
 rabi,tamil nadu,villupuram,jowar,256.0,0.0
@@ -3780,8 +3780,8 @@ rabi,tamil nadu,virudhunagar,maize,0.0,3191.0
 rabi,tamil nadu,virudhunagar,ragi,47.0,0.0
 rabi,tamil nadu,virudhunagar,rice,1839.0,0.0
 rabi,tamil nadu,virudunagar,bajra,0.0,0.0
-rabi,tamil nadu,virudunagar,jowar,8005.0,27770.0
-rabi,tamil nadu,virudunagar,maize,19765.0,0.0
+rabi,tamil nadu,virudunagar,jowar,8005.0,0.0
+rabi,tamil nadu,virudunagar,maize,19765.0,27770.0
 rabi,telangana,adilabad,bajra,0.0,0.0
 rabi,telangana,adilabad,jowar,2946.0,0.0
 rabi,telangana,adilabad,maize,1125.0,5752.0
@@ -3840,10 +3840,10 @@ rabi,telangana,mancherial,maize,642.0,0.0
 rabi,telangana,mancherial,rice,17437.0,18466.0
 rabi,telangana,mancherial,wheat,0.0,0.0
 rabi,telangana,medak,bajra,0.0,0.0
-rabi,telangana,medak,jowar,622.0,39025.0
+rabi,telangana,medak,jowar,622.0,0.0
 rabi,telangana,medak,maize,5985.0,0.0
 rabi,telangana,medak,ragi,0.0,0.0
-rabi,telangana,medak,rice,32224.0,0.0
+rabi,telangana,medak,rice,32224.0,39025.0
 rabi,telangana,medak,wheat,194.0,0.0
 rabi,telangana,medchal malkajgiri,jowar,8.0,0.0
 rabi,telangana,medchal malkajgiri,maize,127.0,0.0
@@ -3855,15 +3855,15 @@ rabi,telangana,nagarkurnool,maize,537.0,0.0
 rabi,telangana,nagarkurnool,ragi,2.0,0.0
 rabi,telangana,nagarkurnool,rice,17634.0,18588.0
 rabi,telangana,nalgonda,bajra,8.0,0.0
-rabi,telangana,nalgonda,jowar,26.0,97148.0
+rabi,telangana,nalgonda,jowar,26.0,71868.80115699713
 rabi,telangana,nalgonda,maize,40.0,0.0
-rabi,telangana,nalgonda,rice,97074.0,0.0
+rabi,telangana,nalgonda,rice,97074.0,25279.198843002872
 rabi,telangana,nalgonda,wheat,0.0,0.0
 rabi,telangana,nirmal,bajra,1139.0,0.0
 rabi,telangana,nirmal,jowar,2651.0,0.0
-rabi,telangana,nirmal,maize,17768.0,27723.49619738813
+rabi,telangana,nirmal,maize,17768.0,0.0
 rabi,telangana,nirmal,ragi,0.0,0.0
-rabi,telangana,nirmal,rice,15877.0,10622.503802611871
+rabi,telangana,nirmal,rice,15877.0,38346.0
 rabi,telangana,nirmal,wheat,911.0,0.0
 rabi,telangana,nizamabad,bajra,4751.0,0.0
 rabi,telangana,nizamabad,jowar,167.0,0.0
@@ -3873,11 +3873,11 @@ rabi,telangana,nizamabad,rice,81531.0,92894.0
 rabi,telangana,nizamabad,wheat,84.0,0.0
 rabi,telangana,peddapalli,bajra,0.0,0.0
 rabi,telangana,peddapalli,jowar,0.0,0.0
-rabi,telangana,peddapalli,maize,3813.0,42409.0
-rabi,telangana,peddapalli,rice,38596.0,0.0
-rabi,telangana,rajanna,jowar,0.0,23316.0
+rabi,telangana,peddapalli,maize,3813.0,34063.837916404416
+rabi,telangana,peddapalli,rice,38596.0,8345.162083595586
+rabi,telangana,rajanna,jowar,0.0,0.0
 rabi,telangana,rajanna,maize,415.0,0.0
-rabi,telangana,rajanna,rice,22901.0,0.0
+rabi,telangana,rajanna,rice,22901.0,23316.0
 rabi,telangana,rajanna,wheat,0.0,0.0
 rabi,telangana,rangareddi,bajra,0.0,0.0
 rabi,telangana,rangareddi,jowar,422.0,14616.0
@@ -4003,9 +4003,9 @@ rabi,uttar pradesh,chandauli,rice,0.0,0.0
 rabi,uttar pradesh,chandauli,wheat,111873.0,111888.0
 rabi,uttar pradesh,chitrakoot,maize,4.0,0.0
 rabi,uttar pradesh,chitrakoot,wheat,49779.0,49783.0
-rabi,uttar pradesh,deoria,maize,2214.0,0.0
+rabi,uttar pradesh,deoria,maize,2214.0,155615.0
 rabi,uttar pradesh,deoria,rice,0.0,0.0
-rabi,uttar pradesh,deoria,wheat,153401.0,155615.0
+rabi,uttar pradesh,deoria,wheat,153401.0,0.0
 rabi,uttar pradesh,etah,maize,2712.0,0.0
 rabi,uttar pradesh,etah,rice,0.0,0.0
 rabi,uttar pradesh,etah,wheat,135296.0,138008.0
@@ -4033,8 +4033,8 @@ rabi,uttar pradesh,gonda,wheat,154304.0,156724.0
 rabi,uttar pradesh,gorakhpur,maize,182.0,0.0
 rabi,uttar pradesh,gorakhpur,rice,42.0,0.0
 rabi,uttar pradesh,gorakhpur,wheat,192243.0,192467.0
-rabi,uttar pradesh,hamirpur,maize,389.0,0.0
-rabi,uttar pradesh,hamirpur,wheat,113112.0,113501.0
+rabi,uttar pradesh,hamirpur,maize,389.0,113501.0
+rabi,uttar pradesh,hamirpur,wheat,113112.0,0.0
 rabi,uttar pradesh,hapur,maize,234.0,0.0
 rabi,uttar pradesh,hapur,rice,0.0,0.0
 rabi,uttar pradesh,hapur,wheat,42670.0,42904.0
@@ -4074,8 +4074,8 @@ rabi,uttar pradesh,lakhimpur kheri,maize,0.0,0.0
 rabi,uttar pradesh,lakhimpur kheri,rice,2141.0,0.0
 rabi,uttar pradesh,lakhimpur kheri,wheat,188602.0,190743.0
 rabi,uttar pradesh,lalitpur,maize,0.0,0.0
-rabi,uttar pradesh,lalitpur,rice,0.0,135693.36950694417
-rabi,uttar pradesh,lalitpur,wheat,152659.0,16965.630493055825
+rabi,uttar pradesh,lalitpur,rice,0.0,93600.77226708611
+rabi,uttar pradesh,lalitpur,wheat,152659.0,59058.22773291389
 rabi,uttar pradesh,lucknow,maize,132.0,0.0
 rabi,uttar pradesh,lucknow,rice,0.0,0.0
 rabi,uttar pradesh,lucknow,wheat,81589.0,81721.0
@@ -4124,9 +4124,9 @@ rabi,uttar pradesh,sant kabeer nagar,wheat,90569.0,90684.0
 rabi,uttar pradesh,sant ravi das nagar,rice,0.0,0.0
 rabi,uttar pradesh,sant ravi das nagar,wheat,49038.0,49038.0
 rabi,uttar pradesh,sant ravidas nagar,maize,53.0,53.0
-rabi,uttar pradesh,shahajahanpur,maize,171.0,156149.3665561753
+rabi,uttar pradesh,shahajahanpur,maize,171.0,168747.21593801145
 rabi,uttar pradesh,shahajahanpur,rice,5834.0,0.0
-rabi,uttar pradesh,shahajahanpur,wheat,247700.0,97555.63344382473
+rabi,uttar pradesh,shahajahanpur,wheat,247700.0,84957.78406198855
 rabi,uttar pradesh,shamli,maize,4.0,0.0
 rabi,uttar pradesh,shamli,rice,59.0,0.0
 rabi,uttar pradesh,shamli,wheat,49633.0,49696.0
@@ -4154,11 +4154,11 @@ rabi,uttarakhand,champawat,maize,7.0,0.0
 rabi,uttarakhand,champawat,wheat,6239.0,6246.0
 rabi,uttarakhand,dehradun,maize,0.0,0.0
 rabi,uttarakhand,dehradun,wheat,16849.0,16849.0
-rabi,uttarakhand,hardwar,rice,4.0,11027.795030487097
-rabi,uttarakhand,hardwar,wheat,44644.0,33620.2049695129
+rabi,uttarakhand,hardwar,rice,4.0,22634.27351066484
+rabi,uttarakhand,hardwar,wheat,44644.0,22013.72648933516
 rabi,uttarakhand,haridwar,maize,11.0,0.0
-rabi,uttarakhand,haridwar,rice,0.0,11.0
-rabi,uttarakhand,haridwar,wheat,0.0,0.0
+rabi,uttarakhand,haridwar,rice,0.0,0.0
+rabi,uttarakhand,haridwar,wheat,0.0,11.0
 rabi,uttarakhand,nainital,maize,1.0,0.0
 rabi,uttarakhand,nainital,rice,155.0,0.0
 rabi,uttarakhand,nainital,wheat,22088.0,22244.0
@@ -4167,32 +4167,32 @@ rabi,uttarakhand,pithoragarh,wheat,21204.0,21204.0
 rabi,uttarakhand,rudra prayag,wheat,9914.0,9914.0
 rabi,uttarakhand,tehri garhwal,wheat,20688.0,20688.0
 rabi,uttarakhand,udam singh nagar,maize,47.0,0.0
-rabi,uttarakhand,udam singh nagar,rice,0.0,47.0
-rabi,uttarakhand,udam singh nagar,wheat,0.0,0.0
+rabi,uttarakhand,udam singh nagar,rice,0.0,0.0
+rabi,uttarakhand,udam singh nagar,wheat,0.0,47.0
 rabi,uttarakhand,udham singh nagar,rice,13794.0,0.0
 rabi,uttarakhand,udham singh nagar,wheat,105110.0,118904.0
 rabi,uttarakhand,uttar kashi,wheat,10668.0,10668.0
-rabi,west bengal,alipurduar,maize,20525.0,26993.0
-rabi,west bengal,alipurduar,rice,3312.0,0.0
+rabi,west bengal,alipurduar,maize,20525.0,0.0
+rabi,west bengal,alipurduar,rice,3312.0,26993.0
 rabi,west bengal,alipurduar,wheat,3156.0,0.0
 rabi,west bengal,bankura,maize,394.0,0.0
 rabi,west bengal,bankura,rice,49343.0,50907.0
 rabi,west bengal,bankura,wheat,1170.0,0.0
-rabi,west bengal,barddhaman,rice,149528.0,0.0
-rabi,west bengal,barddhaman,wheat,0.0,149528.0
+rabi,west bengal,barddhaman,rice,149528.0,149528.0
+rabi,west bengal,barddhaman,wheat,0.0,0.0
 rabi,west bengal,birbhum,maize,811.0,0.0
-rabi,west bengal,birbhum,rice,88290.0,0.0
-rabi,west bengal,birbhum,wheat,35116.0,124217.0
-rabi,west bengal,coochbehar,maize,20500.0,60545.43802689572
-rabi,west bengal,coochbehar,ragi,0.0,22281.561973104283
-rabi,west bengal,coochbehar,rice,54927.0,0.0
+rabi,west bengal,birbhum,rice,88290.0,59608.413977354045
+rabi,west bengal,birbhum,wheat,35116.0,64608.586022645955
+rabi,west bengal,coochbehar,maize,20500.0,0.0
+rabi,west bengal,coochbehar,ragi,0.0,0.0
+rabi,west bengal,coochbehar,rice,54927.0,82827.0
 rabi,west bengal,coochbehar,wheat,7400.0,0.0
-rabi,west bengal,dakshin dinajpur,rice,24420.0,0.0
-rabi,west bengal,dakshin dinajpur,wheat,0.0,24420.0
+rabi,west bengal,dakshin dinajpur,rice,24420.0,24420.0
+rabi,west bengal,dakshin dinajpur,wheat,0.0,0.0
 rabi,west bengal,darjeeling,maize,6550.0,0.0
-rabi,west bengal,darjeeling,ragi,0.0,9298.0
+rabi,west bengal,darjeeling,ragi,0.0,0.0
 rabi,west bengal,darjeeling,rice,2318.0,0.0
-rabi,west bengal,darjeeling,wheat,430.0,0.0
+rabi,west bengal,darjeeling,wheat,430.0,9298.0
 rabi,west bengal,dinajpur dakshin,maize,2291.0,0.0
 rabi,west bengal,dinajpur dakshin,rice,0.0,0.0
 rabi,west bengal,dinajpur dakshin,wheat,24585.0,26876.0
@@ -4206,29 +4206,29 @@ rabi,west bengal,howrah,maize,119.0,0.0
 rabi,west bengal,howrah,rice,34480.0,34762.0
 rabi,west bengal,howrah,wheat,163.0,0.0
 rabi,west bengal,jalpaiguri,maize,4379.0,0.0
-rabi,west bengal,jalpaiguri,ragi,0.0,29843.0
-rabi,west bengal,jalpaiguri,rice,17870.0,0.0
+rabi,west bengal,jalpaiguri,ragi,0.0,0.0
+rabi,west bengal,jalpaiguri,rice,17870.0,29843.0
 rabi,west bengal,jalpaiguri,wheat,7594.0,0.0
 rabi,west bengal,jhargram,maize,0.0,0.0
-rabi,west bengal,jhargram,rice,14492.0,0.0
-rabi,west bengal,jhargram,wheat,84.0,14576.0
+rabi,west bengal,jhargram,rice,14492.0,14576.0
+rabi,west bengal,jhargram,wheat,84.0,0.0
 rabi,west bengal,kalimpong,maize,10334.0,0.0
 rabi,west bengal,kalimpong,wheat,216.0,10550.0
-rabi,west bengal,maldah,maize,30836.0,103705.0
-rabi,west bengal,maldah,rice,63185.0,0.0
+rabi,west bengal,maldah,maize,30836.0,40281.82619694975
+rabi,west bengal,maldah,rice,63185.0,63423.17380305025
 rabi,west bengal,maldah,wheat,9684.0,0.0
 rabi,west bengal,medinipur east,maize,120.0,0.0
 rabi,west bengal,medinipur east,rice,137845.0,137970.0
 rabi,west bengal,medinipur east,wheat,5.0,0.0
 rabi,west bengal,medinipur west,maize,948.0,0.0
-rabi,west bengal,medinipur west,rice,190540.0,118686.90465872102
-rabi,west bengal,medinipur west,wheat,180.0,72981.09534127898
+rabi,west bengal,medinipur west,rice,190540.0,191668.0
+rabi,west bengal,medinipur west,wheat,180.0,0.0
 rabi,west bengal,murshidabad,maize,11059.0,0.0
 rabi,west bengal,murshidabad,rice,116315.0,127436.0
 rabi,west bengal,murshidabad,wheat,62.0,0.0
 rabi,west bengal,nadia,maize,5100.0,0.0
-rabi,west bengal,nadia,rice,94808.0,0.0
-rabi,west bengal,nadia,wheat,0.0,99908.0
+rabi,west bengal,nadia,rice,94808.0,99908.0
+rabi,west bengal,nadia,wheat,0.0,0.0
 rabi,west bengal,paraganas north,maize,225.0,0.0
 rabi,west bengal,paraganas north,rice,63492.0,63819.0
 rabi,west bengal,paraganas north,wheat,102.0,0.0
@@ -4240,8 +4240,8 @@ rabi,west bengal,paschim bardhaman,wheat,1045.0,1580.0
 rabi,west bengal,purba bardhaman,maize,75.0,0.0
 rabi,west bengal,purba bardhaman,wheat,3417.0,3492.0
 rabi,west bengal,purulia,maize,122.0,0.0
-rabi,west bengal,purulia,ragi,0.0,1174.0
-rabi,west bengal,purulia,rice,0.0,0.0
+rabi,west bengal,purulia,ragi,0.0,0.0
+rabi,west bengal,purulia,rice,0.0,1174.0
 rabi,west bengal,purulia,wheat,1052.0,0.0
 rabi,west bengal,puruliya,rice,270.0,270.0
 rabi,west bengal,uttar dinajpur,rice,46180.0,0.0

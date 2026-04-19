@@ -229,7 +229,7 @@ def draw_chord_panel(matrix: pd.DataFrame, *, states: list[str], out_png: Path, 
         link_kws={
             "alpha": 0.62,
             "direction": 1,
-            "arrow_length_ratio": 0.085,
+            "arrow_length_ratio": 0.11,
             "ec": "#ffffff",
             "lw": 0.18,
         },

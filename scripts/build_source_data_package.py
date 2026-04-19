@@ -174,6 +174,58 @@ SOURCE_ITEMS = [
         / "si_s4_cultural_retention.csv",
     ),
     SourceItem(
+        sheet="FigS5a_alt_edges",
+        label="Supplementary Figure S5a observed alternative-cereal trade edges",
+        description=(
+            "Observed 2016-2018 average interstate trade edges for combined alternative cereals "
+            "shown in Supplementary Figure S5a."
+        ),
+        path=ROOT
+        / "data"
+        / "generated"
+        / "si_s5_original_trade_network"
+        / "si_s5_original_alt_trade_edges.csv",
+    ),
+    SourceItem(
+        sheet="FigS5a_alt_labels",
+        label="Supplementary Figure S5a displayed state labels",
+        description=(
+            "Displayed state-level inflow/outflow label summary for the observed alternative-cereal "
+            "trade network in Supplementary Figure S5a."
+        ),
+        path=ROOT
+        / "data"
+        / "generated"
+        / "si_s5_original_trade_network"
+        / "si_s5_original_alt_trade_fromto_displayed.csv",
+    ),
+    SourceItem(
+        sheet="FigS5b_rw_edges",
+        label="Supplementary Figure S5b observed rice-wheat trade edges",
+        description=(
+            "Observed 2016-2018 average interstate trade edges for combined rice and wheat shown "
+            "in Supplementary Figure S5b."
+        ),
+        path=ROOT
+        / "data"
+        / "generated"
+        / "si_s5_original_trade_network"
+        / "si_s5_original_rice_wheat_trade_edges.csv",
+    ),
+    SourceItem(
+        sheet="FigS5b_rw_labels",
+        label="Supplementary Figure S5b displayed state labels",
+        description=(
+            "Displayed state-level inflow/outflow label summary for the observed rice-wheat trade "
+            "network in Supplementary Figure S5b."
+        ),
+        path=ROOT
+        / "data"
+        / "generated"
+        / "si_s5_original_trade_network"
+        / "si_s5_original_rice_wheat_trade_fromto_displayed.csv",
+    ),
+    SourceItem(
         sheet="Fig3a_state_area",
         label="Figure 3a displayed state totals",
         description=(
@@ -265,8 +317,8 @@ SOURCE_ITEMS = [
         sheet="FigS17_values",
         label="Supplementary Figure S17 endpoint sensitivity",
         description=(
-            "Scenario-wise endpoint results for the MSP benchmark and hybrid realized-price "
-            "sensitivity runs."
+            "Scenario-wise endpoint results for the MSP benchmark and all-India realized-price/MSP "
+            "ratio sensitivity runs."
         ),
         path=ROOT
         / "data"
@@ -398,7 +450,7 @@ SOURCE_ITEMS = [
         sheet="FigS20_frontier",
         label="Supplementary Figure S20 realized-price frontier envelope summary",
         description=(
-            "Bootstrap summary for the primary realized-price Pareto frontier envelope."
+            "Bootstrap summary for the primary revenue-benchmark Pareto frontier envelope."
         ),
         path=ROOT
         / "data"
@@ -468,7 +520,7 @@ def write_readme(manifest_rows: list[dict[str, object]]) -> None:
         "Workbook coverage:",
         "",
         "- Main manuscript Figures 1 to 3.",
-        "- Supplementary Figures S2 to S4 and S16 to S21 introduced or revised during the current revision round.",
+        "- Supplementary Figures S2 to S5 and S16 to S21 introduced or revised during the current revision round.",
         "- Supplementary Table S10 summarizing the primary realized-price revenue benchmark.",
         "",
         "Sheet manifest:",
@@ -503,7 +555,7 @@ def add_readme_sheet(wb: Workbook) -> None:
         ["Source Data package", ""],
         ["Manuscript", "Quantifying Environmental Co-Benefits of Nitrogen-Based Crop Restructuring and Its Implications on India's Interstate Trade Network"],
         ["Revision", "Nature Communications revision 2"],
-        ["Contents", "Source data workbook for Figs. 1-3, Supplementary Figs. S2-S4 and S16-S21, and Supplementary Table S10"],
+        ["Contents", "Source data workbook for Figs. 1-3, Supplementary Figs. S2-S5 and S16-S21, and Supplementary Table S10"],
         ["Notes", "Each figure sheet contains the table used directly to construct the corresponding display item. See the Manifest sheet for file provenance and row counts."],
     ]
     for r_idx, row in enumerate(rows, start=1):

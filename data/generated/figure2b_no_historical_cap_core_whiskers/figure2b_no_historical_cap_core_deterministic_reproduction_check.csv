@@ -1,21 +1,21 @@
 scenario,metric,baseline_total,reproduced_pct_reduction,center_pct_reduction,delta_pct_points,solver_status
-Nitrogen based,Nitrogen Emission,287739236.80885214,20.190325148139515,20.190325148139515,0.0,kharif:Optimal;rabi:Optimal
+Nitrogen based,Nitrogen Emission,287739236.80885214,20.190325148139497,20.190325148139497,0.0,kharif:Optimal;rabi:Optimal
 Water based,Nitrogen Emission,287739236.80885214,9.187451276031998,9.187451276031998,0.0,kharif:Optimal;rabi:Optimal
-Nitrogen based,Nitrogen Leach,2391590187.444786,22.5264513097308,22.5264513097308,0.0,kharif:Optimal;rabi:Optimal
-Water based,Nitrogen Leach,2391590187.444786,10.975557342444828,10.975557342444828,0.0,kharif:Optimal;rabi:Optimal
-Nitrogen based,Greenhouse Gas emission,398546513.153932,39.71095880276899,39.71095880276899,0.0,kharif:Optimal;rabi:Optimal
-Water based,Greenhouse Gas emission,398546513.153932,54.016936105287385,54.016936105287385,0.0,kharif:Optimal;rabi:Optimal
-Nitrogen based,Profit,550112782949.4415,-17.909805573393296,-17.909805573393296,0.0,kharif:Optimal;rabi:Optimal
-Water based,Profit,550112782949.4415,-16.226189655741283,-16.226189655741283,0.0,kharif:Optimal;rabi:Optimal
+Nitrogen based,Nitrogen Leach,2391590187.444786,22.526451309730778,22.526451309730778,0.0,kharif:Optimal;rabi:Optimal
+Water based,Nitrogen Leach,2391590187.444786,10.975557342444809,10.975557342444809,0.0,kharif:Optimal;rabi:Optimal
+Nitrogen based,Greenhouse Gas emission,398546513.153932,39.71095880276893,39.71095880276893,0.0,kharif:Optimal;rabi:Optimal
+Water based,Greenhouse Gas emission,398546513.153932,54.01693610528732,54.01693610528732,0.0,kharif:Optimal;rabi:Optimal
+Nitrogen based,Profit,550112782949.4415,-17.909805573393317,-17.909805573393317,0.0,kharif:Optimal;rabi:Optimal
+Water based,Profit,550112782949.4415,-16.226189655741308,-16.226189655741308,0.0,kharif:Optimal;rabi:Optimal
 Nitrogen based,Calorie,955924593799921.0,-6.054615786471439,-6.054615786471439,0.0,kharif:Optimal;rabi:Optimal
 Water based,Calorie,955924593799921.0,-8.102876895029825,-8.102876895029825,0.0,kharif:Optimal;rabi:Optimal
-Nitrogen based,Phosphorus application,4580861940.3896265,11.124720971759967,11.124720971759968,-1.7763568394002505e-15,kharif:Optimal;rabi:Optimal
-Water based,Phosphorus application,4580861940.3896265,5.113702513366505,5.113702513366505,0.0,kharif:Optimal;rabi:Optimal
-Nitrogen based,Nitrogen application,12891996042.564434,10.80715375888732,10.80715375888732,0.0,kharif:Optimal;rabi:Optimal
+Nitrogen based,Phosphorus application,4580861940.3896265,11.124720971759947,11.124720971759947,0.0,kharif:Optimal;rabi:Optimal
+Water based,Phosphorus application,4580861940.3896265,5.113702513366484,5.113702513366484,0.0,kharif:Optimal;rabi:Optimal
+Nitrogen based,Nitrogen application,12891996042.564434,10.807153758887306,10.807153758887306,0.0,kharif:Optimal;rabi:Optimal
 Water based,Nitrogen application,12891996042.564434,3.0629045880209147,3.0629045880209147,0.0,kharif:Optimal;rabi:Optimal
 Nitrogen based,Phosphorus Surplus,3589737437.875405,17.247492532572704,17.247492532572704,0.0,kharif:Optimal;rabi:Optimal
-Water based,Phosphorus Surplus,3589737437.875405,10.481336310108999,10.481336310109,-1.7763568394002505e-15,kharif:Optimal;rabi:Optimal
+Water based,Phosphorus Surplus,3589737437.875405,10.481336310108986,10.481336310108986,0.0,kharif:Optimal;rabi:Optimal
 Nitrogen based,Nitrogen Surplus,8285335580.939312,20.039595298152822,20.039595298152825,-3.552713678800501e-15,kharif:Optimal;rabi:Optimal
-Water based,Nitrogen Surplus,8285335580.939312,9.248641903318015,9.248641903318015,0.0,kharif:Optimal;rabi:Optimal
-Nitrogen based,Water Demand,467586094005.25684,31.906850807539897,31.906850807539897,0.0,kharif:Optimal;rabi:Optimal
-Water based,Water Demand,467586094005.25684,42.89034258490402,42.89034258490402,0.0,kharif:Optimal;rabi:Optimal
+Water based,Nitrogen Surplus,8285335580.939312,9.248641903318005,9.248641903318005,0.0,kharif:Optimal;rabi:Optimal
+Nitrogen based,Water Demand,467586094005.25684,31.906850807539872,31.906850807539872,0.0,kharif:Optimal;rabi:Optimal
+Water based,Water Demand,467586094005.25684,42.890342584904005,42.890342584904005,0.0,kharif:Optimal;rabi:Optimal
