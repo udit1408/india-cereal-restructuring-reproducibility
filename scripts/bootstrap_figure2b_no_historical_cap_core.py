@@ -535,7 +535,7 @@ def write_audit(
     lines = [
         "# Figure 2(b) approved core whisker audit",
         "",
-        "This rebuild adds whiskers to the approved Figure 2(b) branch used in the revised manuscript.",
+        "This rebuild adds whiskers to the approved Figure 2(b) branch used in the current release.",
         "The deterministic bar centers come directly from `figure2b_no_historical_cap_core_values.csv` and therefore",
         "remain aligned with the current state calorie and state profit floors in both seasons.",
         "",

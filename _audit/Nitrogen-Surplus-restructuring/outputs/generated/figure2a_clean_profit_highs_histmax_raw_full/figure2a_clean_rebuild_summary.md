@@ -4,9 +4,9 @@ This rebuild uses the single-objective notebook data preparation but replaces th
 legacy multi-objective notebook formulation with a clean model that:
 - indexes districts jointly by `(state, district)` to avoid duplicate-name collisions,
 - applies max-area caps using `(state, district, crop)` keys,
-- uses the manuscript weighted sum in raw objective units.
+- uses the paper weighted sum in raw objective units.
 - records solver status explicitly and excludes non-optimal alpha points,
-- combines seasons by summing national totals, consistent with the manuscript Methods.
+- combines seasons by summing national totals, consistent with the paper methods summary.
 
 Solver: `highs`
 Income constraint: `profit`

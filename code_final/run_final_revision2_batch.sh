@@ -36,7 +36,7 @@ mkdir -p "$LOG_DIR"
 
 RUN_TIMESTAMP="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
 RUN_STAMP="$(date -u +"%Y%m%dT%H%M%SZ")"
-LOG_FILE="$LOG_DIR/revision2_final_batch_${RUN_STAMP}.log"
+LOG_FILE="$LOG_DIR/public_repro_batch_${RUN_STAMP}.log"
 LATEST_LOG="$LOG_DIR/latest_run.log"
 
 exec > >(tee "$LOG_FILE") 2>&1
@@ -65,7 +65,7 @@ write_run_context() {
 EOF
 }
 
-echo "Final audited batch runner"
+echo "Audited reproducibility batch runner"
 echo "root: $ROOT"
 echo "python: $PYTHON_BIN"
 echo "mode: $MODE"
@@ -91,7 +91,7 @@ if [[ "$MODE" == "full" ]]; then
     "$PYTHON_BIN" "$ROOT/scripts/generate_Figure3_equivalent.py"
 
   run_step "Seasonal substitution audit" \
-    "$PYTHON_BIN" "$ROOT/scripts/generate_reviewer6_seasonal_substitution_audit.py"
+    "$PYTHON_BIN" "$ROOT/scripts/generate_seasonal_substitution_audit.py"
 
   run_step "Revenue robustness SI figure" \
     "$PYTHON_BIN" "$ROOT/scripts/generate_si_revenue_robustness_figure.py"
@@ -108,7 +108,7 @@ if [[ "$MODE" == "full" ]]; then
   run_step "Source Data package rebuild" \
     "$PYTHON_BIN" "$ROOT/scripts/build_source_data_package.py"
 
-  run_step "Final paper figure sync and exact-match verification" \
+  run_step "Figure sync and exact-match verification" \
     "$PYTHON_BIN" "$ROOT/scripts/sync_verify_final_paper_figures.py"
 fi
 
@@ -116,7 +116,7 @@ run_step "HTML reproducibility report" \
   "$PYTHON_BIN" "$ROOT/scripts/generate_audited_html_report.py"
 
 echo
-echo "Final audited revision-2 batch complete."
+echo "Audited reproducibility batch complete."
 echo "HTML report: $ROOT/submission_assets/audited_html_report/index.html"
 echo "Manifest:    $ROOT/submission_assets/audited_html_report/repro_manifest.json"
 echo "Log:         $LOG_FILE"

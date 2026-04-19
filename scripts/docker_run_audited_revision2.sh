@@ -3,7 +3,7 @@ set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 WORKSPACE_ROOT="$(cd "$ROOT/.." && pwd)"
-IMAGE_TAG="${IMAGE_TAG:-shekhar-nature-r2-audited:latest}"
+IMAGE_TAG="${IMAGE_TAG:-india-cereal-repro-audited:latest}"
 
 docker build -f "$ROOT/container/Dockerfile" "$ROOT" -t "$IMAGE_TAG"
 docker run --rm \

@@ -1,6 +1,6 @@
 # Figure 2(a) reproduction summary
 
-The combined frontier follows the manuscript notebook logic in `rabi_kharif_plot_perito_combined.ipynb`,
+The combined frontier follows the legacy notebook logic in `rabi_kharif_plot_perito_combined.ipynb`,
 which concatenates the kharif and rabi season Pareto tables and averages `Objective Nitrogen` and
 `Objective Water` by alpha before converting them to Mt and BCM, respectively.
 

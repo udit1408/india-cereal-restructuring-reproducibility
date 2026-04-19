@@ -1,7 +1,7 @@
 # Hybrid revenue endpoint equivalent audit
 
 This SI-only figure is the Figure 2(b)-equivalent endpoint comparison built from the hybrid 2017-18 revenue benchmark.
-Matched reviewer-suggested state-year realized prices are used where available, and the district MSP term is
+Matched state-year realized prices are used where available, and the district MSP term is
 scaled by the corresponding all-India realized-price/MSP multiplier only for unmatched state-crop combinations.
 
 For 2017-18, direct realized-price coverage is 94.06% of decision keys

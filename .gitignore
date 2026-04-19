@@ -4,6 +4,8 @@ __pycache__/
 *.pyo
 .ipynb_checkpoints/
 .venv/
+submission_assets/audited_html_report/logs/
+_audit/Nitrogen-Surplus-restructuring/outputs/run_logs/
 
 # Untracked figure variants and intermediate exports
 figures/si_revenue_benchmark_robustness.*

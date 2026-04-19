@@ -909,7 +909,7 @@ def _write_summary(
     rabi_baseline = rabi.attrs.get("baseline_summary", {})
     use_historical_caps = bool(combined.attrs.get("use_historical_caps", True))
     objective_line = (
-        "- uses the manuscript weighted sum in raw objective units."
+        "- uses the paper weighted sum in raw objective units."
         if objective_mode == "raw"
         else "- normalizes the weighted objective by baseline nitrogen surplus and baseline water demand."
     )
@@ -929,7 +929,7 @@ def _write_summary(
         ),
         objective_line,
         "- records solver status explicitly and excludes non-optimal alpha points,",
-        "- combines seasons by summing national totals, consistent with the manuscript Methods.",
+        "- combines seasons by summing national totals, consistent with the paper methods summary.",
         "",
         f"Solver: `{solver_name}`",
         f"Income constraint: `{income_mode}`",

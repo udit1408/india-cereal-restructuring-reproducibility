@@ -21,7 +21,7 @@ This manifest defines the final audited code path. Files listed here are the onl
 | Figure 2 primary realized-price rebuild | `scripts/generate_Figure2_equivalent.py` | `figures/working_variants/Figure2_equivalent.*`; `data/generated/Figure2_equivalent/` |
 | Supplementary Figure 2 supporting block | `scripts/generate_si_figure2_supporting_block.py` | `figures/manuscript_final/si_figure2_supporting_block.*` |
 | Figure 3 primary realized-price rebuild | `scripts/generate_Figure3_equivalent.py` | `figures/working_variants/Figure3_equivalent.*`; `data/generated/Figure3_equivalent/` |
-| Seasonal substitution audit | `scripts/generate_reviewer6_seasonal_substitution_audit.py` | `data/generated/seasonal_substitution_audit_primary_revenue/`; `figures/manuscript_final/si_s21_seasonal_substitution_audit.*` |
+| Seasonal substitution audit | `scripts/generate_seasonal_substitution_audit.py` | `data/generated/seasonal_substitution_audit_primary_revenue/`; `figures/manuscript_final/si_s21_seasonal_substitution_audit.*` |
 | Revenue robustness SI figure | `scripts/generate_si_revenue_robustness_figure.py` | `figures/manuscript_final/si_revenue_benchmark_robustness.*` |
 | Revenue endpoint sensitivity SI figure | `scripts/generate_si_revenue_benchmark_endpoint_sensitivity.py` | `figures/manuscript_final/si_revenue_benchmark_endpoint_sensitivity.*` |
 | Hybrid revenue-profit SI figure | `scripts/generate_si_hybrid_revenue_profit_sensitivity.py` | `figures/manuscript_final/si_hybrid_revenue_profit_sensitivity.*` |
@@ -33,7 +33,7 @@ This manifest defines the final audited code path. Files listed here are the onl
 
 | Output class | Canonical location |
 |---|---|
-| Manuscript-facing figure PDFs/PNGs | `figures/manuscript_final/` |
+| Release figure PDFs/PNGs | `figures/manuscript_final/` |
 | Generated analysis/source tables | `data/generated/` |
 | Source Data package | `submission_assets/source_data/` |
 | HTML reproducibility report | `submission_assets/audited_html_report/index.html` |

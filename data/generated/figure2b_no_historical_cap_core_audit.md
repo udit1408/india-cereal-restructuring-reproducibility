@@ -11,7 +11,7 @@ The panel is regenerated deterministically for the two endpoint strategies only:
 - `Water based`: minimize water demand in each season under the shared constraint set.
 - `Nitrogen based`: minimize nitrogen surplus in each season under the shared constraint set.
 
-This file is intended as the approved Figure 2(b) rebuild used in the revised manuscript.
+This file is intended as the approved Figure 2(b) rebuild used in the current release.
 It does not include whiskers, because the currently reproducible bootstrap pipeline is not yet aligned
 with the cleaned endpoint formulation used for this approved branch.
 

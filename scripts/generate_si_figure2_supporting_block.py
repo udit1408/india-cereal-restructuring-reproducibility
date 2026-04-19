@@ -294,7 +294,7 @@ def write_audit(
     lines = [
         "# SI figure-2 supporting block regeneration audit",
         "",
-        "This audit documents the rebuilt revision-2 assets for Supplementary Figures S2, S3, and S4.",
+        "This audit documents the rebuilt assets for Supplementary Figures S2, S3, and S4.",
         f"All three figures are now generated from the primary hybrid {PRIMARY_SCENARIO_YEAR} revenue benchmark",
         "used in the revised main text, rather than from the older district-MSP figure branch.",
         "Archived district-MSP versions of these seasonal figures have been preserved separately in",

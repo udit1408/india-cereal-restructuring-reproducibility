@@ -1,47 +1,47 @@
 {
-  "generated_utc": "2026-04-19T17:57:02.703295+00:00",
-  "root": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release",
+  "generated_utc": "2026-04-19T18:09:46.354891+00:00",
+  "root": ".",
   "run_context": {
-    "timestamp_utc": "2026-04-19T17:57:02Z",
+    "timestamp_utc": "2026-04-19T18:09:46Z",
     "mode": "report-only",
     "runner": "code_final/run_final_revision2_batch.sh",
     "manifest": "code_final/FINAL_CODE_MANIFEST.md",
     "method_notation_map": "code_final/METHOD_NOTATION_MAP.md",
-    "log_file": "logs/revision2_final_batch_20260419T175702Z.log"
+    "log_file": "logs/public_repro_batch_20260419T180946Z.log"
   },
   "previews": [
     {
       "label": "Figure 1 reproduced render",
-      "source_path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduced.png",
-      "copied_preview": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/submission_assets/audited_html_report/assets/figure1_reproduced.png",
+      "source_path": "_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduced.png",
+      "copied_preview": "submission_assets/audited_html_report/assets/figure1_reproduced.png",
       "category": "main_figures",
       "kind": "png"
     },
     {
       "label": "Figure 2 primary realized-price composite",
-      "source_path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/fig2_main_revision2.png",
-      "copied_preview": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/submission_assets/audited_html_report/assets/fig2_main_revision2.png",
+      "source_path": "figures/manuscript_final/fig2_main_revision2.png",
+      "copied_preview": "submission_assets/audited_html_report/assets/fig2_main_revision2.png",
       "category": "main_figures",
       "kind": "png"
     },
     {
       "label": "Figure 3 primary realized-price composite",
-      "source_path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/figure3_clean_preview.png",
-      "copied_preview": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/submission_assets/audited_html_report/assets/figure3_clean_preview.png",
+      "source_path": "figures/manuscript_final/figure3_clean_preview.png",
+      "copied_preview": "submission_assets/audited_html_report/assets/figure3_clean_preview.png",
       "category": "main_figures",
       "kind": "png"
     },
     {
       "label": "SI revenue robustness",
-      "source_path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/si_revenue_benchmark_robustness.png",
-      "copied_preview": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/submission_assets/audited_html_report/assets/si_revenue_benchmark_robustness.png",
+      "source_path": "figures/manuscript_final/si_revenue_benchmark_robustness.png",
+      "copied_preview": "submission_assets/audited_html_report/assets/si_revenue_benchmark_robustness.png",
       "category": "si_figures",
       "kind": "png"
     },
     {
       "label": "SI Figure 2a frontier envelope",
-      "source_path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/si_figure2a_frontier_bootstrap.png",
-      "copied_preview": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/submission_assets/audited_html_report/assets/si_figure2a_frontier_bootstrap.png",
+      "source_path": "figures/manuscript_final/si_figure2a_frontier_bootstrap.png",
+      "copied_preview": "submission_assets/audited_html_report/assets/si_figure2a_frontier_bootstrap.png",
       "category": "si_figures",
       "kind": "png"
     }
@@ -52,7 +52,7 @@
         "label": "Figure 1 reproduced PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduced.pdf",
+        "path": "_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduced.pdf",
         "exists": true,
         "size_bytes": 8180623,
         "modified_utc": "2026-04-19T11:05:35.376889+00:00",
@@ -62,7 +62,7 @@
         "label": "Figure 2 primary realized-price composite PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/fig2_main_revision2.pdf",
+        "path": "figures/manuscript_final/fig2_main_revision2.pdf",
         "exists": true,
         "size_bytes": 972923,
         "modified_utc": "2026-04-19T12:09:17.632288+00:00",
@@ -72,7 +72,7 @@
         "label": "Figure 2 primary realized-price composite PNG",
         "category": "main_figures",
         "kind": "png",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/fig2_main_revision2.png",
+        "path": "figures/manuscript_final/fig2_main_revision2.png",
         "exists": true,
         "size_bytes": 1055271,
         "modified_utc": "2026-04-19T12:09:17.629671+00:00",
@@ -83,7 +83,7 @@
         "label": "Figure 2a realized-price panel PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/working_variants/Figure2_equivalent_panel_a.pdf",
+        "path": "figures/working_variants/Figure2_equivalent_panel_a.pdf",
         "exists": true,
         "size_bytes": 46988,
         "modified_utc": "2026-04-19T06:45:58.057995+00:00",
@@ -93,7 +93,7 @@
         "label": "Figure 2b realized-price panel PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/working_variants/Figure2_equivalent_panel_b.pdf",
+        "path": "figures/working_variants/Figure2_equivalent_panel_b.pdf",
         "exists": true,
         "size_bytes": 20813,
         "modified_utc": "2026-04-19T06:46:02.141279+00:00",
@@ -103,7 +103,7 @@
         "label": "Figure 2c realized-price panel PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/working_variants/Figure2_equivalent_panel_c.pdf",
+        "path": "figures/working_variants/Figure2_equivalent_panel_c.pdf",
         "exists": true,
         "size_bytes": 19508,
         "modified_utc": "2026-04-19T06:46:04.830953+00:00",
@@ -113,7 +113,7 @@
         "label": "Figure 2d realized-price panel PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/working_variants/Figure2_equivalent_panel_d.pdf",
+        "path": "figures/working_variants/Figure2_equivalent_panel_d.pdf",
         "exists": true,
         "size_bytes": 49968,
         "modified_utc": "2026-04-19T06:46:07.623353+00:00",
@@ -123,7 +123,7 @@
         "label": "Figure 3a realized-price panel PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/working_variants/Figure3_equivalent_panel_a.pdf",
+        "path": "figures/working_variants/Figure3_equivalent_panel_a.pdf",
         "exists": true,
         "size_bytes": 24325,
         "modified_utc": "2026-04-19T06:46:10.612797+00:00",
@@ -133,7 +133,7 @@
         "label": "Figure 3b realized-price panel PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/working_variants/Figure3_equivalent_panel_b.pdf",
+        "path": "figures/working_variants/Figure3_equivalent_panel_b.pdf",
         "exists": true,
         "size_bytes": 43419,
         "modified_utc": "2026-04-19T06:46:11.951187+00:00",
@@ -143,7 +143,7 @@
         "label": "Figure 3c realized-price panel PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/working_variants/Figure3_equivalent_panel_c.pdf",
+        "path": "figures/working_variants/Figure3_equivalent_panel_c.pdf",
         "exists": true,
         "size_bytes": 59261,
         "modified_utc": "2026-04-19T06:46:12.371809+00:00",
@@ -153,7 +153,7 @@
         "label": "Figure 3 primary realized-price composite PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/figure3_clean_preview.pdf",
+        "path": "figures/manuscript_final/figure3_clean_preview.pdf",
         "exists": true,
         "size_bytes": 2577080,
         "modified_utc": "2026-04-19T17:13:56.677765+00:00",
@@ -165,7 +165,7 @@
         "label": "SI revenue robustness PDF",
         "category": "si_figures",
         "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/si_revenue_benchmark_robustness.pdf",
+        "path": "figures/manuscript_final/si_revenue_benchmark_robustness.pdf",
         "exists": true,
         "size_bytes": 33884,
         "modified_utc": "2026-04-19T06:47:44.746432+00:00",
@@ -176,7 +176,7 @@
         "label": "SI revenue endpoint sensitivity PDF",
         "category": "si_figures",
         "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/si_revenue_benchmark_endpoint_sensitivity.pdf",
+        "path": "figures/manuscript_final/si_revenue_benchmark_endpoint_sensitivity.pdf",
         "exists": true,
         "size_bytes": 26160,
         "modified_utc": "2026-04-19T06:47:47.537259+00:00",
@@ -186,7 +186,7 @@
         "label": "SI hybrid revenue-profit sensitivity PDF",
         "category": "si_figures",
         "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/si_hybrid_revenue_profit_sensitivity.pdf",
+        "path": "figures/manuscript_final/si_hybrid_revenue_profit_sensitivity.pdf",
         "exists": true,
         "size_bytes": 33152,
         "modified_utc": "2026-04-19T06:47:50.628290+00:00",
@@ -196,7 +196,7 @@
         "label": "SI Figure 2a frontier bootstrap PDF",
         "category": "si_figures",
         "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/si_figure2a_frontier_bootstrap.pdf",
+        "path": "figures/manuscript_final/si_figure2a_frontier_bootstrap.pdf",
         "exists": true,
         "size_bytes": 537612,
         "modified_utc": "2026-04-19T06:48:32.354603+00:00",
@@ -207,55 +207,11 @@
         "label": "SI seasonal substitution audit PDF",
         "category": "si_figures",
         "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/si_s21_seasonal_substitution_audit.pdf",
+        "path": "figures/manuscript_final/si_s21_seasonal_substitution_audit.pdf",
         "exists": true,
         "size_bytes": 668838,
         "modified_utc": "2026-04-19T06:47:43.247264+00:00",
         "sha256": "25bed9200df2f46953aa0a7faba847929792d6bfcef5b411850ae5df02451404"
-      }
-    ],
-    "manuscripts": [
-      {
-        "label": "Clean main manuscript PDF",
-        "category": "submission_pdfs",
-        "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/R_2_PDFs/V2_non_track.pdf",
-        "exists": false
-      },
-      {
-        "label": "Tracked main manuscript PDF",
-        "category": "submission_pdfs",
-        "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/R_2_PDFs/V2_track_change.pdf",
-        "exists": false
-      },
-      {
-        "label": "Clean supplementary PDF",
-        "category": "submission_pdfs",
-        "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/R_2_PDFs/V2_SI_updated.pdf",
-        "exists": false
-      },
-      {
-        "label": "Tracked supplementary PDF",
-        "category": "submission_pdfs",
-        "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/R_2_PDFs/V2_SI_track_change.pdf",
-        "exists": false
-      },
-      {
-        "label": "Cover letter PDF",
-        "category": "submission_pdfs",
-        "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/R_2_PDFs/cover_letter_to_editor.pdf",
-        "exists": false
-      },
-      {
-        "label": "Point-by-point response PDF",
-        "category": "submission_pdfs",
-        "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/R_2_PDFs/point_by_point_response.pdf",
-        "exists": false
       }
     ],
     "source_data": [
@@ -263,141 +219,83 @@
         "label": "Source Data workbook",
         "category": "source_data",
         "kind": "xlsx",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/submission_assets/source_data/Source Data.xlsx",
+        "path": "submission_assets/source_data/Source Data.xlsx",
         "exists": true,
-        "size_bytes": 637745,
-        "modified_utc": "2026-04-19T17:12:55+00:00",
-        "sha256": "3f4be50d9029e4ff2035388c146f81e1492749b8f07722d1180d286270219976"
+        "size_bytes": 636886,
+        "modified_utc": "2026-04-19T18:09:09.806750+00:00",
+        "sha256": "d31dc60073248e9815ccfadb08f5ddd4b78c5afa4cef5d3ac0bd953f41a92335"
       },
       {
         "label": "Source Data zip",
         "category": "source_data",
         "kind": "zip",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/submission_assets/source_data/Source_Data_package.zip",
+        "path": "submission_assets/source_data/Source_Data_package.zip",
         "exists": true,
-        "size_bytes": 863478,
-        "modified_utc": "2026-04-19T17:12:55+00:00",
-        "sha256": "1f76b3a43d5fd869bcb00d366de95867f9d187583b8cd2ecb4291372f08a47cb"
+        "size_bytes": 861570,
+        "modified_utc": "2026-04-19T18:09:09.837270+00:00",
+        "sha256": "1b85709dc3b7de7f65a8e015d761edd344729510f0c935533d8028bef822e744"
       },
       {
         "label": "Source Data README",
         "category": "source_data",
         "kind": "md",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/submission_assets/source_data/README.md",
+        "path": "submission_assets/source_data/README.md",
         "exists": true,
-        "size_bytes": 8514,
-        "modified_utc": "2026-04-19T17:12:55+00:00",
-        "sha256": "8f057a6467980561fbd5060c623a8222cd03e770808f59c9f4e2b0a1a00703e7"
+        "size_bytes": 8430,
+        "modified_utc": "2026-04-19T18:09:09.806932+00:00",
+        "sha256": "513c895f8763a9d377a37e7c69804eb0117ec46a9f5a48e7d8e176ac3ca43e9b"
       }
     ],
     "audits": [
       {
-        "label": "Figure 2 reproducibility note",
-        "category": "audit_notes",
-        "kind": "md",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/FIGURE2_REPRODUCIBILITY.md",
-        "exists": false
-      },
-      {
-        "label": "Workspace map",
-        "category": "audit_notes",
-        "kind": "md",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/WORKSPACE_MAP.md",
-        "exists": false
-      },
-      {
-        "label": "GitHub re-audit note",
-        "category": "audit_notes",
-        "kind": "md",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/_audit/github_reaudit_2026-04-17.md",
-        "exists": false
-      },
-      {
-        "label": "Repository dataset manifest",
-        "category": "audit_notes",
-        "kind": "md",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/_audit/repo_dataset_manifest.md",
-        "exists": false
-      },
-      {
         "label": "Figure 1 reproduction summary",
         "category": "audit_notes",
         "kind": "md",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduction_summary.md",
+        "path": "_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduction_summary.md",
         "exists": true,
-        "size_bytes": 790,
-        "modified_utc": "2026-04-19T11:05:35.384470+00:00",
-        "sha256": "4b76f222b6496c374a0495e095867f6bd2ca81ea332470c6ad10d404805b8853"
+        "size_bytes": 727,
+        "modified_utc": "2026-04-19T18:08:11.283177+00:00",
+        "sha256": "91825e73860ed0731f46778d3e75b2ac22f5920d61403ee0c49aae0e4c5810b3"
       },
       {
         "label": "Figure 2 cap-variant audit",
         "category": "audit_notes",
         "kind": "md",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/data/generated/figure2_cap_variant_audit.md",
+        "path": "data/generated/figure2_cap_variant_audit.md",
         "exists": true,
-        "size_bytes": 7073,
-        "modified_utc": "2026-04-18T00:06:49+00:00",
-        "sha256": "8179d07fe3b9a587bc0858a5d6ab4bc0f7b10e3bc5af283708498958d4f9ef25"
+        "size_bytes": 7076,
+        "modified_utc": "2026-04-19T18:08:44.167183+00:00",
+        "sha256": "e5f7c940c9f7ce1fe35352c2c379d1157702dd9d290193e1cc5976a10ff4e62a"
       },
       {
         "label": "Figure 2 legacy-faithful audit",
         "category": "audit_notes",
         "kind": "md",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/data/generated/figure2_legacy_faithful_audit.md",
+        "path": "data/generated/figure2_legacy_faithful_audit.md",
         "exists": true,
         "size_bytes": 6883,
         "modified_utc": "2026-04-18T00:07:13+00:00",
         "sha256": "fcd74079beafe6e976302797252a67eee16e66f06020bfaee4edde500f12db50"
       },
       {
-        "label": "Final paper figure sync report (Markdown)",
+        "label": "Figure sync report (Markdown)",
         "category": "audit_notes",
         "kind": "md",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/data/generated/final_paper_figure_sync/final_paper_figure_sync_report.md",
+        "path": "data/generated/final_paper_figure_sync/final_paper_figure_sync_report.md",
         "exists": true,
-        "size_bytes": 3709,
-        "modified_utc": "2026-04-19T04:41:10+00:00",
-        "sha256": "62be558c00835d14e1bd281402b0d188317a7fd476e4d36dbdd76d907829fb9f"
+        "size_bytes": 3694,
+        "modified_utc": "2026-04-19T18:09:39.604314+00:00",
+        "sha256": "e42d6c6612a85d9121061d26e67fa309ac877c6bacb892da8b6fd4336ea62c31"
       },
       {
-        "label": "Final paper figure sync report (JSON)",
+        "label": "Figure sync report (JSON)",
         "category": "audit_notes",
         "kind": "json",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/data/generated/final_paper_figure_sync/final_paper_figure_sync_report.json",
+        "path": "data/generated/final_paper_figure_sync/final_paper_figure_sync_report.json",
         "exists": true,
         "size_bytes": 4542,
         "modified_utc": "2026-04-19T04:41:10+00:00",
         "sha256": "9e1479650740b26ca2e2bc6a95bc0e62c28f9e89689b682edf9ddab61210d342"
-      }
-    ],
-    "final_paper_targets": [
-      {
-        "label": "Final paper Figure 1 target",
-        "category": "final_paper_targets",
-        "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/R_2_sources/article/fig1.pdf",
-        "exists": false
-      },
-      {
-        "label": "Final paper Figure 2 target",
-        "category": "final_paper_targets",
-        "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/R_2_sources/article/fig2_main_revision2.pdf",
-        "exists": false
-      },
-      {
-        "label": "Legacy article Figure 2 alias",
-        "category": "final_paper_targets",
-        "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/R_2_sources/article/fig2_t_r2.pdf",
-        "exists": false
-      },
-      {
-        "label": "Final paper Figure 3 target",
-        "category": "final_paper_targets",
-        "kind": "pdf",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/R_2_sources/article/fig3_1.pdf",
-        "exists": false
       }
     ],
     "workflow_files": [
@@ -405,7 +303,7 @@
         "label": "Container Dockerfile",
         "category": "workflow",
         "kind": "txt",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/container/Dockerfile",
+        "path": "container/Dockerfile",
         "exists": true,
         "size_bytes": 670,
         "modified_utc": "2026-04-18T13:21:40+00:00",
@@ -415,7 +313,7 @@
         "label": "Container requirements",
         "category": "workflow",
         "kind": "txt",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/container/requirements.txt",
+        "path": "container/requirements.txt",
         "exists": true,
         "size_bytes": 171,
         "modified_utc": "2026-04-18T13:21:40+00:00",
@@ -425,7 +323,7 @@
         "label": "Container entrypoint",
         "category": "workflow",
         "kind": "txt",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/container/entrypoint.sh",
+        "path": "container/entrypoint.sh",
         "exists": true,
         "size_bytes": 268,
         "modified_utc": "2026-04-19T06:42:22.660560+00:00",
@@ -435,98 +333,91 @@
         "label": "Final code README",
         "category": "workflow",
         "kind": "md",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/code_final/README.md",
+        "path": "code_final/README.md",
         "exists": true,
-        "size_bytes": 3083,
-        "modified_utc": "2026-04-19T06:42:22.660773+00:00",
-        "sha256": "94fdc62bf58ab52d00ab8fed0aa23f0ff21a1653ba60b55c9d28c6e20cb6381f"
+        "size_bytes": 3052,
+        "modified_utc": "2026-04-19T18:07:40.490649+00:00",
+        "sha256": "8c69c1cd8bbe028f0ec16225b0795fdff12c472de26e64b733b52a20e1bdc05c"
       },
       {
         "label": "Final code manifest",
         "category": "workflow",
         "kind": "md",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/code_final/FINAL_CODE_MANIFEST.md",
+        "path": "code_final/FINAL_CODE_MANIFEST.md",
         "exists": true,
-        "size_bytes": 4321,
-        "modified_utc": "2026-04-19T06:42:22.661120+00:00",
-        "sha256": "0ea35c506018d0e330d14a2814157d9231cbbf32de76de20ea042cb7839acdb7"
+        "size_bytes": 4301,
+        "modified_utc": "2026-04-19T18:07:40.490874+00:00",
+        "sha256": "1bcd69deec9139a1bd3b61e0a0882ec7d119c18aee6a1ac2cdd0fcc4422694da"
       },
       {
         "label": "Method notation map",
         "category": "workflow",
         "kind": "md",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/code_final/METHOD_NOTATION_MAP.md",
+        "path": "code_final/METHOD_NOTATION_MAP.md",
         "exists": true,
-        "size_bytes": 6760,
-        "modified_utc": "2026-04-19T06:42:22.661459+00:00",
-        "sha256": "7cdeb8afb6dec711fe48ffd92a23089cd25c4d7881e5f4f85184ed691fd3fc4a"
+        "size_bytes": 6729,
+        "modified_utc": "2026-04-19T18:08:34.197089+00:00",
+        "sha256": "2178fad12f1adc81c35c5fc423b0d899e2f77c6b6eca903f3f0d96b8479aaf8d"
       },
       {
         "label": "Final batch runner",
         "category": "workflow",
         "kind": "txt",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/code_final/run_final_revision2_batch.sh",
+        "path": "code_final/run_final_revision2_batch.sh",
         "exists": true,
-        "size_bytes": 3779,
-        "modified_utc": "2026-04-19T11:05:24.417168+00:00",
-        "sha256": "5584f4d3492372eeece0c7809f6ed00897ce950716b806eacee73ba5ed7b108b"
+        "size_bytes": 3763,
+        "modified_utc": "2026-04-19T18:07:40.490375+00:00",
+        "sha256": "9b05bf321a1abf4990831fc69248af079ad2d33ed1b11f97ee6f3de645463bdd"
       },
       {
         "label": "Final Docker runner",
         "category": "workflow",
         "kind": "txt",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/code_final/run_final_revision2_container.sh",
+        "path": "code_final/run_final_revision2_container.sh",
         "exists": true,
-        "size_bytes": 321,
-        "modified_utc": "2026-04-19T06:42:22.660360+00:00",
-        "sha256": "fc88ea18679191595c889f72afad601662f6071158b85b54d5c692c450329550"
+        "size_bytes": 316,
+        "modified_utc": "2026-04-19T18:02:10.536530+00:00",
+        "sha256": "f0fd854165c8b14010e9779805d7a75c7567886b537e52a1d6c2a8bee66ada26"
       },
       {
         "label": "Docker runner wrapper",
         "category": "workflow",
         "kind": "txt",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/scripts/docker_run_audited_revision2.sh",
+        "path": "scripts/docker_run_audited_revision2.sh",
         "exists": true,
-        "size_bytes": 398,
-        "modified_utc": "2026-04-18T13:26:34+00:00",
-        "sha256": "6148e30770f34f2e6f3c92dd12f9c919cde4b57a99b43dcf9729bdee3313a18e"
+        "size_bytes": 399,
+        "modified_utc": "2026-04-19T18:07:40.491211+00:00",
+        "sha256": "f8e25dd662beb404490e15fa3b8a67d345ee3a5fe6901a313c63a287e3d29222"
       },
       {
         "label": "Audited batch runner",
         "category": "workflow",
         "kind": "txt",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/scripts/run_audited_revision2_batch.sh",
+        "path": "scripts/run_audited_revision2_batch.sh",
         "exists": true,
-        "size_bytes": 3501,
-        "modified_utc": "2026-04-19T11:05:24.417672+00:00",
-        "sha256": "9f5cd4f9b52984fe2833b1fca2c747d21eaf287882688dbced0ec707fe8706d7"
+        "size_bytes": 3484,
+        "modified_utc": "2026-04-19T18:09:32.604633+00:00",
+        "sha256": "0924220251c8245b94287b075ca9d2294950b0484d710679ad2f9d0a5e1888f0"
       },
       {
         "label": "HTML report generator",
         "category": "workflow",
         "kind": "txt",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/scripts/generate_audited_html_report.py",
+        "path": "scripts/generate_audited_html_report.py",
         "exists": true,
-        "size_bytes": 18559,
-        "modified_utc": "2026-04-19T03:52:11+00:00",
-        "sha256": "b970b4c8ed1c63a937da6bee2a49cb9b886b362fffb9b8b9ea7c2a31fc999293"
+        "size_bytes": 16152,
+        "modified_utc": "2026-04-19T18:09:32.604429+00:00",
+        "sha256": "3ac805ffabcbe59162bb949d8ebf39aa4f27fa07b8cd7ed92b18ef8ecf4581db"
       },
       {
-        "label": "Final paper figure sync verifier",
+        "label": "Figure sync verifier",
         "category": "workflow",
         "kind": "txt",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/scripts/sync_verify_final_paper_figures.py",
+        "path": "scripts/sync_verify_final_paper_figures.py",
         "exists": true,
-        "size_bytes": 5294,
-        "modified_utc": "2026-04-18T19:43:27+00:00",
-        "sha256": "69e4fa7b1b9d6d25566df53c6a6b40d66d18c379ba3d8ab65e25ab6ff8667783"
-      },
-      {
-        "label": "Container workflow note",
-        "category": "workflow",
-        "kind": "md",
-        "path": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/CONTAINERIZED_AUDITED_WORKFLOW.md",
-        "exists": false
+        "size_bytes": 5277,
+        "modified_utc": "2026-04-19T18:09:32.604911+00:00",
+        "sha256": "755b272a5addc8c9b3c3a8981e25f0b43ca01f9dd0b449bcf8ee99fc32307077"
       }
     ]
   }

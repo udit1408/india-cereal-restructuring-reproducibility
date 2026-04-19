@@ -16,7 +16,7 @@ export MPLBACKEND=Agg
 export PYTHONPATH="$ROOT/_audit/Nitrogen-Surplus-restructuring${PYTHONPATH:+:$PYTHONPATH}"
 
 "$PYTHON_BIN" "$ROOT/scripts/generate_si_figure2_supporting_block.py"
-"$PYTHON_BIN" "$ROOT/scripts/generate_reviewer6_seasonal_substitution_audit.py"
+"$PYTHON_BIN" "$ROOT/scripts/generate_seasonal_substitution_audit.py"
 "$PYTHON_BIN" "$ROOT/scripts/generate_si_revenue_robustness_figure.py"
 "$PYTHON_BIN" "$ROOT/scripts/generate_si_revenue_benchmark_endpoint_sensitivity.py"
 "$PYTHON_BIN" "$ROOT/scripts/generate_si_hybrid_revenue_profit_sensitivity.py"

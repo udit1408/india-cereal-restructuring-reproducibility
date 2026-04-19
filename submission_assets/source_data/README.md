@@ -15,7 +15,7 @@ Supporting artifacts:
 
 Workbook coverage:
 
-- Main manuscript Figures 1 to 3.
+- Main figures 1 to 3.
 - Supplementary Figures S2 to S5 and S16 to S21 introduced or revised during the current revision round.
 - Supplementary Table S10 summarizing the primary realized-price revenue benchmark.
 

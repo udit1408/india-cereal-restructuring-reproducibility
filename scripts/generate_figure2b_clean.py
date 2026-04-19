@@ -564,7 +564,7 @@ def write_audit_note(
         (
             "This file is intended as the clean method-consistent alternative to the approved manuscript branch."
             if use_historical_caps
-            else "This file is intended as the approved Figure 2(b) rebuild used in the revised manuscript."
+            else "This file is intended as the approved Figure 2(b) rebuild used in the current release."
         ),
         "It does not include whiskers, because the currently reproducible bootstrap pipeline is not yet aligned",
         (

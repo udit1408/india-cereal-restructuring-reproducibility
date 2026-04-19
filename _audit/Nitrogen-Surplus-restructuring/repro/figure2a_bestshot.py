@@ -335,7 +335,7 @@ def _write_summary(
     lines = [
         "# Figure 2(a) best-shot reconstruction",
         "",
-        "This reconstruction follows the manuscript definition of Fig. 2(a):",
+        "This reconstruction follows the reference-paper definition of Fig. 2(a):",
         "the weighted multi-objective sweep is executed separately for kharif and rabi,",
         "solver status is recorded for each alpha, and the all-season frontier is formed by",
         "summing national nitrogen surplus and water demand across the two seasons.",
@@ -382,7 +382,7 @@ def _write_summary(
             "",
             "Method note:",
             "The earlier notebook-based draft reproduction averaged kharif and rabi objective values by alpha.",
-            "This best-shot export instead uses kharif+rabi sums because the manuscript Methods describe",
+            "This best-shot export instead uses kharif+rabi sums because the paper methods describe",
             "Fig. 2(a) in terms of total national water demand and nitrogen surplus for combined seasons.",
         ]
     )

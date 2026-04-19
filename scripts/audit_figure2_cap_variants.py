@@ -367,7 +367,7 @@ For Figure 2(d), the no-cap branch moves the transition magnitudes materially to
 
 There are now two internally coherent options:
 
-1. Keep the manuscript Methods as currently written, retain the historical caps, and use the strict `clean_capped` Figure 2 panels with smaller but fully aligned effect sizes.
+1. Keep the paper methods summary as currently written, retain the historical caps, and use the strict `clean_capped` Figure 2 panels with smaller but fully aligned effect sizes.
 2. Revise the Methods explicitly so that the main Figure 2 optimization does not impose district-crop historical maximum area caps, then use annual summed endpoints for Figure 2(a) and the corresponding no-cap versions of Figure 2(b), Figure 2(c), and Figure 2(d).
 
 The important point is that the legacy magnitudes are not being reproduced by a hidden bug hunt anymore; they are being reproduced when the cap assumption is relaxed in a controlled and transparent way.

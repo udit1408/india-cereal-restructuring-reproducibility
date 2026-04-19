@@ -1,6 +1,6 @@
-# Final paper figure sync verification
+# Figure sync verification
 
-The audited revision-2 runner copies the canonical regenerated figure PDFs into the manuscript
+The audited current runner copies the canonical regenerated figure PDFs into the manuscript
 `article/` targets used by the paper and verifies exact byte-level equality by SHA-256 and file size.
 
 Generated UTC: `2026-04-19T04:41:10.332699+00:00`

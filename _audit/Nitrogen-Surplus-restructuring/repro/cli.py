@@ -29,7 +29,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     figure1 = subparsers.add_parser(
         "figure1",
-        help="Export panel tables and a draft reproduction of manuscript Figure 1.",
+        help="Export panel tables and a draft reproduction of Figure 1.",
     )
     figure1.add_argument(
         "--output",
@@ -46,7 +46,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     figure2a = subparsers.add_parser(
         "figure2a",
-        help="Export season Pareto tables and a draft reproduction of manuscript Figure 2(a).",
+        help="Export season Pareto tables and a draft reproduction of Figure 2(a).",
     )
     figure2a.add_argument(
         "--output",
@@ -57,7 +57,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     figure2a_bestshot = subparsers.add_parser(
         "figure2a-bestshot",
-        help="Export a status-gated, manuscript-consistent reconstruction of Figure 2(a).",
+        help="Export a status-gated, article-consistent reconstruction of Figure 2(a).",
     )
     figure2a_bestshot.add_argument(
         "--output",
@@ -104,7 +104,7 @@ def build_parser() -> argparse.ArgumentParser:
         "--objective-mode",
         choices=("raw", "normalized"),
         default="raw",
-        help="Objective aggregation used in the alpha sweep. `raw` matches the manuscript weighted sum.",
+        help="Objective aggregation used in the alpha sweep. `raw` matches the paper weighted sum.",
     )
     figure2a_clean.add_argument(
         "--alphas",

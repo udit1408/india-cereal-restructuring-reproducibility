@@ -110,9 +110,9 @@ def build_report() -> dict[str, object]:
 
 def write_markdown(report: dict[str, object]) -> None:
     lines = [
-        "# Final paper figure sync verification",
+        "# Figure sync verification",
         "",
-        "The audited revision-2 runner copies the canonical regenerated figure PDFs into the manuscript",
+        "The audited workflow copies the canonical regenerated figure PDFs into the release figure",
         "`article/` targets used by the paper and verifies exact byte-level equality by SHA-256 and file size.",
         "",
         f"Generated UTC: `{report['generated_utc']}`",

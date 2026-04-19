@@ -6,7 +6,7 @@ legacy multi-objective notebook formulation with a clean model that:
 - applies max-area caps using `(state, district, crop)` keys,
 - normalizes the weighted objective by baseline nitrogen surplus and baseline water demand,
 - records solver status explicitly and excludes non-optimal alpha points,
-- combines seasons by summing national totals, consistent with the manuscript Methods.
+- combines seasons by summing national totals, consistent with the paper methods summary.
 
 Solver: `highs`
 Income constraint: `legacy_mixed`

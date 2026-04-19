@@ -1,10 +1,10 @@
 # Method Notation Map
 
-This file aligns the notation in the revised manuscript with the final audited code path. It is intended to prevent accidental drift between the manuscript Methods and the reproducible code.
+This file aligns the paper notation with the final audited code path. It is intended to prevent accidental drift between the paper methods summary and the reproducible code.
 
 ## Core Sets and Indices
 
-| Manuscript notation | Meaning | Final code representation |
+| Paper notation | Meaning | Final code representation |
 |---|---|---|
 | `i` | District | `district` string in tuple keys `(state, district, crop)` |
 | `j` | State | `state` string in tuple keys and `states` lists |
@@ -16,7 +16,7 @@ This file aligns the notation in the revised manuscript with the final audited c
 
 ## Decision Variable and Feasible Area
 
-| Manuscript notation | Meaning | Final code representation |
+| Paper notation | Meaning | Final code representation |
 |---|---|---|
 | `x_{i,j,c,s}` | Optimized cultivated area for district-state-crop-season | PuLP variables named `area__{state}__{district}__{crop}` in `figure2a_clean_rebuild._build_problem`, `generate_figure2b_clean.solve_endpoint`, `generate_figure2c.solve_season`, and `generate_figure2d_clean.solve_nitrogen_focused_areas` |
 | `A_{i,j,c,s}^{cu}` | 2017 baseline cultivated area | `current_cereal_area[(state, district, crop)]` |
@@ -26,7 +26,7 @@ This file aligns the notation in the revised manuscript with the final audited c
 
 ## Objectives
 
-| Manuscript notation | Meaning | Final code representation |
+| Paper notation | Meaning | Final code representation |
 |---|---|---|
 | `NS_{i,j,c,s}` | Per-hectare nitrogen-surplus coefficient | `net_n_surplus`, or `nitrogen_rate - yield_data * nitrogen_removal_rate` where bootstrap coefficients are perturbed |
 | `F_N(x)` | Total nitrogen surplus objective | `objective_n = lpSum(x * net_n_surplus)` or the equivalent net-N expression in bootstrap code |
@@ -38,7 +38,7 @@ This file aligns the notation in the revised manuscript with the final audited c
 
 ## Calorie and Income Constraints
 
-| Manuscript notation | Meaning | Final code representation |
+| Paper notation | Meaning | Final code representation |
 |---|---|---|
 | `Y_{i,j,c,s}` | Crop yield | `yield_data[(state, district, crop)]`; code uses kg ha-1 basis from the notebook-derived tables |
 | `kc_c` | Crop calorie density | `calories_per_prod[(state, district, crop)]`; code uses kcal kg-1 with production in kg, equivalent to the manuscript kcal tonne-1 expression after unit conversion |
@@ -50,7 +50,7 @@ This file aligns the notation in the revised manuscript with the final audited c
 
 ## Revenue Benchmark Wiring
 
-| Manuscript concept | Final code implementation |
+| Paper concept | Final code implementation |
 |---|---|
 | Matched official state-year realized prices | `load_state_price_lookup()` in `generate_si_hybrid_revenue_profit_sensitivity.py`, reused by `generate_Figure2_equivalent.py` |
 | Crop-wise realized-price/MSP fallback | `load_ratio_scenarios()` returns the crop-specific realized-price/MSP multipliers |
@@ -59,7 +59,7 @@ This file aligns the notation in the revised manuscript with the final audited c
 
 ## Cultural Retention and Trade
 
-| Manuscript notation | Meaning | Final code representation |
+| Paper notation | Meaning | Final code representation |
 |---|---|---|
 | `tau` | State-level rice/wheat retained-area parameter | `generate_figure2c.solve_season(... retention_level="state")` called through `generate_Figure2_equivalent.py` |
 | rice kharif, wheat rabi retention | Retained staple-area floors by primary season | `CULTURAL_NOTEBOOKS` and `retain_crop` in `generate_figure2c.py` |
@@ -71,6 +71,6 @@ This file aligns the notation in the revised manuscript with the final audited c
 
 1. Any code used for final main figures must be reachable from `code_final/run_final_revision2_batch.sh`.
 2. If a script has a legacy default such as `use_historical_caps=True`, the final runner must call it only through a wrapper that explicitly sets `use_historical_caps=False`.
-3. The final manuscript should describe the primary revenue benchmark, not "MSP-only" income, except when discussing supplementary MSP comparisons.
-4. The final manuscript should describe calorie preservation as calorie adequacy or energy availability, not as full food-security or nutritional-security optimization.
+3. The public paper description should describe the primary revenue benchmark, not "MSP-only" income, except when discussing supplementary MSP comparisons.
+4. The public paper description should describe calorie preservation as calorie adequacy or energy availability, not as full food-security or nutritional-security optimization.
 5. Figure 3 must use the Figure 2 nitrogen-focused optimized area table generated under the same primary revenue benchmark.

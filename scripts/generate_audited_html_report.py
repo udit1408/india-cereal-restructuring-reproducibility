@@ -18,6 +18,13 @@ HTML_PATH = OUT_DIR / "index.html"
 RUN_CONTEXT_PATH = OUT_DIR / "run_context.json"
 
 
+def relpath(path: Path) -> str:
+    try:
+        return path.relative_to(ROOT).as_posix()
+    except ValueError:
+        return str(path)
+
+
 def sha256(path: Path) -> str:
     digest = hashlib.sha256()
     with path.open("rb") as handle:
@@ -32,7 +39,7 @@ def path_record(label: str, path: Path, category: str, kind: str, *, preview_nam
         "label": label,
         "category": category,
         "kind": kind,
-        "path": str(path),
+        "path": relpath(path),
         "exists": exists,
     }
     if exists:
@@ -101,15 +108,6 @@ def build_manifest() -> dict[str, object]:
         path_record("SI seasonal substitution audit PDF", ROOT / "figures" / "manuscript_final" / "si_s21_seasonal_substitution_audit.pdf", "si_figures", "pdf"),
     ]
 
-    manuscripts = [
-        path_record("Clean main manuscript PDF", ROOT / "R_2_PDFs" / "V2_non_track.pdf", "submission_pdfs", "pdf"),
-        path_record("Tracked main manuscript PDF", ROOT / "R_2_PDFs" / "V2_track_change.pdf", "submission_pdfs", "pdf"),
-        path_record("Clean supplementary PDF", ROOT / "R_2_PDFs" / "V2_SI_updated.pdf", "submission_pdfs", "pdf"),
-        path_record("Tracked supplementary PDF", ROOT / "R_2_PDFs" / "V2_SI_track_change.pdf", "submission_pdfs", "pdf"),
-        path_record("Cover letter PDF", ROOT / "R_2_PDFs" / "cover_letter_to_editor.pdf", "submission_pdfs", "pdf"),
-        path_record("Point-by-point response PDF", ROOT / "R_2_PDFs" / "point_by_point_response.pdf", "submission_pdfs", "pdf"),
-    ]
-
     source_data = [
         path_record("Source Data workbook", ROOT / "submission_assets" / "source_data" / "Source Data.xlsx", "source_data", "xlsx"),
         path_record("Source Data zip", ROOT / "submission_assets" / "source_data" / "Source_Data_package.zip", "source_data", "zip"),
@@ -117,22 +115,11 @@ def build_manifest() -> dict[str, object]:
     ]
 
     audits = [
-        path_record("Figure 2 reproducibility note", ROOT / "FIGURE2_REPRODUCIBILITY.md", "audit_notes", "md"),
-        path_record("Workspace map", ROOT / "WORKSPACE_MAP.md", "audit_notes", "md"),
-        path_record("GitHub re-audit note", ROOT / "_audit" / "github_reaudit_2026-04-17.md", "audit_notes", "md"),
-        path_record("Repository dataset manifest", ROOT / "_audit" / "repo_dataset_manifest.md", "audit_notes", "md"),
         path_record("Figure 1 reproduction summary", ROOT / "_audit" / "Nitrogen-Surplus-restructuring" / "outputs" / "generated" / "figure1" / "figure1_reproduction_summary.md", "audit_notes", "md"),
         path_record("Figure 2 cap-variant audit", ROOT / "data" / "generated" / "figure2_cap_variant_audit.md", "audit_notes", "md"),
         path_record("Figure 2 legacy-faithful audit", ROOT / "data" / "generated" / "figure2_legacy_faithful_audit.md", "audit_notes", "md"),
-        path_record("Final paper figure sync report (Markdown)", ROOT / "data" / "generated" / "final_paper_figure_sync" / "final_paper_figure_sync_report.md", "audit_notes", "md"),
-        path_record("Final paper figure sync report (JSON)", ROOT / "data" / "generated" / "final_paper_figure_sync" / "final_paper_figure_sync_report.json", "audit_notes", "json"),
-    ]
-
-    final_paper_targets = [
-        path_record("Final paper Figure 1 target", ROOT / "R_2_sources" / "article" / "fig1.pdf", "final_paper_targets", "pdf"),
-        path_record("Final paper Figure 2 target", ROOT / "R_2_sources" / "article" / "fig2_main_revision2.pdf", "final_paper_targets", "pdf"),
-        path_record("Legacy article Figure 2 alias", ROOT / "R_2_sources" / "article" / "fig2_t_r2.pdf", "final_paper_targets", "pdf"),
-        path_record("Final paper Figure 3 target", ROOT / "R_2_sources" / "article" / "fig3_1.pdf", "final_paper_targets", "pdf"),
+        path_record("Figure sync report (Markdown)", ROOT / "data" / "generated" / "final_paper_figure_sync" / "final_paper_figure_sync_report.md", "audit_notes", "md"),
+        path_record("Figure sync report (JSON)", ROOT / "data" / "generated" / "final_paper_figure_sync" / "final_paper_figure_sync_report.json", "audit_notes", "json"),
     ]
 
     workflow_files = [
@@ -147,20 +134,19 @@ def build_manifest() -> dict[str, object]:
         path_record("Docker runner wrapper", ROOT / "scripts" / "docker_run_audited_revision2.sh", "workflow", "txt"),
         path_record("Audited batch runner", ROOT / "scripts" / "run_audited_revision2_batch.sh", "workflow", "txt"),
         path_record("HTML report generator", ROOT / "scripts" / "generate_audited_html_report.py", "workflow", "txt"),
-        path_record("Final paper figure sync verifier", ROOT / "scripts" / "sync_verify_final_paper_figures.py", "workflow", "txt"),
-        path_record("Container workflow note", ROOT / "CONTAINERIZED_AUDITED_WORKFLOW.md", "workflow", "md"),
+        path_record("Figure sync verifier", ROOT / "scripts" / "sync_verify_final_paper_figures.py", "workflow", "txt"),
     ]
 
     run_context = load_run_context()
     return {
         "generated_utc": datetime.now(timezone.utc).isoformat(),
-        "root": str(ROOT),
+        "root": ".",
         "run_context": run_context,
         "previews": [
             {
                 "label": label,
-                "source_path": str(src),
-                "copied_preview": copied_previews.get(str(src)),
+                "source_path": relpath(src),
+                "copied_preview": relpath(Path(copied_previews[str(src)])) if str(src) in copied_previews else None,
                 "category": category,
                 "kind": kind,
             }
@@ -169,10 +155,8 @@ def build_manifest() -> dict[str, object]:
         "sections": {
             "main_outputs": main_outputs,
             "si_outputs": si_outputs,
-            "manuscripts": manuscripts,
             "source_data": source_data,
             "audits": audits,
-            "final_paper_targets": final_paper_targets,
             "workflow_files": workflow_files,
         },
     }
@@ -206,6 +190,8 @@ def table_rows(records: list[dict[str, object]]) -> str:
 
 
 def relative_from_report(path: Path) -> str:
+    if not path.is_absolute():
+        return quote(Path("../..").joinpath(path).as_posix())
     return quote(path.relative_to(OUT_DIR).as_posix()) if path.is_relative_to(OUT_DIR) else quote(Path("../..").joinpath(path.relative_to(ROOT)).as_posix())
 
 
@@ -237,7 +223,7 @@ def build_html(manifest: dict[str, object]) -> str:
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Revision 2 Audited Reproducibility Report</title>
+  <title>Audited Reproducibility Report</title>
   <style>
     body {{
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
@@ -318,12 +304,12 @@ def build_html(manifest: dict[str, object]) -> str:
 <body>
   <main>
     <section class="band">
-      <h1>Revision 2 Audited Reproducibility Report</h1>
-      <p>This HTML report tracks the approved revision-2 batch in the current audited workspace. It is tied to the mounted-workspace container workflow, the latest approved figure assets, the source-data package, and the revision PDFs.</p>
+      <h1>Audited Reproducibility Report</h1>
+      <p>This HTML report tracks the current audited workflow, generated figure assets, the source-data package, and the containerized rerun path.</p>
       <p class="mono">Generated UTC: {html.escape(str(manifest['generated_utc']))}</p>
       <p class="mono">Runner: {html.escape(str(run_context.get('runner', 'unknown')))}</p>
       <p class="mono">Run mode: {html.escape(str(run_context.get('mode', 'unknown')))}</p>
-      <p class="mono">Workspace root: {html.escape(str(manifest['root']))}</p>
+      <p class="mono">Repository root: {html.escape(str(manifest['root']))}</p>
       {log_link}
       <p><a href="repro_manifest.json">Machine-readable manifest</a></p>
     </section>
@@ -352,26 +338,10 @@ def build_html(manifest: dict[str, object]) -> str:
     </section>
 
     <section class="band">
-      <h2>Submission PDFs</h2>
-      <table>
-        <thead><tr><th>Artifact</th><th>Status</th><th>File</th><th>Type</th><th>Size</th><th>SHA-256</th></tr></thead>
-        <tbody>{table_rows(sections['manuscripts'])}</tbody>
-      </table>
-    </section>
-
-    <section class="band">
       <h2>Source Data Package</h2>
       <table>
         <thead><tr><th>Artifact</th><th>Status</th><th>File</th><th>Type</th><th>Size</th><th>SHA-256</th></tr></thead>
         <tbody>{table_rows(sections['source_data'])}</tbody>
-      </table>
-    </section>
-
-    <section class="band">
-      <h2>Final Paper Figure Targets</h2>
-      <table>
-        <thead><tr><th>Artifact</th><th>Status</th><th>File</th><th>Type</th><th>Size</th><th>SHA-256</th></tr></thead>
-        <tbody>{table_rows(sections['final_paper_targets'])}</tbody>
       </table>
     </section>
 
