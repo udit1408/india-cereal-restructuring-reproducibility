@@ -4,3 +4,26 @@ __pycache__/
 *.pyo
 .ipynb_checkpoints/
 .venv/
+
+# Untracked figure variants and intermediate exports
+figures/si_revenue_benchmark_robustness.*
+figures/manuscript_final/figure2a_no_historical_cap_core*
+figures/manuscript_final/figure2b_no_historical_cap_core_all_metric_bootstrap*
+figures/manuscript_final/figure2c_*
+figures/manuscript_final/figure2d_no_historical_cap_core*
+figures/manuscript_final/figure3a_state_area_comparison*
+figures/manuscript_final/figure3b_alt_trade_network_clean*
+figures/manuscript_final/figure3c_rice_wheat_trade_network_clean*
+figures/manuscript_final/primary_revenue_*
+figures/manuscript_final/reviewer6_*
+figures/manuscript_final/si_s19_msp_benchmark_figure3*_clean*
+figures/manuscript_final/si_s5_original_alt_trade_network_clean*
+figures/manuscript_final/si_s5_original_rice_wheat_trade_network_clean*
+figures/working_variants/fig2_revised_*
+figures/working_variants/figure2a_clean_rebuild*
+figures/working_variants/figure2a_no_historical_cap_core_pct_2017_baseline.*
+figures/working_variants/figure2b_*
+figures/working_variants/figure2c_*
+figures/working_variants/figure2d_*
+figures/working_variants/figure3_clean_preview*
+figures/working_variants/reviewer6_*
