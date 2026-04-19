@@ -1,6 +1,6 @@
 # Source Data package
 
-This folder contains the Nature-style source-data package prepared for revision 2 of
+This folder contains the source-data package for
 "Quantifying Environmental Co-Benefits of Nitrogen-Based Crop Restructuring and Its
 Implications on India's Interstate Trade Network."
 
@@ -26,8 +26,8 @@ Sheet manifest:
 | `Fig1_abc` | Figure 1a-c district metrics | 734 | 16 | `csv/Fig1_abc.csv` | `_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_panel_abc_joined.csv` |
 | `Fig1d_state_area` | Figure 1d state crop areas | 157 | 5 | `csv/Fig1d_state_area.csv` | `_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_panel_d_state_area.csv` |
 | `Fig2a_pareto` | Figure 2a Pareto frontier points | 101 | 31 | `csv/Fig2a_pareto.csv` | `data/generated/Figure2_equivalent/Figure2_equivalent_panel_a_combined_by_alpha.csv` |
-| `Fig2b_values` | Figure 2b deterministic endpoint values | 20 | 7 | `csv/Fig2b_values.csv` | `data/generated/Figure2_equivalent/Figure2_equivalent_panel_b_values.csv` |
-| `Fig2b_whiskers` | Figure 2b whisker summary | 20 | 16 | `csv/Fig2b_whiskers.csv` | `data/generated/Figure2_equivalent/panel_b_bootstrap/Figure2_equivalent_panel_b_bootstrap_summary.csv` |
+| `Fig2b_values` | Figure 2b deterministic endpoint values | 20 | 6 | `csv/Fig2b_values.csv` | `data/generated/Figure2_equivalent/Figure2_equivalent_panel_b_values.csv` |
+| `Fig2b_whiskers` | Figure 2b whisker summary | 20 | 14 | `csv/Fig2b_whiskers.csv` | `data/generated/Figure2_equivalent/panel_b_bootstrap/Figure2_equivalent_panel_b_bootstrap_summary.csv` |
 | `Fig2c_retention` | Figure 2c retention-constraint sweep | 11 | 10 | `csv/Fig2c_retention.csv` | `data/generated/Figure2_equivalent/Figure2_equivalent_panel_c_combined.csv` |
 | `Fig2d_flows` | Figure 2d crop-transition flows | 36 | 4 | `csv/Fig2d_flows.csv` | `data/generated/Figure2_equivalent/Figure2_equivalent_panel_d_transition_long.csv` |
 | `Fig2d_areas` | Figure 2d optimized area table | 4247 | 6 | `csv/Fig2d_areas.csv` | `data/generated/Figure2_equivalent/Figure2_equivalent_panel_d_optimized_areas.csv` |
@@ -60,6 +60,6 @@ Sheet manifest:
 | `FigS19c_nodes_cmp` | Supplementary Figure S19c MSP comparison rice-wheat nodes | 36 | 2 | `csv/FigS19c_nodes_cmp.csv` | `data/generated/figure3_trade_networks/figure3c_rice_wheat_node_flows_clean.csv` |
 | `FigS20_frontier` | Supplementary Figure S20 realized-price frontier envelope summary | 101 | 19 | `csv/FigS20_frontier.csv` | `data/generated/Figure2_equivalent_frontier_bootstrap/Figure2_equivalent_frontier_bootstrap_summary.csv` |
 | `FigS21_sum` | Supplementary Figure S21 primary realized-price seasonal transition summary | 24 | 5 | `csv/FigS21_sum.csv` | `data/generated/seasonal_substitution_audit_primary_revenue/seasonal_top_non_diagonal_transitions.csv` |
-| `FigS21_flags` | Supplementary Figure S21 primary realized-price district-season flags | 127 | 9 | `csv/FigS21_flags.csv` | `data/generated/seasonal_substitution_audit_primary_revenue/district_season_rice_wheat_flags.csv` |
+| `FigS21_flags` | Supplementary Figure S21 primary realized-price district-season flags | 129 | 9 | `csv/FigS21_flags.csv` | `data/generated/seasonal_substitution_audit_primary_revenue/district_season_rice_wheat_flags.csv` |
 
-The broader public input datasets and repository-level reproducibility workflow are described separately in the manuscript Data Availability and Code Availability statements.
+The broader public input datasets and repository-level reproducibility workflow are described separately in the repository documentation.
