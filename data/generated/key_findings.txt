@@ -1,0 +1,6 @@
+Key findings used in the standalone note:
+- Rice has the strongest join coverage, with mean match rate 93.3% across 2011-12 to 2017-18.
+- Maize coverage is also reasonably strong at 77.8% on average, whereas wheat is moderate at 61.1%.
+- Minor cereal coverage is materially thinner: the mean match rates are Jowar 33.3%, Bajra 36.9%, Ragi 32.9%.
+- The derived all-India unit-price series does not imply a uniform coarse-cereal revenue premium over rice; Bajra and Maize stay below rice in every benchmark year, while Ragi is higher than wheat in each benchmark year and exceeds rice only in 2016-17.
+- Because the alternative price series is state-year and partly coverage-limited, it is more appropriate as a supplementary robustness exercise than as a replacement for the district-level baseline revenue specification in the main optimization.

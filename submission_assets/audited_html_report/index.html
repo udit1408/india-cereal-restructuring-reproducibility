@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Revision 2 Audited Reproducibility Report</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      margin: 0;
+      background: #ffffff;
+      color: #111827;
+      font-size: 16px;
+    }
+    main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 28px 24px 56px;
+    }
+    h1, h2 {
+      margin: 0 0 14px;
+      font-weight: 650;
+    }
+    p {
+      line-height: 1.6;
+      margin: 0 0 12px;
+    }
+    .band {
+      background: white;
+      border: 1px solid #d9dee7;
+      border-radius: 8px;
+      padding: 18px 20px;
+      margin-bottom: 18px;
+      box-shadow: 0 1px 2px rgba(17, 24, 39, 0.04);
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 14px;
+    }
+    .card {
+      background: white;
+      border: 1px solid #dde3eb;
+      border-radius: 8px;
+      padding: 12px;
+    }
+    .card-title {
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+    img {
+      width: 100%;
+      height: auto;
+      border: 1px solid #dde3eb;
+      border-radius: 6px;
+      background: white;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 14px;
+      background: white;
+    }
+    th, td {
+      text-align: left;
+      padding: 8px 10px;
+      border-bottom: 1px solid #e7ebf1;
+      vertical-align: top;
+    }
+    th {
+      background: #f6f8fb;
+      font-weight: 600;
+    }
+    code {
+      font-family: Menlo, Consolas, monospace;
+      font-size: 12px;
+    }
+    .mono {
+      font-family: Menlo, Consolas, monospace;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="band">
+      <h1>Revision 2 Audited Reproducibility Report</h1>
+      <p>This HTML report tracks the approved revision-2 batch in the current audited workspace. It is tied to the mounted-workspace container workflow, the latest approved figure assets, the source-data package, and the revision PDFs.</p>
+      <p class="mono">Generated UTC: 2026-04-19T06:48:33.566923+00:00</p>
+      <p class="mono">Runner: code_final/run_final_revision2_batch.sh</p>
+      <p class="mono">Run mode: report-only</p>
+      <p class="mono">Workspace root: /Users/udit/Documents/Shekhar_Nature/revision_2/github_release</p>
+      <p><a href="logs/revision2_final_batch_20260419T064706Z.log">Latest container/batch log</a></p>
+      <p><a href="repro_manifest.json">Machine-readable manifest</a></p>
+    </section>
+
+    <section class="band">
+      <h2>Preview Panels</h2>
+      <div class="grid">
+        
+            <div class="card">
+              <div class="card-title">Figure 1 reproduced render</div>
+              <img src="assets/figure1_reproduced.png" alt="Figure 1 reproduced render">
+            </div>
+            
+            <div class="card">
+              <div class="card-title">Figure 2 primary realized-price composite</div>
+              <img src="assets/fig2_main_revision2.png" alt="Figure 2 primary realized-price composite">
+            </div>
+            
+            <div class="card">
+              <div class="card-title">Figure 3 primary realized-price composite</div>
+              <img src="assets/figure3_clean_preview.png" alt="Figure 3 primary realized-price composite">
+            </div>
+            
+            <div class="card">
+              <div class="card-title">SI revenue robustness</div>
+              <img src="assets/si_revenue_benchmark_robustness.png" alt="SI revenue robustness">
+            </div>
+            
+            <div class="card">
+              <div class="card-title">SI Figure 2a frontier envelope</div>
+              <img src="assets/si_figure2a_frontier_bootstrap.png" alt="SI Figure 2a frontier envelope">
+            </div>
+            
+      </div>
+    </section>
+
+    <section class="band">
+      <h2>Main Outputs</h2>
+      <table>
+        <thead><tr><th>Artifact</th><th>Status</th><th>File</th><th>Type</th><th>Size</th><th>SHA-256</th></tr></thead>
+        <tbody><tr><td>Figure 1 reproduced PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduced.pdf">figure1_reproduced.pdf</a></td><td>pdf</td><td>8180630</td><td><code>8d6dcfe95b304749</code></td></tr>
+<tr><td>Figure 2 primary realized-price composite PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../figures/manuscript_final/fig2_main_revision2.pdf">fig2_main_revision2.pdf</a></td><td>pdf</td><td>974470</td><td><code>45fd96467d73d98c</code></td></tr>
+<tr><td>Figure 2 primary realized-price composite PNG</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../figures/manuscript_final/fig2_main_revision2.png">fig2_main_revision2.png</a></td><td>png</td><td>1057313</td><td><code>37113d686e7ff627</code></td></tr>
+<tr><td>Figure 2a realized-price panel PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../figures/working_variants/Figure2_equivalent_panel_a.pdf">Figure2_equivalent_panel_a.pdf</a></td><td>pdf</td><td>46988</td><td><code>0777fbd61a423d5e</code></td></tr>
+<tr><td>Figure 2b realized-price panel PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../figures/working_variants/Figure2_equivalent_panel_b.pdf">Figure2_equivalent_panel_b.pdf</a></td><td>pdf</td><td>20813</td><td><code>671efe1b6a98319a</code></td></tr>
+<tr><td>Figure 2c realized-price panel PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../figures/working_variants/Figure2_equivalent_panel_c.pdf">Figure2_equivalent_panel_c.pdf</a></td><td>pdf</td><td>19508</td><td><code>ff2beca5a8f5f117</code></td></tr>
+<tr><td>Figure 2d realized-price panel PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../figures/working_variants/Figure2_equivalent_panel_d.pdf">Figure2_equivalent_panel_d.pdf</a></td><td>pdf</td><td>49968</td><td><code>a816212b30e80813</code></td></tr>
+<tr><td>Figure 3a realized-price panel PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../figures/working_variants/Figure3_equivalent_panel_a.pdf">Figure3_equivalent_panel_a.pdf</a></td><td>pdf</td><td>24325</td><td><code>05050dc6af66e908</code></td></tr>
+<tr><td>Figure 3b realized-price panel PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../figures/working_variants/Figure3_equivalent_panel_b.pdf">Figure3_equivalent_panel_b.pdf</a></td><td>pdf</td><td>43419</td><td><code>eee638abd8c3ce61</code></td></tr>
+<tr><td>Figure 3c realized-price panel PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../figures/working_variants/Figure3_equivalent_panel_c.pdf">Figure3_equivalent_panel_c.pdf</a></td><td>pdf</td><td>59261</td><td><code>e8f0119526a75b9d</code></td></tr>
+<tr><td>Figure 3 primary realized-price composite PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../figures/manuscript_final/figure3_clean_preview.pdf">figure3_clean_preview.pdf</a></td><td>pdf</td><td>2670770</td><td><code>23a93dfbb0c99d52</code></td></tr></tbody>
+      </table>
+    </section>
+
+    <section class="band">
+      <h2>Supplementary Outputs</h2>
+      <table>
+        <thead><tr><th>Artifact</th><th>Status</th><th>File</th><th>Type</th><th>Size</th><th>SHA-256</th></tr></thead>
+        <tbody><tr><td>SI revenue robustness PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../figures/manuscript_final/si_revenue_benchmark_robustness.pdf">si_revenue_benchmark_robustness.pdf</a></td><td>pdf</td><td>33884</td><td><code>53389b2b6fcd6617</code></td></tr>
+<tr><td>SI revenue endpoint sensitivity PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../figures/manuscript_final/si_revenue_benchmark_endpoint_sensitivity.pdf">si_revenue_benchmark_endpoint_sensitivity.pdf</a></td><td>pdf</td><td>26160</td><td><code>f74aa61f6db0126b</code></td></tr>
+<tr><td>SI hybrid revenue-profit sensitivity PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../figures/manuscript_final/si_hybrid_revenue_profit_sensitivity.pdf">si_hybrid_revenue_profit_sensitivity.pdf</a></td><td>pdf</td><td>33152</td><td><code>76ff067f48622d66</code></td></tr>
+<tr><td>SI Figure 2a frontier bootstrap PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../figures/manuscript_final/si_figure2a_frontier_bootstrap.pdf">si_figure2a_frontier_bootstrap.pdf</a></td><td>pdf</td><td>537612</td><td><code>8bd02f386dd11e79</code></td></tr>
+<tr><td>SI seasonal substitution audit PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../figures/manuscript_final/si_s21_seasonal_substitution_audit.pdf">si_s21_seasonal_substitution_audit.pdf</a></td><td>pdf</td><td>668838</td><td><code>25bed9200df2f469</code></td></tr></tbody>
+      </table>
+    </section>
+
+    <section class="band">
+      <h2>Submission PDFs</h2>
+      <table>
+        <thead><tr><th>Artifact</th><th>Status</th><th>File</th><th>Type</th><th>Size</th><th>SHA-256</th></tr></thead>
+        <tbody><tr><td>Clean main manuscript PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#b42318;color:white;font-size:12px">missing</span></td><td>V2_non_track.pdf</td><td>pdf</td><td></td><td><code></code></td></tr>
+<tr><td>Tracked main manuscript PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#b42318;color:white;font-size:12px">missing</span></td><td>V2_track_change.pdf</td><td>pdf</td><td></td><td><code></code></td></tr>
+<tr><td>Clean supplementary PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#b42318;color:white;font-size:12px">missing</span></td><td>V2_SI_updated.pdf</td><td>pdf</td><td></td><td><code></code></td></tr>
+<tr><td>Tracked supplementary PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#b42318;color:white;font-size:12px">missing</span></td><td>V2_SI_track_change.pdf</td><td>pdf</td><td></td><td><code></code></td></tr>
+<tr><td>Cover letter PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#b42318;color:white;font-size:12px">missing</span></td><td>cover_letter_to_editor.pdf</td><td>pdf</td><td></td><td><code></code></td></tr>
+<tr><td>Point-by-point response PDF</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#b42318;color:white;font-size:12px">missing</span></td><td>point_by_point_response.pdf</td><td>pdf</td><td></td><td><code></code></td></tr></tbody>
+      </table>
+    </section>
+
+    <section class="band">
+      <h2>Source Data Package</h2>
+      <table>
+        <thead><tr><th>Artifact</th><th>Status</th><th>File</th><th>Type</th><th>Size</th><th>SHA-256</th></tr></thead>
+        <tbody><tr><td>Source Data workbook</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../submission_assets/source_data/Source%20Data.xlsx">Source Data.xlsx</a></td><td>xlsx</td><td>615124</td><td><code>1e7aeb36c0dfe06c</code></td></tr>
+<tr><td>Source Data zip</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../submission_assets/source_data/Source_Data_package.zip">Source_Data_package.zip</a></td><td>zip</td><td>831631</td><td><code>a855967934b66eba</code></td></tr>
+<tr><td>Source Data README</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../submission_assets/source_data/README.md">README.md</a></td><td>md</td><td>7674</td><td><code>87f49be964a0ec2e</code></td></tr></tbody>
+      </table>
+    </section>
+
+    <section class="band">
+      <h2>Final Paper Figure Targets</h2>
+      <table>
+        <thead><tr><th>Artifact</th><th>Status</th><th>File</th><th>Type</th><th>Size</th><th>SHA-256</th></tr></thead>
+        <tbody><tr><td>Final paper Figure 1 target</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#b42318;color:white;font-size:12px">missing</span></td><td>fig1.pdf</td><td>pdf</td><td></td><td><code></code></td></tr>
+<tr><td>Final paper Figure 2 target</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#b42318;color:white;font-size:12px">missing</span></td><td>fig2_main_revision2.pdf</td><td>pdf</td><td></td><td><code></code></td></tr>
+<tr><td>Legacy article Figure 2 alias</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#b42318;color:white;font-size:12px">missing</span></td><td>fig2_t_r2.pdf</td><td>pdf</td><td></td><td><code></code></td></tr>
+<tr><td>Final paper Figure 3 target</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#b42318;color:white;font-size:12px">missing</span></td><td>fig3_1.pdf</td><td>pdf</td><td></td><td><code></code></td></tr></tbody>
+      </table>
+    </section>
+
+    <section class="band">
+      <h2>Audit Notes</h2>
+      <table>
+        <thead><tr><th>Artifact</th><th>Status</th><th>File</th><th>Type</th><th>Size</th><th>SHA-256</th></tr></thead>
+        <tbody><tr><td>Figure 2 reproducibility note</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#b42318;color:white;font-size:12px">missing</span></td><td>FIGURE2_REPRODUCIBILITY.md</td><td>md</td><td></td><td><code></code></td></tr>
+<tr><td>Workspace map</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#b42318;color:white;font-size:12px">missing</span></td><td>WORKSPACE_MAP.md</td><td>md</td><td></td><td><code></code></td></tr>
+<tr><td>GitHub re-audit note</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#b42318;color:white;font-size:12px">missing</span></td><td>github_reaudit_2026-04-17.md</td><td>md</td><td></td><td><code></code></td></tr>
+<tr><td>Repository dataset manifest</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#b42318;color:white;font-size:12px">missing</span></td><td>repo_dataset_manifest.md</td><td>md</td><td></td><td><code></code></td></tr>
+<tr><td>Figure 1 reproduction summary</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduction_summary.md">figure1_reproduction_summary.md</a></td><td>md</td><td>755</td><td><code>3a6ed8609cc553ec</code></td></tr>
+<tr><td>Figure 2 cap-variant audit</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../data/generated/figure2_cap_variant_audit.md">figure2_cap_variant_audit.md</a></td><td>md</td><td>7073</td><td><code>8179d07fe3b9a587</code></td></tr>
+<tr><td>Figure 2 legacy-faithful audit</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../data/generated/figure2_legacy_faithful_audit.md">figure2_legacy_faithful_audit.md</a></td><td>md</td><td>6883</td><td><code>fcd74079beafe6e9</code></td></tr>
+<tr><td>Final paper figure sync report (Markdown)</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../data/generated/final_paper_figure_sync/final_paper_figure_sync_report.md">final_paper_figure_sync_report.md</a></td><td>md</td><td>3709</td><td><code>62be558c00835d14</code></td></tr>
+<tr><td>Final paper figure sync report (JSON)</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../data/generated/final_paper_figure_sync/final_paper_figure_sync_report.json">final_paper_figure_sync_report.json</a></td><td>json</td><td>4542</td><td><code>9e1479650740b26c</code></td></tr></tbody>
+      </table>
+    </section>
+
+    <section class="band">
+      <h2>Workflow Files</h2>
+      <table>
+        <thead><tr><th>Artifact</th><th>Status</th><th>File</th><th>Type</th><th>Size</th><th>SHA-256</th></tr></thead>
+        <tbody><tr><td>Container Dockerfile</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../container/Dockerfile">Dockerfile</a></td><td>txt</td><td>670</td><td><code>d90711b0ea8be673</code></td></tr>
+<tr><td>Container requirements</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../container/requirements.txt">requirements.txt</a></td><td>txt</td><td>171</td><td><code>f9f690d62f94c79d</code></td></tr>
+<tr><td>Container entrypoint</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../container/entrypoint.sh">entrypoint.sh</a></td><td>txt</td><td>268</td><td><code>930fdeb51874b099</code></td></tr>
+<tr><td>Final code README</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../code_final/README.md">README.md</a></td><td>md</td><td>3083</td><td><code>94fdc62bf58ab52d</code></td></tr>
+<tr><td>Final code manifest</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../code_final/FINAL_CODE_MANIFEST.md">FINAL_CODE_MANIFEST.md</a></td><td>md</td><td>4321</td><td><code>0ea35c506018d0e3</code></td></tr>
+<tr><td>Method notation map</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../code_final/METHOD_NOTATION_MAP.md">METHOD_NOTATION_MAP.md</a></td><td>md</td><td>6760</td><td><code>7cdeb8afb6dec711</code></td></tr>
+<tr><td>Final batch runner</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../code_final/run_final_revision2_batch.sh">run_final_revision2_batch.sh</a></td><td>txt</td><td>3779</td><td><code>1fbb9ee1829fb649</code></td></tr>
+<tr><td>Final Docker runner</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../code_final/run_final_revision2_container.sh">run_final_revision2_container.sh</a></td><td>txt</td><td>321</td><td><code>fc88ea1867919159</code></td></tr>
+<tr><td>Docker runner wrapper</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../scripts/docker_run_audited_revision2.sh">docker_run_audited_revision2.sh</a></td><td>txt</td><td>398</td><td><code>6148e30770f34f2e</code></td></tr>
+<tr><td>Audited batch runner</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../scripts/run_audited_revision2_batch.sh">run_audited_revision2_batch.sh</a></td><td>txt</td><td>3501</td><td><code>4bfc4527519a79c9</code></td></tr>
+<tr><td>HTML report generator</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../scripts/generate_audited_html_report.py">generate_audited_html_report.py</a></td><td>txt</td><td>18559</td><td><code>b970b4c8ed1c63a9</code></td></tr>
+<tr><td>Final paper figure sync verifier</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#138d3c;color:white;font-size:12px">present</span></td><td><a href="../../scripts/sync_verify_final_paper_figures.py">sync_verify_final_paper_figures.py</a></td><td>txt</td><td>5294</td><td><code>69e4fa7b1b9d6d25</code></td></tr>
+<tr><td>Container workflow note</td><td><span style="display:inline-block;padding:2px 8px;border-radius:999px;background:#b42318;color:white;font-size:12px">missing</span></td><td>CONTAINERIZED_AUDITED_WORKFLOW.md</td><td>md</td><td></td><td><code></code></td></tr></tbody>
+      </table>
+    </section>
+  </main>
+</body>
+</html>

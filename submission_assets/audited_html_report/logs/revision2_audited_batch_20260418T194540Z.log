@@ -1,0 +1,215 @@
+Revision 2 audited batch runner
+root: /Users/udit/Documents/Shekhar_Nature/revision_2
+python: /Users/udit/Documents/Shekhar_Nature/revision_2/.venv/bin/python
+mode: full
+timestamp_utc: 2026-04-18T19:45:40Z
+
+==> Trade-stage normalization from audited checkout
+rice_trade_normalized	/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/rice_trade_normalized.csv
+wheat_trade_normalized	/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/wheat_trade_normalized.csv
+jowar_bajra_grouped	/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/jowar_bajra_grouped.csv
+millet_maize_grouped	/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/millet_maize_grouped.csv
+jowar_bajra_mean_qtl_2016_2018	/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/jowar_bajra_mean_qtl_2016_2018.csv
+millet_maize_mean_qtl_2016_2018	/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/millet_maize_mean_qtl_2016_2018.csv
+jowar_bajra_mean_kcal_2016_2018	/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/jowar_bajra_mean_kcal_2016_2018.csv
+millet_maize_mean_kcal_2016_2018	/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/millet_maize_mean_kcal_2016_2018.csv
+baseline_production_2017	/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/baseline_production_2017.csv
+generated_dependency_status	/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/generated_dependency_status.csv
+optimized_production_total	/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/optimized_production_total.csv
+
+==> Figure 1 audited reproduction
+figure1_png	/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduced.png
+figure1_pdf	/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduced.pdf
+panel_abc_joined	/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_panel_abc_joined.csv
+panel_d_state_area	/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_panel_d_state_area.csv
+district_coverage	/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_district_coverage.csv
+summary	/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduction_summary.md
+
+==> Figure 2 primary realized-price rebuild
+All NaN values filled
+Original Total Nitrogen Applied kg: 7073088064.064434
+Original Total Nitrogen Surplus generated kg: 5235454712.077634
+Original Total Nitrogen leach generated kg: 1662459417.7971756
+Original Total Nitrogen emission generated kg: 181665238.16952565
+Original Total phosphorus Applied kg: 2423340912.7607045
+Original Total phosphorus Surplus generated kg: 2007332811.1031046
+Original Total water Applied: 357578043601.2221
+<class 'pandas.DataFrame'>
+RangeIndex: 16560 entries, 0 to 16559
+Data columns (total 23 columns):
+ #   Column                         Non-Null Count  Dtype  
+---  ------                         --------------  -----  
+ 0   Unnamed: 0                     16560 non-null  int64  
+ 1   state                          16560 non-null  str    
+ 2   district                       16553 non-null  str    
+ 3   Year                           16560 non-null  int64  
+ 4   Season                         16560 non-null  str    
+ 5   crop                           16560 non-null  str    
+ 6   Area (Hectare)                 16560 non-null  float64
+ 7   Production (Tonnes)            16560 non-null  float64
+ 8   Yield (Tonnes/Hectare)         16560 non-null  float64
+ 9   N_applied(kg/ha)               11860 non-null  float64
+ 10  P_applied(kg/ha)               11860 non-null  float64
+ 11  K_applied(kg/ha)               11860 non-null  float64
+ 12  Manure (kg/ha)                 11860 non-null  float64
+ 13  calorie_per_100g               16560 non-null  int64  
+ 14  MSP_RsperQntl                  13115 non-null  float64
+ 15  CostofCultivation_rs_ha        5114 non-null   float64
+ 16  CWR_y                          12486 non-null  float64
+ 17  CWU green_y                    12486 non-null  float64
+ 18  CWU blue_y                     12486 non-null  float64
+ 19  CWR m3/ha                      12486 non-null  float64
+ 20  CWU green m3/ha                12486 non-null  float64
+ 21  CWU blue m3/ha                 12486 non-null  float64
+ 22  Cost_of_Production_rs_Quintal  3156 non-null   float64
+dtypes: float64(16), int64(3), str(4)
+memory usage: 2.9 MB
+All NaN values filled
+Original Total Nitrogen Applied kg: 5698688422.457741
+Original Total Nitrogen Surplus generated kg: 2973158456.255741
+Original Total Nitrogen leach generated kg: 694712008.0456561
+Original Total Nitrogen emission generated kg: 103722360.61934213
+Original Total phosphorus Applied kg: 2116092844.320122
+Original Total phosphorus Surplus generated kg: 1550559011.988122
+Original Total water Applied: 106481488741.27066
+All NaN values filled
+All NaN values filled
+All NaN values filled
+Original Total Nitrogen Applied kg: 7073088064.064434
+Original Total Nitrogen Surplus generated kg: 5235454712.077634
+Original Total Nitrogen leach generated kg: 1662459417.7971756
+Original Total Nitrogen emission generated kg: 181665238.16952565
+Original Total phosphorus Applied kg: 2423340912.7607045
+Original Total phosphorus Surplus generated kg: 2007332811.1031046
+Original Total water Applied: 357578043601.2221
+<class 'pandas.DataFrame'>
+RangeIndex: 16560 entries, 0 to 16559
+Data columns (total 23 columns):
+ #   Column                         Non-Null Count  Dtype  
+---  ------                         --------------  -----  
+ 0   Unnamed: 0                     16560 non-null  int64  
+ 1   state                          16560 non-null  str    
+ 2   district                       16553 non-null  str    
+ 3   Year                           16560 non-null  int64  
+ 4   Season                         16560 non-null  str    
+ 5   crop                           16560 non-null  str    
+ 6   Area (Hectare)                 16560 non-null  float64
+ 7   Production (Tonnes)            16560 non-null  float64
+ 8   Yield (Tonnes/Hectare)         16560 non-null  float64
+ 9   N_applied(kg/ha)               11860 non-null  float64
+ 10  P_applied(kg/ha)               11860 non-null  float64
+ 11  K_applied(kg/ha)               11860 non-null  float64
+ 12  Manure (kg/ha)                 11860 non-null  float64
+ 13  calorie_per_100g               16560 non-null  int64  
+ 14  MSP_RsperQntl                  13115 non-null  float64
+ 15  CostofCultivation_rs_ha        5114 non-null   float64
+ 16  CWR_y                          12486 non-null  float64
+ 17  CWU green_y                    12486 non-null  float64
+ 18  CWU blue_y                     12486 non-null  float64
+ 19  CWR m3/ha                      12486 non-null  float64
+ 20  CWU green m3/ha                12486 non-null  float64
+ 21  CWU blue m3/ha                 12486 non-null  float64
+ 22  Cost_of_Production_rs_Quintal  3156 non-null   float64
+dtypes: float64(16), int64(3), str(4)
+memory usage: 2.9 MB
+All NaN values filled
+Original Total Nitrogen Applied kg: 5698688422.457741
+Original Total Nitrogen Surplus generated kg: 2973158456.255741
+Original Total Nitrogen leach generated kg: 694712008.0456561
+Original Total Nitrogen emission generated kg: 103722360.61934213
+Original Total phosphorus Applied kg: 2116092844.320122
+Original Total phosphorus Surplus generated kg: 1550559011.988122
+Original Total water Applied: 106481488741.27066
+figure_png: /Users/udit/Documents/Shekhar_Nature/revision_2/figures/working_variants/Figure2_equivalent.png
+figure_pdf: /Users/udit/Documents/Shekhar_Nature/revision_2/figures/working_variants/Figure2_equivalent.pdf
+summary_csv: /Users/udit/Documents/Shekhar_Nature/revision_2/data/generated/Figure2_equivalent/Figure2_equivalent_summary.csv
+audit_md: /Users/udit/Documents/Shekhar_Nature/revision_2/data/generated/Figure2_equivalent/Figure2_equivalent_audit.md
+
+==> Supplementary Figure 2 supporting block
+/Users/udit/Documents/Shekhar_Nature/revision_2/figures/manuscript_final/si_s2_seasonal_pareto.pdf
+/Users/udit/Documents/Shekhar_Nature/revision_2/figures/manuscript_final/si_s3_seasonal_tradeoffs.pdf
+/Users/udit/Documents/Shekhar_Nature/revision_2/figures/manuscript_final/si_s4_cultural_retention.pdf
+
+==> Figure 3 primary realized-price rebuild
+figure_png: /Users/udit/Documents/Shekhar_Nature/revision_2/figures/working_variants/Figure3_equivalent.png
+figure_pdf: /Users/udit/Documents/Shekhar_Nature/revision_2/figures/working_variants/Figure3_equivalent.pdf
+audit_md: /Users/udit/Documents/Shekhar_Nature/revision_2/data/generated/Figure3_equivalent/Figure3_equivalent_audit.md
+
+==> Seasonal substitution audit
+/Users/udit/Documents/Shekhar_Nature/revision_2/figures/manuscript_final/si_s21_seasonal_substitution_audit.png
+/Users/udit/Documents/Shekhar_Nature/revision_2/figures/manuscript_final/si_s21_seasonal_substitution_audit.pdf
+
+==> Revenue robustness SI figure
+/Users/udit/Documents/Shekhar_Nature/revision_2/figures/manuscript_final/si_revenue_benchmark_robustness.pdf
+
+==> Revenue endpoint sensitivity SI figure
+
+==> Hybrid revenue-profit SI figure
+
+==> Figure 2(a) envelope SI figure
+figure_png: /Users/udit/Documents/Shekhar_Nature/revision_2/figures/manuscript_final/si_figure2a_frontier_bootstrap.png
+figure_pdf: /Users/udit/Documents/Shekhar_Nature/revision_2/figures/manuscript_final/si_figure2a_frontier_bootstrap.pdf
+summary_csv: /Users/udit/Documents/Shekhar_Nature/revision_2/data/generated/Figure2_equivalent_frontier_bootstrap/Figure2_equivalent_frontier_bootstrap_summary.csv
+audit_md: /Users/udit/Documents/Shekhar_Nature/revision_2/data/generated/Figure2_equivalent_frontier_bootstrap/Figure2_equivalent_frontier_bootstrap_audit.md
+
+==> Source Data package rebuild
+workbook: /Users/udit/Documents/Shekhar_Nature/revision_2/submission_assets/source_data/Source Data.xlsx
+zip: /Users/udit/Documents/Shekhar_Nature/revision_2/submission_assets/source_data/Source_Data_package.zip
+sheets: 36
+items:
+  - Fig1_abc: 734 rows x 16 cols
+  - Fig1d_state_area: 157 rows x 5 cols
+  - Fig2a_pareto: 101 rows x 31 cols
+  - Fig2b_values: 20 rows x 6 cols
+  - Fig2b_whiskers: 20 rows x 14 cols
+  - Fig2c_retention: 11 rows x 10 cols
+  - Fig2d_flows: 36 rows x 4 cols
+  - Fig2d_areas: 4247 rows x 6 cols
+  - FigS2_seasonal: 22 rows x 4 cols
+  - FigS3_tradeoffs: 40 rows x 6 cols
+  - FigS4_retention: 22 rows x 15 cols
+  - Fig3a_state_area: 81 rows x 7 cols
+  - Fig3b_edges: 988 rows x 8 cols
+  - Fig3b_nodes: 32 rows x 2 cols
+  - Fig3c_edges: 1260 rows x 5 cols
+  - Fig3c_nodes: 36 rows x 2 cols
+  - FigS16a_ratio: 6 rows x 6 cols
+  - FigS16b_trade: 4 rows x 7 cols
+  - FigS16c_cover: 6 rows x 7 cols
+  - FigS17_values: 120 rows x 9 cols
+  - FigS18a_pareto_cmp: 101 rows x 33 cols
+  - FigS18b_values_cmp: 20 rows x 6 cols
+  - FigS18b_whisk_cmp: 20 rows x 14 cols
+  - FigS18c_retent_cmp: 11 rows x 10 cols
+  - FigS18d_flows_cmp: 36 rows x 4 cols
+  - FigS18d_areas_cmp: 4247 rows x 6 cols
+  - FigS19a_state_cmp: 81 rows x 7 cols
+  - FigS19b_edges_cmp: 988 rows x 8 cols
+  - FigS19b_nodes_cmp: 32 rows x 2 cols
+  - FigS19c_edges_cmp: 1260 rows x 5 cols
+  - FigS19c_nodes_cmp: 36 rows x 2 cols
+  - FigS20_frontier: 101 rows x 19 cols
+  - FigS21_sum: 24 rows x 5 cols
+  - FigS21_flags: 129 rows x 9 cols
+
+==> Final paper figure sync and exact-match verification
+json: /Users/udit/Documents/Shekhar_Nature/revision_2/data/generated/final_paper_figure_sync/final_paper_figure_sync_report.json
+markdown: /Users/udit/Documents/Shekhar_Nature/revision_2/data/generated/final_paper_figure_sync/final_paper_figure_sync_report.md
+Figure 1	/Users/udit/Documents/Shekhar_Nature/revision_2/R_2_sources/article/fig1.pdf	match=True
+Figure 2	/Users/udit/Documents/Shekhar_Nature/revision_2/figures/manuscript_final/fig2_main_revision2.pdf	match=True
+Figure 2	/Users/udit/Documents/Shekhar_Nature/revision_2/R_2_PDFs/fig2_main_revision2.pdf	match=True
+Figure 2	/Users/udit/Documents/Shekhar_Nature/revision_2/R_2_sources/article/fig2_main_revision2.pdf	match=True
+Figure 2	/Users/udit/Documents/Shekhar_Nature/revision_2/R_2_sources/article/fig2_t_r2.pdf	match=True
+Figure 2 PNG	/Users/udit/Documents/Shekhar_Nature/revision_2/figures/manuscript_final/fig2_main_revision2.png	match=True
+Figure 3	/Users/udit/Documents/Shekhar_Nature/revision_2/figures/manuscript_final/figure3_clean_preview.pdf	match=True
+Figure 3	/Users/udit/Documents/Shekhar_Nature/revision_2/R_2_sources/article/fig3_1.pdf	match=True
+Figure 3 PNG	/Users/udit/Documents/Shekhar_Nature/revision_2/figures/manuscript_final/figure3_clean_preview.png	match=True
+
+==> HTML reproducibility report
+html: /Users/udit/Documents/Shekhar_Nature/revision_2/submission_assets/audited_html_report/index.html
+manifest: /Users/udit/Documents/Shekhar_Nature/revision_2/submission_assets/audited_html_report/repro_manifest.json
+
+Audited revision-2 batch complete.
+HTML report: /Users/udit/Documents/Shekhar_Nature/revision_2/submission_assets/audited_html_report/index.html
+Manifest:    /Users/udit/Documents/Shekhar_Nature/revision_2/submission_assets/audited_html_report/repro_manifest.json
+Log:         /Users/udit/Documents/Shekhar_Nature/revision_2/submission_assets/audited_html_report/logs/revision2_audited_batch_20260418T194540Z.log

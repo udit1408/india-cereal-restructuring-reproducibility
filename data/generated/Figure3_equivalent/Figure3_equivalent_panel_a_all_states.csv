@@ -1,0 +1,152 @@
+State,Crop,original_area_ha,optimized_area_ha,state_abbrev,crop_order
+andaman and nicobar,maize,43.620000000000005,43.620000000000005,,2
+andaman and nicobar,rice,5340.55,5340.55,,4
+andhra pradesh,bajra,48357.0,119884.11739150087,AP,0
+andhra pradesh,jowar,139669.0,16750.543491088516,AP,1
+andhra pradesh,maize,336540.0,256369.28672087286,AP,2
+andhra pradesh,ragi,34450.0,107166.0,AP,3
+andhra pradesh,rice,2218186.0,2277070.0523965377,AP,4
+andhra pradesh,wheat,38.0,0.0,AP,5
+arunachal pradesh,maize,50797.0,79053.48162337116,,2
+arunachal pradesh,rice,132000.0,103743.51837662884,,4
+arunachal pradesh,wheat,3930.0,3930.0,,5
+assam,maize,31537.0,30721.368471613223,AS,2
+assam,rice,2433711.0,2431029.631528387,AS,4
+assam,wheat,17786.0,21283.0,AS,5
+bihar,bajra,4379.0,0.0,BR,0
+bihar,jowar,1358.0,0.0,BR,1
+bihar,maize,742863.0,2185747.4843258234,BR,2
+bihar,ragi,4211.0,1128063.2528033108,BR,3
+bihar,rice,3306983.0,1484060.0,BR,4
+bihar,wheat,2129560.0,1391483.262870866,BR,5
+chandigarh,maize,0.0,0.0,,2
+chandigarh,rice,10.0,10.0,,4
+chandigarh,wheat,546.0,546.0,,5
+chhattisgarh,bajra,61.0,0.0,CH,0
+chhattisgarh,jowar,0.0,402068.5192438492,CH,1
+chhattisgarh,maize,119617.0,2988444.4807561506,CH,2
+chhattisgarh,ragi,7274.0,0.0,CH,3
+chhattisgarh,rice,3976626.0,713065.0,CH,4
+chhattisgarh,wheat,102195.0,102195.0,CH,5
+dadra and nagar haveli,jowar,451.0,517.3156939021025,,1
+dadra and nagar haveli,maize,108.0,0.0,,2
+dadra and nagar haveli,ragi,1135.0,1157.215330518649,,3
+dadra and nagar haveli,rice,14226.0,14245.468975036112,,4
+dadra and nagar haveli,wheat,0.0,5.431351155493758e-07,,5
+gujarat,bajra,397152.0,639981.23632891,GJ,0
+gujarat,jowar,91198.0,756926.2995478939,GJ,1
+gujarat,maize,399984.0,4538.160398520332,GJ,2
+gujarat,ragi,11880.0,0.0,GJ,3
+gujarat,rice,855290.0,776186.9126992752,GJ,4
+gujarat,wheat,1058778.0,636649.3910254006,GJ,5
+haryana,bajra,510000.0,498261.5714396433,HR,0
+haryana,jowar,47500.0,51865.25323321384,HR,1
+haryana,maize,6600.0,0.0,HR,2
+haryana,rice,1422100.0,1436073.175327143,HR,4
+haryana,wheat,2647900.0,2647900.0,HR,5
+himachal pradesh,bajra,79.0,0.0,HP,0
+himachal pradesh,maize,280811.0,152497.09561474592,HP,2
+himachal pradesh,ragi,1817.0,0.0,HP,3
+himachal pradesh,rice,71613.0,201822.90438525408,HP,4
+himachal pradesh,wheat,342675.0,342675.0,HP,5
+jammu and kashmir,bajra,12615.0,78984.6231104766,JK,0
+jammu and kashmir,jowar,63.0,27982.0,JK,1
+jammu and kashmir,maize,302516.0,290406.9413992031,JK,2
+jammu and kashmir,ragi,8724.0,8728.203005552663,JK,3
+jammu and kashmir,rice,273582.0,191473.4354903203,JK,4
+jammu and kashmir,wheat,299336.0,299260.79699444736,JK,5
+jharkhand,bajra,614.0,0.0,JH,0
+jharkhand,jowar,3329.0,62677.0,JH,1
+jharkhand,maize,294698.0,8679.490426592216,JH,2
+jharkhand,ragi,19013.0,119493.24272071425,JH,3
+jharkhand,rice,1735411.0,1860761.7572792857,JH,4
+jharkhand,wheat,220963.0,222416.5095734078,JH,5
+karnataka,bajra,231550.0,72861.0,KA,0
+karnataka,jowar,1088098.0,2909698.2731271815,KA,1
+karnataka,maize,1307008.0,1370018.7268728183,KA,2
+karnataka,ragi,777835.0,20565.0,KA,3
+karnataka,rice,992925.0,170415.68573829037,KA,4
+karnataka,wheat,193338.0,47195.31426170964,KA,5
+kerala,jowar,0.0,0.0001518667672236,KL,1
+kerala,ragi,0.0,0.0,KL,3
+kerala,rice,189086.0,189085.99984813324,KL,4
+madhya pradesh,bajra,309940.0,717500.0,MP,0
+madhya pradesh,jowar,270040.0,2078412.7195923782,MP,1
+madhya pradesh,maize,1352160.0,660187.9899709439,MP,2
+madhya pradesh,ragi,0.0,0.0,MP,3
+madhya pradesh,rice,2035140.0,639734.3992276693,MP,4
+madhya pradesh,wheat,5802980.0,5674424.891209008,MP,5
+maharashtra,bajra,787833.0,0.0,MH,0
+maharashtra,jowar,3464153.0,4983879.536118295,MH,1
+maharashtra,maize,1063507.0,1461886.8184819536,MH,2
+maharashtra,ragi,92817.0,710559.1453997516,MH,3
+maharashtra,rice,1450943.0,348970.0,MH,4
+maharashtra,wheat,1137731.5,491689.0,MH,5
+manipur,maize,26930.0,64333.29690588592,,2
+manipur,rice,236710.0,199252.28091975057,,4
+manipur,wheat,2250.0,2304.422174363518,,5
+meghalaya,maize,18152.0,20799.180319602907,,2
+meghalaya,rice,111141.0,108629.8196803971,,4
+meghalaya,wheat,460.0,324.0,,5
+mizoram,maize,5979.2,22129.460411864962,MZ,2
+mizoram,rice,36114.2,19963.93958813504,MZ,4
+nagaland,bajra,700.0,0.0,NL,0
+nagaland,jowar,270.0,3811.8312414707902,NL,1
+nagaland,maize,69010.0,84629.63557716334,NL,2
+nagaland,ragi,340.0,0.0,NL,3
+nagaland,rice,212000.0,193948.53318136587,NL,4
+nagaland,wheat,3410.0,3340.0,NL,5
+odisha,bajra,0.0,0.0,OD,0
+odisha,jowar,0.0,87761.0,OD,1
+odisha,maize,46942.0,291557.0414569523,OD,2
+odisha,ragi,42592.0,74173.28143316961,OD,3
+odisha,rice,3766390.0,3402505.677109878,OD,4
+odisha,wheat,73.0,0.0,OD,5
+puducherry,bajra,14.0,0.0,,0
+puducherry,jowar,5.0,85.34107076144706,,1
+puducherry,ragi,45.0,19.172707171068847,,3
+puducherry,rice,17371.0,17330.486222067484,,4
+punjab,bajra,1000.0,0.0,PN,0
+punjab,maize,114000.0,77192.22398392239,PN,2
+punjab,rice,3065000.0,3102807.7760160775,PN,4
+punjab,wheat,3512000.0,3512000.0,PN,5
+rajasthan,bajra,4264301.0,4300188.0,RJ,0
+rajasthan,jowar,509129.0,1067018.155551092,RJ,1
+rajasthan,maize,870123.0,319153.9750878429,RJ,2
+rajasthan,rice,190641.0,147833.8693610652,RJ,4
+rajasthan,wheat,3050258.0,3050258.0,RJ,5
+sikkim,maize,38458.0,39614.00388765908,,2
+sikkim,rice,9501.0,8344.996112340923,,4
+sikkim,wheat,172.0,172.0,,5
+tamil nadu,bajra,63029.0,321748.0,TN,0
+tamil nadu,jowar,385646.0,109860.0,TN,1
+tamil nadu,maize,324518.0,1954403.0294943852,TN,2
+tamil nadu,ragi,86513.0,215076.01943230088,TN,3
+tamil nadu,rice,1828865.0,87483.95107331384,TN,4
+telangana,bajra,8762.0,557894.0,TE,0
+telangana,jowar,67312.0,309709.90011521464,TE,1
+telangana,maize,630457.0,526997.8618901061,TE,2
+telangana,ragi,1455.0,0.0,TE,3
+telangana,rice,1962376.0,1279916.2379946792,TE,4
+telangana,wheat,4156.0,0.0,TE,5
+tripura,jowar,857.0,14529.20193785285,TR,1
+tripura,maize,15736.0,0.0,TR,2
+tripura,rice,274068.0,276326.79806214717,TR,4
+tripura,wheat,195.0,0.0,TR,5
+uttar pradesh,bajra,925397.0,1606238.070241264,UP,0
+uttar pradesh,jowar,169145.0,410315.09807363397,UP,1
+uttar pradesh,maize,724343.0,492867.3665561753,UP,2
+uttar pradesh,rice,5923632.0,5942407.2011920465,UP,4
+uttar pradesh,wheat,9752941.0,9043630.263936881,UP,5
+uttarakhand,bajra,0.0,10897.0,UR,0
+uttarakhand,jowar,0.0,583.0,UR,1
+uttarakhand,maize,20872.0,96220.09415242018,UR,2
+uttarakhand,ragi,101504.0,93903.90584757982,UR,3
+uttarakhand,rice,260492.0,178330.7950304871,UR,4
+uttarakhand,wheat,330401.0,333334.2049695129,UR,5
+west bengal,bajra,30.0,0.0,WB,0
+west bengal,jowar,6.0,0.0,WB,1
+west bengal,maize,245228.0,702382.4380268957,WB,2
+west bengal,ragi,3379.0,336373.3192588375,WB,3
+west bengal,rice,5537431.0,4290370.147372988,WB,4
+west bengal,wheat,117360.0,574308.0953412789,WB,5

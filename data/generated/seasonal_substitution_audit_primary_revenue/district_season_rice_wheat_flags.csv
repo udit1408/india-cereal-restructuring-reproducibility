@@ -1,0 +1,130 @@
+season,State,District,pattern,source_loss_ha,target_gain_ha,co_occurring_area_ha,baseline_rice_ha,baseline_wheat_ha
+rabi,assam,baksa,wheat_loss_rice_gain,280.0,280.0,280.0,3015.0,280.0
+rabi,assam,barpeta,wheat_loss_rice_gain,4835.0,4835.0,4835.0,50201.0,4835.0
+rabi,assam,bongaigaon,wheat_loss_rice_gain,627.0,627.0,627.0,13878.0,627.0
+rabi,assam,cachar,wheat_loss_rice_gain,49.0,49.0,49.0,8865.0,49.0
+rabi,assam,chirang,wheat_loss_rice_gain,504.0,504.0,504.0,1023.0,504.0
+rabi,assam,darrang,wheat_loss_rice_gain,286.0,286.0,286.0,17389.0,286.0
+rabi,assam,dhemaji,rice_loss_wheat_gain,4166.0,4166.0,4166.0,4166.0,1.0
+rabi,assam,dhubri,wheat_loss_rice_gain,2753.0,2753.0,2753.0,48897.0,2753.0
+rabi,assam,dibrugarh,wheat_loss_rice_gain,2.0,2.0,2.0,875.0,2.0
+rabi,assam,goalpara,wheat_loss_rice_gain,1213.0,1213.0,1213.0,27821.0,1213.0
+rabi,assam,golaghat,wheat_loss_rice_gain,127.0,127.0,127.0,5619.0,127.0
+rabi,assam,jorhat,wheat_loss_rice_gain,4.0,4.0,4.0,5247.0,4.0
+rabi,assam,kamrup,wheat_loss_rice_gain,636.0,636.0,636.0,39069.0,636.0
+rabi,assam,karbi anglong,wheat_loss_rice_gain,1172.0,1172.0,1172.0,4183.0,1172.0
+rabi,assam,karimganj,wheat_loss_rice_gain,5.0,5.0,5.0,5235.0,5.0
+rabi,assam,kokrajhar,wheat_loss_rice_gain,838.0,838.0,838.0,17958.0,838.0
+rabi,assam,lakhimpur,rice_loss_wheat_gain,15176.0,15176.0,15176.0,15176.0,4.0
+rabi,assam,nagaon,wheat_loss_rice_gain,1448.0,1448.0,1448.0,43753.0,1448.0
+rabi,assam,nalbari,wheat_loss_rice_gain,146.0,146.0,146.0,10951.0,146.0
+rabi,assam,sivasagar,wheat_loss_rice_gain,4.0,4.0,4.0,2818.0,4.0
+rabi,assam,sonitpur,wheat_loss_rice_gain,342.0,342.0,342.0,23267.0,342.0
+rabi,assam,tinsukia,wheat_loss_rice_gain,12.0,12.0,12.0,228.0,12.0
+rabi,assam,udalguri,wheat_loss_rice_gain,562.0,562.0,562.0,5120.0,562.0
+rabi,bihar,araria,wheat_loss_rice_gain,25358.0,70878.0,25358.0,8341.0,25358.0
+rabi,bihar,darbhanga,rice_loss_wheat_gain,1710.0,9545.0,1710.0,1710.0,57918.0
+rabi,bihar,munger,rice_loss_wheat_gain,262.0,1691.0,262.0,262.0,13894.0
+rabi,bihar,nalanda,rice_loss_wheat_gain,10.0,4997.0,10.0,10.0,80500.0
+rabi,bihar,nawada,rice_loss_wheat_gain,3.0,388.0,3.0,3.0,43026.0
+rabi,bihar,pashchim champaran,wheat_loss_rice_gain,70313.0,74281.0,70313.0,0.0,70313.0
+rabi,bihar,purbi champaran,wheat_loss_rice_gain,118819.0,126629.0,118819.0,0.0,118819.0
+rabi,bihar,samastipur,rice_loss_wheat_gain,2148.0,51859.0,2148.0,2148.0,55968.0
+rabi,dadra and nagar haveli,dadra and nagar haveli,rice_loss_wheat_gain,5.431351155493758e-07,5.431351155493758e-07,5.431351155493758e-07,409.0,0.0
+rabi,gujarat,anand,rice_loss_wheat_gain,564.0,26915.0,564.0,564.0,59050.0
+rabi,gujarat,gandhinagar,rice_loss_wheat_gain,128.0,6906.0,128.0,128.0,29753.0
+rabi,gujarat,kheda,wheat_loss_rice_gain,80109.0,105511.0,80109.0,6663.0,80109.0
+rabi,gujarat,mahesana,rice_loss_wheat_gain,402.0,12712.0,402.0,402.0,72767.0
+rabi,gujarat,navsari,wheat_loss_rice_gain,189.0,1107.0,189.0,643.0,189.0
+rabi,gujarat,panch mahals,wheat_loss_rice_gain,12484.0,32622.0,12484.0,1613.0,12484.0
+rabi,gujarat,surat,rice_loss_wheat_gain,3939.0,6939.0,3939.0,3939.0,4595.0
+rabi,gujarat,tapi,rice_loss_wheat_gain,1856.0,4218.0,1856.0,1856.0,3510.0
+rabi,gujarat,vadodara,wheat_loss_rice_gain,20088.0,30854.0,20088.0,397.0,20088.0
+rabi,gujarat,valsad,rice_loss_wheat_gain,989.0,1173.0,989.0,989.0,5.0
+rabi,madhya pradesh,alirajpur,rice_loss_wheat_gain,240.0,7040.0,240.0,240.0,26000.0
+rabi,madhya pradesh,ashoknagar,rice_loss_wheat_gain,20.0,40.0,20.0,20.0,143410.0
+rabi,madhya pradesh,balaghat,wheat_loss_rice_gain,55560.0,55600.0,55560.0,5210.0,55560.0
+rabi,madhya pradesh,damoh,rice_loss_wheat_gain,30.0,80.0,30.0,30.0,81600.0
+rabi,madhya pradesh,dhar,rice_loss_wheat_gain,500.0,11500.0,500.0,500.0,198870.0
+rabi,madhya pradesh,gwalior,rice_loss_wheat_gain,210.0,210.0,210.0,210.0,65000.0
+rabi,madhya pradesh,harda,rice_loss_wheat_gain,1000.0,1200.0,1000.0,1000.0,118000.0
+rabi,madhya pradesh,indore,rice_loss_wheat_gain,450.0,3650.0,450.0,450.0,110400.0
+rabi,madhya pradesh,khandwa,rice_loss_wheat_gain,190.0,4510.0,190.0,190.0,142500.0
+rabi,madhya pradesh,mandsaur,rice_loss_wheat_gain,520.0,600.0,520.0,520.0,86300.0
+rabi,madhya pradesh,narsinghpur,rice_loss_wheat_gain,500.0,500.0,500.0,500.0,92000.0
+rabi,madhya pradesh,neemuch,rice_loss_wheat_gain,280.0,480.0,280.0,280.0,39400.0
+rabi,madhya pradesh,seoni,rice_loss_wheat_gain,2030.0,3530.0,2030.0,2030.0,200720.0
+rabi,madhya pradesh,shahdol,rice_loss_wheat_gain,10.0,80.0,10.0,10.0,28820.0
+rabi,madhya pradesh,ujjain,rice_loss_wheat_gain,200.0,260.0,200.0,200.0,220600.0
+rabi,madhya pradesh,umaria,rice_loss_wheat_gain,20.0,20.0,20.0,20.0,41770.0
+rabi,maharashtra,bhandara,wheat_loss_rice_gain,10171.0,10746.0,10171.0,8181.0,10171.0
+rabi,maharashtra,gondia,wheat_loss_rice_gain,3016.0,3184.0,3016.0,4511.0,3016.0
+rabi,maharashtra,nagpur,wheat_loss_rice_gain,135203.0,135762.0,135203.0,75.0,135203.0
+rabi,maharashtra,palghar,wheat_loss_rice_gain,15.0,15.0,15.0,1230.0,15.0
+rabi,meghalaya,east garo hills,wheat_loss_rice_gain,15.0,15.0,15.0,33.0,15.0
+rabi,meghalaya,north garo hills,rice_loss_wheat_gain,88.0,88.0,88.0,88.0,43.0
+rabi,meghalaya,ri bhoi,rice_loss_wheat_gain,193.0,193.0,193.0,193.0,0.0
+rabi,meghalaya,south west garo hills,wheat_loss_rice_gain,204.0,204.0,204.0,4932.0,204.0
+rabi,meghalaya,west garo hills,wheat_loss_rice_gain,193.0,193.0,193.0,7858.0,193.0
+rabi,meghalaya,west khasi hills,wheat_loss_rice_gain,5.0,5.0,5.0,23.0,5.0
+rabi,nagaland,dimapur,wheat_loss_rice_gain,470.0,1870.0,470.0,2820.0,470.0
+rabi,nagaland,mon,wheat_loss_rice_gain,440.0,1490.0,440.0,1650.0,440.0
+rabi,nagaland,peren,wheat_loss_rice_gain,370.0,370.0,370.0,780.0,370.0
+rabi,nagaland,wokha,wheat_loss_rice_gain,370.0,1360.0,370.0,0.0,370.0
+rabi,odisha,balangir,wheat_loss_rice_gain,3.0,3.0,3.0,1340.0,3.0
+rabi,odisha,bargarh,wheat_loss_rice_gain,9.0,11.0,9.0,64050.0,9.0
+rabi,odisha,dhenkanal,wheat_loss_rice_gain,1.0,15.0,1.0,150.0,1.0
+rabi,odisha,kalahandi,wheat_loss_rice_gain,1.0,3.0,1.0,28660.0,1.0
+rabi,odisha,mayurbhanj,wheat_loss_rice_gain,12.0,63.0,12.0,4230.0,12.0
+rabi,odisha,sundargarh,wheat_loss_rice_gain,22.0,29.0,22.0,160.0,22.0
+rabi,telangana,kamareddy,wheat_loss_rice_gain,452.0,21173.0,452.0,39332.0,452.0
+rabi,telangana,nizamabad,wheat_loss_rice_gain,84.0,11363.0,84.0,81531.0,84.0
+rabi,telangana,sangareddy,wheat_loss_rice_gain,524.0,5781.0,524.0,18317.0,524.0
+rabi,telangana,siddipet,wheat_loss_rice_gain,7.0,9843.0,7.0,45375.0,7.0
+rabi,telangana,vikarabad,wheat_loss_rice_gain,96.0,2616.0,96.0,10641.0,96.0
+rabi,tripura,dhalai,wheat_loss_rice_gain,21.0,274.0,21.0,1863.0,21.0
+rabi,tripura,gomati,wheat_loss_rice_gain,49.0,410.0,49.0,15755.0,49.0
+rabi,tripura,khowai,wheat_loss_rice_gain,3.0,220.0,3.0,7225.0,3.0
+rabi,tripura,north tripura,wheat_loss_rice_gain,24.0,238.0,24.0,716.0,24.0
+rabi,tripura,sepahijala,wheat_loss_rice_gain,34.0,215.0,34.0,19230.0,34.0
+rabi,tripura,south tripura,wheat_loss_rice_gain,20.0,405.0,20.0,17399.0,20.0
+rabi,tripura,unakoti,wheat_loss_rice_gain,20.0,100.0,20.0,1046.0,20.0
+rabi,uttar pradesh,ballia,rice_loss_wheat_gain,189.0,3648.0,189.0,189.0,136892.0
+rabi,uttar pradesh,bareilly,rice_loss_wheat_gain,1040.0,1137.0,1040.0,1040.0,195118.0
+rabi,uttar pradesh,bijnor,rice_loss_wheat_gain,48.0,82.0,48.0,48.0,157273.0
+rabi,uttar pradesh,budaun,rice_loss_wheat_gain,33.0,1301.0,33.0,33.0,222879.0
+rabi,uttar pradesh,bulandshahr,rice_loss_wheat_gain,5.0,1935.0,5.0,5.0,191410.0
+rabi,uttar pradesh,firozabad,rice_loss_wheat_gain,1.0,488.0,1.0,1.0,95997.0
+rabi,uttar pradesh,ghazipur,wheat_loss_rice_gain,166213.0,166397.0,166213.0,0.0,166213.0
+rabi,uttar pradesh,gorakhpur,rice_loss_wheat_gain,42.0,224.0,42.0,42.0,192243.0
+rabi,uttar pradesh,hardoi,rice_loss_wheat_gain,92.0,755.0,92.0,92.0,314432.0
+rabi,uttar pradesh,hathras,rice_loss_wheat_gain,12.0,698.0,12.0,12.0,82643.0
+rabi,uttar pradesh,lakhimpur kheri,rice_loss_wheat_gain,2141.0,2141.0,2141.0,2141.0,188602.0
+rabi,uttar pradesh,lalitpur,wheat_loss_rice_gain,135693.36950694417,135693.36950694415,135693.36950694415,0.0,152659.0
+rabi,uttar pradesh,maharajganj,rice_loss_wheat_gain,103.0,475.0,103.0,103.0,145443.0
+rabi,uttar pradesh,mainpuri,rice_loss_wheat_gain,78.0,783.0,78.0,78.0,150750.0
+rabi,uttar pradesh,meerut,rice_loss_wheat_gain,25.0,286.0,25.0,25.0,75592.0
+rabi,uttar pradesh,moradabad,rice_loss_wheat_gain,523.0,540.0,523.0,523.0,123231.0
+rabi,uttar pradesh,muzaffarnagar,rice_loss_wheat_gain,1.0,4.0,1.0,1.0,85624.0
+rabi,uttar pradesh,pilibhit,rice_loss_wheat_gain,9481.0,9499.0,9481.0,9481.0,131987.0
+rabi,uttar pradesh,rampur,rice_loss_wheat_gain,5934.0,6161.0,5934.0,5934.0,149252.0
+rabi,uttar pradesh,sant kabeer nagar,rice_loss_wheat_gain,67.0,115.0,67.0,67.0,90569.0
+rabi,uttar pradesh,shamli,rice_loss_wheat_gain,59.0,63.0,59.0,59.0,49633.0
+rabi,uttar pradesh,sitapur,rice_loss_wheat_gain,53.0,212.0,53.0,53.0,210935.0
+rabi,uttarakhand,hardwar,wheat_loss_rice_gain,11023.795030487097,11023.795030487096,11023.795030487096,4.0,44644.0
+rabi,uttarakhand,nainital,rice_loss_wheat_gain,155.0,156.0,155.0,155.0,22088.0
+rabi,uttarakhand,udham singh nagar,rice_loss_wheat_gain,13794.0,13794.0,13794.0,13794.0,105110.0
+rabi,west bengal,bankura,wheat_loss_rice_gain,1170.0,1564.0,1170.0,49343.0,1170.0
+rabi,west bengal,barddhaman,rice_loss_wheat_gain,149528.0,149528.0,149528.0,149528.0,0.0
+rabi,west bengal,birbhum,rice_loss_wheat_gain,88290.0,89101.0,88290.0,88290.0,35116.0
+rabi,west bengal,dakshin dinajpur,rice_loss_wheat_gain,24420.0,24420.0,24420.0,24420.0,0.0
+rabi,west bengal,hooghly,wheat_loss_rice_gain,463.0,798.0,463.0,64751.0,463.0
+rabi,west bengal,howrah,wheat_loss_rice_gain,163.0,282.0,163.0,34480.0,163.0
+rabi,west bengal,jhargram,rice_loss_wheat_gain,14492.0,14492.0,14492.0,14492.0,84.0
+rabi,west bengal,medinipur east,wheat_loss_rice_gain,5.0,125.0,5.0,137845.0,5.0
+rabi,west bengal,medinipur west,rice_loss_wheat_gain,71853.09534127898,72801.09534127898,71853.09534127898,190540.0,180.0
+rabi,west bengal,murshidabad,wheat_loss_rice_gain,62.0,11121.0,62.0,116315.0,62.0
+rabi,west bengal,nadia,rice_loss_wheat_gain,94808.0,99908.0,94808.0,94808.0,0.0
+rabi,west bengal,paraganas north,wheat_loss_rice_gain,102.0,327.0,102.0,63492.0,102.0
+rabi,west bengal,paraganas south,wheat_loss_rice_gain,1582.0,1637.0,1582.0,79312.0,1582.0
+rabi,west bengal,uttar dinajpur,rice_loss_wheat_gain,46180.0,46180.0,46180.0,46180.0,0.0

@@ -1,0 +1,989 @@
+source_state,target_state,quantity_kcal
+andhra pradesh,arunachal pradesh,0.0
+andhra pradesh,assam,0.0
+andhra pradesh,bihar,0.0
+andhra pradesh,chandigarh,0.0
+andhra pradesh,chhattisgarh,0.0
+andhra pradesh,delhi,0.0
+andhra pradesh,goa,0.0
+andhra pradesh,gujarat,0.0
+andhra pradesh,haryana,4327732500.0
+andhra pradesh,himachal pradesh,0.0
+andhra pradesh,jammu and kashmir,0.0
+andhra pradesh,jharkhand,0.0
+andhra pradesh,karnataka,50043240000.0
+andhra pradesh,kerala,8652150000.0
+andhra pradesh,madhya pradesh,0.0
+andhra pradesh,maharashtra,4395690000.0
+andhra pradesh,manipur,0.0
+andhra pradesh,meghalaya,0.0
+andhra pradesh,mizoram,0.0
+andhra pradesh,nagaland,0.0
+andhra pradesh,odisha,0.0
+andhra pradesh,puducherry,0.0
+andhra pradesh,punjab,8214570000.0
+andhra pradesh,rajasthan,0.0
+andhra pradesh,tamil nadu,270065370000.0
+andhra pradesh,tripura,0.0
+andhra pradesh,uttar pradesh,8691930000.0
+andhra pradesh,uttarakhand,0.0
+andhra pradesh,west bengal,43544182500.0
+arunachal pradesh,andhra pradesh,0.0
+arunachal pradesh,assam,0.0
+arunachal pradesh,bihar,0.0
+arunachal pradesh,chandigarh,0.0
+arunachal pradesh,chhattisgarh,0.0
+arunachal pradesh,daman and diu,0.0
+arunachal pradesh,delhi,0.0
+arunachal pradesh,goa,0.0
+arunachal pradesh,gujarat,0.0
+arunachal pradesh,haryana,0.0
+arunachal pradesh,himachal pradesh,0.0
+arunachal pradesh,jammu and kashmir,0.0
+arunachal pradesh,jharkhand,0.0
+arunachal pradesh,karnataka,0.0
+arunachal pradesh,kerala,0.0
+arunachal pradesh,madhya pradesh,0.0
+arunachal pradesh,maharashtra,0.0
+arunachal pradesh,manipur,0.0
+arunachal pradesh,meghalaya,0.0
+arunachal pradesh,mizoram,0.0
+arunachal pradesh,nagaland,0.0
+arunachal pradesh,odisha,0.0
+arunachal pradesh,puducherry,0.0
+arunachal pradesh,punjab,0.0
+arunachal pradesh,rajasthan,0.0
+arunachal pradesh,tamil nadu,0.0
+arunachal pradesh,telangana,0.0
+arunachal pradesh,tripura,0.0
+arunachal pradesh,uttar pradesh,0.0
+arunachal pradesh,uttarakhand,0.0
+arunachal pradesh,west bengal,0.0
+assam,andhra pradesh,0.0
+assam,arunachal pradesh,0.0
+assam,bihar,0.0
+assam,chandigarh,0.0
+assam,chhattisgarh,0.0
+assam,daman and diu,0.0
+assam,delhi,0.0
+assam,goa,0.0
+assam,gujarat,0.0
+assam,haryana,0.0
+assam,himachal pradesh,0.0
+assam,jammu and kashmir,0.0
+assam,jharkhand,0.0
+assam,karnataka,0.0
+assam,kerala,0.0
+assam,madhya pradesh,0.0
+assam,maharashtra,0.0
+assam,manipur,0.0
+assam,meghalaya,0.0
+assam,mizoram,0.0
+assam,nagaland,0.0
+assam,odisha,0.0
+assam,puducherry,0.0
+assam,punjab,0.0
+assam,rajasthan,0.0
+assam,tamil nadu,0.0
+assam,telangana,0.0
+assam,tripura,0.0
+assam,uttar pradesh,0.0
+assam,uttarakhand,0.0
+assam,west bengal,0.0
+bihar,andhra pradesh,57056122500.0
+bihar,arunachal pradesh,0.0
+bihar,assam,58547320000.0
+bihar,chandigarh,0.0
+bihar,chhattisgarh,26463645000.0
+bihar,daman and diu,0.0
+bihar,delhi,0.0
+bihar,goa,0.0
+bihar,gujarat,11446695000.0
+bihar,haryana,32257160000.0
+bihar,himachal pradesh,0.0
+bihar,jammu and kashmir,0.0
+bihar,jharkhand,0.0
+bihar,karnataka,238432480000.0
+bihar,kerala,32243900000.0
+bihar,madhya pradesh,0.0
+bihar,maharashtra,43262960000.0
+bihar,manipur,0.0
+bihar,meghalaya,0.0
+bihar,mizoram,0.0
+bihar,nagaland,0.0
+bihar,odisha,0.0
+bihar,puducherry,0.0
+bihar,punjab,87622080000.0
+bihar,rajasthan,0.0
+bihar,tamil nadu,476427380000.0
+bihar,telangana,16893240000.0
+bihar,tripura,0.0
+bihar,uttar pradesh,0.0
+bihar,uttarakhand,363047750000.0
+bihar,west bengal,25303395000.0
+chandigarh,andhra pradesh,0.0
+chandigarh,arunachal pradesh,0.0
+chandigarh,assam,0.0
+chandigarh,bihar,0.0
+chandigarh,chhattisgarh,0.0
+chandigarh,daman and diu,0.0
+chandigarh,delhi,0.0
+chandigarh,goa,0.0
+chandigarh,gujarat,0.0
+chandigarh,haryana,0.0
+chandigarh,himachal pradesh,0.0
+chandigarh,jammu and kashmir,0.0
+chandigarh,jharkhand,0.0
+chandigarh,karnataka,0.0
+chandigarh,kerala,0.0
+chandigarh,madhya pradesh,0.0
+chandigarh,maharashtra,0.0
+chandigarh,manipur,0.0
+chandigarh,meghalaya,0.0
+chandigarh,mizoram,0.0
+chandigarh,nagaland,0.0
+chandigarh,odisha,0.0
+chandigarh,puducherry,0.0
+chandigarh,punjab,0.0
+chandigarh,rajasthan,0.0
+chandigarh,tamil nadu,0.0
+chandigarh,telangana,0.0
+chandigarh,tripura,0.0
+chandigarh,uttar pradesh,0.0
+chandigarh,uttarakhand,0.0
+chandigarh,west bengal,0.0
+chhattisgarh,andhra pradesh,0.0
+chhattisgarh,arunachal pradesh,0.0
+chhattisgarh,assam,5850975000.0
+chhattisgarh,bihar,0.0
+chhattisgarh,chandigarh,0.0
+chhattisgarh,daman and diu,0.0
+chhattisgarh,delhi,0.0
+chhattisgarh,goa,0.0
+chhattisgarh,gujarat,0.0
+chhattisgarh,haryana,0.0
+chhattisgarh,himachal pradesh,0.0
+chhattisgarh,jammu and kashmir,0.0
+chhattisgarh,jharkhand,0.0
+chhattisgarh,karnataka,0.0
+chhattisgarh,kerala,0.0
+chhattisgarh,madhya pradesh,0.0
+chhattisgarh,maharashtra,0.0
+chhattisgarh,manipur,0.0
+chhattisgarh,meghalaya,0.0
+chhattisgarh,mizoram,0.0
+chhattisgarh,nagaland,0.0
+chhattisgarh,odisha,0.0
+chhattisgarh,puducherry,0.0
+chhattisgarh,punjab,0.0
+chhattisgarh,rajasthan,0.0
+chhattisgarh,tamil nadu,2927145000.0
+chhattisgarh,telangana,0.0
+chhattisgarh,tripura,0.0
+chhattisgarh,uttar pradesh,0.0
+chhattisgarh,uttarakhand,0.0
+chhattisgarh,west bengal,14618045000.0
+daman and diu,arunachal pradesh,0.0
+daman and diu,assam,0.0
+daman and diu,bihar,0.0
+daman and diu,chandigarh,0.0
+daman and diu,chhattisgarh,0.0
+daman and diu,delhi,0.0
+daman and diu,goa,0.0
+daman and diu,gujarat,0.0
+daman and diu,haryana,0.0
+daman and diu,himachal pradesh,0.0
+daman and diu,jammu and kashmir,0.0
+daman and diu,jharkhand,0.0
+daman and diu,karnataka,0.0
+daman and diu,kerala,0.0
+daman and diu,madhya pradesh,0.0
+daman and diu,maharashtra,0.0
+daman and diu,manipur,0.0
+daman and diu,meghalaya,0.0
+daman and diu,mizoram,0.0
+daman and diu,nagaland,0.0
+daman and diu,odisha,0.0
+daman and diu,puducherry,0.0
+daman and diu,punjab,0.0
+daman and diu,rajasthan,0.0
+daman and diu,tamil nadu,0.0
+daman and diu,telangana,0.0
+daman and diu,tripura,0.0
+daman and diu,uttar pradesh,0.0
+daman and diu,uttarakhand,0.0
+daman and diu,west bengal,0.0
+delhi,andhra pradesh,0.0
+delhi,arunachal pradesh,0.0
+delhi,assam,0.0
+delhi,bihar,0.0
+delhi,chandigarh,0.0
+delhi,chhattisgarh,0.0
+delhi,daman and diu,0.0
+delhi,goa,0.0
+delhi,gujarat,0.0
+delhi,haryana,0.0
+delhi,himachal pradesh,0.0
+delhi,jammu and kashmir,0.0
+delhi,jharkhand,0.0
+delhi,karnataka,0.0
+delhi,kerala,0.0
+delhi,madhya pradesh,0.0
+delhi,maharashtra,2940405000.0
+delhi,manipur,0.0
+delhi,meghalaya,0.0
+delhi,mizoram,0.0
+delhi,nagaland,0.0
+delhi,odisha,0.0
+delhi,puducherry,0.0
+delhi,punjab,0.0
+delhi,rajasthan,0.0
+delhi,tamil nadu,0.0
+delhi,telangana,0.0
+delhi,tripura,0.0
+delhi,uttar pradesh,0.0
+delhi,uttarakhand,0.0
+delhi,west bengal,0.0
+goa,andhra pradesh,0.0
+goa,arunachal pradesh,0.0
+goa,assam,0.0
+goa,bihar,0.0
+goa,chandigarh,0.0
+goa,chhattisgarh,0.0
+goa,daman and diu,0.0
+goa,delhi,0.0
+goa,gujarat,0.0
+goa,haryana,0.0
+goa,himachal pradesh,0.0
+goa,jammu and kashmir,0.0
+goa,jharkhand,0.0
+goa,karnataka,0.0
+goa,kerala,0.0
+goa,madhya pradesh,0.0
+goa,maharashtra,0.0
+goa,manipur,0.0
+goa,meghalaya,0.0
+goa,mizoram,0.0
+goa,nagaland,0.0
+goa,odisha,0.0
+goa,puducherry,0.0
+goa,punjab,0.0
+goa,rajasthan,0.0
+goa,tamil nadu,0.0
+goa,telangana,0.0
+goa,tripura,0.0
+goa,uttar pradesh,0.0
+goa,uttarakhand,0.0
+goa,west bengal,0.0
+gujarat,andhra pradesh,0.0
+gujarat,arunachal pradesh,0.0
+gujarat,assam,2448680000.0
+gujarat,bihar,0.0
+gujarat,chandigarh,0.0
+gujarat,chhattisgarh,0.0
+gujarat,daman and diu,0.0
+gujarat,delhi,0.0
+gujarat,goa,0.0
+gujarat,haryana,16929172333.333332
+gujarat,himachal pradesh,0.0
+gujarat,jammu and kashmir,0.0
+gujarat,jharkhand,0.0
+gujarat,karnataka,0.0
+gujarat,kerala,0.0
+gujarat,madhya pradesh,0.0
+gujarat,maharashtra,0.0
+gujarat,manipur,0.0
+gujarat,meghalaya,0.0
+gujarat,mizoram,0.0
+gujarat,nagaland,0.0
+gujarat,odisha,0.0
+gujarat,puducherry,0.0
+gujarat,punjab,0.0
+gujarat,rajasthan,0.0
+gujarat,tamil nadu,0.0
+gujarat,telangana,0.0
+gujarat,tripura,0.0
+gujarat,uttar pradesh,0.0
+gujarat,uttarakhand,0.0
+gujarat,west bengal,0.0
+haryana,andhra pradesh,0.0
+haryana,arunachal pradesh,0.0
+haryana,assam,0.0
+haryana,bihar,0.0
+haryana,chandigarh,0.0
+haryana,chhattisgarh,0.0
+haryana,daman and diu,0.0
+haryana,delhi,0.0
+haryana,goa,0.0
+haryana,gujarat,0.0
+haryana,himachal pradesh,0.0
+haryana,jammu and kashmir,0.0
+haryana,jharkhand,0.0
+haryana,karnataka,6059570000.0
+haryana,kerala,0.0
+haryana,madhya pradesh,0.0
+haryana,maharashtra,0.0
+haryana,manipur,0.0
+haryana,meghalaya,0.0
+haryana,mizoram,0.0
+haryana,nagaland,0.0
+haryana,odisha,0.0
+haryana,puducherry,0.0
+haryana,punjab,30066276500.0
+haryana,rajasthan,0.0
+haryana,tamil nadu,0.0
+haryana,telangana,0.0
+haryana,tripura,0.0
+haryana,uttar pradesh,0.0
+haryana,uttarakhand,0.0
+haryana,west bengal,0.0
+himachal pradesh,andhra pradesh,0.0
+himachal pradesh,arunachal pradesh,0.0
+himachal pradesh,assam,0.0
+himachal pradesh,bihar,0.0
+himachal pradesh,chandigarh,0.0
+himachal pradesh,chhattisgarh,0.0
+himachal pradesh,daman and diu,0.0
+himachal pradesh,delhi,0.0
+himachal pradesh,goa,0.0
+himachal pradesh,gujarat,0.0
+himachal pradesh,haryana,0.0
+himachal pradesh,jammu and kashmir,0.0
+himachal pradesh,jharkhand,0.0
+himachal pradesh,karnataka,0.0
+himachal pradesh,kerala,0.0
+himachal pradesh,madhya pradesh,0.0
+himachal pradesh,maharashtra,0.0
+himachal pradesh,manipur,0.0
+himachal pradesh,meghalaya,0.0
+himachal pradesh,mizoram,0.0
+himachal pradesh,nagaland,0.0
+himachal pradesh,odisha,0.0
+himachal pradesh,puducherry,0.0
+himachal pradesh,punjab,0.0
+himachal pradesh,rajasthan,0.0
+himachal pradesh,tamil nadu,0.0
+himachal pradesh,telangana,0.0
+himachal pradesh,tripura,0.0
+himachal pradesh,uttar pradesh,0.0
+himachal pradesh,uttarakhand,0.0
+himachal pradesh,west bengal,0.0
+jammu and kashmir,andhra pradesh,0.0
+jammu and kashmir,arunachal pradesh,0.0
+jammu and kashmir,assam,0.0
+jammu and kashmir,bihar,0.0
+jammu and kashmir,chandigarh,0.0
+jammu and kashmir,chhattisgarh,0.0
+jammu and kashmir,daman and diu,0.0
+jammu and kashmir,delhi,0.0
+jammu and kashmir,goa,0.0
+jammu and kashmir,gujarat,0.0
+jammu and kashmir,haryana,0.0
+jammu and kashmir,himachal pradesh,0.0
+jammu and kashmir,jharkhand,0.0
+jammu and kashmir,karnataka,0.0
+jammu and kashmir,kerala,0.0
+jammu and kashmir,madhya pradesh,0.0
+jammu and kashmir,maharashtra,0.0
+jammu and kashmir,manipur,0.0
+jammu and kashmir,meghalaya,0.0
+jammu and kashmir,mizoram,0.0
+jammu and kashmir,nagaland,0.0
+jammu and kashmir,odisha,0.0
+jammu and kashmir,puducherry,0.0
+jammu and kashmir,punjab,0.0
+jammu and kashmir,rajasthan,0.0
+jammu and kashmir,tamil nadu,0.0
+jammu and kashmir,telangana,0.0
+jammu and kashmir,tripura,0.0
+jammu and kashmir,uttar pradesh,0.0
+jammu and kashmir,uttarakhand,0.0
+jammu and kashmir,west bengal,0.0
+jharkhand,andhra pradesh,0.0
+jharkhand,arunachal pradesh,0.0
+jharkhand,assam,0.0
+jharkhand,bihar,0.0
+jharkhand,chandigarh,0.0
+jharkhand,chhattisgarh,0.0
+jharkhand,daman and diu,0.0
+jharkhand,delhi,0.0
+jharkhand,goa,0.0
+jharkhand,gujarat,0.0
+jharkhand,haryana,0.0
+jharkhand,himachal pradesh,0.0
+jharkhand,jammu and kashmir,0.0
+jharkhand,karnataka,0.0
+jharkhand,kerala,0.0
+jharkhand,madhya pradesh,0.0
+jharkhand,maharashtra,0.0
+jharkhand,manipur,0.0
+jharkhand,meghalaya,0.0
+jharkhand,mizoram,0.0
+jharkhand,nagaland,0.0
+jharkhand,odisha,0.0
+jharkhand,puducherry,0.0
+jharkhand,punjab,0.0
+jharkhand,rajasthan,0.0
+jharkhand,tamil nadu,0.0
+jharkhand,telangana,0.0
+jharkhand,tripura,0.0
+jharkhand,uttar pradesh,0.0
+jharkhand,uttarakhand,0.0
+jharkhand,west bengal,0.0
+karnataka,andhra pradesh,48226620000.0
+karnataka,arunachal pradesh,0.0
+karnataka,assam,6532760000.0
+karnataka,bihar,2861950000.0
+karnataka,chandigarh,0.0
+karnataka,chhattisgarh,0.0
+karnataka,daman and diu,0.0
+karnataka,delhi,0.0
+karnataka,goa,0.0
+karnataka,gujarat,0.0
+karnataka,haryana,5771415000.0
+karnataka,himachal pradesh,0.0
+karnataka,jammu and kashmir,0.0
+karnataka,jharkhand,0.0
+karnataka,kerala,14685450000.0
+karnataka,madhya pradesh,0.0
+karnataka,maharashtra,17036890000.0
+karnataka,manipur,0.0
+karnataka,meghalaya,0.0
+karnataka,mizoram,0.0
+karnataka,nagaland,0.0
+karnataka,odisha,14201460000.0
+karnataka,puducherry,0.0
+karnataka,punjab,5681910000.0
+karnataka,rajasthan,2847585000.0
+karnataka,tamil nadu,211553134000.0
+karnataka,telangana,0.0
+karnataka,tripura,0.0
+karnataka,uttar pradesh,0.0
+karnataka,uttarakhand,8454355000.0
+karnataka,west bengal,17605965000.0
+kerala,andhra pradesh,0.0
+kerala,arunachal pradesh,0.0
+kerala,assam,0.0
+kerala,bihar,0.0
+kerala,chandigarh,0.0
+kerala,chhattisgarh,0.0
+kerala,daman and diu,0.0
+kerala,delhi,0.0
+kerala,goa,0.0
+kerala,gujarat,0.0
+kerala,haryana,0.0
+kerala,himachal pradesh,0.0
+kerala,jammu and kashmir,0.0
+kerala,jharkhand,0.0
+kerala,karnataka,0.0
+kerala,madhya pradesh,0.0
+kerala,maharashtra,0.0
+kerala,manipur,0.0
+kerala,meghalaya,0.0
+kerala,mizoram,0.0
+kerala,nagaland,0.0
+kerala,odisha,0.0
+kerala,puducherry,0.0
+kerala,punjab,0.0
+kerala,rajasthan,0.0
+kerala,tamil nadu,0.0
+kerala,telangana,0.0
+kerala,tripura,0.0
+kerala,uttar pradesh,0.0
+kerala,uttarakhand,0.0
+kerala,west bengal,0.0
+madhya pradesh,andhra pradesh,5575830000.0
+madhya pradesh,arunachal pradesh,0.0
+madhya pradesh,assam,3717220000.0
+madhya pradesh,bihar,68894429500.0
+madhya pradesh,chandigarh,0.0
+madhya pradesh,chhattisgarh,30144400000.0
+madhya pradesh,daman and diu,0.0
+madhya pradesh,delhi,0.0
+madhya pradesh,goa,0.0
+madhya pradesh,gujarat,11728470000.0
+madhya pradesh,haryana,109400525000.0
+madhya pradesh,himachal pradesh,0.0
+madhya pradesh,jammu and kashmir,0.0
+madhya pradesh,jharkhand,0.0
+madhya pradesh,karnataka,14119690000.0
+madhya pradesh,kerala,2937090000.0
+madhya pradesh,maharashtra,0.0
+madhya pradesh,manipur,0.0
+madhya pradesh,meghalaya,0.0
+madhya pradesh,mizoram,0.0
+madhya pradesh,nagaland,0.0
+madhya pradesh,odisha,0.0
+madhya pradesh,puducherry,0.0
+madhya pradesh,punjab,334741735000.0
+madhya pradesh,rajasthan,0.0
+madhya pradesh,tamil nadu,181171800000.0
+madhya pradesh,telangana,34810815000.0
+madhya pradesh,tripura,0.0
+madhya pradesh,uttar pradesh,2923830000.0
+madhya pradesh,uttarakhand,374529363000.0
+madhya pradesh,west bengal,67405994500.0
+maharashtra,andhra pradesh,18822570000.0
+maharashtra,arunachal pradesh,0.0
+maharashtra,assam,5850975000.0
+maharashtra,bihar,23711090000.0
+maharashtra,chandigarh,0.0
+maharashtra,chhattisgarh,0.0
+maharashtra,daman and diu,0.0
+maharashtra,delhi,1252834000.0
+maharashtra,goa,0.0
+maharashtra,gujarat,0.0
+maharashtra,haryana,39094900000.0
+maharashtra,himachal pradesh,0.0
+maharashtra,jammu and kashmir,0.0
+maharashtra,jharkhand,0.0
+maharashtra,karnataka,81739060000.0
+maharashtra,kerala,5844345000.0
+maharashtra,madhya pradesh,0.0
+maharashtra,manipur,0.0
+maharashtra,meghalaya,0.0
+maharashtra,mizoram,0.0
+maharashtra,nagaland,0.0
+maharashtra,odisha,0.0
+maharashtra,puducherry,0.0
+maharashtra,punjab,37132420000.0
+maharashtra,rajasthan,0.0
+maharashtra,tamil nadu,204894625000.0
+maharashtra,telangana,97321770000.0
+maharashtra,tripura,0.0
+maharashtra,uttar pradesh,0.0
+maharashtra,uttarakhand,123008600000.0
+maharashtra,west bengal,25031350000.0
+manipur,andhra pradesh,0.0
+manipur,arunachal pradesh,0.0
+manipur,assam,0.0
+manipur,bihar,0.0
+manipur,chandigarh,0.0
+manipur,chhattisgarh,0.0
+manipur,daman and diu,0.0
+manipur,delhi,0.0
+manipur,goa,0.0
+manipur,gujarat,0.0
+manipur,haryana,0.0
+manipur,himachal pradesh,0.0
+manipur,jammu and kashmir,0.0
+manipur,jharkhand,0.0
+manipur,karnataka,0.0
+manipur,kerala,0.0
+manipur,madhya pradesh,0.0
+manipur,maharashtra,0.0
+manipur,meghalaya,0.0
+manipur,mizoram,0.0
+manipur,nagaland,0.0
+manipur,odisha,0.0
+manipur,puducherry,0.0
+manipur,punjab,0.0
+manipur,rajasthan,0.0
+manipur,tamil nadu,0.0
+manipur,telangana,0.0
+manipur,tripura,0.0
+manipur,uttar pradesh,0.0
+manipur,uttarakhand,0.0
+manipur,west bengal,0.0
+meghalaya,andhra pradesh,0.0
+meghalaya,arunachal pradesh,0.0
+meghalaya,assam,0.0
+meghalaya,bihar,0.0
+meghalaya,chandigarh,0.0
+meghalaya,chhattisgarh,0.0
+meghalaya,daman and diu,0.0
+meghalaya,delhi,0.0
+meghalaya,goa,0.0
+meghalaya,gujarat,0.0
+meghalaya,haryana,0.0
+meghalaya,himachal pradesh,0.0
+meghalaya,jammu and kashmir,0.0
+meghalaya,jharkhand,0.0
+meghalaya,karnataka,0.0
+meghalaya,kerala,0.0
+meghalaya,madhya pradesh,0.0
+meghalaya,maharashtra,0.0
+meghalaya,manipur,0.0
+meghalaya,mizoram,0.0
+meghalaya,nagaland,0.0
+meghalaya,odisha,0.0
+meghalaya,puducherry,0.0
+meghalaya,punjab,0.0
+meghalaya,rajasthan,0.0
+meghalaya,tamil nadu,0.0
+meghalaya,telangana,0.0
+meghalaya,tripura,0.0
+meghalaya,uttar pradesh,0.0
+meghalaya,uttarakhand,0.0
+meghalaya,west bengal,0.0
+mizoram,andhra pradesh,0.0
+mizoram,arunachal pradesh,0.0
+mizoram,assam,0.0
+mizoram,bihar,0.0
+mizoram,chandigarh,0.0
+mizoram,chhattisgarh,0.0
+mizoram,daman and diu,0.0
+mizoram,delhi,0.0
+mizoram,goa,0.0
+mizoram,gujarat,0.0
+mizoram,haryana,0.0
+mizoram,himachal pradesh,0.0
+mizoram,jammu and kashmir,0.0
+mizoram,jharkhand,0.0
+mizoram,karnataka,0.0
+mizoram,kerala,0.0
+mizoram,madhya pradesh,0.0
+mizoram,maharashtra,0.0
+mizoram,manipur,0.0
+mizoram,meghalaya,0.0
+mizoram,nagaland,0.0
+mizoram,odisha,0.0
+mizoram,puducherry,0.0
+mizoram,punjab,0.0
+mizoram,rajasthan,0.0
+mizoram,tamil nadu,0.0
+mizoram,telangana,0.0
+mizoram,tripura,0.0
+mizoram,uttar pradesh,0.0
+mizoram,uttarakhand,0.0
+mizoram,west bengal,0.0
+nagaland,andhra pradesh,0.0
+nagaland,arunachal pradesh,0.0
+nagaland,assam,0.0
+nagaland,bihar,0.0
+nagaland,chandigarh,0.0
+nagaland,chhattisgarh,0.0
+nagaland,daman and diu,0.0
+nagaland,delhi,0.0
+nagaland,goa,0.0
+nagaland,gujarat,0.0
+nagaland,haryana,0.0
+nagaland,himachal pradesh,0.0
+nagaland,jammu and kashmir,0.0
+nagaland,jharkhand,0.0
+nagaland,karnataka,0.0
+nagaland,kerala,0.0
+nagaland,madhya pradesh,0.0
+nagaland,maharashtra,0.0
+nagaland,manipur,0.0
+nagaland,meghalaya,0.0
+nagaland,mizoram,0.0
+nagaland,odisha,0.0
+nagaland,puducherry,0.0
+nagaland,punjab,0.0
+nagaland,rajasthan,0.0
+nagaland,tamil nadu,0.0
+nagaland,telangana,0.0
+nagaland,tripura,0.0
+nagaland,uttar pradesh,0.0
+nagaland,uttarakhand,0.0
+nagaland,west bengal,0.0
+odisha,andhra pradesh,0.0
+odisha,arunachal pradesh,0.0
+odisha,assam,5706220000.0
+odisha,bihar,0.0
+odisha,chandigarh,0.0
+odisha,chhattisgarh,0.0
+odisha,daman and diu,0.0
+odisha,delhi,0.0
+odisha,goa,0.0
+odisha,gujarat,0.0
+odisha,haryana,0.0
+odisha,himachal pradesh,0.0
+odisha,jammu and kashmir,0.0
+odisha,jharkhand,0.0
+odisha,karnataka,0.0
+odisha,kerala,0.0
+odisha,madhya pradesh,0.0
+odisha,maharashtra,0.0
+odisha,manipur,0.0
+odisha,meghalaya,0.0
+odisha,mizoram,0.0
+odisha,nagaland,0.0
+odisha,puducherry,0.0
+odisha,punjab,0.0
+odisha,rajasthan,0.0
+odisha,tamil nadu,17433585000.0
+odisha,telangana,0.0
+odisha,tripura,0.0
+odisha,uttar pradesh,0.0
+odisha,uttarakhand,0.0
+odisha,west bengal,90572430000.0
+puducherry,andhra pradesh,0.0
+puducherry,arunachal pradesh,0.0
+puducherry,assam,0.0
+puducherry,bihar,0.0
+puducherry,chandigarh,0.0
+puducherry,chhattisgarh,0.0
+puducherry,daman and diu,0.0
+puducherry,delhi,0.0
+puducherry,goa,0.0
+puducherry,gujarat,0.0
+puducherry,haryana,0.0
+puducherry,himachal pradesh,0.0
+puducherry,jammu and kashmir,0.0
+puducherry,jharkhand,0.0
+puducherry,karnataka,0.0
+puducherry,kerala,0.0
+puducherry,madhya pradesh,0.0
+puducherry,maharashtra,0.0
+puducherry,manipur,0.0
+puducherry,meghalaya,0.0
+puducherry,mizoram,0.0
+puducherry,nagaland,0.0
+puducherry,odisha,0.0
+puducherry,punjab,0.0
+puducherry,rajasthan,0.0
+puducherry,tamil nadu,0.0
+puducherry,telangana,0.0
+puducherry,tripura,0.0
+puducherry,uttar pradesh,0.0
+puducherry,uttarakhand,0.0
+puducherry,west bengal,0.0
+punjab,andhra pradesh,0.0
+punjab,arunachal pradesh,0.0
+punjab,assam,0.0
+punjab,bihar,0.0
+punjab,chandigarh,0.0
+punjab,chhattisgarh,0.0
+punjab,daman and diu,0.0
+punjab,delhi,0.0
+punjab,goa,0.0
+punjab,gujarat,0.0
+punjab,haryana,0.0
+punjab,himachal pradesh,0.0
+punjab,jammu and kashmir,0.0
+punjab,jharkhand,0.0
+punjab,karnataka,5867550000.0
+punjab,kerala,0.0
+punjab,madhya pradesh,0.0
+punjab,maharashtra,0.0
+punjab,manipur,0.0
+punjab,meghalaya,0.0
+punjab,mizoram,0.0
+punjab,nagaland,0.0
+punjab,odisha,0.0
+punjab,puducherry,0.0
+punjab,rajasthan,0.0
+punjab,tamil nadu,2937090000.0
+punjab,telangana,0.0
+punjab,tripura,0.0
+punjab,uttar pradesh,0.0
+punjab,uttarakhand,0.0
+punjab,west bengal,0.0
+rajasthan,andhra pradesh,1288980000.0
+rajasthan,arunachal pradesh,0.0
+rajasthan,assam,0.0
+rajasthan,bihar,0.0
+rajasthan,chandigarh,0.0
+rajasthan,chhattisgarh,0.0
+rajasthan,daman and diu,0.0
+rajasthan,delhi,0.0
+rajasthan,goa,0.0
+rajasthan,gujarat,0.0
+rajasthan,haryana,0.0
+rajasthan,himachal pradesh,0.0
+rajasthan,jammu and kashmir,0.0
+rajasthan,jharkhand,0.0
+rajasthan,karnataka,0.0
+rajasthan,kerala,0.0
+rajasthan,madhya pradesh,0.0
+rajasthan,maharashtra,0.0
+rajasthan,manipur,0.0
+rajasthan,meghalaya,0.0
+rajasthan,mizoram,0.0
+rajasthan,nagaland,0.0
+rajasthan,odisha,0.0
+rajasthan,puducherry,0.0
+rajasthan,punjab,0.0
+rajasthan,tamil nadu,26980374666.666664
+rajasthan,telangana,0.0
+rajasthan,tripura,0.0
+rajasthan,uttar pradesh,0.0
+rajasthan,uttarakhand,0.0
+rajasthan,west bengal,0.0
+tamil nadu,andhra pradesh,0.0
+tamil nadu,arunachal pradesh,0.0
+tamil nadu,assam,0.0
+tamil nadu,bihar,0.0
+tamil nadu,chandigarh,0.0
+tamil nadu,chhattisgarh,0.0
+tamil nadu,daman and diu,0.0
+tamil nadu,delhi,0.0
+tamil nadu,goa,0.0
+tamil nadu,gujarat,0.0
+tamil nadu,haryana,0.0
+tamil nadu,himachal pradesh,0.0
+tamil nadu,jammu and kashmir,0.0
+tamil nadu,jharkhand,0.0
+tamil nadu,karnataka,0.0
+tamil nadu,kerala,2923830000.0
+tamil nadu,madhya pradesh,0.0
+tamil nadu,maharashtra,0.0
+tamil nadu,manipur,0.0
+tamil nadu,meghalaya,0.0
+tamil nadu,mizoram,0.0
+tamil nadu,nagaland,0.0
+tamil nadu,odisha,0.0
+tamil nadu,puducherry,0.0
+tamil nadu,punjab,0.0
+tamil nadu,rajasthan,0.0
+tamil nadu,telangana,0.0
+tamil nadu,tripura,0.0
+tamil nadu,uttar pradesh,0.0
+tamil nadu,uttarakhand,0.0
+tamil nadu,west bengal,0.0
+telangana,arunachal pradesh,0.0
+telangana,assam,0.0
+telangana,bihar,0.0
+telangana,chandigarh,0.0
+telangana,chhattisgarh,0.0
+telangana,daman and diu,0.0
+telangana,delhi,0.0
+telangana,goa,0.0
+telangana,gujarat,0.0
+telangana,haryana,0.0
+telangana,himachal pradesh,0.0
+telangana,jammu and kashmir,0.0
+telangana,jharkhand,0.0
+telangana,karnataka,0.0
+telangana,kerala,0.0
+telangana,madhya pradesh,0.0
+telangana,maharashtra,0.0
+telangana,manipur,0.0
+telangana,meghalaya,0.0
+telangana,mizoram,0.0
+telangana,nagaland,0.0
+telangana,odisha,0.0
+telangana,puducherry,0.0
+telangana,punjab,0.0
+telangana,rajasthan,0.0
+telangana,tamil nadu,82898205000.0
+telangana,tripura,0.0
+telangana,uttar pradesh,0.0
+telangana,uttarakhand,0.0
+telangana,west bengal,0.0
+tripura,andhra pradesh,0.0
+tripura,arunachal pradesh,0.0
+tripura,assam,0.0
+tripura,bihar,0.0
+tripura,chandigarh,0.0
+tripura,chhattisgarh,0.0
+tripura,daman and diu,0.0
+tripura,delhi,0.0
+tripura,goa,0.0
+tripura,gujarat,0.0
+tripura,haryana,0.0
+tripura,himachal pradesh,0.0
+tripura,jammu and kashmir,0.0
+tripura,jharkhand,0.0
+tripura,karnataka,0.0
+tripura,kerala,0.0
+tripura,madhya pradesh,0.0
+tripura,maharashtra,0.0
+tripura,manipur,0.0
+tripura,meghalaya,0.0
+tripura,mizoram,0.0
+tripura,nagaland,0.0
+tripura,odisha,0.0
+tripura,puducherry,0.0
+tripura,punjab,0.0
+tripura,rajasthan,0.0
+tripura,tamil nadu,0.0
+tripura,telangana,0.0
+tripura,uttar pradesh,0.0
+tripura,uttarakhand,0.0
+tripura,west bengal,0.0
+uttar pradesh,andhra pradesh,0.0
+uttar pradesh,arunachal pradesh,0.0
+uttar pradesh,assam,29189600000.0
+uttar pradesh,bihar,2306135000.0
+uttar pradesh,chandigarh,0.0
+uttar pradesh,chhattisgarh,0.0
+uttar pradesh,daman and diu,0.0
+uttar pradesh,delhi,0.0
+uttar pradesh,goa,0.0
+uttar pradesh,gujarat,0.0
+uttar pradesh,haryana,28099045000.0
+uttar pradesh,himachal pradesh,0.0
+uttar pradesh,jammu and kashmir,0.0
+uttar pradesh,jharkhand,0.0
+uttar pradesh,karnataka,2831010000.0
+uttar pradesh,kerala,0.0
+uttar pradesh,madhya pradesh,0.0
+uttar pradesh,maharashtra,33071545000.0
+uttar pradesh,manipur,0.0
+uttar pradesh,meghalaya,0.0
+uttar pradesh,mizoram,0.0
+uttar pradesh,nagaland,0.0
+uttar pradesh,odisha,0.0
+uttar pradesh,puducherry,0.0
+uttar pradesh,punjab,0.0
+uttar pradesh,rajasthan,0.0
+uttar pradesh,tamil nadu,212814758333.3333
+uttar pradesh,telangana,88311600000.0
+uttar pradesh,tripura,0.0
+uttar pradesh,uttarakhand,0.0
+uttar pradesh,west bengal,30246700000.0
+uttarakhand,andhra pradesh,0.0
+uttarakhand,arunachal pradesh,0.0
+uttarakhand,assam,0.0
+uttarakhand,bihar,0.0
+uttarakhand,chandigarh,0.0
+uttarakhand,chhattisgarh,0.0
+uttarakhand,daman and diu,0.0
+uttarakhand,delhi,0.0
+uttarakhand,goa,0.0
+uttarakhand,gujarat,0.0
+uttarakhand,haryana,0.0
+uttarakhand,himachal pradesh,0.0
+uttarakhand,jammu and kashmir,0.0
+uttarakhand,jharkhand,0.0
+uttarakhand,karnataka,0.0
+uttarakhand,kerala,0.0
+uttarakhand,madhya pradesh,0.0
+uttarakhand,maharashtra,0.0
+uttarakhand,manipur,0.0
+uttarakhand,meghalaya,0.0
+uttarakhand,mizoram,0.0
+uttarakhand,nagaland,0.0
+uttarakhand,odisha,0.0
+uttarakhand,puducherry,0.0
+uttarakhand,punjab,0.0
+uttarakhand,rajasthan,0.0
+uttarakhand,tamil nadu,0.0
+uttarakhand,telangana,0.0
+uttarakhand,tripura,0.0
+uttarakhand,uttar pradesh,0.0
+uttarakhand,west bengal,0.0
+west bengal,andhra pradesh,17577787500.0
+west bengal,arunachal pradesh,0.0
+west bengal,assam,2947035000.0
+west bengal,bihar,7245485000.0
+west bengal,chandigarh,0.0
+west bengal,chhattisgarh,5857605000.0
+west bengal,daman and diu,0.0
+west bengal,delhi,0.0
+west bengal,goa,0.0
+west bengal,gujarat,2755870000.0
+west bengal,haryana,0.0
+west bengal,himachal pradesh,0.0
+west bengal,jammu and kashmir,0.0
+west bengal,jharkhand,0.0
+west bengal,karnataka,87655230000.0
+west bengal,kerala,0.0
+west bengal,madhya pradesh,0.0
+west bengal,maharashtra,22975160000.0
+west bengal,manipur,0.0
+west bengal,meghalaya,0.0
+west bengal,mizoram,0.0
+west bengal,nagaland,0.0
+west bengal,odisha,0.0
+west bengal,puducherry,0.0
+west bengal,punjab,20472335000.0
+west bengal,rajasthan,0.0
+west bengal,tamil nadu,155118795000.0
+west bengal,telangana,96135000000.0
+west bengal,tripura,0.0
+west bengal,uttar pradesh,0.0
+west bengal,uttarakhand,29071445000.0

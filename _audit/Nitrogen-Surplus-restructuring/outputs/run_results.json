@@ -1,0 +1,68 @@
+[
+  {
+    "notebook": "kharif_nitrogen_min.ipynb",
+    "status": "ok",
+    "code": 0,
+    "elapsed_s": 13.86
+  },
+  {
+    "notebook": "rabi__nitrogen_kharif_cop.ipynb",
+    "status": "error",
+    "code": 1,
+    "elapsed_s": 7.12
+  },
+  {
+    "notebook": "kharif_water_cop.ipynb",
+    "status": "ok",
+    "code": 0,
+    "elapsed_s": 13.77
+  },
+  {
+    "notebook": "rabi_water_cop.ipynb",
+    "status": "ok",
+    "code": 0,
+    "elapsed_s": 11.95
+  },
+  {
+    "notebook": "kharif_n_culture.ipynb",
+    "status": "error",
+    "code": 1,
+    "elapsed_s": 76.18
+  },
+  {
+    "notebook": "rabi_n_cultural_cop.ipynb",
+    "status": "error",
+    "code": 1,
+    "elapsed_s": 0.95
+  },
+  {
+    "notebook": "kharif_perito_cop.ipynb",
+    "status": "timeout",
+    "code": 124,
+    "elapsed_s": 180.02
+  },
+  {
+    "notebook": "rabi_perito_cop.ipynb",
+    "status": "error",
+    "code": 1,
+    "elapsed_s": 0.78
+  },
+  {
+    "notebook": "combinned_r_k_cultural_plot.ipynb",
+    "status": "error",
+    "code": 1,
+    "elapsed_s": 0.23
+  },
+  {
+    "notebook": "rabi_kharif_plot_perito_combined.ipynb",
+    "status": "error",
+    "code": 1,
+    "elapsed_s": 0.5
+  },
+  {
+    "notebook": "trade.ipynb",
+    "status": "error",
+    "code": 1,
+    "elapsed_s": 0.57
+  }
+]

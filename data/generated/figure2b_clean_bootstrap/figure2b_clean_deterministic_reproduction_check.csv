@@ -1,0 +1,21 @@
+scenario,metric,baseline_total,reproduced_pct_reduction,existing_center_pct_reduction,delta_pct_points,solver_status
+Nitrogen based,Nitrogen Emission,287739236.80885214,100.0,22.366353397098393,77.6336466029016,kharif:Infeasible;rabi:Infeasible
+Water based,Nitrogen Emission,287739236.80885214,100.0,12.300057803885561,87.69994219611443,kharif:Infeasible;rabi:Infeasible
+Nitrogen based,Nitrogen Leach,2391590187.444786,100.0,18.62104498433123,81.37895501566877,kharif:Infeasible;rabi:Infeasible
+Water based,Nitrogen Leach,2391590187.444786,100.0,9.370499117253889,90.62950088274611,kharif:Infeasible;rabi:Infeasible
+Nitrogen based,Greenhouse Gas emission,398546513.153932,100.0,27.931731224690186,72.06826877530982,kharif:Infeasible;rabi:Infeasible
+Water based,Greenhouse Gas emission,398546513.153932,100.0,40.105628358513336,59.894371641486664,kharif:Infeasible;rabi:Infeasible
+Nitrogen based,Profit,550112782949.4415,100.0,-7.812597862669804,107.8125978626698,kharif:Infeasible;rabi:Infeasible
+Water based,Profit,550112782949.4415,100.0,-23.78297107713854,123.78297107713854,kharif:Infeasible;rabi:Infeasible
+Nitrogen based,Calorie,955924593799921.0,100.0,-2.410488850904521,102.41048885090453,kharif:Infeasible;rabi:Infeasible
+Water based,Calorie,955924593799921.0,100.0,-6.533119825045244,106.53311982504525,kharif:Infeasible;rabi:Infeasible
+Nitrogen based,Phosphorus application,4580861940.3896265,100.0,14.95050333609954,85.04949666390046,kharif:Infeasible;rabi:Infeasible
+Water based,Phosphorus application,4580861940.3896265,100.0,7.954648405266731,92.04535159473326,kharif:Infeasible;rabi:Infeasible
+Nitrogen based,Nitrogen application,12891996042.564434,100.0,13.443928627684738,86.55607137231526,kharif:Infeasible;rabi:Infeasible
+Water based,Nitrogen application,12891996042.564434,100.0,5.992477409147195,94.0075225908528,kharif:Infeasible;rabi:Infeasible
+Nitrogen based,Phosphorus Surplus,3589737437.875405,100.0,20.294566866658663,79.70543313334133,kharif:Infeasible;rabi:Infeasible
+Water based,Phosphorus Surplus,3589737437.875405,100.0,12.772201441071772,87.22779855892823,kharif:Infeasible;rabi:Infeasible
+Nitrogen based,Nitrogen Surplus,8285335580.939312,100.0,21.243009280170774,78.75699071982922,kharif:Infeasible;rabi:Infeasible
+Water based,Nitrogen Surplus,8285335580.939312,100.0,11.455138513455509,88.54486148654449,kharif:Infeasible;rabi:Infeasible
+Nitrogen based,Water Demand,467586094005.25684,100.00000000000001,35.340386245630796,64.65961375436922,kharif:Infeasible;rabi:Infeasible
+Water based,Water Demand,467586094005.25684,100.00000000000001,43.37746092441817,56.62253907558184,kharif:Infeasible;rabi:Infeasible

@@ -1,0 +1,14 @@
+Final audited batch runner
+root: /Users/udit/Documents/Shekhar_Nature/revision_2/github_release
+python: python3
+mode: report-only
+timestamp_utc: 2026-04-19T06:44:53Z
+
+==> HTML reproducibility report
+html: /Users/udit/Documents/Shekhar_Nature/revision_2/github_release/submission_assets/audited_html_report/index.html
+manifest: /Users/udit/Documents/Shekhar_Nature/revision_2/github_release/submission_assets/audited_html_report/repro_manifest.json
+
+Final audited revision-2 batch complete.
+HTML report: /Users/udit/Documents/Shekhar_Nature/revision_2/github_release/submission_assets/audited_html_report/index.html
+Manifest:    /Users/udit/Documents/Shekhar_Nature/revision_2/github_release/submission_assets/audited_html_report/repro_manifest.json
+Log:         /Users/udit/Documents/Shekhar_Nature/revision_2/github_release/submission_assets/audited_html_report/logs/revision2_final_batch_20260419T064453Z.log

@@ -1,0 +1,9 @@
+source_file,concept,definition
+des_manual_cost_cultivation_surveys.pdf,Cost A1,"Paid-out cost including hired human labour; hired and owned bullock labour; owned and hired machine labour; hired machinery charges; seed; insecticides and pesticides; manure; fertilizers; irrigation charges; depreciation of implements and farm buildings; land revenue, cesses and other taxes; interest on working capital; and miscellaneous expenses."
+des_manual_cost_cultivation_surveys.pdf,Cost A2,Cost A1 plus rent paid for leased-in land.
+des_manual_cost_cultivation_surveys.pdf,Cost B1,"Cost A1 plus interest on value of owned fixed capital assets, excluding land."
+des_manual_cost_cultivation_surveys.pdf,Cost B2,"Cost B1 plus rental value of owned land, net of land revenue, and rent paid for leased-in land."
+des_manual_cost_cultivation_surveys.pdf,Cost C1,Cost B1 plus imputed value of family labour.
+des_manual_cost_cultivation_surveys.pdf,Cost C2,Cost B2 plus imputed value of family labour.
+des_manual_cost_cultivation_surveys.pdf,Cost C2*,Cost C2 plus additional value of human labour based on a higher wage rate in consideration of the statutory minimum wage rate.
+des_manual_cost_cultivation_surveys.pdf,Cost C3,Cost C2* plus 10 percent of Cost C2* to account for managerial input of the farmer.

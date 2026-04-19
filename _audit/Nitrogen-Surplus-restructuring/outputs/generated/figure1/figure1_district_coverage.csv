@@ -1,0 +1,716 @@
+State,District,state_key,district_key,map_state,map_district,matched
+andaman and nicobar,nicobars,andaman and nicobar,nicobars,andaman and nicobar,nicobars,True
+andaman and nicobar,north and middle andaman,andaman and nicobar,north and middle andaman,andaman and nicobar,north and middle andaman,True
+andaman and nicobar,south andamans,andaman and nicobar,south andamans,andaman and nicobar,south andaman,True
+andhra pradesh,anantapur,andhra pradesh,anantapur,andhra pradesh,anantapur,True
+andhra pradesh,chittoor,andhra pradesh,chittoor,andhra pradesh,chittoor,True
+andhra pradesh,east godavari,andhra pradesh,east godavari,andhra pradesh,east godavari,True
+andhra pradesh,guntur,andhra pradesh,guntur,andhra pradesh,guntur,True
+andhra pradesh,kadapa,andhra pradesh,kadapa,andhra pradesh,y s r,True
+andhra pradesh,krishna,andhra pradesh,krishna,andhra pradesh,krishna,True
+andhra pradesh,kurnool,andhra pradesh,kurnool,andhra pradesh,kurnool,True
+andhra pradesh,nellore,andhra pradesh,nellore,andhra pradesh,s p s nellore,True
+andhra pradesh,prakasam,andhra pradesh,prakasam,andhra pradesh,prakasam,True
+andhra pradesh,spsr nellore,andhra pradesh,spsr nellore,andhra pradesh,s p s nellore,True
+andhra pradesh,srikakulam,andhra pradesh,srikakulam,andhra pradesh,srikakulam,True
+andhra pradesh,visakhapatanam,andhra pradesh,visakhapatanam,andhra pradesh,visakhapatnam,True
+andhra pradesh,visakhapatnam,andhra pradesh,visakhapatnam,andhra pradesh,visakhapatnam,True
+andhra pradesh,vizianagaram,andhra pradesh,vizianagaram,andhra pradesh,vizianagaram,True
+andhra pradesh,west godavari,andhra pradesh,west godavari,andhra pradesh,west godavari,True
+arunachal pradesh,anjaw,arunachal pradesh,anjaw,arunachal pradesh,anjaw,True
+arunachal pradesh,changlang,arunachal pradesh,changlang,arunachal pradesh,changlang,True
+arunachal pradesh,dibang valley,arunachal pradesh,dibang valley,arunachal pradesh,upper dibang valley,True
+arunachal pradesh,east kameng,arunachal pradesh,east kameng,arunachal pradesh,east kameng,True
+arunachal pradesh,east siang,arunachal pradesh,east siang,arunachal pradesh,east siang,True
+arunachal pradesh,kra daadi,arunachal pradesh,kra daadi,arunachal pradesh,kra daadi,True
+arunachal pradesh,kurung kumey,arunachal pradesh,kurung kumey,arunachal pradesh,kurung kumey,True
+arunachal pradesh,lohit,arunachal pradesh,lohit,arunachal pradesh,lohit,True
+arunachal pradesh,longding,arunachal pradesh,longding,arunachal pradesh,longding,True
+arunachal pradesh,lower dibang valley,arunachal pradesh,lower dibang valley,arunachal pradesh,lower dibang valley,True
+arunachal pradesh,lower subansiri,arunachal pradesh,lower subansiri,arunachal pradesh,lower subansiri,True
+arunachal pradesh,namsai,arunachal pradesh,namsai,arunachal pradesh,namsai,True
+arunachal pradesh,papum pare,arunachal pradesh,papum pare,arunachal pradesh,papum pare,True
+arunachal pradesh,siang,arunachal pradesh,siang,arunachal pradesh,siang,True
+arunachal pradesh,tawang,arunachal pradesh,tawang,arunachal pradesh,tawang,True
+arunachal pradesh,tirap,arunachal pradesh,tirap,arunachal pradesh,tirap,True
+arunachal pradesh,upper siang,arunachal pradesh,upper siang,arunachal pradesh,upper siang,True
+arunachal pradesh,upper subansiri,arunachal pradesh,upper subansiri,arunachal pradesh,upper subansiri,True
+arunachal pradesh,west kameng,arunachal pradesh,west kameng,arunachal pradesh,west kameng,True
+arunachal pradesh,west siang,arunachal pradesh,west siang,arunachal pradesh,west siang,True
+assam,baksa,assam,baksa,assam,baksa,True
+assam,barpeta,assam,barpeta,assam,barpeta,True
+assam,bongaigaon,assam,bongaigaon,assam,bongaigaon,True
+assam,cachar,assam,cachar,assam,cachar,True
+assam,chirang,assam,chirang,assam,chirang,True
+assam,darrang,assam,darrang,assam,darrang,True
+assam,dhemaji,assam,dhemaji,assam,dhemaji,True
+assam,dhubri,assam,dhubri,assam,dhubri,True
+assam,dibrugarh,assam,dibrugarh,assam,dibrugarh,True
+assam,dima hasao,assam,dima hasao,assam,dima hasao,True
+assam,goalpara,assam,goalpara,assam,goalpara,True
+assam,golaghat,assam,golaghat,assam,golaghat,True
+assam,hailakandi,assam,hailakandi,assam,hailakandi,True
+assam,jorhat,assam,jorhat,assam,jorhat,True
+assam,kamrup,assam,kamrup,assam,kamrup,True
+assam,kamrup metro,assam,kamrup metro,assam,kamrup metropolitan,True
+assam,karbi anglong,assam,karbi anglong,assam,karbi anglong,True
+assam,karimganj,assam,karimganj,assam,karimganj,True
+assam,kokrajhar,assam,kokrajhar,assam,kokrajhar,True
+assam,lakhimpur,assam,lakhimpur,assam,lakhimpur,True
+assam,marigaon,assam,marigaon,assam,morigaon,True
+assam,morigaon,assam,morigaon,assam,morigaon,True
+assam,nagaon,assam,nagaon,assam,nagaon,True
+assam,nalbari,assam,nalbari,assam,nalbari,True
+assam,sivasagar,assam,sivasagar,assam,sivasagar,True
+assam,sonitpur,assam,sonitpur,assam,sonitpur,True
+assam,tinsukia,assam,tinsukia,assam,tinsukia,True
+assam,udalguri,assam,udalguri,assam,udalguri,True
+bihar,araria,bihar,araria,bihar,araria,True
+bihar,arwal,bihar,arwal,bihar,arwal,True
+bihar,aurangabad,bihar,aurangabad,bihar,aurangabad,True
+bihar,banka,bihar,banka,bihar,banka,True
+bihar,begusarai,bihar,begusarai,bihar,begusarai,True
+bihar,bhagalpur,bihar,bhagalpur,bihar,bhagalpur,True
+bihar,bhojpur,bihar,bhojpur,bihar,bhojpur,True
+bihar,buxar,bihar,buxar,bihar,buxar,True
+bihar,darbhanga,bihar,darbhanga,bihar,darbhanga,True
+bihar,gaya,bihar,gaya,bihar,gaya,True
+bihar,gopalganj,bihar,gopalganj,bihar,gopalganj,True
+bihar,jamui,bihar,jamui,bihar,jamui,True
+bihar,jehanabad,bihar,jehanabad,bihar,jehanabad,True
+bihar,kaimur,bihar,kaimur,bihar,kaimur bhabhua,True
+bihar,kaimur (bhabua),bihar,kaimur bhabua,bihar,kaimur bhabhua,True
+bihar,katihar,bihar,katihar,bihar,katihar,True
+bihar,khagaria,bihar,khagaria,bihar,khagaria,True
+bihar,kishanganj,bihar,kishanganj,bihar,kishanganj,True
+bihar,lakhisarai,bihar,lakhisarai,bihar,lakhisarai,True
+bihar,madhepura,bihar,madhepura,bihar,madhepura,True
+bihar,madhubani,bihar,madhubani,bihar,madhubani,True
+bihar,munger,bihar,munger,bihar,munger,True
+bihar,muzaffarpur,bihar,muzaffarpur,bihar,muzaffarpur,True
+bihar,nalanda,bihar,nalanda,bihar,nalanda,True
+bihar,nawada,bihar,nawada,bihar,nawada,True
+bihar,pashchim champaran,bihar,pashchim champaran,bihar,west champaran,True
+bihar,patna,bihar,patna,bihar,patna,True
+bihar,purbi champaran,bihar,purbi champaran,bihar,east champaran,True
+bihar,purnia,bihar,purnia,bihar,purnia,True
+bihar,rohtas,bihar,rohtas,bihar,rohtas,True
+bihar,saharsa,bihar,saharsa,bihar,saharsa,True
+bihar,samastipur,bihar,samastipur,bihar,samastipur,True
+bihar,saran,bihar,saran,bihar,saran,True
+bihar,sheikhpura,bihar,sheikhpura,bihar,sheikhpura,True
+bihar,sheohar,bihar,sheohar,bihar,sheohar,True
+bihar,sitamarhi,bihar,sitamarhi,bihar,sitamarhi,True
+bihar,siwan,bihar,siwan,bihar,siwan,True
+bihar,supaul,bihar,supaul,bihar,supaul,True
+bihar,vaishali,bihar,vaishali,bihar,vaishali,True
+chandigarh,chandigarh,chandigarh,chandigarh,chandigarh,chandigarh,True
+chhattisgarh,balod,chhattisgarh,balod,chhattisgarh,balod,True
+chhattisgarh,baloda bazar,chhattisgarh,baloda bazar,chhattisgarh,baloda bazar,True
+chhattisgarh,balrampur,chhattisgarh,balrampur,chhattisgarh,balrampur,True
+chhattisgarh,bastar,chhattisgarh,bastar,chhattisgarh,bastar,True
+chhattisgarh,bemetara,chhattisgarh,bemetara,chhattisgarh,bametara,True
+chhattisgarh,bijapur,chhattisgarh,bijapur,chhattisgarh,bijapur,True
+chhattisgarh,bilaspur,chhattisgarh,bilaspur,chhattisgarh,bilaspur,True
+chhattisgarh,dantewada,chhattisgarh,dantewada,chhattisgarh,dakshin bastar dantewada,True
+chhattisgarh,dhamtari,chhattisgarh,dhamtari,chhattisgarh,dhamtari,True
+chhattisgarh,durg,chhattisgarh,durg,chhattisgarh,durg,True
+chhattisgarh,gariaband,chhattisgarh,gariaband,chhattisgarh,gariaband,True
+chhattisgarh,gariyaband,chhattisgarh,gariyaband,chhattisgarh,gariaband,True
+chhattisgarh,janjgir-champa,chhattisgarh,janjgir champa,chhattisgarh,janjgir champa,True
+chhattisgarh,janjgirchampa,chhattisgarh,janjgirchampa,chhattisgarh,janjgir champa,True
+chhattisgarh,jashpur,chhattisgarh,jashpur,chhattisgarh,jashpur,True
+chhattisgarh,kabirdham,chhattisgarh,kabirdham,chhattisgarh,kabeerdham,True
+chhattisgarh,kanker,chhattisgarh,kanker,chhattisgarh,uttar bastar kanker,True
+chhattisgarh,kondagaon,chhattisgarh,kondagaon,chhattisgarh,kondagaon,True
+chhattisgarh,korba,chhattisgarh,korba,chhattisgarh,korba,True
+chhattisgarh,korea,chhattisgarh,korea,chhattisgarh,koriya,True
+chhattisgarh,mahasamund,chhattisgarh,mahasamund,chhattisgarh,mahasamund,True
+chhattisgarh,mungeli,chhattisgarh,mungeli,chhattisgarh,mungeli,True
+chhattisgarh,narayanpur,chhattisgarh,narayanpur,chhattisgarh,narayanpur,True
+chhattisgarh,raigarh,chhattisgarh,raigarh,chhattisgarh,raigarh,True
+chhattisgarh,raipur,chhattisgarh,raipur,chhattisgarh,raipur,True
+chhattisgarh,rajnandgaon,chhattisgarh,rajnandgaon,chhattisgarh,rajnandgaon,True
+chhattisgarh,sukma,chhattisgarh,sukma,chhattisgarh,sukma,True
+chhattisgarh,surajpur,chhattisgarh,surajpur,chhattisgarh,surajpur,True
+chhattisgarh,surguja,chhattisgarh,surguja,chhattisgarh,surguja,True
+chhattisgarh,uttar bastar kanker,chhattisgarh,uttar bastar kanker,chhattisgarh,uttar bastar kanker,True
+dadra and nagar haveli,dadra and nagar haveli,dadra and nagar haveli,dadra and nagar haveli,dadra and nagar haveli,dadra and nagar haveli,True
+gujarat,ahmadabad,gujarat,ahmadabad,gujarat,ahmadabad,True
+gujarat,amreli,gujarat,amreli,gujarat,amreli,True
+gujarat,anand,gujarat,anand,gujarat,anand,True
+gujarat,aravalli,gujarat,aravalli,gujarat,aravalli,True
+gujarat,arvalli,gujarat,arvalli,gujarat,aravalli,True
+gujarat,banas kantha,gujarat,banas kantha,gujarat,banas kantha,True
+gujarat,bharuch,gujarat,bharuch,gujarat,bharuch,True
+gujarat,bhavnagar,gujarat,bhavnagar,gujarat,bhavnagar,True
+gujarat,botad,gujarat,botad,gujarat,botad,True
+gujarat,chhotaudepur,gujarat,chhotaudepur,gujarat,chota udaipur,True
+gujarat,dang,gujarat,dang,gujarat,dangs,True
+gujarat,devbhumi dwarka,gujarat,devbhumi dwarka,gujarat,devbhumi dwarka,True
+gujarat,dohad,gujarat,dohad,gujarat,dohad,True
+gujarat,gandhinagar,gujarat,gandhinagar,gujarat,gandhinagar,True
+gujarat,gir somnath,gujarat,gir somnath,gujarat,gir somnath,True
+gujarat,jamnagar,gujarat,jamnagar,gujarat,jamnagar,True
+gujarat,junagadh,gujarat,junagadh,gujarat,junagadh,True
+gujarat,kachchh,gujarat,kachchh,gujarat,kachchh,True
+gujarat,kheda,gujarat,kheda,gujarat,kheda,True
+gujarat,mahesana,gujarat,mahesana,gujarat,mahesana,True
+gujarat,mahisagar,gujarat,mahisagar,gujarat,mahisagar,True
+gujarat,morbi,gujarat,morbi,gujarat,morbi,True
+gujarat,narmada,gujarat,narmada,gujarat,narmada,True
+gujarat,navsari,gujarat,navsari,gujarat,navsari,True
+gujarat,panch mahals,gujarat,panch mahals,gujarat,panch mahals,True
+gujarat,patan,gujarat,patan,gujarat,patan,True
+gujarat,porbandar,gujarat,porbandar,gujarat,porbandar,True
+gujarat,rajkot,gujarat,rajkot,gujarat,rajkot,True
+gujarat,sabar kantha,gujarat,sabar kantha,gujarat,sabar kantha,True
+gujarat,surat,gujarat,surat,gujarat,surat,True
+gujarat,surendranagar,gujarat,surendranagar,gujarat,surendranagar,True
+gujarat,tapi,gujarat,tapi,gujarat,tapi,True
+gujarat,vadodara,gujarat,vadodara,gujarat,vadodara,True
+gujarat,valsad,gujarat,valsad,gujarat,valsad,True
+haryana,ambala,haryana,ambala,haryana,ambala,True
+haryana,bhiwani,haryana,bhiwani,haryana,bhiwani,True
+haryana,charki dadri,haryana,charki dadri,haryana,charki dadri,True
+haryana,faridabad,haryana,faridabad,haryana,faridabad,True
+haryana,fatehabad,haryana,fatehabad,haryana,fatehabad,True
+haryana,gurgaon,haryana,gurgaon,haryana,gurugram,True
+haryana,hisar,haryana,hisar,haryana,hisar,True
+haryana,jhajjar,haryana,jhajjar,haryana,jhajjar,True
+haryana,jind,haryana,jind,haryana,jind,True
+haryana,kaithal,haryana,kaithal,haryana,kaithal,True
+haryana,karnal,haryana,karnal,haryana,karnal,True
+haryana,kurukshetra,haryana,kurukshetra,haryana,kurukshetra,True
+haryana,mahendragarh,haryana,mahendragarh,haryana,mahendragarh,True
+haryana,mewat,haryana,mewat,haryana,nuh,True
+haryana,palwal,haryana,palwal,haryana,palwal,True
+haryana,panchkula,haryana,panchkula,haryana,panchkula,True
+haryana,panipat,haryana,panipat,haryana,panipat,True
+haryana,rewari,haryana,rewari,haryana,rewari,True
+haryana,rohtak,haryana,rohtak,haryana,rohtak,True
+haryana,sirsa,haryana,sirsa,haryana,sirsa,True
+haryana,sonipat,haryana,sonipat,haryana,sonipat,True
+haryana,yamunanagar,haryana,yamunanagar,haryana,yamunanagar,True
+himachal pradesh,bilaspur,himachal pradesh,bilaspur,himachal pradesh,bilaspur,True
+himachal pradesh,chamba,himachal pradesh,chamba,himachal pradesh,chamba,True
+himachal pradesh,hamirpur,himachal pradesh,hamirpur,himachal pradesh,hamirpur,True
+himachal pradesh,kangra,himachal pradesh,kangra,himachal pradesh,kangra,True
+himachal pradesh,kinnaur,himachal pradesh,kinnaur,himachal pradesh,kinnaur,True
+himachal pradesh,kullu,himachal pradesh,kullu,himachal pradesh,kullu,True
+himachal pradesh,lahul and spiti,himachal pradesh,lahul and spiti,himachal pradesh,lahul and spiti,True
+himachal pradesh,mandi,himachal pradesh,mandi,himachal pradesh,mandi,True
+himachal pradesh,shimla,himachal pradesh,shimla,himachal pradesh,shimla,True
+himachal pradesh,sirmaur,himachal pradesh,sirmaur,himachal pradesh,sirmaur,True
+himachal pradesh,solan,himachal pradesh,solan,himachal pradesh,solan,True
+himachal pradesh,una,himachal pradesh,una,himachal pradesh,una,True
+jammu and kashmir,anantnag,jammu and kashmir,anantnag,jammu and kashmir,anantnag,True
+jammu and kashmir,badgam,jammu and kashmir,badgam,jammu and kashmir,badgam,True
+jammu and kashmir,bandipora,jammu and kashmir,bandipora,jammu and kashmir,bandipore,True
+jammu and kashmir,baramulla,jammu and kashmir,baramulla,jammu and kashmir,baramula,True
+jammu and kashmir,doda,jammu and kashmir,doda,jammu and kashmir,doda,True
+jammu and kashmir,ganderbal,jammu and kashmir,ganderbal,jammu and kashmir,ganderbal,True
+jammu and kashmir,jammu,jammu and kashmir,jammu,jammu and kashmir,jammu,True
+jammu and kashmir,kargil,jammu and kashmir,kargil,ladakh,kargil,True
+jammu and kashmir,kathua,jammu and kashmir,kathua,jammu and kashmir,kathua,True
+jammu and kashmir,kishtwar,jammu and kashmir,kishtwar,jammu and kashmir,kishtwar,True
+jammu and kashmir,kulgam,jammu and kashmir,kulgam,jammu and kashmir,kulgam,True
+jammu and kashmir,kupwara,jammu and kashmir,kupwara,jammu and kashmir,kupwara,True
+jammu and kashmir,leh ladakh,jammu and kashmir,leh ladakh,ladakh,leh,True
+jammu and kashmir,poonch,jammu and kashmir,poonch,jammu and kashmir,punch,True
+jammu and kashmir,pulwama,jammu and kashmir,pulwama,jammu and kashmir,pulwama,True
+jammu and kashmir,rajauri,jammu and kashmir,rajauri,jammu and kashmir,rajouri,True
+jammu and kashmir,ramban,jammu and kashmir,ramban,jammu and kashmir,ramban,True
+jammu and kashmir,reasi,jammu and kashmir,reasi,jammu and kashmir,reasi,True
+jammu and kashmir,samba,jammu and kashmir,samba,jammu and kashmir,samba,True
+jammu and kashmir,shopian,jammu and kashmir,shopian,jammu and kashmir,shupiyan,True
+jammu and kashmir,srinagar,jammu and kashmir,srinagar,jammu and kashmir,srinagar,True
+jammu and kashmir,udhampur,jammu and kashmir,udhampur,jammu and kashmir,udhampur,True
+jharkhand,bokaro,jharkhand,bokaro,jharkhand,bokaro,True
+jharkhand,chatra,jharkhand,chatra,jharkhand,chatra,True
+jharkhand,deoghar,jharkhand,deoghar,jharkhand,deoghar,True
+jharkhand,dhanbad,jharkhand,dhanbad,jharkhand,dhanbad,True
+jharkhand,dumka,jharkhand,dumka,jharkhand,dumka,True
+jharkhand,east singhbum,jharkhand,east singhbum,jharkhand,purbi singhbhum,True
+jharkhand,garhwa,jharkhand,garhwa,jharkhand,garhwa,True
+jharkhand,giridih,jharkhand,giridih,jharkhand,giridih,True
+jharkhand,godda,jharkhand,godda,jharkhand,godda,True
+jharkhand,gumla,jharkhand,gumla,jharkhand,gumla,True
+jharkhand,hazaribagh,jharkhand,hazaribagh,jharkhand,hazaribagh,True
+jharkhand,jamtara,jharkhand,jamtara,jharkhand,jamtara,True
+jharkhand,khunti,jharkhand,khunti,jharkhand,khunti,True
+jharkhand,koderma,jharkhand,koderma,jharkhand,kodarma,True
+jharkhand,latehar,jharkhand,latehar,jharkhand,latehar,True
+jharkhand,lohardaga,jharkhand,lohardaga,jharkhand,lohardaga,True
+jharkhand,pakur,jharkhand,pakur,jharkhand,pakur,True
+jharkhand,palamu,jharkhand,palamu,jharkhand,palamu,True
+jharkhand,ramgarh,jharkhand,ramgarh,jharkhand,ramgarh,True
+jharkhand,ranchi,jharkhand,ranchi,jharkhand,ranchi,True
+jharkhand,sahebganj,jharkhand,sahebganj,jharkhand,sahibganj,True
+jharkhand,sahibganj,jharkhand,sahibganj,jharkhand,sahibganj,True
+jharkhand,saraikela kharsawan,jharkhand,saraikela kharsawan,jharkhand,saraikela kharsawan,True
+jharkhand,saraikelakharsawan,jharkhand,saraikelakharsawan,jharkhand,saraikela kharsawan,True
+jharkhand,simdega,jharkhand,simdega,jharkhand,simdega,True
+jharkhand,west singhbhum,jharkhand,west singhbhum,jharkhand,pashchimi singhbhum,True
+karnataka,bagalkot,karnataka,bagalkot,karnataka,bagalkote,True
+karnataka,bagalkote,karnataka,bagalkote,karnataka,bagalkote,True
+karnataka,ballari,karnataka,ballari,karnataka,ballari,True
+karnataka,bangalore rural,karnataka,bangalore rural,karnataka,bengaluru rural,True
+karnataka,belagavi,karnataka,belagavi,karnataka,belagavi,True
+karnataka,bengaluru urban,karnataka,bengaluru urban,karnataka,bengaluru,True
+karnataka,bidar,karnataka,bidar,karnataka,bidar,True
+karnataka,chamarajanagara,karnataka,chamarajanagara,karnataka,chamarajanagara,True
+karnataka,chamrajnagar,karnataka,chamrajnagar,karnataka,chamarajanagara,True
+karnataka,chikballapura,karnataka,chikballapura,karnataka,chikkaballapura,True
+karnataka,chikkaballapura,karnataka,chikkaballapura,karnataka,chikkaballapura,True
+karnataka,chikkamagaluru,karnataka,chikkamagaluru,karnataka,chikkamagaluru,True
+karnataka,chikmagalur,karnataka,chikmagalur,karnataka,chikkamagaluru,True
+karnataka,chitradurga,karnataka,chitradurga,karnataka,chitradurga,True
+karnataka,dakshina kannada,karnataka,dakshina kannada,karnataka,dakshina kannada,True
+karnataka,davanagere,karnataka,davanagere,karnataka,davanagere,True
+karnataka,davangere,karnataka,davangere,karnataka,davanagere,True
+karnataka,dharwad,karnataka,dharwad,karnataka,dharwad,True
+karnataka,gadag,karnataka,gadag,karnataka,gadag,True
+karnataka,hassan,karnataka,hassan,karnataka,hassan,True
+karnataka,haveri,karnataka,haveri,karnataka,haveri,True
+karnataka,kalaburagi,karnataka,kalaburagi,karnataka,kalaburagi,True
+karnataka,kodagu,karnataka,kodagu,karnataka,kodagu,True
+karnataka,kolar,karnataka,kolar,karnataka,kolar,True
+karnataka,koppal,karnataka,koppal,karnataka,koppal,True
+karnataka,mandya,karnataka,mandya,karnataka,mandya,True
+karnataka,mysuru,karnataka,mysuru,karnataka,mysuru,True
+karnataka,raichur,karnataka,raichur,karnataka,raichur,True
+karnataka,ramanagara,karnataka,ramanagara,karnataka,ramanagara,True
+karnataka,shivamogga,karnataka,shivamogga,karnataka,shivamogga,True
+karnataka,tumakuru,karnataka,tumakuru,karnataka,tumakuru,True
+karnataka,tumkur,karnataka,tumkur,karnataka,tumakuru,True
+karnataka,udupi,karnataka,udupi,karnataka,udupi,True
+karnataka,uttara kannada,karnataka,uttara kannada,karnataka,uttara kannada,True
+karnataka,vijayapura,karnataka,vijayapura,karnataka,vijayapura,True
+karnataka,yadagiri,karnataka,yadagiri,karnataka,yadgir,True
+karnataka,yadgir,karnataka,yadgir,karnataka,yadgir,True
+kerala,alappuzha,kerala,alappuzha,kerala,alappuzha,True
+kerala,ernakulam,kerala,ernakulam,kerala,ernakulam,True
+kerala,idukki,kerala,idukki,kerala,idukki,True
+kerala,kannur,kerala,kannur,kerala,kannur,True
+kerala,kasaragod,kerala,kasaragod,kerala,kasaragod,True
+kerala,kollam,kerala,kollam,kerala,kollam,True
+kerala,kottayam,kerala,kottayam,kerala,kottayam,True
+kerala,kozhikode,kerala,kozhikode,kerala,kozhikode,True
+kerala,malappuram,kerala,malappuram,kerala,malappuram,True
+kerala,palakkad,kerala,palakkad,kerala,palakkad,True
+kerala,pathanamthitta,kerala,pathanamthitta,kerala,pathanamthitta,True
+kerala,thiruvananthapuram,kerala,thiruvananthapuram,kerala,thiruvananthapuram,True
+kerala,thrissur,kerala,thrissur,kerala,thrissur,True
+kerala,wayanad,kerala,wayanad,kerala,wayanad,True
+madhya pradesh,agar malwa,madhya pradesh,agar malwa,madhya pradesh,agar malwa,True
+madhya pradesh,alirajpur,madhya pradesh,alirajpur,madhya pradesh,alirajpur,True
+madhya pradesh,anuppur,madhya pradesh,anuppur,madhya pradesh,anuppur,True
+madhya pradesh,ashoknagar,madhya pradesh,ashoknagar,madhya pradesh,ashoknagar,True
+madhya pradesh,balaghat,madhya pradesh,balaghat,madhya pradesh,balaghat,True
+madhya pradesh,barwani,madhya pradesh,barwani,madhya pradesh,barwani,True
+madhya pradesh,betul,madhya pradesh,betul,madhya pradesh,betul,True
+madhya pradesh,bhind,madhya pradesh,bhind,madhya pradesh,bhind,True
+madhya pradesh,bhopal,madhya pradesh,bhopal,madhya pradesh,bhopal,True
+madhya pradesh,burhanpur,madhya pradesh,burhanpur,madhya pradesh,burhanpur,True
+madhya pradesh,chhatarpur,madhya pradesh,chhatarpur,madhya pradesh,chhatarpur,True
+madhya pradesh,chhindwara,madhya pradesh,chhindwara,madhya pradesh,chhindwara,True
+madhya pradesh,damoh,madhya pradesh,damoh,madhya pradesh,damoh,True
+madhya pradesh,datia,madhya pradesh,datia,madhya pradesh,datia,True
+madhya pradesh,dewas,madhya pradesh,dewas,madhya pradesh,dewas,True
+madhya pradesh,dhar,madhya pradesh,dhar,madhya pradesh,dhar,True
+madhya pradesh,dindori,madhya pradesh,dindori,madhya pradesh,dindori,True
+madhya pradesh,guna,madhya pradesh,guna,madhya pradesh,guna,True
+madhya pradesh,gwalior,madhya pradesh,gwalior,madhya pradesh,gwalior,True
+madhya pradesh,harda,madhya pradesh,harda,madhya pradesh,harda,True
+madhya pradesh,hoshangabad,madhya pradesh,hoshangabad,madhya pradesh,hoshangabad,True
+madhya pradesh,indore,madhya pradesh,indore,madhya pradesh,indore,True
+madhya pradesh,jabalpur,madhya pradesh,jabalpur,madhya pradesh,jabalpur,True
+madhya pradesh,jhabua,madhya pradesh,jhabua,madhya pradesh,jhabua,True
+madhya pradesh,katni,madhya pradesh,katni,madhya pradesh,katni,True
+madhya pradesh,khandwa,madhya pradesh,khandwa,madhya pradesh,east nimar,True
+madhya pradesh,khargone,madhya pradesh,khargone,madhya pradesh,west nimar,True
+madhya pradesh,mandla,madhya pradesh,mandla,madhya pradesh,mandla,True
+madhya pradesh,mandsaur,madhya pradesh,mandsaur,madhya pradesh,mandsaur,True
+madhya pradesh,morena,madhya pradesh,morena,madhya pradesh,morena,True
+madhya pradesh,narsinghpur,madhya pradesh,narsinghpur,madhya pradesh,narsimhapur,True
+madhya pradesh,neemuch,madhya pradesh,neemuch,madhya pradesh,neemuch,True
+madhya pradesh,panna,madhya pradesh,panna,madhya pradesh,panna,True
+madhya pradesh,raisen,madhya pradesh,raisen,madhya pradesh,raisen,True
+madhya pradesh,rajgarh,madhya pradesh,rajgarh,madhya pradesh,rajgarh,True
+madhya pradesh,ratlam,madhya pradesh,ratlam,madhya pradesh,ratlam,True
+madhya pradesh,rewa,madhya pradesh,rewa,madhya pradesh,rewa,True
+madhya pradesh,sagar,madhya pradesh,sagar,madhya pradesh,sagar,True
+madhya pradesh,satna,madhya pradesh,satna,madhya pradesh,satna,True
+madhya pradesh,sehore,madhya pradesh,sehore,madhya pradesh,sehore,True
+madhya pradesh,seoni,madhya pradesh,seoni,madhya pradesh,seoni,True
+madhya pradesh,shahdol,madhya pradesh,shahdol,madhya pradesh,shahdol,True
+madhya pradesh,shajapur,madhya pradesh,shajapur,madhya pradesh,shajapur,True
+madhya pradesh,sheopur,madhya pradesh,sheopur,madhya pradesh,sheopur,True
+madhya pradesh,shivpuri,madhya pradesh,shivpuri,madhya pradesh,shivpuri,True
+madhya pradesh,sidhi,madhya pradesh,sidhi,madhya pradesh,sidhi,True
+madhya pradesh,singrauli,madhya pradesh,singrauli,madhya pradesh,singrauli,True
+madhya pradesh,tikamgarh,madhya pradesh,tikamgarh,madhya pradesh,tikamgarh,True
+madhya pradesh,ujjain,madhya pradesh,ujjain,madhya pradesh,ujjain,True
+madhya pradesh,umaria,madhya pradesh,umaria,madhya pradesh,umaria,True
+madhya pradesh,vidisha,madhya pradesh,vidisha,madhya pradesh,vidisha,True
+maharashtra,ahmadnagar,maharashtra,ahmadnagar,maharashtra,ahmadnagar,True
+maharashtra,ahmednagar,maharashtra,ahmednagar,maharashtra,ahmadnagar,True
+maharashtra,akola,maharashtra,akola,maharashtra,akola,True
+maharashtra,amravati,maharashtra,amravati,maharashtra,amravati,True
+maharashtra,aurangabad,maharashtra,aurangabad,maharashtra,aurangabad,True
+maharashtra,beed,maharashtra,beed,maharashtra,bid,True
+maharashtra,bhandara,maharashtra,bhandara,maharashtra,bhandara,True
+maharashtra,buldana,maharashtra,buldana,maharashtra,buldana,True
+maharashtra,buldhana,maharashtra,buldhana,maharashtra,buldana,True
+maharashtra,chandrapur,maharashtra,chandrapur,maharashtra,chandrapur,True
+maharashtra,dhule,maharashtra,dhule,maharashtra,dhule,True
+maharashtra,gadchiroli,maharashtra,gadchiroli,maharashtra,gadchiroli,True
+maharashtra,gondia,maharashtra,gondia,maharashtra,gondiya,True
+maharashtra,hingoli,maharashtra,hingoli,maharashtra,hingoli,True
+maharashtra,jalgaon,maharashtra,jalgaon,maharashtra,jalgaon,True
+maharashtra,jalna,maharashtra,jalna,maharashtra,jalna,True
+maharashtra,kolhapur,maharashtra,kolhapur,maharashtra,kolhapur,True
+maharashtra,latur,maharashtra,latur,maharashtra,latur,True
+maharashtra,nagpur,maharashtra,nagpur,maharashtra,nagpur,True
+maharashtra,nanded,maharashtra,nanded,maharashtra,nanded,True
+maharashtra,nandurbar,maharashtra,nandurbar,maharashtra,nandurbar,True
+maharashtra,nashik,maharashtra,nashik,maharashtra,nashik,True
+maharashtra,osmanabad,maharashtra,osmanabad,maharashtra,osmanabad,True
+maharashtra,palghar,maharashtra,palghar,maharashtra,palghar,True
+maharashtra,parbhani,maharashtra,parbhani,maharashtra,parbhani,True
+maharashtra,pune,maharashtra,pune,maharashtra,pune,True
+maharashtra,raigad,maharashtra,raigad,maharashtra,raigarh,True
+maharashtra,ratnagiri,maharashtra,ratnagiri,maharashtra,ratnagiri,True
+maharashtra,sangli,maharashtra,sangli,maharashtra,sangli,True
+maharashtra,satara,maharashtra,satara,maharashtra,satara,True
+maharashtra,sindhudurg,maharashtra,sindhudurg,maharashtra,sindhudurg,True
+maharashtra,solapur,maharashtra,solapur,maharashtra,solapur,True
+maharashtra,thane,maharashtra,thane,maharashtra,thane,True
+maharashtra,wardha,maharashtra,wardha,maharashtra,wardha,True
+maharashtra,washim,maharashtra,washim,maharashtra,washim,True
+maharashtra,yavatmal,maharashtra,yavatmal,maharashtra,yavatmal,True
+manipur,bishnupur,manipur,bishnupur,manipur,bishnupur,True
+manipur,chandel,manipur,chandel,manipur,chandel,True
+manipur,churachandpur,manipur,churachandpur,manipur,churachandpur,True
+manipur,imphal east,manipur,imphal east,manipur,imphal east,True
+manipur,imphal west,manipur,imphal west,manipur,imphal west,True
+manipur,senapati,manipur,senapati,manipur,senapati,True
+manipur,tamenglong,manipur,tamenglong,manipur,tamenglong,True
+manipur,thoubal,manipur,thoubal,manipur,thoubal,True
+manipur,ukhrul,manipur,ukhrul,manipur,ukhrul,True
+meghalaya,east garo hills,meghalaya,east garo hills,meghalaya,east garo hills,True
+meghalaya,east jaintia hills,meghalaya,east jaintia hills,meghalaya,east jaintia hills,True
+meghalaya,east khasi hills,meghalaya,east khasi hills,meghalaya,east khasi hills,True
+meghalaya,north garo hills,meghalaya,north garo hills,meghalaya,north garo hills,True
+meghalaya,ri bhoi,meghalaya,ri bhoi,meghalaya,ribhoi,True
+meghalaya,south garo hills,meghalaya,south garo hills,meghalaya,south garo hills,True
+meghalaya,south west garo hills,meghalaya,south west garo hills,meghalaya,south west garo hills,True
+meghalaya,south west khasi hills,meghalaya,south west khasi hills,meghalaya,south west khasi hills,True
+meghalaya,west garo hills,meghalaya,west garo hills,meghalaya,west garo hills,True
+meghalaya,west jaintia hills,meghalaya,west jaintia hills,meghalaya,west jaintia hills,True
+meghalaya,west khasi hills,meghalaya,west khasi hills,meghalaya,west khasi hills,True
+mizoram,aizawl,mizoram,aizawl,mizoram,aizawal,True
+mizoram,champhai,mizoram,champhai,mizoram,champhai,True
+mizoram,kolasib,mizoram,kolasib,mizoram,kolasib,True
+mizoram,lawngtlai,mizoram,lawngtlai,mizoram,lawngtlai,True
+mizoram,lunglei,mizoram,lunglei,mizoram,lunglei,True
+mizoram,mamit,mizoram,mamit,mizoram,mamit,True
+mizoram,saiha,mizoram,saiha,mizoram,saiha,True
+mizoram,serchhip,mizoram,serchhip,mizoram,serchhip,True
+nagaland,dimapur,nagaland,dimapur,nagaland,dimapur,True
+nagaland,kiphire,nagaland,kiphire,nagaland,kiphire,True
+nagaland,kohima,nagaland,kohima,nagaland,kohima,True
+nagaland,longleng,nagaland,longleng,nagaland,longleng,True
+nagaland,mokokchung,nagaland,mokokchung,nagaland,mokokchung,True
+nagaland,mon,nagaland,mon,nagaland,mon,True
+nagaland,peren,nagaland,peren,nagaland,peren,True
+nagaland,phek,nagaland,phek,nagaland,phek,True
+nagaland,tuensang,nagaland,tuensang,nagaland,tuensang,True
+nagaland,wokha,nagaland,wokha,nagaland,wokha,True
+nagaland,zunheboto,nagaland,zunheboto,nagaland,zunheboto,True
+odisha,anugul,odisha,anugul,odisha,anugul,True
+odisha,balangir,odisha,balangir,odisha,balangir,True
+odisha,baleshwar,odisha,baleshwar,odisha,baleshwar,True
+odisha,bargarh,odisha,bargarh,odisha,bargarh,True
+odisha,bhadrak,odisha,bhadrak,odisha,bhadrak,True
+odisha,boudh,odisha,boudh,odisha,baudh,True
+odisha,cuttack,odisha,cuttack,odisha,cuttack,True
+odisha,deogarh,odisha,deogarh,odisha,debagarh,True
+odisha,dhenkanal,odisha,dhenkanal,odisha,dhenkanal,True
+odisha,gajapati,odisha,gajapati,odisha,gajapati,True
+odisha,ganjam,odisha,ganjam,odisha,ganjam,True
+odisha,jagatsinghapur,odisha,jagatsinghapur,odisha,jagatsinghapur,True
+odisha,jajapur,odisha,jajapur,odisha,jajapur,True
+odisha,jharsuguda,odisha,jharsuguda,odisha,jharsuguda,True
+odisha,kalahandi,odisha,kalahandi,odisha,kalahandi,True
+odisha,kandhamal,odisha,kandhamal,odisha,kandhamal,True
+odisha,kendrapara,odisha,kendrapara,odisha,kendrapara,True
+odisha,kendujhar,odisha,kendujhar,odisha,kendujhar,True
+odisha,khordha,odisha,khordha,odisha,khordha,True
+odisha,koraput,odisha,koraput,odisha,koraput,True
+odisha,malkangiri,odisha,malkangiri,odisha,malkangiri,True
+odisha,mayurbhanj,odisha,mayurbhanj,odisha,mayurbhanj,True
+odisha,nabarangpur,odisha,nabarangpur,odisha,nabarangapur,True
+odisha,nayagarh,odisha,nayagarh,odisha,nayagarh,True
+odisha,nuapada,odisha,nuapada,odisha,nuapada,True
+odisha,puri,odisha,puri,odisha,puri,True
+odisha,rayagada,odisha,rayagada,odisha,rayagada,True
+odisha,sambalpur,odisha,sambalpur,odisha,sambalpur,True
+odisha,sonepur,odisha,sonepur,odisha,subarnapur,True
+odisha,sundargarh,odisha,sundargarh,odisha,sundargarh,True
+puducherry,karaikal,puducherry,karaikal,puducherry,karaikal,True
+puducherry,pondicherry,puducherry,pondicherry,puducherry,puducherry,True
+puducherry,yanam,puducherry,yanam,puducherry,yanam,True
+punjab,amritsar,punjab,amritsar,punjab,amritsar,True
+punjab,barnala,punjab,barnala,punjab,barnala,True
+punjab,bathinda,punjab,bathinda,punjab,bathinda,True
+punjab,faridkot,punjab,faridkot,punjab,faridkot,True
+punjab,fatehgarh sahib,punjab,fatehgarh sahib,punjab,fatehgarh sahib,True
+punjab,fazilka,punjab,fazilka,punjab,fazilka,True
+punjab,firozpur,punjab,firozpur,punjab,firozpur,True
+punjab,gurdaspur,punjab,gurdaspur,punjab,gurdaspur,True
+punjab,hoshiarpur,punjab,hoshiarpur,punjab,hoshiarpur,True
+punjab,jalandhar,punjab,jalandhar,punjab,jalandhar,True
+punjab,kapurthala,punjab,kapurthala,punjab,kapurthala,True
+punjab,ludhiana,punjab,ludhiana,punjab,ludhiana,True
+punjab,mansa,punjab,mansa,punjab,mansa,True
+punjab,moga,punjab,moga,punjab,moga,True
+punjab,muktsar,punjab,muktsar,punjab,sri muktsar sahib,True
+punjab,pathankot,punjab,pathankot,punjab,pathankot,True
+punjab,patiala,punjab,patiala,punjab,patiala,True
+punjab,rupnagar,punjab,rupnagar,punjab,rupnagar,True
+punjab,sangrur,punjab,sangrur,punjab,sangrur,True
+punjab,shahid bhagat singh nagar,punjab,shahid bhagat singh nagar,punjab,shahid bhagat singh nagar,True
+punjab,tarn taran,punjab,tarn taran,punjab,tarn taran,True
+rajasthan,ajmer,rajasthan,ajmer,rajasthan,ajmer,True
+rajasthan,alwar,rajasthan,alwar,rajasthan,alwar,True
+rajasthan,banswara,rajasthan,banswara,rajasthan,banswara,True
+rajasthan,baran,rajasthan,baran,rajasthan,baran,True
+rajasthan,barmer,rajasthan,barmer,rajasthan,barmer,True
+rajasthan,bharatpur,rajasthan,bharatpur,rajasthan,bharatpur,True
+rajasthan,bhilwara,rajasthan,bhilwara,rajasthan,bhilwara,True
+rajasthan,bikaner,rajasthan,bikaner,rajasthan,bikaner,True
+rajasthan,bundi,rajasthan,bundi,rajasthan,bundi,True
+rajasthan,chittaurgarh,rajasthan,chittaurgarh,rajasthan,chittaurgarh,True
+rajasthan,chittorgarh,rajasthan,chittorgarh,rajasthan,chittaurgarh,True
+rajasthan,churu,rajasthan,churu,rajasthan,churu,True
+rajasthan,dausa,rajasthan,dausa,rajasthan,dausa,True
+rajasthan,dholpur,rajasthan,dholpur,rajasthan,dhaulpur,True
+rajasthan,dungarpur,rajasthan,dungarpur,rajasthan,dungarpur,True
+rajasthan,ganganagar,rajasthan,ganganagar,rajasthan,ganganagar,True
+rajasthan,hanumangarh,rajasthan,hanumangarh,rajasthan,hanumangarh,True
+rajasthan,jaipur,rajasthan,jaipur,rajasthan,jaipur,True
+rajasthan,jaisalmer,rajasthan,jaisalmer,rajasthan,jaisalmer,True
+rajasthan,jalore,rajasthan,jalore,rajasthan,jalor,True
+rajasthan,jhalawar,rajasthan,jhalawar,rajasthan,jhalawar,True
+rajasthan,jhunjhunun,rajasthan,jhunjhunun,rajasthan,jhunjhunu,True
+rajasthan,jodhpur,rajasthan,jodhpur,rajasthan,jodhpur,True
+rajasthan,karauli,rajasthan,karauli,rajasthan,karauli,True
+rajasthan,kota,rajasthan,kota,rajasthan,kota,True
+rajasthan,nagaur,rajasthan,nagaur,rajasthan,nagaur,True
+rajasthan,pali,rajasthan,pali,rajasthan,pali,True
+rajasthan,pratapgarh,rajasthan,pratapgarh,rajasthan,pratapgarh,True
+rajasthan,rajsamand,rajasthan,rajsamand,rajasthan,rajsamand,True
+rajasthan,sawai madhopur,rajasthan,sawai madhopur,rajasthan,sawai madhopur,True
+rajasthan,sikar,rajasthan,sikar,rajasthan,sikar,True
+rajasthan,sirohi,rajasthan,sirohi,rajasthan,sirohi,True
+rajasthan,tonk,rajasthan,tonk,rajasthan,tonk,True
+rajasthan,udaipur,rajasthan,udaipur,rajasthan,udaipur,True
+sikkim,east district,sikkim,east district,sikkim,east district,True
+sikkim,north district,sikkim,north district,sikkim,north district,True
+sikkim,south district,sikkim,south district,sikkim,south district,True
+sikkim,west district,sikkim,west district,sikkim,west district,True
+tamil nadu,ariyalur,tamil nadu,ariyalur,tamil nadu,ariyalur,True
+tamil nadu,coimbatore,tamil nadu,coimbatore,tamil nadu,coimbatore,True
+tamil nadu,cuddalore,tamil nadu,cuddalore,tamil nadu,cuddalore,True
+tamil nadu,dharmapuri,tamil nadu,dharmapuri,tamil nadu,dharmapuri,True
+tamil nadu,dindigul,tamil nadu,dindigul,tamil nadu,dindigul,True
+tamil nadu,erode,tamil nadu,erode,tamil nadu,erode,True
+tamil nadu,kancheepuram,tamil nadu,kancheepuram,tamil nadu,kancheepuram,True
+tamil nadu,kanchipuram,tamil nadu,kanchipuram,tamil nadu,kancheepuram,True
+tamil nadu,kanniyakumari,tamil nadu,kanniyakumari,tamil nadu,kanniyakumari,True
+tamil nadu,karur,tamil nadu,karur,tamil nadu,karur,True
+tamil nadu,krishnagiri,tamil nadu,krishnagiri,tamil nadu,krishnagiri,True
+tamil nadu,madurai,tamil nadu,madurai,tamil nadu,madurai,True
+tamil nadu,nagapattinam,tamil nadu,nagapattinam,tamil nadu,nagapattinam,True
+tamil nadu,nagappattinam,tamil nadu,nagappattinam,tamil nadu,nagapattinam,True
+tamil nadu,namakkal,tamil nadu,namakkal,tamil nadu,namakkal,True
+tamil nadu,perambalur,tamil nadu,perambalur,tamil nadu,perambalur,True
+tamil nadu,pudukkottai,tamil nadu,pudukkottai,tamil nadu,pudukkottai,True
+tamil nadu,ramanathapuram,tamil nadu,ramanathapuram,tamil nadu,ramanathapuram,True
+tamil nadu,salem,tamil nadu,salem,tamil nadu,salem,True
+tamil nadu,sivaganga,tamil nadu,sivaganga,tamil nadu,sivaganga,True
+tamil nadu,thanjavur,tamil nadu,thanjavur,tamil nadu,thanjavur,True
+tamil nadu,the nilgiris,tamil nadu,nilgiris,tamil nadu,nilgiris,True
+tamil nadu,theni,tamil nadu,theni,tamil nadu,theni,True
+tamil nadu,thiruvallur,tamil nadu,thiruvallur,tamil nadu,thiruvallur,True
+tamil nadu,thiruvarur,tamil nadu,thiruvarur,tamil nadu,thiruvarur,True
+tamil nadu,tiruchirappalli,tamil nadu,tiruchirappalli,tamil nadu,tiruchirappalli,True
+tamil nadu,tirunelveli,tamil nadu,tirunelveli,tamil nadu,tirunelveli,True
+tamil nadu,tiruppur,tamil nadu,tiruppur,tamil nadu,tiruppur,True
+tamil nadu,tiruvannamalai,tamil nadu,tiruvannamalai,tamil nadu,tiruvannamalai,True
+tamil nadu,tuticorin,tamil nadu,tuticorin,tamil nadu,thoothukkudi,True
+tamil nadu,vellore,tamil nadu,vellore,tamil nadu,vellore,True
+tamil nadu,villupuram,tamil nadu,villupuram,tamil nadu,viluppuram,True
+tamil nadu,viluppuram,tamil nadu,viluppuram,tamil nadu,viluppuram,True
+tamil nadu,virudhunagar,tamil nadu,virudhunagar,tamil nadu,virudhunagar,True
+tamil nadu,virudunagar,tamil nadu,virudunagar,tamil nadu,virudhunagar,True
+telangana,adilabad,telangana,adilabad,telangana,adilabad,True
+telangana,bhadradri,telangana,bhadradri,telangana,bhadradri kothagudem,True
+telangana,hanumakonda,telangana,hanumakonda,telangana,warangal urban,True
+telangana,jagitial,telangana,jagitial,telangana,jagitial,True
+telangana,jangoan,telangana,jangoan,telangana,jangoan,True
+telangana,jayashankar,telangana,jayashankar,telangana,jayashankar,True
+telangana,jogulamba,telangana,jogulamba,telangana,jogulamba gadwal,True
+telangana,kamareddy,telangana,kamareddy,telangana,kamareddy,True
+telangana,karimnagar,telangana,karimnagar,telangana,karimnagar,True
+telangana,khammam,telangana,khammam,telangana,khammam,True
+telangana,komaram bheem asifabad,telangana,komaram bheem asifabad,telangana,kumuram bheem asifabad,True
+telangana,mahabubabad,telangana,mahabubabad,telangana,mahabubabad,True
+telangana,mahbubnagar,telangana,mahbubnagar,telangana,mahabubnagar,True
+telangana,mancherial,telangana,mancherial,telangana,mancherial,True
+telangana,medak,telangana,medak,telangana,medak,True
+telangana,medchal malkajgiri,telangana,medchal malkajgiri,telangana,medchal malkajgiri,True
+telangana,nagarkurnool,telangana,nagarkurnool,telangana,nagarkurnool,True
+telangana,nalgonda,telangana,nalgonda,telangana,nalgonda,True
+telangana,nirmal,telangana,nirmal,telangana,nirmal,True
+telangana,nizamabad,telangana,nizamabad,telangana,nizamabad,True
+telangana,peddapalli,telangana,peddapalli,telangana,peddapalli,True
+telangana,rajanna,telangana,rajanna,telangana,rajanna sircilla,True
+telangana,rangareddi,telangana,rangareddi,telangana,ranga reddy,True
+telangana,sangareddy,telangana,sangareddy,telangana,sangareddy,True
+telangana,siddipet,telangana,siddipet,telangana,siddipet,True
+telangana,suryapet,telangana,suryapet,telangana,suryapet,True
+telangana,vikarabad,telangana,vikarabad,telangana,vikarabad,True
+telangana,wanaparthy,telangana,wanaparthy,telangana,wanaparthy,True
+telangana,warangal,telangana,warangal,telangana,warangal rural,True
+telangana,yadadri,telangana,yadadri,telangana,yadadri bhuvanagiri,True
+tripura,dhalai,tripura,dhalai,tripura,dhalai,True
+tripura,gomati,tripura,gomati,tripura,gomati,True
+tripura,khowai,tripura,khowai,tripura,khowai,True
+tripura,north tripura,tripura,north tripura,tripura,north tripura,True
+tripura,sepahijala,tripura,sepahijala,tripura,sipahijala,True
+tripura,south tripura,tripura,south tripura,tripura,south tripura,True
+tripura,unakoti,tripura,unakoti,tripura,unokoti,True
+tripura,west tripura,tripura,west tripura,tripura,west tripura,True
+uttar pradesh,agra,uttar pradesh,agra,uttar pradesh,agra,True
+uttar pradesh,aligarh,uttar pradesh,aligarh,uttar pradesh,aligarh,True
+uttar pradesh,allahabad,uttar pradesh,allahabad,uttar pradesh,prayagraj,True
+uttar pradesh,ambedkar nagar,uttar pradesh,ambedkar nagar,uttar pradesh,ambedkar nagar,True
+uttar pradesh,amethi,uttar pradesh,amethi,uttar pradesh,amethi,True
+uttar pradesh,amroha,uttar pradesh,amroha,uttar pradesh,amroha,True
+uttar pradesh,auraiya,uttar pradesh,auraiya,uttar pradesh,auraiya,True
+uttar pradesh,azamgarh,uttar pradesh,azamgarh,uttar pradesh,azamgarh,True
+uttar pradesh,baghpat,uttar pradesh,baghpat,uttar pradesh,baghpat,True
+uttar pradesh,bahraich,uttar pradesh,bahraich,uttar pradesh,bahraich,True
+uttar pradesh,ballia,uttar pradesh,ballia,uttar pradesh,ballia,True
+uttar pradesh,balrampur,uttar pradesh,balrampur,uttar pradesh,balrampur,True
+uttar pradesh,banda,uttar pradesh,banda,uttar pradesh,banda,True
+uttar pradesh,barabanki,uttar pradesh,barabanki,uttar pradesh,bara banki,True
+uttar pradesh,bareilly,uttar pradesh,bareilly,uttar pradesh,bareilly,True
+uttar pradesh,basti,uttar pradesh,basti,uttar pradesh,basti,True
+uttar pradesh,bijnor,uttar pradesh,bijnor,uttar pradesh,bijnor,True
+uttar pradesh,budaun,uttar pradesh,budaun,uttar pradesh,budaun,True
+uttar pradesh,bulandshahr,uttar pradesh,bulandshahr,uttar pradesh,bulandshahr,True
+uttar pradesh,chandauli,uttar pradesh,chandauli,uttar pradesh,chandauli,True
+uttar pradesh,chitrakoot,uttar pradesh,chitrakoot,uttar pradesh,chitrakoot,True
+uttar pradesh,deoria,uttar pradesh,deoria,uttar pradesh,deoria,True
+uttar pradesh,etah,uttar pradesh,etah,uttar pradesh,etah,True
+uttar pradesh,etawah,uttar pradesh,etawah,uttar pradesh,etawah,True
+uttar pradesh,faizabad,uttar pradesh,faizabad,uttar pradesh,faizabad,True
+uttar pradesh,farrukhabad,uttar pradesh,farrukhabad,uttar pradesh,farrukhabad,True
+uttar pradesh,fatehpur,uttar pradesh,fatehpur,uttar pradesh,fatehpur,True
+uttar pradesh,firozabad,uttar pradesh,firozabad,uttar pradesh,firozabad,True
+uttar pradesh,gautam buddha nagar,uttar pradesh,gautam buddha nagar,uttar pradesh,gautam buddha nagar,True
+uttar pradesh,ghaziabad,uttar pradesh,ghaziabad,uttar pradesh,ghaziabad,True
+uttar pradesh,ghazipur,uttar pradesh,ghazipur,uttar pradesh,ghazipur,True
+uttar pradesh,gonda,uttar pradesh,gonda,uttar pradesh,gonda,True
+uttar pradesh,gorakhpur,uttar pradesh,gorakhpur,uttar pradesh,gorakhpur,True
+uttar pradesh,hamirpur,uttar pradesh,hamirpur,uttar pradesh,hamirpur,True
+uttar pradesh,hapur,uttar pradesh,hapur,uttar pradesh,hapur,True
+uttar pradesh,hardoi,uttar pradesh,hardoi,uttar pradesh,hardoi,True
+uttar pradesh,hathras,uttar pradesh,hathras,uttar pradesh,hathras,True
+uttar pradesh,jalaun,uttar pradesh,jalaun,uttar pradesh,jalaun,True
+uttar pradesh,jaunpur,uttar pradesh,jaunpur,uttar pradesh,jaunpur,True
+uttar pradesh,jhansi,uttar pradesh,jhansi,uttar pradesh,jhansi,True
+uttar pradesh,kannauj,uttar pradesh,kannauj,uttar pradesh,kannauj,True
+uttar pradesh,kanpur dehat,uttar pradesh,kanpur dehat,uttar pradesh,kanpur dehat,True
+uttar pradesh,kanpur nagar,uttar pradesh,kanpur nagar,uttar pradesh,kanpur nagar,True
+uttar pradesh,kasganj,uttar pradesh,kasganj,uttar pradesh,kasganj,True
+uttar pradesh,kaushambi,uttar pradesh,kaushambi,uttar pradesh,kaushambi,True
+uttar pradesh,kheri,uttar pradesh,kheri,uttar pradesh,kheri,True
+uttar pradesh,kushi nagar,uttar pradesh,kushi nagar,uttar pradesh,kushinagar,True
+uttar pradesh,kushinagar,uttar pradesh,kushinagar,uttar pradesh,kushinagar,True
+uttar pradesh,lakhimpur kheri,uttar pradesh,lakhimpur kheri,uttar pradesh,kheri,True
+uttar pradesh,lalitpur,uttar pradesh,lalitpur,uttar pradesh,lalitpur,True
+uttar pradesh,lucknow,uttar pradesh,lucknow,uttar pradesh,lucknow,True
+uttar pradesh,maharajganj,uttar pradesh,maharajganj,uttar pradesh,mahrajganj,True
+uttar pradesh,mahoba,uttar pradesh,mahoba,uttar pradesh,mahoba,True
+uttar pradesh,mainpuri,uttar pradesh,mainpuri,uttar pradesh,mainpuri,True
+uttar pradesh,mathura,uttar pradesh,mathura,uttar pradesh,mathura,True
+uttar pradesh,mau,uttar pradesh,mau,uttar pradesh,mau,True
+uttar pradesh,meerut,uttar pradesh,meerut,uttar pradesh,meerut,True
+uttar pradesh,mirzapur,uttar pradesh,mirzapur,uttar pradesh,mirzapur,True
+uttar pradesh,moradabad,uttar pradesh,moradabad,uttar pradesh,moradabad,True
+uttar pradesh,muzaffarnagar,uttar pradesh,muzaffarnagar,uttar pradesh,muzaffarnagar,True
+uttar pradesh,pilibhit,uttar pradesh,pilibhit,uttar pradesh,pilibhit,True
+uttar pradesh,pratapgarh,uttar pradesh,pratapgarh,uttar pradesh,pratapgarh,True
+uttar pradesh,rae bareli,uttar pradesh,rae bareli,uttar pradesh,rae bareli,True
+uttar pradesh,rampur,uttar pradesh,rampur,uttar pradesh,rampur,True
+uttar pradesh,saharanpur,uttar pradesh,saharanpur,uttar pradesh,saharanpur,True
+uttar pradesh,sambhal,uttar pradesh,sambhal,uttar pradesh,sambhal,True
+uttar pradesh,sant kabeer nagar,uttar pradesh,sant kabeer nagar,uttar pradesh,sant kabir nagar,True
+uttar pradesh,sant ravi das nagar,uttar pradesh,sant ravi das nagar,uttar pradesh,bhadohi,True
+uttar pradesh,sant ravidas nagar,uttar pradesh,sant ravidas nagar,uttar pradesh,bhadohi,True
+uttar pradesh,shahajahanpur,uttar pradesh,shahajahanpur,uttar pradesh,shahjahanpur,True
+uttar pradesh,shahjahanpur,uttar pradesh,shahjahanpur,uttar pradesh,shahjahanpur,True
+uttar pradesh,shamli,uttar pradesh,shamli,uttar pradesh,shamli,True
+uttar pradesh,shravasti,uttar pradesh,shravasti,uttar pradesh,shrawasti,True
+uttar pradesh,siddharth nagar,uttar pradesh,siddharth nagar,uttar pradesh,siddharthnagar,True
+uttar pradesh,sitapur,uttar pradesh,sitapur,uttar pradesh,sitapur,True
+uttar pradesh,sonbhadra,uttar pradesh,sonbhadra,uttar pradesh,sonbhadra,True
+uttar pradesh,sultanpur,uttar pradesh,sultanpur,uttar pradesh,sultanpur,True
+uttar pradesh,unnao,uttar pradesh,unnao,uttar pradesh,unnao,True
+uttar pradesh,varanasi,uttar pradesh,varanasi,uttar pradesh,varanasi,True
+uttarakhand,almora,uttarakhand,almora,uttarakhand,almora,True
+uttarakhand,bageshwar,uttarakhand,bageshwar,uttarakhand,bageshwar,True
+uttarakhand,chamoli,uttarakhand,chamoli,uttarakhand,chamoli,True
+uttarakhand,champawat,uttarakhand,champawat,uttarakhand,champawat,True
+uttarakhand,dehradun,uttarakhand,dehradun,uttarakhand,dehradun,True
+uttarakhand,hardwar,uttarakhand,hardwar,uttarakhand,haridwar,True
+uttarakhand,haridwar,uttarakhand,haridwar,uttarakhand,haridwar,True
+uttarakhand,nainital,uttarakhand,nainital,uttarakhand,nainital,True
+uttarakhand,pauri garhwal,uttarakhand,pauri garhwal,uttarakhand,pauri garhwal,True
+uttarakhand,pithoragarh,uttarakhand,pithoragarh,uttarakhand,pithoragarh,True
+uttarakhand,rudra prayag,uttarakhand,rudra prayag,uttarakhand,rudraprayag,True
+uttarakhand,tehri garhwal,uttarakhand,tehri garhwal,uttarakhand,tehri garhwal,True
+uttarakhand,udam singh nagar,uttarakhand,udam singh nagar,uttarakhand,udham singh nagar,True
+uttarakhand,udham singh nagar,uttarakhand,udham singh nagar,uttarakhand,udham singh nagar,True
+uttarakhand,uttar kashi,uttarakhand,uttar kashi,uttarakhand,uttarkashi,True
+west bengal,alipurduar,west bengal,alipurduar,west bengal,alipurduar,True
+west bengal,bankura,west bengal,bankura,west bengal,bankura,True
+west bengal,barddhaman,west bengal,barddhaman,west bengal,barddhaman,False
+west bengal,birbhum,west bengal,birbhum,west bengal,birbhum,True
+west bengal,coochbehar,west bengal,coochbehar,west bengal,cooch behar,True
+west bengal,dakshin dinajpur,west bengal,dakshin dinajpur,west bengal,dakshin dinajpur,True
+west bengal,darjeeling,west bengal,darjeeling,west bengal,darjeeling,True
+west bengal,dinajpur dakshin,west bengal,dinajpur dakshin,west bengal,dakshin dinajpur,True
+west bengal,dinajpur uttar,west bengal,dinajpur uttar,west bengal,uttar dinajpur,True
+west bengal,hooghly,west bengal,hooghly,west bengal,hooghly,True
+west bengal,howrah,west bengal,howrah,west bengal,howrah,True
+west bengal,jalpaiguri,west bengal,jalpaiguri,west bengal,jalpaiguri,True
+west bengal,jhargram,west bengal,jhargram,west bengal,jhargram,True
+west bengal,kalimpong,west bengal,kalimpong,west bengal,kalimpong,True
+west bengal,maldah,west bengal,maldah,west bengal,maldah,True
+west bengal,medinipur east,west bengal,medinipur east,west bengal,medinipur east,True
+west bengal,medinipur west,west bengal,medinipur west,west bengal,medinipur west,True
+west bengal,murshidabad,west bengal,murshidabad,west bengal,murshidabad,True
+west bengal,nadia,west bengal,nadia,west bengal,nadia,True
+west bengal,paraganas north,west bengal,paraganas north,west bengal,north 24 parganas,True
+west bengal,paraganas south,west bengal,paraganas south,west bengal,south 24 parganas,True
+west bengal,paschim bardhaman,west bengal,paschim bardhaman,west bengal,paschim bardhaman,True
+west bengal,purba bardhaman,west bengal,purba bardhaman,west bengal,purba bardhaman,True
+west bengal,purulia,west bengal,purulia,west bengal,purulia,True
+west bengal,puruliya,west bengal,puruliya,west bengal,purulia,True
+west bengal,uttar dinajpur,west bengal,uttar dinajpur,west bengal,uttar dinajpur,True

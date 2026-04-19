@@ -1,0 +1,433 @@
+﻿Year,State,atm_depo
+2009,Andaman and Nicobar,0
+2010,Andaman and Nicobar,0
+2011,Andaman and Nicobar,0
+2012,Andaman and Nicobar,0
+2013,Andaman and Nicobar,0
+2014,Andaman and Nicobar,0
+2015,Andaman and Nicobar,0
+2016,Andaman and Nicobar,0
+2017,Andaman and Nicobar,0
+2018,Andaman and Nicobar,0
+2019,Andaman and Nicobar,0
+2009,Andhra Pradesh,1.3588002
+2010,Andhra Pradesh,1.3818499
+2011,Andhra Pradesh,1.3990041
+2012,Andhra Pradesh,1.3044418
+2013,Andhra Pradesh,1.4046321
+2014,Andhra Pradesh,1.4061933
+2015,Andhra Pradesh,1.4061933
+2016,Andhra Pradesh,1.4061933
+2017,Andhra Pradesh,1.4061933
+2018,Andhra Pradesh,1.4061933
+2019,Andhra Pradesh,1.4061933
+2009,Arunachal Pradesh,2.251464
+2010,Arunachal Pradesh,2.4836702
+2011,Arunachal Pradesh,2.236805
+2012,Arunachal Pradesh,2.9637635
+2013,Arunachal Pradesh,2.8590944
+2014,Arunachal Pradesh,2.8610296
+2015,Arunachal Pradesh,2.8610296
+2016,Arunachal Pradesh,2.8610296
+2017,Arunachal Pradesh,2.8610296
+2018,Arunachal Pradesh,2.8610296
+2019,Arunachal Pradesh,2.8610296
+2009,Assam,1.6226897
+2010,Assam,1.5984325
+2011,Assam,1.8987689
+2012,Assam,2.082299
+2013,Assam,1.7855675
+2014,Assam,2.105561
+2015,Assam,2.105561
+2016,Assam,2.105561
+2017,Assam,2.105561
+2018,Assam,2.105561
+2019,Assam,2.105561
+2009,Bihar,2.173468
+2010,Bihar,1.7736853
+2011,Bihar,2.044812
+2012,Bihar,2.0033033
+2013,Bihar,2.3777266
+2014,Bihar,2.1206663
+2015,Bihar,2.1206663
+2016,Bihar,2.1206663
+2017,Bihar,2.1206663
+2018,Bihar,2.1206663
+2019,Bihar,2.1206663
+2009,Chandigarh,1.5097113
+2010,Chandigarh,1.6114193
+2011,Chandigarh,1.3304331
+2012,Chandigarh,1.5687898
+2013,Chandigarh,1.2914876
+2014,Chandigarh,1.4651537
+2015,Chandigarh,1.4651537
+2016,Chandigarh,1.4651537
+2017,Chandigarh,1.4651537
+2018,Chandigarh,1.4651537
+2019,Chandigarh,1.4651537
+2009,Chhattisgarh,1.3480496
+2010,Chhattisgarh,1.2213107
+2011,Chhattisgarh,1.3779981
+2012,Chhattisgarh,1.3355148
+2013,Chhattisgarh,1.4534483
+2014,Chhattisgarh,1.3920829
+2015,Chhattisgarh,1.3920829
+2016,Chhattisgarh,1.3920829
+2017,Chhattisgarh,1.3920829
+2018,Chhattisgarh,1.3920829
+2019,Chhattisgarh,1.3920829
+2009,Dadra and Nagar Haveli,0.7151578
+2010,Dadra and Nagar Haveli,0.7373758
+2011,Dadra and Nagar Haveli,0.6845294
+2012,Dadra and Nagar Haveli,0.73163545
+2013,Dadra and Nagar Haveli,0.743252
+2014,Dadra and Nagar Haveli,0.65347475
+2015,Dadra and Nagar Haveli,0.65347475
+2016,Dadra and Nagar Haveli,0.65347475
+2017,Dadra and Nagar Haveli,0.65347475
+2018,Dadra and Nagar Haveli,0.65347475
+2019,Dadra and Nagar Haveli,0.65347475
+2009,Daman and Diu,0.42272675
+2010,Daman and Diu,0.41332
+2011,Daman and Diu,0.40549773
+2012,Daman and Diu,0.40904313
+2013,Daman and Diu,0.38651133
+2014,Daman and Diu,0.35852304
+2015,Daman and Diu,0.35852304
+2016,Daman and Diu,0.35852304
+2017,Daman and Diu,0.35852304
+2018,Daman and Diu,0.35852304
+2019,Daman and Diu,0.35852304
+2009,Delhi,2.3048422
+2010,Delhi,2.2590868
+2011,Delhi,2.0892456
+2012,Delhi,2.307475
+2013,Delhi,2.174675
+2014,Delhi,2.1108742
+2015,Delhi,2.1108742
+2016,Delhi,2.1108742
+2017,Delhi,2.1108742
+2018,Delhi,2.1108742
+2019,Delhi,2.1108742
+2009,Goa,1.0426726
+2010,Goa,0.97490937
+2011,Goa,0.97121286
+2012,Goa,1.0820405
+2013,Goa,1.0624969
+2014,Goa,0.9687537
+2015,Goa,0.9687537
+2016,Goa,0.9687537
+2017,Goa,0.9687537
+2018,Goa,0.9687537
+2019,Goa,0.9687537
+2009,Gujarat,1.0441309
+2010,Gujarat,1.2005756
+2011,Gujarat,1.0256808
+2012,Gujarat,1.1141855
+2013,Gujarat,1.0362803
+2014,Gujarat,1.0111556
+2015,Gujarat,1.0111556
+2016,Gujarat,1.0111556
+2017,Gujarat,1.0111556
+2018,Gujarat,1.0111556
+2019,Gujarat,1.0111556
+2009,Haryana,1.1965761
+2010,Haryana,1.2350044
+2011,Haryana,1.1502742
+2012,Haryana,1.2466412
+2013,Haryana,1.1656656
+2014,Haryana,1.1611937
+2015,Haryana,1.1611937
+2016,Haryana,1.1611937
+2017,Haryana,1.1611937
+2018,Haryana,1.1611937
+2019,Haryana,1.1611937
+2009,Himachal Pradesh,1.5097113
+2010,Himachal Pradesh,1.6114193
+2011,Himachal Pradesh,1.3304331
+2012,Himachal Pradesh,1.5687898
+2013,Himachal Pradesh,1.2914876
+2014,Himachal Pradesh,1.4651537
+2015,Himachal Pradesh,1.4651537
+2016,Himachal Pradesh,1.4651537
+2017,Himachal Pradesh,1.4651537
+2018,Himachal Pradesh,1.4651537
+2019,Himachal Pradesh,1.4651537
+2009,Jammu and Kashmir,0.7491666
+2010,Jammu and Kashmir,0.8598189
+2011,Jammu and Kashmir,0.8122676
+2012,Jammu and Kashmir,1.1025131
+2013,Jammu and Kashmir,0.7390451
+2014,Jammu and Kashmir,1.0060158
+2015,Jammu and Kashmir,1.0060158
+2016,Jammu and Kashmir,1.0060158
+2017,Jammu and Kashmir,1.0060158
+2018,Jammu and Kashmir,1.0060158
+2019,Jammu and Kashmir,1.0060158
+2009,Jharkhand,1.5285811
+2010,Jharkhand,1.2507838
+2011,Jharkhand,1.6237478
+2012,Jharkhand,1.4026854
+2013,Jharkhand,1.5645214
+2014,Jharkhand,1.6330054
+2015,Jharkhand,1.6330054
+2016,Jharkhand,1.6330054
+2017,Jharkhand,1.6330054
+2018,Jharkhand,1.6330054
+2019,Jharkhand,1.6330054
+2009,Karnataka,0.75994354
+2010,Karnataka,0.7220707
+2011,Karnataka,0.8071284
+2012,Karnataka,0.8751957
+2013,Karnataka,0.80815536
+2014,Karnataka,0.6875412
+2015,Karnataka,0.6875412
+2016,Karnataka,0.6875412
+2017,Karnataka,0.6875412
+2018,Karnataka,0.6875412
+2019,Karnataka,0.6875412
+2009,Kerala,0.4009536
+2010,Kerala,0.39579135
+2011,Kerala,0.46255204
+2012,Kerala,0.41748092
+2013,Kerala,0.41450104
+2014,Kerala,0.3702799
+2015,Kerala,0.3702799
+2016,Kerala,0.3702799
+2017,Kerala,0.3702799
+2018,Kerala,0.3702799
+2019,Kerala,0.3702799
+2009,Lakshadweep,0
+2010,Lakshadweep,0
+2011,Lakshadweep,0
+2012,Lakshadweep,0
+2013,Lakshadweep,0
+2014,Lakshadweep,0
+2015,Lakshadweep,0
+2016,Lakshadweep,0
+2017,Lakshadweep,0
+2018,Lakshadweep,0
+2019,Lakshadweep,0
+2009,Madhya Pradesh,1.3368019
+2010,Madhya Pradesh,1.3296272
+2011,Madhya Pradesh,1.3611721
+2012,Madhya Pradesh,1.2978297
+2013,Madhya Pradesh,1.4672637
+2014,Madhya Pradesh,1.323621
+2015,Madhya Pradesh,1.323621
+2016,Madhya Pradesh,1.323621
+2017,Madhya Pradesh,1.323621
+2018,Madhya Pradesh,1.323621
+2019,Madhya Pradesh,1.323621
+2009,Maharashtra,1.1978672
+2010,Maharashtra,1.2622641
+2011,Maharashtra,1.150414
+2012,Maharashtra,1.2964346
+2013,Maharashtra,1.2818522
+2014,Maharashtra,1.1775327
+2015,Maharashtra,1.1775327
+2016,Maharashtra,1.1775327
+2017,Maharashtra,1.1775327
+2018,Maharashtra,1.1775327
+2019,Maharashtra,1.1775327
+2009,Manipur,1.6226897
+2010,Manipur,1.5984325
+2011,Manipur,1.8987689
+2012,Manipur,2.082299
+2013,Manipur,1.7855675
+2014,Manipur,2.105561
+2015,Manipur,2.105561
+2016,Manipur,2.105561
+2017,Manipur,2.105561
+2018,Manipur,2.105561
+2019,Manipur,2.105561
+2009,Meghalaya,2.3683374
+2010,Meghalaya,1.978853
+2011,Meghalaya,2.8715832
+2012,Meghalaya,2.5081236
+2013,Meghalaya,2.3580534
+2014,Meghalaya,2.7342403
+2015,Meghalaya,2.7342403
+2016,Meghalaya,2.7342403
+2017,Meghalaya,2.7342403
+2018,Meghalaya,2.7342403
+2019,Meghalaya,2.7342403
+2009,Mizoram,1.2291025
+2010,Mizoram,1.0345875
+2011,Mizoram,1.2538595
+2012,Mizoram,1.2861793
+2013,Mizoram,1.1706849
+2014,Mizoram,1.3099942
+2015,Mizoram,1.3099942
+2016,Mizoram,1.3099942
+2017,Mizoram,1.3099942
+2018,Mizoram,1.3099942
+2019,Mizoram,1.3099942
+2009,Nagaland,1.3697697
+2010,Nagaland,1.3259734
+2011,Nagaland,1.2555209
+2012,Nagaland,1.537393
+2013,Nagaland,1.2911706
+2014,Nagaland,1.385121
+2015,Nagaland,1.385121
+2016,Nagaland,1.385121
+2017,Nagaland,1.385121
+2018,Nagaland,1.385121
+2019,Nagaland,1.385121
+2009,Orissa,0.97541827
+2010,Orissa,0.9719487
+2011,Orissa,1.1870826
+2012,Orissa,0.93694586
+2013,Orissa,0.99797493
+2014,Orissa,1.0950143
+2015,Orissa,1.0950143
+2016,Orissa,1.0950143
+2017,Orissa,1.0950143
+2018,Orissa,1.0950143
+2019,Orissa,1.0950143
+2009,Puducherry,1.0886009
+2010,Puducherry,1.1035317
+2011,Puducherry,1.0100234
+2012,Puducherry,1.1016635
+2013,Puducherry,1.1731133
+2014,Puducherry,0.9494083
+2015,Puducherry,0.9494083
+2016,Puducherry,0.9494083
+2017,Puducherry,0.9494083
+2018,Puducherry,0.9494083
+2019,Puducherry,0.9494083
+2009,Punjab,2.076786
+2010,Punjab,2.0201988
+2011,Punjab,2.008787
+2012,Punjab,2.0736215
+2013,Punjab,1.943369
+2014,Punjab,1.9886153
+2015,Punjab,1.9886153
+2016,Punjab,1.9886153
+2017,Punjab,1.9886153
+2018,Punjab,1.9886153
+2019,Punjab,1.9886153
+2009,Rajasthan,0.5213989
+2010,Rajasthan,0.6354854
+2011,Rajasthan,0.5061714
+2012,Rajasthan,0.6130284
+2013,Rajasthan,0.45718995
+2014,Rajasthan,0.48105043
+2015,Rajasthan,0.48105043
+2016,Rajasthan,0.48105043
+2017,Rajasthan,0.48105043
+2018,Rajasthan,0.48105043
+2019,Rajasthan,0.48105043
+2009,Sikkim,2.3578718
+2010,Sikkim,2.001255
+2011,Sikkim,2.5592394
+2012,Sikkim,1.9226443
+2013,Sikkim,2.0636127
+2014,Sikkim,2.448725
+2015,Sikkim,2.448725
+2016,Sikkim,2.448725
+2017,Sikkim,2.448725
+2018,Sikkim,2.448725
+2019,Sikkim,2.448725
+2009,Tamil Nadu,0.74461293
+2010,Tamil Nadu,0.79405844
+2011,Tamil Nadu,0.72959983
+2012,Tamil Nadu,0.73098564
+2013,Tamil Nadu,0.7807313
+2014,Tamil Nadu,0.63849574
+2015,Tamil Nadu,0.63849574
+2016,Tamil Nadu,0.63849574
+2017,Tamil Nadu,0.63849574
+2018,Tamil Nadu,0.63849574
+2019,Tamil Nadu,0.63849574
+2009,Telangana,1.3758985
+2010,Telangana,1.312119
+2011,Telangana,1.456324
+2012,Telangana,1.3982472
+2013,Telangana,1.3942808
+2014,Telangana,1.4470271
+2015,Telangana,1.4470271
+2016,Telangana,1.4470271
+2017,Telangana,1.4470271
+2018,Telangana,1.4470271
+2019,Telangana,1.4470271
+2009,Tripura,1.2291025
+2010,Tripura,1.0345875
+2011,Tripura,1.2538595
+2012,Tripura,1.2861793
+2013,Tripura,1.1706849
+2014,Tripura,1.3099942
+2015,Tripura,1.3099942
+2016,Tripura,1.3099942
+2017,Tripura,1.3099942
+2018,Tripura,1.3099942
+2019,Tripura,1.3099942
+2009,Uttar Pradesh,2.0476387
+2010,Uttar Pradesh,1.9190018
+2011,Uttar Pradesh,1.9633639
+2012,Uttar Pradesh,2.201566
+2013,Uttar Pradesh,2.385073
+2014,Uttar Pradesh,1.8551477
+2015,Uttar Pradesh,1.8551477
+2016,Uttar Pradesh,1.8551477
+2017,Uttar Pradesh,1.8551477
+2018,Uttar Pradesh,1.8551477
+2019,Uttar Pradesh,1.8551477
+2009,Uttaranchal,1.7936558
+2010,Uttaranchal,1.9347094
+2011,Uttaranchal,1.8112222
+2012,Uttaranchal,1.9749331
+2013,Uttaranchal,1.9652342
+2014,Uttaranchal,1.65103
+2015,Uttaranchal,1.65103
+2016,Uttaranchal,1.65103
+2017,Uttaranchal,1.65103
+2018,Uttaranchal,1.65103
+2019,Uttaranchal,1.65103
+2009,West Bengal,1.8907261
+2010,West Bengal,1.5900112
+2011,West Bengal,2.301565
+2012,West Bengal,1.859185
+2013,West Bengal,1.9182503
+2014,West Bengal,2.3602736
+2015,West Bengal,2.3602736
+2016,West Bengal,2.3602736
+2017,West Bengal,2.3602736
+2018,West Bengal,2.3602736
+2019,West Bengal,2.3602736
+2020,Andaman and Nicobar,0
+2020,Andhra Pradesh,1.4061933
+2020,Arunachal Pradesh,2.8610296
+2020,Assam,2.105561
+2020,Bihar,2.1206663
+2020,Chandigarh,1.4651537
+2020,Chhattisgarh,1.3920829
+2020,Dadra and Nagar Haveli,0.65347475
+2020,Daman and Diu,0.35852304
+2020,Delhi,2.1108742
+2020,Goa,0.9687537
+2020,Gujarat,1.0111556
+2020,Haryana,1.1611937
+2020,Himachal Pradesh,1.4651537
+2020,Jammu and Kashmir,1.0060158
+2020,Jharkhand,1.6330054
+2020,Karnataka,0.6875412
+2020,Kerala,0.3702799
+2020,Lakshadweep,0
+2020,Madhya Pradesh,1.323621
+2020,Maharashtra,1.1775327
+2020,Manipur,2.105561
+2020,Meghalaya,2.7342403
+2020,Mizoram,1.3099942
+2020,Nagaland,1.385121
+2020,Orissa,1.0950143
+2020,Puducherry,0.9494083
+2020,Punjab,1.9886153
+2020,Rajasthan,0.48105043
+2020,Sikkim,2.448725
+2020,Tamil Nadu,0.63849574
+2020,Telangana,1.4470271
+2020,Tripura,1.3099942
+2020,Uttar Pradesh,1.8551477
+2020,Uttaranchal,1.65103
+2020,West Bengal,2.3602736

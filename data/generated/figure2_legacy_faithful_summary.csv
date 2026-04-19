@@ -1,0 +1,60 @@
+panel,alpha,kharif_status,rabi_status,kharif_rows,rabi_rows,archived_kharif_rows,archived_rabi_rows,rebuilt_nitrogen_tg,archived_nitrogen_tg,rebuilt_water_bcm,archived_water_bcm,delta_nitrogen_tg,delta_water_bcm,kind,variant,scenario,metric,pct_reduction,value
+2a,0.0,Infeasible,Infeasible,3535.0,4032.0,3535.0,4032.0,3.508269786068414,3.508269786068414,123.98372839656277,123.98372839656275,0.0,1.52587890625e-14,2a_sample,,,,,
+2a,0.25,Infeasible,Infeasible,3535.0,4032.0,3535.0,4032.0,3.5167605834759494,3.5167605834759494,123.98414056819993,123.98414056819993,0.0,0.0,2a_sample,,,,,
+2a,0.5,Infeasible,Infeasible,3535.0,4032.0,3535.0,4032.0,3.4989525699692265,3.4989525699692265,123.99559889085315,123.99559889085313,0.0,1.52587890625e-14,2a_sample,,,,,
+2a,0.75,Infeasible,Infeasible,3535.0,4032.0,3535.0,4032.0,3.4854439017569265,3.4854439017569265,124.0646269580038,124.06462695800379,0.0,1.52587890625e-14,2a_sample,,,,,
+2a,1.0,Infeasible,Infeasible,3535.0,4032.0,3535.0,4032.0,3.166530570133837,3.166530570133837,142.09868584612468,142.09868584612468,0.0,0.0,2a_sample,,,,,
+2b,,,,,,,,,,,,,,2b_compare,legacy_endpoint_exports,Water based,Nitrogen Surplus,11.45513851345553,
+2b,,,,,,,,,,,,,,2b_compare,legacy_endpoint_exports,Water based,Water Demand,43.37746092441819,
+2b,,,,,,,,,,,,,,2b_compare,legacy_endpoint_exports,Water based,Calorie,-6.5331198250452704,
+2b,,,,,,,,,,,,,,2b_compare,legacy_endpoint_exports,Water based,Profit,-23.782971077138562,
+2b,,,,,,,,,,,,,,2b_compare,legacy_endpoint_exports,Nitrogen based,Nitrogen Surplus,21.243009280170785,
+2b,,,,,,,,,,,,,,2b_compare,legacy_endpoint_exports,Nitrogen based,Water Demand,35.3403862456308,
+2b,,,,,,,,,,,,,,2b_compare,legacy_endpoint_exports,Nitrogen based,Calorie,-2.410488850904534,
+2b,,,,,,,,,,,,,,2b_compare,legacy_endpoint_exports,Nitrogen based,Profit,-7.812597862669804,
+2b,,,,,,,,,,,,,,2b_compare,clean_capped,Nitrogen based,Profit,-3.1985890896348836,
+2b,,,,,,,,,,,,,,2b_compare,clean_capped,Water based,Profit,-4.967223521912996,
+2b,,,,,,,,,,,,,,2b_compare,clean_capped,Nitrogen based,Calorie,-0.6974382354921844,
+2b,,,,,,,,,,,,,,2b_compare,clean_capped,Water based,Calorie,-0.8395973258217957,
+2b,,,,,,,,,,,,,,2b_compare,clean_capped,Nitrogen based,Nitrogen Surplus,3.3620200288180317,
+2b,,,,,,,,,,,,,,2b_compare,clean_capped,Water based,Nitrogen Surplus,2.127587030914017,
+2b,,,,,,,,,,,,,,2b_compare,clean_capped,Nitrogen based,Water Demand,-0.6366219091172347,
+2b,,,,,,,,,,,,,,2b_compare,clean_capped,Water based,Water Demand,11.5186671528567,
+2b,,,,,,,,,,,,,,2b_compare,no_historical_caps,Nitrogen based,Profit,-17.253,
+2b,,,,,,,,,,,,,,2b_compare,no_historical_caps,Water based,Profit,-23.133,
+2b,,,,,,,,,,,,,,2b_compare,no_historical_caps,Nitrogen based,Calorie,-1.102,
+2b,,,,,,,,,,,,,,2b_compare,no_historical_caps,Water based,Calorie,-4.156,
+2b,,,,,,,,,,,,,,2b_compare,no_historical_caps,Nitrogen based,Nitrogen Surplus,21.408,
+2b,,,,,,,,,,,,,,2b_compare,no_historical_caps,Water based,Nitrogen Surplus,12.957,
+2b,,,,,,,,,,,,,,2b_compare,no_historical_caps,Nitrogen based,Water Demand,36.257,
+2b,,,,,,,,,,,,,,2b_compare,no_historical_caps,Water based,Water Demand,44.493,
+2c,,,,,,,,,,,,,,2c_compare,method_consistent,combined,n_surplus_reduction_at_0pct_nominal_substitution,,3.029260386781278
+2c,,,,,,,,,,,,,,2c_compare,method_consistent,combined,realized_staple_replacement_at_0pct_nominal_substitution,,-0.3305252102060104
+2c,,,,,,,,,,,,,,2c_compare,method_consistent,combined,n_surplus_reduction_at_50pct_nominal_substitution,,3.3616465161106945
+2c,,,,,,,,,,,,,,2c_compare,method_consistent,combined,realized_staple_replacement_at_50pct_nominal_substitution,,1.5447350666271344
+2c,,,,,,,,,,,,,,2c_compare,method_consistent,combined,n_surplus_reduction_at_100pct_nominal_substitution,,3.3620200288179873
+2c,,,,,,,,,,,,,,2c_compare,method_consistent,combined,realized_staple_replacement_at_100pct_nominal_substitution,,1.5716072268541477
+2c,,,,,,,,,,,,,,2c_compare,method_consistent,combined,n_surplus_reduction_range_min,,3.029260386781278
+2c,,,,,,,,,,,,,,2c_compare,method_consistent,combined,n_surplus_reduction_range_max,,3.3620200288179873
+2c,,,,,,,,,,,,,,2c_compare,no_historical_caps,combined,n_surplus_reduction_at_0pct_nominal_substitution,,13.767091377218554
+2c,,,,,,,,,,,,,,2c_compare,no_historical_caps,combined,realized_staple_replacement_at_0pct_nominal_substitution,,-1.076993575946395
+2c,,,,,,,,,,,,,,2c_compare,no_historical_caps,combined,n_surplus_reduction_at_50pct_nominal_substitution,,20.36234048938255
+2c,,,,,,,,,,,,,,2c_compare,no_historical_caps,combined,realized_staple_replacement_at_50pct_nominal_substitution,,16.9851759744564
+2c,,,,,,,,,,,,,,2c_compare,no_historical_caps,combined,n_surplus_reduction_at_100pct_nominal_substitution,,21.407511997389932
+2c,,,,,,,,,,,,,,2c_compare,no_historical_caps,combined,realized_staple_replacement_at_100pct_nominal_substitution,,21.755083496075944
+2c,,,,,,,,,,,,,,2c_compare,no_historical_caps,combined,n_surplus_reduction_range_min,,13.767091377218554
+2c,,,,,,,,,,,,,,2c_compare,no_historical_caps,combined,n_surplus_reduction_range_max,,21.407511997389932
+2c,,,,,,,,,,,,,,2c_compare,district_no_caps,combined,n_surplus_reduction_at_0pct_nominal_substitution,,8.10870983614253
+2c,,,,,,,,,,,,,,2c_compare,district_no_caps,combined,realized_staple_replacement_at_0pct_nominal_substitution,,-2.649132725902251
+2c,,,,,,,,,,,,,,2c_compare,district_no_caps,combined,n_surplus_reduction_at_50pct_nominal_substitution,,15.33772487081061
+2c,,,,,,,,,,,,,,2c_compare,district_no_caps,combined,realized_staple_replacement_at_50pct_nominal_substitution,,10.081737527514925
+2c,,,,,,,,,,,,,,2c_compare,district_no_caps,combined,n_surplus_reduction_at_100pct_nominal_substitution,,21.407511997389932
+2c,,,,,,,,,,,,,,2c_compare,district_no_caps,combined,realized_staple_replacement_at_100pct_nominal_substitution,,21.755083496075944
+2c,,,,,,,,,,,,,,2c_compare,district_no_caps,combined,n_surplus_reduction_range_min,,8.10870983614253
+2c,,,,,,,,,,,,,,2c_compare,district_no_caps,combined,n_surplus_reduction_range_max,,21.407511997389932
+2d,,,,,,,,,,,,,,2d_compare,clean_capped,rice,pct_change,,-3.043
+2d,,,,,,,,,,,,,,2d_compare,clean_capped,wheat,pct_change,,-0.466
+2d,,,,,,,,,,,,,,2d_compare,clean_no_caps,rice,pct_change,,-31.559
+2d,,,,,,,,,,,,,,2d_compare,clean_no_caps,wheat,pct_change,,-8.76
+2d,,,,,,,,,,,,,,2d_compare,legacy_reported_text,rice,pct_change,,-38.0
+2d,,,,,,,,,,,,,,2d_compare,legacy_reported_text,wheat,pct_change,,-22.6

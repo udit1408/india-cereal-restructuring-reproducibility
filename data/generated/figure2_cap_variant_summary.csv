@@ -1,0 +1,49 @@
+panel,variant,scenario_or_crop,metric,value
+2a,legacy_plotted,Water based,nitrogen_tg,3.508
+2a,legacy_plotted,Water based,water_bcm,123.984
+2a,clean_capped,Water based,nitrogen_tg,8.109
+2a,clean_capped,Water based,water_bcm,413.726
+2a,clean_no_caps,Water based,nitrogen_tg,7.212
+2a,clean_no_caps,Water based,water_bcm,259.544
+2a,legacy_plotted,Nitrogen based,nitrogen_tg,3.167
+2a,legacy_plotted,Nitrogen based,water_bcm,142.099
+2a,clean_capped,Nitrogen based,nitrogen_tg,8.007
+2a,clean_capped,Nitrogen based,water_bcm,470.563
+2a,clean_no_caps,Nitrogen based,nitrogen_tg,6.512
+2a,clean_no_caps,Nitrogen based,water_bcm,298.054
+2b,clean_capped,Nitrogen based,Profit,-3.199
+2b,clean_capped,Water based,Profit,-4.967
+2b,clean_capped,Nitrogen based,Calorie,-0.697
+2b,clean_capped,Water based,Calorie,-0.840
+2b,clean_capped,Nitrogen based,Nitrogen Surplus,3.362
+2b,clean_capped,Water based,Nitrogen Surplus,2.128
+2b,clean_capped,Nitrogen based,Water Demand,-0.637
+2b,clean_capped,Water based,Water Demand,11.519
+2b,no_historical_caps,Nitrogen based,Profit,-17.253
+2b,no_historical_caps,Water based,Profit,-23.133
+2b,no_historical_caps,Nitrogen based,Calorie,-1.102
+2b,no_historical_caps,Water based,Calorie,-4.156
+2b,no_historical_caps,Nitrogen based,Nitrogen Surplus,21.408
+2b,no_historical_caps,Water based,Nitrogen Surplus,12.957
+2b,no_historical_caps,Nitrogen based,Water Demand,36.257
+2b,no_historical_caps,Water based,Water Demand,44.493
+2b,legacy_endpoint_exports,Nitrogen based,Profit,-7.813
+2b,legacy_endpoint_exports,Water based,Profit,-23.783
+2b,legacy_endpoint_exports,Nitrogen based,Calorie,-2.410
+2b,legacy_endpoint_exports,Water based,Calorie,-6.533
+2b,legacy_endpoint_exports,Nitrogen based,Nitrogen Surplus,21.243
+2b,legacy_endpoint_exports,Water based,Nitrogen Surplus,11.455
+2b,legacy_endpoint_exports,Nitrogen based,Water Demand,35.340
+2b,legacy_endpoint_exports,Water based,Water Demand,43.377
+2c,clean_capped,combined endpoint,n_surplus_reduction_pct,3.362
+2c,clean_capped,combined endpoint,realized_staple_replacement_pct,1.572
+2c,clean_no_caps_state_retention,combined endpoint,n_surplus_reduction_pct,21.408
+2c,clean_no_caps_state_retention,combined endpoint,realized_staple_replacement_pct,21.755
+2c,clean_no_caps_district_retention,combined endpoint,n_surplus_reduction_pct,21.408
+2c,clean_no_caps_district_retention,combined endpoint,realized_staple_replacement_pct,21.755
+2d,clean_capped,rice,pct_change,-3.043
+2d,clean_capped,wheat,pct_change,-0.466
+2d,clean_no_caps,rice,pct_change,-31.559
+2d,clean_no_caps,wheat,pct_change,-8.760
+2d,legacy_reported_text,rice,pct_change,-38.000
+2d,legacy_reported_text,wheat,pct_change,-22.600

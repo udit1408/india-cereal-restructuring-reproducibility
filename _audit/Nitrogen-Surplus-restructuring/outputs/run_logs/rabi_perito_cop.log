@@ -1,0 +1,35 @@
+/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/repro/legacy_notebook_runner.py:80: Pandas4Warning: The 'mode.copy_on_write' option is deprecated. Copy-on-Write can no longer be disabled (it is always enabled with pandas >= 3.0), and setting the option has no impact. This option will be removed in pandas 4.0.
+  pd.options.mode.copy_on_write = False
+Traceback (most recent call last):
+  File "/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/repro/legacy_notebook_runner.py", line 108, in execute_notebook
+    exec(compile(rewritten, f"{config.notebook.name}:cell_{idx}", "exec"), namespace, namespace)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "rabi_perito_cop.ipynb:cell_9", line 2, in <module>
+ModuleNotFoundError: No module named 'seaborn'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/repro/legacy_notebook_runner.py", line 148, in main
+    execute_notebook(config)
+    ~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/repro/legacy_notebook_runner.py", line 111, in execute_notebook
+    raise RuntimeError(
+    ...<3 lines>...
+    ) from exc
+RuntimeError: Notebook execution failed in rabi_perito_cop.ipynb at code cell 9.
+First lines:
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Filtering out rows where 'Fert_N' is NaN
+data_2017_filtered = rabi_2017.dropna(subset=['Cost_of_Production_rs_Quintal'])
+
+# Plotting 'Fert_N' for different crops
+plt.figure(figsize=(12, 8))
+sns.boxplot(x='Cost_of_Production_rs_Quintal', y='crop', data=data_2017_filtered)
+plt.title('Cost_of_Production_rs_Quintal for Different Crops in 2017')
+plt.xlabel('Cost_of_Production_rs_Quintal')
+plt.ylabel('Crop')
+plt.show()
+Original error: No module named 'seaborn'

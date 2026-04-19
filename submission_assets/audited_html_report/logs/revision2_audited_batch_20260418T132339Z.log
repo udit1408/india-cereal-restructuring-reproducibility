@@ -1,0 +1,104 @@
+Revision 2 audited batch runner
+root: /workspace/revision_2
+python: python3
+mode: full
+timestamp_utc: 2026-04-18T13:23:39Z
+
+==> Trade-stage normalization from audited checkout
+rice_trade_normalized	/workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/rice_trade_normalized.csv
+wheat_trade_normalized	/workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/wheat_trade_normalized.csv
+jowar_bajra_grouped	/workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/jowar_bajra_grouped.csv
+millet_maize_grouped	/workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/millet_maize_grouped.csv
+jowar_bajra_mean_qtl_2016_2018	/workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/jowar_bajra_mean_qtl_2016_2018.csv
+millet_maize_mean_qtl_2016_2018	/workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/millet_maize_mean_qtl_2016_2018.csv
+jowar_bajra_mean_kcal_2016_2018	/workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/jowar_bajra_mean_kcal_2016_2018.csv
+millet_maize_mean_kcal_2016_2018	/workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/millet_maize_mean_kcal_2016_2018.csv
+baseline_production_2017	/workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/baseline_production_2017.csv
+generated_dependency_status	/workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/generated_dependency_status.csv
+optimized_production_total	/workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/trade_stage/optimized_production_total.csv
+
+==> Figure 1 audited reproduction
+figure1_png	/workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduced.png
+figure1_pdf	/workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduced.pdf
+panel_abc_joined	/workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_panel_abc_joined.csv
+panel_d_state_area	/workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_panel_d_state_area.csv
+district_coverage	/workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_district_coverage.csv
+summary	/workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduction_summary.md
+
+==> Figure 2(a) approved no-hard-cap rebuild assets
+All NaN values filled
+Original Total Nitrogen Applied kg: 7073088064.064436
+Original Total Nitrogen Surplus generated kg: 5235454712.077641
+Original Total Nitrogen leach generated kg: 1662459417.7971733
+Original Total Nitrogen emission generated kg: 181665238.16952574
+Original Total phosphorus Applied kg: 2423340912.760707
+Original Total phosphorus Surplus generated kg: 2007332811.103106
+Original Total water Applied: 357578043601.2223
+<class 'pandas.DataFrame'>
+RangeIndex: 16560 entries, 0 to 16559
+Data columns (total 23 columns):
+ #   Column                         Non-Null Count  Dtype  
+---  ------                         --------------  -----  
+ 0   Unnamed: 0                     16560 non-null  int64  
+ 1   state                          16560 non-null  str    
+ 2   district                       16553 non-null  str    
+ 3   Year                           16560 non-null  int64  
+ 4   Season                         16560 non-null  str    
+ 5   crop                           16560 non-null  str    
+ 6   Area (Hectare)                 16560 non-null  float64
+ 7   Production (Tonnes)            16560 non-null  float64
+ 8   Yield (Tonnes/Hectare)         16560 non-null  float64
+ 9   N_applied(kg/ha)               11860 non-null  float64
+ 10  P_applied(kg/ha)               11860 non-null  float64
+ 11  K_applied(kg/ha)               11860 non-null  float64
+ 12  Manure (kg/ha)                 11860 non-null  float64
+ 13  calorie_per_100g               16560 non-null  int64  
+ 14  MSP_RsperQntl                  13115 non-null  float64
+ 15  CostofCultivation_rs_ha        5114 non-null   float64
+ 16  CWR_y                          12486 non-null  float64
+ 17  CWU green_y                    12486 non-null  float64
+ 18  CWU blue_y                     12486 non-null  float64
+ 19  CWR m3/ha                      12486 non-null  float64
+ 20  CWU green m3/ha                12486 non-null  float64
+ 21  CWU blue m3/ha                 12486 non-null  float64
+ 22  Cost_of_Production_rs_Quintal  3156 non-null   float64
+dtypes: float64(16), int64(3), str(4)
+memory usage: 2.9 MB
+All NaN values filled
+Original Total Nitrogen Applied kg: 5698688422.457742
+Original Total Nitrogen Surplus generated kg: 2973158456.2557416
+Original Total Nitrogen leach generated kg: 694712008.0456555
+Original Total Nitrogen emission generated kg: 103722360.61934204
+Original Total phosphorus Applied kg: 2116092844.3201163
+Original Total phosphorus Surplus generated kg: 1550559011.9881208
+Original Total water Applied: 106481488741.27083
+kharif_csv: /workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure2a_no_historical_cap_core/kharif_by_alpha.csv
+rabi_csv: /workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure2a_no_historical_cap_core/rabi_by_alpha.csv
+combined_csv: /workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure2a_no_historical_cap_core/combined_by_alpha.csv
+summary_md: /workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure2a_no_historical_cap_core/figure2a_clean_rebuild_summary.md
+plot_png: /workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure2a_no_historical_cap_core/figure2a_clean_rebuild_pct_2017_baseline.png
+plot_pdf: /workspace/revision_2/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure2a_no_historical_cap_core/figure2a_clean_rebuild_pct_2017_baseline.pdf
+copied_pct_pdf: /workspace/revision_2/figures/manuscript_final/figure2a_no_historical_cap_core_pct_2017_baseline.pdf
+copied_pct_png: /workspace/revision_2/figures/manuscript_final/figure2a_no_historical_cap_core_pct_2017_baseline.png
+
+==> Figure 2(b) deterministic endpoints
+
+==> Figure 2(b) bootstrap summary
+
+==> Figure 2(b) approved all-metric whisker panel
+
+==> Figure 2(c) state-retention panel
+All NaN values filled
+All NaN values filled
+
+==> Figure 2(d) no-hard-cap core transition panel
+
+==> Figure 2 composite assembly
+Traceback (most recent call last):
+  File "/workspace/revision_2/scripts/assemble_figure2_composite.py", line 136, in <module>
+    main()
+  File "/workspace/revision_2/scripts/assemble_figure2_composite.py", line 94, in main
+    ARTICLE_DIR.mkdir(parents=True, exist_ok=True)
+  File "/usr/local/lib/python3.11/pathlib.py", line 1116, in mkdir
+    os.mkdir(self, mode)
+FileExistsError: [Errno 17] File exists: '/workspace/revision_2/R_2_sources/article'

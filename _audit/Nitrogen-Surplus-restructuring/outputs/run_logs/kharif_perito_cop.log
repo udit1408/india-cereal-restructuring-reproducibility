@@ -1,0 +1,2147 @@
+/Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/repro/legacy_notebook_runner.py:80: Pandas4Warning: The 'mode.copy_on_write' option is deprecated. Copy-on-Write can no longer be disabled (it is always enabled with pandas >= 3.0), and setting the option has no impact. This option will be removed in pandas 4.0.
+  pd.options.mode.copy_on_write = False
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/49cf883a0f7d48e1a4ad9834105d1794-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/49cf883a0f7d48e1a4ad9834105d1794-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 5572636.9 - largest nonzero change 0.055636613 ( 0.050685952%) - largest zero change 0.055580557
+0  Obj 1.9753281e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.7753322e+11 Primal inf 38.333425 (420)
+1276  Obj 1.7753328e+11 Primal inf 3.4921217e-07 (1)
+1276  Obj 1.7753328e+11 Primal inf 3.4921217e-07 (1)
+1276  Obj 1.7753328e+11 Primal inf 3.4921217e-07 (1)
+1276  Obj 1.7753328e+11 Primal inf 3.4921217e-07 (1)
+1276  Obj 1.7753328e+11 Primal inf 3.4921217e-07 (1)
+1276  Obj 1.7753328e+11 Primal inf 3.4921217e-07 (1)
+1276  Obj 1.7753098e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.7753098e+11
+PrimalInfeasible objective 1.775309811e+11 - 1276 iterations time 0.132
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/18bea7aeeab2471587af2505f9e11ffc-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/18bea7aeeab2471587af2505f9e11ffc-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 5516778.3 - largest nonzero change 0.055078928 ( 0.050685953%) - largest zero change 0.055023434
+0  Obj 1.955931e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.7580053e+11 Primal inf 38.333425 (420)
+1276  Obj 1.7580059e+11 Primal inf 3.4921217e-07 (1)
+1276  Obj 1.7580059e+11 Primal inf 3.4921217e-07 (1)
+1276  Obj 1.7580059e+11 Primal inf 3.4921217e-07 (1)
+1276  Obj 1.7580059e+11 Primal inf 3.4921217e-07 (1)
+1276  Obj 1.7580059e+11 Primal inf 3.4921217e-07 (1)
+1276  Obj 1.7580059e+11 Primal inf 3.4921217e-07 (1)
+1276  Obj 1.7579832e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.7579832e+11
+PrimalInfeasible objective 1.757983182e+11 - 1276 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.28
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/e084553e544c4ac1b60d4cf29bb5e60d-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/e084553e544c4ac1b60d4cf29bb5e60d-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 5460919.8 - largest nonzero change 0.054521243 ( 0.050685954%) - largest zero change 0.054466311
+0  Obj 1.9365339e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.7406784e+11 Primal inf 38.206952 (419)
+1275  Obj 1.7406791e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7406791e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7406791e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7406791e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7406791e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7406791e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7406566e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.7406566e+11
+PrimalInfeasible objective 1.740656552e+11 - 1275 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/729b62c792e64e62938dde52d33c85cc-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/729b62c792e64e62938dde52d33c85cc-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 5405061.2 - largest nonzero change 0.053963558 ( 0.050685955%) - largest zero change 0.053909188
+0  Obj 1.9171368e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.7233516e+11 Primal inf 38.206952 (419)
+1275  Obj 1.7233522e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7233522e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7233522e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7233522e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7233522e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7233522e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7233299e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.7233299e+11
+PrimalInfeasible objective 1.723329922e+11 - 1275 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/9ad7c284111b43859daade974bc60ed6-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/9ad7c284111b43859daade974bc60ed6-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 5349202.7 - largest nonzero change 0.053405873 ( 0.050685956%) - largest zero change 0.053352065
+0  Obj 1.8977397e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.7060247e+11 Primal inf 38.206952 (419)
+1275  Obj 1.7060253e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7060253e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7060253e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7060253e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7060253e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7060253e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.7060033e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.7060033e+11
+PrimalInfeasible objective 1.706003293e+11 - 1275 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/0209daee30794c059545b24d612987a3-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/0209daee30794c059545b24d612987a3-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 5293344.1 - largest nonzero change 0.052848188 ( 0.050685957%) - largest zero change 0.052794942
+0  Obj 1.8783426e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.6886979e+11 Primal inf 38.206952 (419)
+1275  Obj 1.6886985e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.6886985e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.6886985e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.6886985e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.6886985e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.6886985e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.6886767e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.6886767e+11
+PrimalInfeasible objective 1.688676663e+11 - 1275 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.28
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/4fcebbc94d8e4c25ab1301fdd605ae4e-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/4fcebbc94d8e4c25ab1301fdd605ae4e-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 5237485.5 - largest nonzero change 0.052290503 ( 0.050685958%) - largest zero change 0.052237819
+0  Obj 1.8589456e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.671371e+11 Primal inf 38.206952 (419)
+1275  Obj 1.6713716e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.6713716e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.6713716e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.6713716e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.6713716e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.6713716e+11 Primal inf 3.4921217e-07 (1)
+1275  Obj 1.67135e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.67135e+11
+PrimalInfeasible objective 1.671350034e+11 - 1275 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/feff578fb8fb4fd1b2e0a8761b0483c1-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/feff578fb8fb4fd1b2e0a8761b0483c1-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 5181627 - largest nonzero change 0.051732818 ( 0.050685959%) - largest zero change 0.051680696
+0  Obj 1.8395485e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.6540442e+11 Primal inf 37.975382 (415)
+1272  Obj 1.6540448e+11 Primal inf 3.4921217e-07 (1)
+1272  Obj 1.6540448e+11 Primal inf 3.4921217e-07 (1)
+1272  Obj 1.6540448e+11 Primal inf 3.4921217e-07 (1)
+1272  Obj 1.6540448e+11 Primal inf 3.4921217e-07 (1)
+1272  Obj 1.6540448e+11 Primal inf 3.4921217e-07 (1)
+1272  Obj 1.6540448e+11 Primal inf 3.4921217e-07 (1)
+1272  Obj 1.6540234e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.6540234e+11
+PrimalInfeasible objective 1.654023404e+11 - 1272 iterations time 0.132
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.26
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/eb803f49a6bc4145ab6979690edc03b2-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/eb803f49a6bc4145ab6979690edc03b2-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 5125768.4 - largest nonzero change 0.051175133 ( 0.05068596%) - largest zero change 0.051123573
+0  Obj 1.8201514e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.6367173e+11 Primal inf 37.623383 (413)
+1270  Obj 1.6367179e+11 Primal inf 3.4921217e-07 (1)
+1270  Obj 1.6367179e+11 Primal inf 3.4921217e-07 (1)
+1270  Obj 1.6367179e+11 Primal inf 3.4921217e-07 (1)
+1270  Obj 1.6367179e+11 Primal inf 3.4921217e-07 (1)
+1270  Obj 1.6367179e+11 Primal inf 3.4921217e-07 (1)
+1270  Obj 1.6367179e+11 Primal inf 3.4921217e-07 (1)
+1270  Obj 1.6366968e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.6366968e+11
+PrimalInfeasible objective 1.636696774e+11 - 1270 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/1c4012201e5d4a0881cc285eee99d6e5-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/1c4012201e5d4a0881cc285eee99d6e5-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 5069909.9 - largest nonzero change 0.050617449 ( 0.050685961%) - largest zero change 0.05056645
+0  Obj 1.8007543e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.6193905e+11 Primal inf 37.623383 (413)
+1270  Obj 1.619391e+11 Primal inf 3.4921217e-07 (1)
+1270  Obj 1.619391e+11 Primal inf 3.4921217e-07 (1)
+1270  Obj 1.619391e+11 Primal inf 3.4921217e-07 (1)
+1270  Obj 1.619391e+11 Primal inf 3.4921217e-07 (1)
+1270  Obj 1.619391e+11 Primal inf 3.4921217e-07 (1)
+1270  Obj 1.619391e+11 Primal inf 3.4921217e-07 (1)
+1270  Obj 1.6193701e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.6193701e+11
+PrimalInfeasible objective 1.619370145e+11 - 1270 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/81322c1f2195492fab937cd70790dece-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/81322c1f2195492fab937cd70790dece-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 5014051.3 - largest nonzero change 0.050059764 ( 0.050685962%) - largest zero change 0.050009327
+0  Obj 1.7813572e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.6020636e+11 Primal inf 37.463067 (410)
+1267  Obj 1.6020642e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.6020642e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.6020642e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.6020642e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.6020642e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.6020642e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.6020435e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.6020435e+11
+PrimalInfeasible objective 1.602043515e+11 - 1267 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/421f08fb24094b3693bb13dbab102a73-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/421f08fb24094b3693bb13dbab102a73-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4958192.8 - largest nonzero change 0.049502079 ( 0.050685963%) - largest zero change 0.049452204
+0  Obj 1.7619601e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.5847368e+11 Primal inf 37.424645 (408)
+1265  Obj 1.5847373e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5847373e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5847373e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5847373e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5847373e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5847373e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5847169e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.5847169e+11
+PrimalInfeasible objective 1.584716885e+11 - 1265 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/d4ffefd01fcb475590c29f88d31e762d-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/d4ffefd01fcb475590c29f88d31e762d-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4902334.2 - largest nonzero change 0.048944394 ( 0.050685964%) - largest zero change 0.048895081
+0  Obj 1.7425631e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.5674099e+11 Primal inf 37.424645 (408)
+1265  Obj 1.5674105e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5674105e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5674105e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5674105e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5674105e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5674105e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5673903e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.5673903e+11
+PrimalInfeasible objective 1.567390256e+11 - 1265 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/0095843c7605413fa9e820e5bfd6b4fb-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/0095843c7605413fa9e820e5bfd6b4fb-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4846475.6 - largest nonzero change 0.048386709 ( 0.050685966%) - largest zero change 0.048337958
+0  Obj 1.723166e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.5500831e+11 Primal inf 37.424645 (408)
+1265  Obj 1.5500836e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5500836e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5500836e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5500836e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5500836e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5500836e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5500636e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.5500636e+11
+PrimalInfeasible objective 1.550063626e+11 - 1265 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/045934692efa459f9481e6b64d481d4e-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/045934692efa459f9481e6b64d481d4e-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4790617.1 - largest nonzero change 0.047829024 ( 0.050685967%) - largest zero change 0.047780835
+0  Obj 1.7037689e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.5327562e+11 Primal inf 37.424645 (408)
+1265  Obj 1.5327567e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5327567e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5327567e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5327567e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5327567e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5327567e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.532737e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.532737e+11
+PrimalInfeasible objective 1.532736996e+11 - 1265 iterations time 0.152
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.28
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/5186fa1caf994375881102ec8efc8668-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/5186fa1caf994375881102ec8efc8668-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4734758.5 - largest nonzero change 0.047271339 ( 0.050685968%) - largest zero change 0.047223712
+0  Obj 1.6843718e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.5154294e+11 Primal inf 37.424645 (408)
+1265  Obj 1.5154299e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5154299e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5154299e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5154299e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5154299e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5154299e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.5154104e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.5154104e+11
+PrimalInfeasible objective 1.515410367e+11 - 1265 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/8c3e2a0afa4140bc87c414435247ee07-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/8c3e2a0afa4140bc87c414435247ee07-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4678900 - largest nonzero change 0.046713654 ( 0.050685969%) - largest zero change 0.046666589
+0  Obj 1.6649747e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.4981025e+11 Primal inf 37.424645 (408)
+1265  Obj 1.498103e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.498103e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.498103e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.498103e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.498103e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.498103e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.4980837e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.4980837e+11
+PrimalInfeasible objective 1.498083737e+11 - 1265 iterations time 0.132
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/73aa78a4b9d84345a28faa5284d074ad-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/73aa78a4b9d84345a28faa5284d074ad-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4623041.4 - largest nonzero change 0.04615597 ( 0.050685971%) - largest zero change 0.046109466
+0  Obj 1.6455776e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.4807757e+11 Primal inf 37.424645 (408)
+1265  Obj 1.4807762e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.4807762e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.4807762e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.4807762e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.4807762e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.4807762e+11 Primal inf 3.4921217e-07 (1)
+1265  Obj 1.4807571e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.4807571e+11
+PrimalInfeasible objective 1.480757108e+11 - 1265 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/bfdc0f1c588e49c39ad27059518aa1e9-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/bfdc0f1c588e49c39ad27059518aa1e9-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4567182.9 - largest nonzero change 0.045598285 ( 0.050685972%) - largest zero change 0.045552343
+0  Obj 1.6261806e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.4634488e+11 Primal inf 37.40863 (407)
+1264  Obj 1.4634493e+11 Primal inf 3.4921217e-07 (1)
+1264  Obj 1.4634493e+11 Primal inf 3.4921217e-07 (1)
+1264  Obj 1.4634493e+11 Primal inf 3.4921217e-07 (1)
+1264  Obj 1.4634493e+11 Primal inf 3.4921217e-07 (1)
+1264  Obj 1.4634493e+11 Primal inf 3.4921217e-07 (1)
+1264  Obj 1.4634493e+11 Primal inf 3.4921217e-07 (1)
+1264  Obj 1.4634305e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.4634305e+11
+PrimalInfeasible objective 1.463430478e+11 - 1264 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/1299b53cd5f343f5839dfeb039289451-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/1299b53cd5f343f5839dfeb039289451-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4511324.3 - largest nonzero change 0.0450406 ( 0.050685973%) - largest zero change 0.04499522
+0  Obj 1.6067835e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.446122e+11 Primal inf 37.40863 (407)
+1264  Obj 1.4461224e+11 Primal inf 3.4921217e-07 (1)
+1264  Obj 1.4461224e+11 Primal inf 3.4921217e-07 (1)
+1264  Obj 1.4461224e+11 Primal inf 3.4921217e-07 (1)
+1264  Obj 1.4461224e+11 Primal inf 3.4921217e-07 (1)
+1264  Obj 1.4461224e+11 Primal inf 3.4921217e-07 (1)
+1264  Obj 1.4461224e+11 Primal inf 3.4921217e-07 (1)
+1264  Obj 1.4461038e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.4461038e+11
+PrimalInfeasible objective 1.446103848e+11 - 1264 iterations time 0.132
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.23
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/d9fc0f66fddf41a2b1dcfb2519522853-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/d9fc0f66fddf41a2b1dcfb2519522853-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4455465.7 - largest nonzero change 0.044482915 ( 0.050685975%) - largest zero change 0.044438097
+0  Obj 1.5873864e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.4287951e+11 Primal inf 37.036485 (404)
+1261  Obj 1.4287956e+11 Primal inf 3.4921217e-07 (1)
+1261  Obj 1.4287956e+11 Primal inf 3.4921217e-07 (1)
+1261  Obj 1.4287956e+11 Primal inf 3.4921217e-07 (1)
+1261  Obj 1.4287956e+11 Primal inf 3.4921217e-07 (1)
+1261  Obj 1.4287956e+11 Primal inf 3.4921217e-07 (1)
+1261  Obj 1.4287956e+11 Primal inf 3.4921217e-07 (1)
+1261  Obj 1.4287772e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.4287772e+11
+PrimalInfeasible objective 1.428777219e+11 - 1261 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/7b70a70312cc4d9d8469b74b3488b86a-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/7b70a70312cc4d9d8469b74b3488b86a-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4399607.2 - largest nonzero change 0.04392523 ( 0.050685976%) - largest zero change 0.043880974
+0  Obj 1.5679893e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.4114682e+11 Primal inf 37.649818 (410)
+1267  Obj 1.4114687e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.4114687e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.4114687e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.4114687e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.4114687e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.4114687e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.4114506e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.4114506e+11
+PrimalInfeasible objective 1.411450589e+11 - 1267 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.23
+Time (Wallclock Seconds):   0.26
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.37
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/2652af7d50554361931b9d773b889886-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/2652af7d50554361931b9d773b889886-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4343748.6 - largest nonzero change 0.043367545 ( 0.050685978%) - largest zero change 0.043323851
+0  Obj 1.5485922e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.3941414e+11 Primal inf 37.649818 (410)
+1267  Obj 1.3941419e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.3941419e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.3941419e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.3941419e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.3941419e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.3941419e+11 Primal inf 3.4921217e-07 (1)
+1267  Obj 1.394124e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.394124e+11
+PrimalInfeasible objective 1.394123959e+11 - 1267 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/d0950ee63d4a4a8da1f8342a8dcaeed7-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/d0950ee63d4a4a8da1f8342a8dcaeed7-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4287890.1 - largest nonzero change 0.04280986 ( 0.050685979%) - largest zero change 0.042766728
+0  Obj 1.5291951e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.3768145e+11 Primal inf 37.012594 (404)
+1261  Obj 1.3768149e+11 Primal inf 3.4921217e-07 (1)
+1261  Obj 1.3768149e+11 Primal inf 3.4921217e-07 (1)
+1261  Obj 1.3768149e+11 Primal inf 3.4921217e-07 (1)
+1261  Obj 1.3768149e+11 Primal inf 3.4921217e-07 (1)
+1261  Obj 1.3768149e+11 Primal inf 3.4921217e-07 (1)
+1261  Obj 1.3768149e+11 Primal inf 3.4921217e-07 (1)
+1261  Obj 1.3767972e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.3767972e+11
+PrimalInfeasible objective 1.376797236e+11 - 1261 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/f3f7fa01aa3e46a3aec42fc01a591d9b-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/f3f7fa01aa3e46a3aec42fc01a591d9b-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4232031.5 - largest nonzero change 0.042252175 ( 0.050685981%) - largest zero change 0.042209605
+0  Obj 1.5097981e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.3594874e+11 Primal inf 36.275529 (398)
+1255  Obj 1.3594879e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3594879e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3594879e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3594879e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3594879e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3594879e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3594704e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.3594704e+11
+PrimalInfeasible objective 1.359470408e+11 - 1255 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/18b7a90e8bd84abfb56e2fe21db9ce7c-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/18b7a90e8bd84abfb56e2fe21db9ce7c-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4176173 - largest nonzero change 0.04169449 ( 0.050685982%) - largest zero change 0.041652482
+0  Obj 1.490401e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.3421599e+11 Primal inf 36.275529 (398)
+1255  Obj 1.3421604e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3421604e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3421604e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3421604e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3421604e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3421604e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3421432e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.3421432e+11
+PrimalInfeasible objective 1.342143162e+11 - 1255 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.28
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/4a23c1444d62495d8620ed9c6468c81a-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/4a23c1444d62495d8620ed9c6468c81a-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4120314.4 - largest nonzero change 0.041136806 ( 0.050685984%) - largest zero change 0.041095359
+0  Obj 1.4710039e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.3248325e+11 Primal inf 36.275529 (398)
+1255  Obj 1.3248329e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3248329e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3248329e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3248329e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3248329e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3248329e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3248159e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.3248159e+11
+PrimalInfeasible objective 1.324815917e+11 - 1255 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.28
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/e6f3fdec91e7403981b502738fe347a6-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/e6f3fdec91e7403981b502738fe347a6-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4064455.8 - largest nonzero change 0.040579121 ( 0.050685986%) - largest zero change 0.040538236
+0  Obj 1.4516068e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.307505e+11 Primal inf 36.275529 (398)
+1255  Obj 1.3075054e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3075054e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3075054e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3075054e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3075054e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3075054e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.3074887e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.3074887e+11
+PrimalInfeasible objective 1.307488672e+11 - 1255 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.28
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.40
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/f691c21b058148b99ff8f7bfc33a44ea-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/f691c21b058148b99ff8f7bfc33a44ea-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 4008597.3 - largest nonzero change 0.040021436 ( 0.050685987%) - largest zero change 0.039981113
+0  Obj 1.4322097e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.2901775e+11 Primal inf 36.336784 (397)
+1254  Obj 1.290178e+11 Primal inf 3.4921217e-07 (1)
+1254  Obj 1.290178e+11 Primal inf 3.4921217e-07 (1)
+1254  Obj 1.290178e+11 Primal inf 3.4921217e-07 (1)
+1254  Obj 1.290178e+11 Primal inf 3.4921217e-07 (1)
+1254  Obj 1.290178e+11 Primal inf 3.4921217e-07 (1)
+1254  Obj 1.290178e+11 Primal inf 3.4921217e-07 (1)
+1254  Obj 1.2901614e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.2901614e+11
+PrimalInfeasible objective 1.290161427e+11 - 1254 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.28
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.40
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/cec869f6cf5f497c8c8a0bdec955c6e4-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/cec869f6cf5f497c8c8a0bdec955c6e4-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3952738.7 - largest nonzero change 0.039463751 ( 0.050685989%) - largest zero change 0.03942399
+0  Obj 1.4128126e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.2728501e+11 Primal inf 36.365289 (398)
+1255  Obj 1.2728505e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.2728505e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.2728505e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.2728505e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.2728505e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.2728505e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.2728342e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.2728342e+11
+PrimalInfeasible objective 1.272834182e+11 - 1255 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.28
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/b41be8f99a064f31abe4d355ef0bd4d9-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/b41be8f99a064f31abe4d355ef0bd4d9-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3896880.2 - largest nonzero change 0.038906066 ( 0.050685991%) - largest zero change 0.038866867
+0  Obj 1.3934156e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.2555226e+11 Primal inf 36.365289 (398)
+1255  Obj 1.255523e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.255523e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.255523e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.255523e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.255523e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.255523e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.2555069e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.2555069e+11
+PrimalInfeasible objective 1.255506937e+11 - 1255 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.28
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/062b75672f78450e9a0982bb41915a13-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/062b75672f78450e9a0982bb41915a13-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3841021.6 - largest nonzero change 0.038348381 ( 0.050685993%) - largest zero change 0.038309744
+0  Obj 1.3740185e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.2381939e+11 Primal inf 36.486712 (399)
+1256  Obj 1.2381943e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.2381943e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.2381943e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.2381943e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.2381943e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.2381943e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.2381785e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.2381785e+11
+PrimalInfeasible objective 1.238178451e+11 - 1256 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/50bb9f2cb5a847f583cc6e8e93210279-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/50bb9f2cb5a847f583cc6e8e93210279-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3785163 - largest nonzero change 0.037790696 ( 0.050685995%) - largest zero change 0.037752621
+0  Obj 1.3546214e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.2208647e+11 Primal inf 36.486712 (399)
+1256  Obj 1.2208652e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.2208652e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.2208652e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.2208652e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.2208652e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.2208652e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.2208495e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.2208495e+11
+PrimalInfeasible objective 1.220849535e+11 - 1256 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/bc1e834ce0c7455184cc1d161103fa60-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/bc1e834ce0c7455184cc1d161103fa60-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3729304.5 - largest nonzero change 0.037233011 ( 0.050685997%) - largest zero change 0.037195498
+0  Obj 1.3352243e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.2035356e+11 Primal inf 36.446005 (398)
+1255  Obj 1.203536e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.203536e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.203536e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.203536e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.203536e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.203536e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.2035206e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.2035206e+11
+PrimalInfeasible objective 1.203520619e+11 - 1255 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/d60694e2abba44668592a99f8fbcd9ee-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/d60694e2abba44668592a99f8fbcd9ee-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3673445.9 - largest nonzero change 0.036675327 ( 0.050685999%) - largest zero change 0.036638375
+0  Obj 1.3158272e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.1862065e+11 Primal inf 36.535967 (399)
+1256  Obj 1.1862069e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.1862069e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.1862069e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.1862069e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.1862069e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.1862069e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.1861917e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.1861917e+11
+PrimalInfeasible objective 1.186191703e+11 - 1256 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.28
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.40
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/5b70df408b25465dba89d72370bd5dbc-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/5b70df408b25465dba89d72370bd5dbc-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3617587.4 - largest nonzero change 0.036117642 ( 0.050686001%) - largest zero change 0.036081252
+0  Obj 1.2964301e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.1688773e+11 Primal inf 36.535967 (399)
+1256  Obj 1.1688777e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.1688777e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.1688777e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.1688777e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.1688777e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.1688777e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.1688628e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.1688628e+11
+PrimalInfeasible objective 1.168862788e+11 - 1256 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/756182ef80c04a88b1911d93a8263e44-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/756182ef80c04a88b1911d93a8263e44-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3561728.8 - largest nonzero change 0.035559957 ( 0.050686003%) - largest zero change 0.035524129
+0  Obj 1.2770331e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.1515482e+11 Primal inf 36.771959 (402)
+1258  Obj 1.1515486e+11 Primal inf 3.4921217e-07 (1)
+1258  Obj 1.1515486e+11 Primal inf 3.4921217e-07 (1)
+1258  Obj 1.1515486e+11 Primal inf 3.4921217e-07 (1)
+1258  Obj 1.1515486e+11 Primal inf 3.4921217e-07 (1)
+1258  Obj 1.1515486e+11 Primal inf 3.4921217e-07 (1)
+1258  Obj 1.1515486e+11 Primal inf 3.4921217e-07 (1)
+1258  Obj 1.1515339e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.1515339e+11
+PrimalInfeasible objective 1.151533872e+11 - 1258 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.25
+Time (Wallclock Seconds):   0.29
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.40
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/900fb835b98f4d09b398498d6f5c0fcb-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/900fb835b98f4d09b398498d6f5c0fcb-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3505870.3 - largest nonzero change 0.035002272 ( 0.050686006%) - largest zero change 0.034967006
+0  Obj 1.257636e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.134219e+11 Primal inf 36.679108 (400)
+1257  Obj 1.1342194e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.1342194e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.1342194e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.1342194e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.1342194e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.1342194e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.134205e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.134205e+11
+PrimalInfeasible objective 1.134204956e+11 - 1257 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.28
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/6e0c7ea3afed46568acac7bc2a7d3d21-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/6e0c7ea3afed46568acac7bc2a7d3d21-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3450011.7 - largest nonzero change 0.034444587 ( 0.050686008%) - largest zero change 0.034409883
+0  Obj 1.2382389e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.1168899e+11 Primal inf 36.679108 (400)
+1257  Obj 1.1168903e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.1168903e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.1168903e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.1168903e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.1168903e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.1168903e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.116876e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.116876e+11
+PrimalInfeasible objective 1.11687604e+11 - 1257 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/d5a7c85aa91d41f8a702bae612daff3b-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/d5a7c85aa91d41f8a702bae612daff3b-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3394153.1 - largest nonzero change 0.033886902 ( 0.05068601%) - largest zero change 0.03385276
+0  Obj 1.2188418e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.0995608e+11 Primal inf 36.679108 (400)
+1257  Obj 1.0995611e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.0995611e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.0995611e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.0995611e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.0995611e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.0995611e+11 Primal inf 3.4921217e-07 (1)
+1257  Obj 1.0995471e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.0995471e+11
+PrimalInfeasible objective 1.099547124e+11 - 1257 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/4710c0b756b445038e76683aeae2b0a2-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/4710c0b756b445038e76683aeae2b0a2-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3338294.6 - largest nonzero change 0.033329217 ( 0.050686013%) - largest zero change 0.033295637
+0  Obj 1.1994447e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.0822316e+11 Primal inf 36.877499 (401)
+1258  Obj 1.082232e+11 Primal inf 3.4921217e-07 (1)
+1258  Obj 1.082232e+11 Primal inf 3.4921217e-07 (1)
+1258  Obj 1.082232e+11 Primal inf 3.4921217e-07 (1)
+1258  Obj 1.082232e+11 Primal inf 3.4921217e-07 (1)
+1258  Obj 1.082232e+11 Primal inf 3.4921217e-07 (1)
+1258  Obj 1.082232e+11 Primal inf 3.4921217e-07 (1)
+1258  Obj 1.0822182e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.0822182e+11
+PrimalInfeasible objective 1.082218209e+11 - 1258 iterations time 0.132
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/37defbe7981c4461804427886cb405a5-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/37defbe7981c4461804427886cb405a5-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3282436 - largest nonzero change 0.032771532 ( 0.050686015%) - largest zero change 0.032738514
+0  Obj 1.1800476e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.0649025e+11 Primal inf 36.70091 (399)
+1256  Obj 1.0649028e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.0649028e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.0649028e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.0649028e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.0649028e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.0649028e+11 Primal inf 3.4921217e-07 (1)
+1256  Obj 1.0648893e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.0648893e+11
+PrimalInfeasible objective 1.064889293e+11 - 1256 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/8f77476317d345c38f994593ef78abae-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/8f77476317d345c38f994593ef78abae-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3226577.5 - largest nonzero change 0.032213847 ( 0.050686018%) - largest zero change 0.032181391
+0  Obj 1.1606506e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.047573e+11 Primal inf 36.554326 (397)
+1254  Obj 1.0475733e+11 Primal inf 3.4921217e-07 (1)
+1254  Obj 1.0475733e+11 Primal inf 3.4921217e-07 (1)
+1254  Obj 1.0475733e+11 Primal inf 3.4921217e-07 (1)
+1254  Obj 1.0475733e+11 Primal inf 3.4921217e-07 (1)
+1254  Obj 1.0475733e+11 Primal inf 3.4921217e-07 (1)
+1254  Obj 1.0475733e+11 Primal inf 3.4921217e-07 (1)
+1254  Obj 1.04756e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.04756e+11
+PrimalInfeasible objective 1.047560004e+11 - 1254 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/cb80d1295da740f99b4867ddfd370192-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/cb80d1295da740f99b4867ddfd370192-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3170718.9 - largest nonzero change 0.031656163 ( 0.050686021%) - largest zero change 0.031624268
+0  Obj 1.1412535e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.0302429e+11 Primal inf 36.6425 (398)
+1255  Obj 1.0302433e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.0302433e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.0302433e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.0302433e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.0302433e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.0302433e+11 Primal inf 3.4921217e-07 (1)
+1255  Obj 1.0302302e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.0302302e+11
+PrimalInfeasible objective 1.030230194e+11 - 1255 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.28
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/1be10d6746ef43b7aaa90fb0738413c7-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/1be10d6746ef43b7aaa90fb0738413c7-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3114860.4 - largest nonzero change 0.031098478 ( 0.050686024%) - largest zero change 0.031067145
+0  Obj 1.1218564e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 1.0129129e+11 Primal inf 36.11465 (395)
+1252  Obj 1.0129132e+11 Primal inf 3.4921217e-07 (1)
+1252  Obj 1.0129132e+11 Primal inf 3.4921217e-07 (1)
+1252  Obj 1.0129132e+11 Primal inf 3.4921217e-07 (1)
+1252  Obj 1.0129132e+11 Primal inf 3.4921217e-07 (1)
+1252  Obj 1.0129132e+11 Primal inf 3.4921217e-07 (1)
+1252  Obj 1.0129132e+11 Primal inf 3.4921217e-07 (1)
+1252  Obj 1.0129004e+11 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 1.0129004e+11
+PrimalInfeasible objective 1.012900384e+11 - 1252 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/a8f4773447c44dd09d8a231521c426bf-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/a8f4773447c44dd09d8a231521c426bf-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3059001.8 - largest nonzero change 0.030540793 ( 0.050686027%) - largest zero change 0.030510022
+0  Obj 1.1024593e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 9.9558273e+10 Primal inf 36.08937 (391)
+1248  Obj 9.9558306e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.9558306e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.9558306e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.9558306e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.9558306e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.9558306e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.9557046e+10 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 9.9557046e+10
+PrimalInfeasible objective 9.955704576e+10 - 1248 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/f72ef8f1daf3470a826e9b1b3da87cd6-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/f72ef8f1daf3470a826e9b1b3da87cd6-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 3003143.2 - largest nonzero change 0.029983108 ( 0.05068603%) - largest zero change 0.029952899
+0  Obj 1.0830622e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 9.7825255e+10 Primal inf 36.08937 (391)
+1248  Obj 9.7825287e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.7825287e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.7825287e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.7825287e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.7825287e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.7825287e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.7824049e+10 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 9.7824049e+10
+PrimalInfeasible objective 9.782404948e+10 - 1248 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.39
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/73b6717937c848c3a80a85064206b218-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/73b6717937c848c3a80a85064206b218-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 2947284.7 - largest nonzero change 0.029425423 ( 0.050686033%) - largest zero change 0.029395776
+0  Obj 1.0636651e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 9.6092141e+10 Primal inf 36.067846 (390)
+1247  Obj 9.6092173e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.6092173e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.6092173e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.6092173e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.6092173e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.6092173e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.6090958e+10 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 9.6090958e+10
+PrimalInfeasible objective 9.609095808e+10 - 1247 iterations time 0.132
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.23
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/80b1388c8ec5473189e5d9976bcbbdad-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/80b1388c8ec5473189e5d9976bcbbdad-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 2891426.1 - largest nonzero change 0.028867738 ( 0.050686036%) - largest zero change 0.028838653
+0  Obj 1.0442681e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 9.4359018e+10 Primal inf 36.067846 (390)
+1247  Obj 9.4359049e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.4359049e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.4359049e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.4359049e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.4359049e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.4359049e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.4357857e+10 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 9.4357857e+10
+PrimalInfeasible objective 9.435785739e+10 - 1247 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/6750983aad084b118a395c6cf70d004d-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/6750983aad084b118a395c6cf70d004d-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 2835567.6 - largest nonzero change 0.028310053 ( 0.05068604%) - largest zero change 0.02828153
+0  Obj 1.024871e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 9.2625874e+10 Primal inf 36.067846 (390)
+1247  Obj 9.2625904e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.2625904e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.2625904e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.2625904e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.2625904e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.2625904e+10 Primal inf 3.4921217e-07 (1)
+1247  Obj 9.2624736e+10 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 9.2624736e+10
+PrimalInfeasible objective 9.262473553e+10 - 1247 iterations time 0.132
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.23
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/66632ad0da4b4b1b8e7549e616a01722-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/66632ad0da4b4b1b8e7549e616a01722-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 2779709 - largest nonzero change 0.027752368 ( 0.050686043%) - largest zero change 0.027724407
+0  Obj 1.0054739e+10 Primal inf 3.7737184e+08 (758)
+808  Obj 9.0892714e+10 Primal inf 36.085956 (391)
+1248  Obj 9.0892743e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.0892743e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.0892743e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.0892743e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.0892743e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.0892743e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 9.0891598e+10 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 9.0891598e+10
+PrimalInfeasible objective 9.089159755e+10 - 1248 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.34   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/973469970fde4cca8de7cae650757ca9-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/973469970fde4cca8de7cae650757ca9-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 2723850.5 - largest nonzero change 0.027194683 ( 0.050686047%) - largest zero change 0.027167284
+0  Obj 9.8607681e+09 Primal inf 3.7737184e+08 (758)
+808  Obj 8.9159553e+10 Primal inf 35.844177 (389)
+1246  Obj 8.9159582e+10 Primal inf 3.4921217e-07 (1)
+1246  Obj 8.9159582e+10 Primal inf 3.4921217e-07 (1)
+1246  Obj 8.9159582e+10 Primal inf 3.4921217e-07 (1)
+1246  Obj 8.9159582e+10 Primal inf 3.4921217e-07 (1)
+1246  Obj 8.9159582e+10 Primal inf 3.4921217e-07 (1)
+1246  Obj 8.9159582e+10 Primal inf 3.4921217e-07 (1)
+1246  Obj 8.915846e+10 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 8.915846e+10
+PrimalInfeasible objective 8.915845957e+10 - 1246 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/3ea33ad342b34a8eb05e3381ac8859bc-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/3ea33ad342b34a8eb05e3381ac8859bc-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 2667991.9 - largest nonzero change 0.026636999 ( 0.050686051%) - largest zero change 0.026610161
+0  Obj 9.6667972e+09 Primal inf 3.7737184e+08 (758)
+808  Obj 8.7426389e+10 Primal inf 36.056466 (391)
+1248  Obj 8.7426418e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 8.7426418e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 8.7426418e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 8.7426418e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 8.7426418e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 8.7426418e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 8.7425318e+10 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 8.7425318e+10
+PrimalInfeasible objective 8.742531823e+10 - 1248 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/fa842d0589d4405f80c78c7d7620059c-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/fa842d0589d4405f80c78c7d7620059c-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 2612133.3 - largest nonzero change 0.026079314 ( 0.050686055%) - largest zero change 0.026053038
+0  Obj 9.4728264e+09 Primal inf 3.7737184e+08 (758)
+808  Obj 8.5693225e+10 Primal inf 35.694028 (388)
+1245  Obj 8.5693253e+10 Primal inf 3.4921217e-07 (1)
+1245  Obj 8.5693253e+10 Primal inf 3.4921217e-07 (1)
+1245  Obj 8.5693253e+10 Primal inf 3.4921217e-07 (1)
+1245  Obj 8.5693253e+10 Primal inf 3.4921217e-07 (1)
+1245  Obj 8.5693253e+10 Primal inf 3.4921217e-07 (1)
+1245  Obj 8.5693253e+10 Primal inf 3.4921217e-07 (1)
+1245  Obj 8.5692176e+10 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 8.5692176e+10
+PrimalInfeasible objective 8.569217622e+10 - 1245 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/udit/Documents/Shekhar_Nature/revision_2/_audit/Nitrogen-Surplus-restructuring/.venv/lib/python3.14/site-packages/pulp/apis/../solverdir/cbc/osx/i64/cbc /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/e6d44b6923d641038f330547ceb039f2-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/rq/t0617zdx09gfj3k7qybf5n5r0000gn/T/e6d44b6923d641038f330547ceb039f2-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 133317 COLUMNS
+At line 363032 RHS
+At line 496345 BOUNDS
+At line 496346 ENDATA
+Problem MODEL has 133312 rows, 113120 columns and 227719 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve determined that the problem was infeasible with tolerance of 1e-08
+Analysis indicates model infeasible or unbounded
+Perturbing problem by 0.001% of 2556274.8 - largest nonzero change 0.025521629 ( 0.050686059%) - largest zero change 0.025495915
+0  Obj 9.2788556e+09 Primal inf 3.7737184e+08 (758)
+808  Obj 8.3960061e+10 Primal inf 36.056466 (391)
+1248  Obj 8.3960088e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 8.3960088e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 8.3960088e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 8.3960088e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 8.3960088e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 8.3960088e+10 Primal inf 3.4921217e-07 (1)
+1248  Obj 8.3959034e+10 Primal inf 3.4921217e-07 (1)
+Primal infeasible - objective value 8.3959034e+10
+PrimalInfeasible objective 8.395903421e+10 - 1248 iterations time 0.142
+
+Result - Linear relaxation infeasible
+
+Enumerated nodes:           0
+Total iterations:           0
+Time (CPU seconds):         0.24
+Time (Wallclock Seconds):   0.27
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.38
+

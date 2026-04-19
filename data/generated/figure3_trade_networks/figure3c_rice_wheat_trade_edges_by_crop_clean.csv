@@ -1,0 +1,2521 @@
+crop,source_state,target_state,original_trade_qtl,optimized_trade_qtl,original_trade_kcal,optimized_trade_kcal,diff_trade_kcal
+rice,andhra pradesh,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,andhra pradesh,arunachal pradesh,1575.0,1036.6121046353676,560700000.0,369033909.25019085,-191666090.74980915
+rice,andhra pradesh,assam,392279.3333333333,258185.08275023845,139651442666.66666,91913889459.08488,-47737553207.58177
+rice,andhra pradesh,bihar,171476.66666666666,112860.18306615284,61045693333.33333,40178225171.55041,-20867468161.78292
+rice,andhra pradesh,chhattisgarh,25802.825,16982.55284367497,9185805700.0,6045788812.3482895,-3140016887.6517105
+rice,andhra pradesh,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,andhra pradesh,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,andhra pradesh,delhi,13054.166666666666,8591.81408418679,4647283333.333333,3058685813.970497,-1588597519.362836
+rice,andhra pradesh,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,andhra pradesh,goa,0.0,0.0,0.0,0.0,0.0
+rice,andhra pradesh,gujarat,29285.0,19274.40348206142,10425460000.0,6861687639.613866,-3563772360.386134
+rice,andhra pradesh,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,andhra pradesh,haryana,221.0,145.4547778567722,78676000.0,51781900.9170109,-26894099.082989097
+rice,andhra pradesh,jharkhand,79084.83333333333,52050.981286605675,28154200666.666664,18530149338.03162,-9624051328.635044
+rice,andhra pradesh,jammu and kashmir,1051.6666666666667,692.1716804496476,374393333.3333334,246413118.24007455,-127980215.09325883
+rice,andhra pradesh,kerala,8956280.666666666,5894723.143859292,3188435917333.333,2098521439213.9082,-1089914478119.4248
+rice,andhra pradesh,karnataka,4529505.416666667,2981168.3447162737,1612503928333.3335,1061295930718.9934,-551207997614.3401
+rice,andhra pradesh,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,andhra pradesh,maharashtra,115347.05833333332,75917.55993804138,41063552766.666664,27026651337.94273,-14036901428.723934
+rice,andhra pradesh,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,andhra pradesh,manipur,1430.0,941.1779743673496,509080000.0,335059358.8747765,-174020641.12522352
+rice,andhra pradesh,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,andhra pradesh,mizoram,4245.0,2793.916434398181,1511220000.0,994634250.6457524,-516585749.35424757
+rice,andhra pradesh,nagaland,22265.916666666668,14654.67856347241,7926666333.333334,5217065568.596178,-2709600764.737156
+rice,andhra pradesh,odisha,0.0,0.0,0.0,0.0,0.0
+rice,andhra pradesh,punjab,31953.25,21030.556020596865,11375357000.0,7486877943.332484,-3888479056.6675158
+rice,andhra pradesh,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,andhra pradesh,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,andhra pradesh,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,andhra pradesh,telangana,0.0,0.0,0.0,0.0,0.0
+rice,andhra pradesh,tamil nadu,17109056.416666668,11260606.336765762,6090824084333.334,4008775855888.6113,-2082048228444.7227
+rice,andhra pradesh,tripura,8031.666666666667,5286.17326162734,2859273333.3333335,1881877681.1393332,-977395652.1940002
+rice,andhra pradesh,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,andhra pradesh,uttar pradesh,4417.5,2907.4501410963408,1572630000.0,1035052250.2302973,-537577749.7697027
+rice,andhra pradesh,west bengal,494786.0833333333,325651.5829767981,176143845666.66666,115931963539.74013,-60211882126.92653
+rice,andaman and nicobar,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,assam,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,bihar,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,delhi,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,goa,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,haryana,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,kerala,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,manipur,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,odisha,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,punjab,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,telangana,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,tamil nadu,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,tripura,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,andaman and nicobar,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,assam,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,bihar,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,delhi,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,goa,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,haryana,260.8333333333333,84.87043247390466,92856666.66666666,30213873.960710056,-62642792.7059566
+rice,arunachal pradesh,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,kerala,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,manipur,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,odisha,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,punjab,805.75,262.17642542817384,286847000.0,93334807.45242989,-193512192.5475701
+rice,arunachal pradesh,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,telangana,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,tamil nadu,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,tripura,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,arunachal pradesh,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,assam,andhra pradesh,2194.741666666667,2030.4409118639026,781328033.3333334,722836964.6235493,-58491068.70978403
+rice,assam,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,assam,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,assam,bihar,1297.4833333333331,1200.3523159346234,461904066.66666657,427325424.4727259,-34578642.19394064
+rice,assam,chhattisgarh,653.625,604.6939196414354,232690500.0,215271035.392351,-17419464.607649
+rice,assam,chandigarh,220.25,203.76184479024843,78409000.0,72539216.74532844,-5869783.254671559
+rice,assam,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,assam,delhi,2297.233333333333,2125.2599405841165,817815066.6666666,756592538.8479455,-61222527.818721175
+rice,assam,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,assam,goa,0.0,0.0,0.0,0.0,0.0
+rice,assam,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,assam,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,assam,haryana,36075.16666666666,33374.54034558763,12842759333.33333,11881336363.029196,-961422970.3041344
+rice,assam,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,assam,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,assam,kerala,0.0,0.0,0.0,0.0,0.0
+rice,assam,karnataka,208.54166666666663,192.93001005962793,74240833.33333331,68683083.58122754,-5557749.7521057725
+rice,assam,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,assam,maharashtra,1082.4,1001.370355509489,385334400.00000006,356487846.56137806,-28846553.438621998
+rice,assam,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,assam,manipur,253659.0833333333,234669.8877085283,90302633666.66666,83542480024.23607,-6760153642.430588
+rice,assam,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,assam,mizoram,25825.83333333333,23892.48328374797,9193996666.666664,8505724049.014277,-688272617.6523867
+rice,assam,nagaland,44417.5,41092.35750724567,15812630000.0,14628879272.57946,-1183750727.4205399
+rice,assam,odisha,0.0,0.0,0.0,0.0,0.0
+rice,assam,punjab,127460.625,117918.78360099005,45375982500.0,41979086961.95246,-3396895538.0475388
+rice,assam,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,assam,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,assam,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,assam,telangana,441.25,408.2175437625295,157085000.0,145325445.5794605,-11759554.420539498
+rice,assam,tamil nadu,0.0,0.0,0.0,0.0,0.0
+rice,assam,tripura,1005419.5,930152.6996962052,357929342000.0,331134361091.84906,-26794980908.15094
+rice,assam,uttarakhand,884.25,818.0540806164685,314793000.0,291227252.6994628,-23565747.30053723
+rice,assam,uttar pradesh,6499.416666666667,6012.86324658564,2313792333.3333335,2140579315.7844877,-173213017.54884577
+rice,assam,west bengal,2151.0,1989.9737940695773,765756000.0,708430670.6887695,-57325329.31123054
+rice,bihar,andhra pradesh,5130.333333333333,2430.133901020669,1826398666.6666665,865127668.7633581,-961270997.9033084
+rice,bihar,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,bihar,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,bihar,assam,15238.166666666666,7218.0076809959955,5424787333.333333,2569610734.4345746,-2855176598.8987584
+rice,bihar,chhattisgarh,221.5,104.9200167128994,78854000.0,37351525.949792184,-41502474.050207816
+rice,bihar,chandigarh,2163.333333333333,1024.7267245548787,770146666.6666665,364802713.94153684,-405343952.72512966
+rice,bihar,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,bihar,delhi,0.0,0.0,0.0,0.0,0.0
+rice,bihar,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,bihar,goa,0.0,0.0,0.0,0.0,0.0
+rice,bihar,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,bihar,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,bihar,haryana,57167.583333333336,27079.114215663216,20351659666.666668,9640164660.776104,-10711495005.890564
+rice,bihar,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,bihar,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,bihar,kerala,0.0,0.0,0.0,0.0,0.0
+rice,bihar,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,bihar,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,bihar,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,bihar,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,bihar,manipur,0.0,0.0,0.0,0.0,0.0
+rice,bihar,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,bihar,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,bihar,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,bihar,odisha,0.0,0.0,0.0,0.0,0.0
+rice,bihar,punjab,163455.38333333333,77425.46975687002,58190116466.666664,27563467233.44573,-30626649233.220936
+rice,bihar,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,bihar,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,bihar,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,bihar,telangana,0.0,0.0,0.0,0.0,0.0
+rice,bihar,tamil nadu,240.75,114.03834773648094,85707000.0,40597651.79418722,-45109348.20581278
+rice,bihar,tripura,8514.166666666666,4032.9864964473027,3031043333.333333,1435743192.7352397,-1595300140.5980933
+rice,bihar,uttarakhand,442.0,209.36635389210625,157352000.0,74534421.98558982,-82817578.01441018
+rice,bihar,uttar pradesh,3549.5,1681.3255048416993,1263622000.0,598551879.723645,-665070120.276355
+rice,bihar,west bengal,12099.433333333334,5731.253939277406,4307398266.666667,2040326402.3827565,-2267071864.2839108
+rice,chhattisgarh,andhra pradesh,6424855.916666667,1430190.342258983,2287248706333.3335,509147761844.198,-1778100944489.1355
+rice,chhattisgarh,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,chhattisgarh,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,chhattisgarh,assam,338101.1666666667,75262.2361567348,120364015333.33334,26793356071.79759,-93570659261.53575
+rice,chhattisgarh,bihar,3644678.3333333335,811315.2762619903,1297505486666.6667,288828238349.26855,-1008677248317.3982
+rice,chhattisgarh,chandigarh,4442.5,988.9125418367214,1581530000.0,352052864.8938728,-1229477135.1061273
+rice,chhattisgarh,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,chhattisgarh,delhi,8820.5,1963.4672088397976,3140098000.0,698994326.3469679,-2441103673.6530323
+rice,chhattisgarh,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,chhattisgarh,goa,86374.33333333333,19227.160726194466,30749262666.666664,6844869218.52523,-23904393448.141434
+rice,chhattisgarh,gujarat,156901.66666666666,34926.73629752421,55856993333.33333,12433918121.918617,-43423075211.41471
+rice,chhattisgarh,himachal pradesh,8634.166666666666,1921.9889037648227,3073763333.333333,684228049.7402769,-2389535283.593056
+rice,chhattisgarh,haryana,16254.916666666666,3618.3885105632908,5786750333.333333,1288146309.7605314,-4498604023.572802
+rice,chhattisgarh,jharkhand,5897456.5,1312789.8025405728,2099494514000.0,467353169704.4439,-1632141344295.5562
+rice,chhattisgarh,jammu and kashmir,21708.33333333333,4832.333842589868,7728166666.666665,1720310847.9619932,-6007855818.704672
+rice,chhattisgarh,kerala,630839.5,140426.58265301213,224578862000.0,49991863424.47232,-174586998575.52768
+rice,chhattisgarh,karnataka,1146844.4166666667,255290.67578550035,408276612333.3334,90883480579.63812,-317393131753.69525
+rice,chhattisgarh,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,chhattisgarh,maharashtra,3363066.833333333,748627.7930260978,1197251792666.6665,266511494317.29083,-930740298349.3757
+rice,chhattisgarh,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,chhattisgarh,manipur,2154.1666666666665,479.52333908233436,766883333.3333333,170710308.71331105,-596173024.6200222
+rice,chhattisgarh,madhya pradesh,243047.0833333333,54102.93955321735,86524761666.66666,19260646480.945377,-67264115185.72128
+rice,chhattisgarh,mizoram,2200.0,489.7259633181288,783200000.0,174342442.94125384,-608857557.0587461
+rice,chhattisgarh,nagaland,24085.666666666668,5361.534686587581,8574497333.333334,1908706348.4251788,-6665790984.908155
+rice,chhattisgarh,odisha,24580.0,5471.574626527093,8750480000.0,1947880567.043645,-6802599432.956355
+rice,chhattisgarh,punjab,54640.66666666666,12163.16050894459,19452077333.33333,4330085141.184274,-15121992192.149055
+rice,chhattisgarh,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,chhattisgarh,rajasthan,1275.0,283.8184560139155,453900000.0,101039370.34095393,-352860629.65904605
+rice,chhattisgarh,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,chhattisgarh,telangana,0.0,0.0,0.0,0.0,0.0
+rice,chhattisgarh,tamil nadu,4327139.0,963232.8705392929,1540461484000.0,342910901911.9883,-1197550582088.0117
+rice,chhattisgarh,tripura,0.0,0.0,0.0,0.0,0.0
+rice,chhattisgarh,uttarakhand,2292.5,510.31671404855007,816130000.0,181672750.2012838,-634457249.7987162
+rice,chhattisgarh,uttar pradesh,6639.166666666667,1477.8964961195197,2363543333.3333335,526131152.61854905,-1837412180.7147844
+rice,chhattisgarh,west bengal,1269617.0,282620.1856227603,451983652000.0,100612786081.70268,-351370865918.2973
+rice,chandigarh,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,assam,48350.833333333336,48350.833333333336,17212896666.666668,17212896666.666668,0.0
+rice,chandigarh,bihar,98988.33333333331,98988.33333333331,35239846666.66666,35239846666.66666,0.0
+rice,chandigarh,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,delhi,4420.0,4420.0,1573520000.0,1573520000.0,0.0
+rice,chandigarh,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,goa,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,haryana,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,jammu and kashmir,10839.166666666666,10839.166666666666,3858743333.333333,3858743333.333333,0.0
+rice,chandigarh,kerala,2202.5,2202.5,784090000.0,784090000.0,0.0
+rice,chandigarh,karnataka,47044.16666666666,47044.16666666666,16747723333.33333,16747723333.33333,0.0
+rice,chandigarh,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,maharashtra,2202.5,2202.5,784090000.0,784090000.0,0.0
+rice,chandigarh,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,manipur,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,nagaland,4412.5,4412.5,1570850000.0,1570850000.0,0.0
+rice,chandigarh,odisha,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,punjab,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,telangana,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,tamil nadu,8776.666666666666,8776.666666666666,3124493333.333333,3124493333.333333,0.0
+rice,chandigarh,tripura,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,chandigarh,uttar pradesh,16276.666666666666,16276.666666666666,5794493333.333333,5794493333.333333,0.0
+rice,chandigarh,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,assam,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,bihar,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,delhi,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,goa,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,haryana,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,kerala,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,manipur,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,odisha,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,punjab,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,telangana,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,tamil nadu,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,tripura,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,daman and diu,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,delhi,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,delhi,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,delhi,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,delhi,assam,188098.0,0.0,66962888000.0,0.0,-66962888000.0
+rice,delhi,bihar,0.0,0.0,0.0,0.0,0.0
+rice,delhi,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,delhi,chandigarh,54274.16666666666,0.0,19321603333.33333,0.0,-19321603333.33333
+rice,delhi,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,delhi,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,delhi,goa,0.0,0.0,0.0,0.0,0.0
+rice,delhi,gujarat,32245.0,0.0,11479220000.0,0.0,-11479220000.0
+rice,delhi,himachal pradesh,6695.833333333333,0.0,2383716666.6666665,0.0,-2383716666.6666665
+rice,delhi,haryana,0.0,0.0,0.0,0.0,0.0
+rice,delhi,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,delhi,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,delhi,kerala,0.0,0.0,0.0,0.0,0.0
+rice,delhi,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,delhi,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,delhi,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,delhi,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,delhi,manipur,0.0,0.0,0.0,0.0,0.0
+rice,delhi,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,delhi,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,delhi,nagaland,17926.666666666668,0.0,6381893333.333334,0.0,-6381893333.333334
+rice,delhi,odisha,0.0,0.0,0.0,0.0,0.0
+rice,delhi,punjab,0.0,0.0,0.0,0.0,0.0
+rice,delhi,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,delhi,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,delhi,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,delhi,telangana,0.0,0.0,0.0,0.0,0.0
+rice,delhi,tamil nadu,0.0,0.0,0.0,0.0,0.0
+rice,delhi,tripura,9341.666666666666,0.0,3325633333.333333,0.0,-3325633333.333333
+rice,delhi,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,delhi,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,delhi,west bengal,21913.33333333333,0.0,7801146666.666665,0.0,-7801146666.666665
+rice,dadra and nagar haveli,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,assam,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,bihar,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,delhi,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,goa,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,haryana,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,kerala,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,manipur,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,odisha,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,punjab,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,telangana,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,tamil nadu,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,tripura,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,dadra and nagar haveli,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,goa,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,goa,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,goa,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,goa,assam,0.0,0.0,0.0,0.0,0.0
+rice,goa,bihar,0.0,0.0,0.0,0.0,0.0
+rice,goa,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,goa,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,goa,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,goa,delhi,0.0,0.0,0.0,0.0,0.0
+rice,goa,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,goa,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,goa,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,goa,haryana,0.0,0.0,0.0,0.0,0.0
+rice,goa,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,goa,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,goa,kerala,2215.0,0.0,788540000.0,0.0,-788540000.0
+rice,goa,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,goa,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,goa,maharashtra,4400.833333333333,0.0,1566696666.6666665,0.0,-1566696666.6666665
+rice,goa,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,goa,manipur,0.0,0.0,0.0,0.0,0.0
+rice,goa,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,goa,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,goa,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,goa,odisha,0.0,0.0,0.0,0.0,0.0
+rice,goa,punjab,4528.833333333333,0.0,1612264666.6666665,0.0,-1612264666.6666665
+rice,goa,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,goa,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,goa,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,goa,telangana,0.0,0.0,0.0,0.0,0.0
+rice,goa,tamil nadu,0.0,0.0,0.0,0.0,0.0
+rice,goa,tripura,0.0,0.0,0.0,0.0,0.0
+rice,goa,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,goa,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,goa,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,assam,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,bihar,49.25,37.894099493642386,17533000.0,13490299.419736689,-4042700.580263311
+rice,gujarat,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,delhi,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,goa,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,haryana,5067.083333333333,3898.732182251988,1803881666.6666665,1387948656.8817077,-415933009.78495884
+rice,gujarat,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,kerala,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,manipur,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,odisha,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,punjab,46968.4,36138.58320116128,16720750400.0,12865335619.613417,-3855414780.3865833
+rice,gujarat,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,telangana,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,tamil nadu,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,tripura,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,gujarat,uttar pradesh,857.3333333333334,659.6522768030336,305210666.6666667,234836210.54187995,-70374456.12478673
+rice,gujarat,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,assam,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,bihar,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,delhi,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,goa,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,haryana,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,kerala,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,manipur,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,odisha,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,punjab,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,telangana,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,tamil nadu,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,tripura,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,himachal pradesh,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,haryana,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,haryana,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,haryana,arunachal pradesh,8387.5,5357.91737981261,2985950000.0,1907418587.2132893,-1078531412.7867107
+rice,haryana,assam,3229710.0,2063131.963130204,1149776760000.0,734474978874.3527,-415301781125.64734
+rice,haryana,bihar,3240876.5,2070265.0998719838,1153752034000.0,737014375554.4263,-416737658445.5737
+rice,haryana,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,haryana,chandigarh,319520.0,204108.70476276902,113749120000.0,72662698895.54578,-41086421104.45422
+rice,haryana,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,haryana,delhi,82128.33333333333,52463.406800799996,29237686666.666664,18676972821.084797,-10560713845.581867
+rice,haryana,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,haryana,goa,93316.66666666669,59610.49063004632,33220733333.33334,21221334664.29649,-11999398669.03685
+rice,haryana,gujarat,898581.4166666666,574011.9212560322,319894984333.3333,204348243967.14746,-115546740366.18585
+rice,haryana,himachal pradesh,30578.33333333333,19533.37509536452,10885886666.666664,6953881533.94977,-3932005132.716894
+rice,haryana,jharkhand,22824.166666666668,14580.029718399164,8125403333.333334,5190490579.750102,-2934912753.583232
+rice,haryana,jammu and kashmir,165255.83333333334,105565.07916924982,58831076666.66667,37581168184.25294,-21249908482.413734
+rice,haryana,kerala,327290.0,209072.16443980558,116515240000.0,74429690540.57079,-42085549459.429214
+rice,haryana,karnataka,3796134.3333333335,2424962.637337708,1351423822666.6667,863286698892.224,-488137123774.44275
+rice,haryana,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,haryana,maharashtra,3987184.6666666665,2547005.18891871,1419437741333.3333,906733847255.0608,-512703894078.27246
+rice,haryana,meghalaya,1498.3333333333333,957.1321856833654,533406666.6666666,340739058.1032781,-192667608.56338853
+rice,haryana,manipur,59469.16666666666,37988.77873577419,21171023333.33333,13524005229.935612,-7647018103.3977165
+rice,haryana,madhya pradesh,81562.91666666667,52102.21982194229,29036398333.333336,18548390256.611458,-10488008076.721878
+rice,haryana,mizoram,53087.5,33912.18347550545,18899150000.0,12072737317.279942,-6826412682.720058
+rice,haryana,nagaland,279689.1666666667,178664.8521047558,99569343333.33334,63604687349.29306,-35964655984.04028
+rice,haryana,odisha,29274.166666666668,18700.276168448803,10421603333.333334,6657298315.967774,-3764305017.3655596
+rice,haryana,punjab,0.0,0.0,0.0,0.0,0.0
+rice,haryana,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,haryana,rajasthan,36212.0,23132.14952700736,12891472000.0,8235045231.61462,-4656426768.38538
+rice,haryana,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,haryana,telangana,0.0,0.0,0.0,0.0,0.0
+rice,haryana,tamil nadu,1194803.0,763237.6463966911,425349868000.0,271712602117.22202,-153637265882.77798
+rice,haryana,tripura,335356.6666666667,214225.1341602811,119386973333.33334,76264147761.06007,-43122825572.27327
+rice,haryana,uttarakhand,2215.0,1414.937346799992,788540000.0,503717695.46079713,-284822304.53920287
+rice,haryana,uttar pradesh,3371655.833333333,2153806.663268344,1200309476666.6665,766755172123.5305,-433554304543.136
+rice,haryana,west bengal,273025.8333333333,174408.32876953654,97197196666.66666,62089365041.95501,-35107831624.71165
+rice,jharkhand,andhra pradesh,53133.833333333336,59225.02155257245,18915644666.666668,21084107672.715794,2168463006.0491257
+rice,jharkhand,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,assam,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,bihar,2215.0,2468.92449705206,788540000.0,878937120.9505333,90397120.95053327
+rice,jharkhand,chhattisgarh,43321.21666666667,48287.50025753197,15422353133.333334,17190350091.68138,1767996958.3480473
+rice,jharkhand,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,delhi,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,goa,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,haryana,213.75,238.25400056202156,76095000.0,84818424.20007968,8723424.20007968
+rice,jharkhand,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,kerala,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,manipur,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,odisha,72162.74166666667,80435.37728003283,25689936033.333336,28634994311.69169,2945058278.3583527
+rice,jharkhand,punjab,824.6666666666666,919.2052980747623,293581333.3333333,327237086.1146154,33655752.78128207
+rice,jharkhand,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,telangana,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,tamil nadu,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,tripura,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,jharkhand,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,assam,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,bihar,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,delhi,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,goa,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,haryana,1482.8333333333333,1449.2745324845716,527888666.6666666,515941733.5645075,-11946933.102159142
+rice,jammu and kashmir,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,kerala,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,manipur,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,odisha,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,punjab,32392.36666666667,31659.27754764673,11531682533.333334,11270702806.962234,-260979726.37109947
+rice,jammu and kashmir,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,telangana,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,tamil nadu,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,tripura,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,jammu and kashmir,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,kerala,andhra pradesh,12873.95,12873.949984122259,4583126200.0,4583126194.347524,-5.6524763107299805
+rice,kerala,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,kerala,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,kerala,assam,0.0,0.0,0.0,0.0,0.0
+rice,kerala,bihar,0.0,0.0,0.0,0.0,0.0
+rice,kerala,chhattisgarh,3066.0,3065.9999962186307,1091496000.0,1091495998.6538324,-1.3461675643920898
+rice,kerala,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,kerala,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,kerala,delhi,0.0,0.0,0.0,0.0,0.0
+rice,kerala,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,kerala,goa,0.0,0.0,0.0,0.0,0.0
+rice,kerala,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,kerala,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,kerala,haryana,4028.4166666666665,4028.416661698326,1434116333.3333333,1434116331.564604,-1.7687292098999023
+rice,kerala,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,kerala,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,kerala,karnataka,2207.5,2207.4999972774385,785870000.0,785869999.0307682,-0.9692318439483643
+rice,kerala,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,kerala,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,kerala,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,kerala,manipur,0.0,0.0,0.0,0.0,0.0
+rice,kerala,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,kerala,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,kerala,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,kerala,odisha,0.0,0.0,0.0,0.0,0.0
+rice,kerala,punjab,7690.5,7690.499990515127,2737818000.0,2737817996.6233854,-3.376614570617676
+rice,kerala,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,kerala,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,kerala,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,kerala,telangana,58171.98333333334,58171.98326158847,20709226066.666668,20709226041.125496,-25.54117202758789
+rice,kerala,tamil nadu,713125.8333333334,713125.8324538186,253872796666.6667,253872796353.55945,-313.10723876953125
+rice,kerala,tripura,0.0,0.0,0.0,0.0,0.0
+rice,kerala,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,kerala,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,kerala,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,andhra pradesh,58454.73333333334,811.565005197209,20809885066.666668,288917141.8502064,-20520967924.81646
+rice,karnataka,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,assam,2164.1666666666665,30.046530570338067,770443333.3333333,10696564.883040352,-759746768.450293
+rice,karnataka,bihar,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,delhi,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,goa,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,haryana,53154.75,737.9818964191039,18923091000.0,262721555.125201,-18660369444.874798
+rice,karnataka,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,kerala,2212.5,30.71757360964481,787650000.0,10935456.205033552,-776714543.7949665
+rice,karnataka,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,maharashtra,2176.6666666666665,30.22007618395188,774893333.3333333,10758347.121486869,-764134986.2118464
+rice,karnataka,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,manipur,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,odisha,4803.974999999999,66.69670313283318,1710215099.9999998,23744026.31528861,-1686471073.6847112
+rice,karnataka,punjab,186457.16666666663,2588.705872148765,66378751333.33332,921579290.4849604,-65457172042.84836
+rice,karnataka,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,telangana,5114.333333333333,71.00560932471267,1820702666.6666665,25277996.919597708,-1795424669.747069
+rice,karnataka,tamil nadu,12584.166666666666,174.71415407881216,4479963333.333333,62198238.85205713,-4417765094.481276
+rice,karnataka,tripura,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,karnataka,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,assam,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,bihar,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,delhi,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,goa,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,haryana,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,kerala,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,manipur,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,odisha,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,punjab,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,telangana,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,tamil nadu,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,tripura,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,lakshadeep,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,andhra pradesh,647123.6666666666,228742.80942914603,230376025333.3333,81432440156.77599,-148943585176.5573
+rice,maharashtra,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,assam,110657.25,39114.70334423977,39393981000.0,13924834390.549358,-25469146609.45064
+rice,maharashtra,bihar,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,chandigarh,4349.166666666667,1537.3268715906352,1548303333.3333335,547288366.2862661,-1001014967.0470674
+rice,maharashtra,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,delhi,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,goa,14702.5,5196.983712487751,5234090000.0,1850126201.6456394,-3383963798.3543606
+rice,maharashtra,gujarat,29323.666666666668,10365.218028028341,10439225333.333334,3690017617.9780893,-6749207715.355245
+rice,maharashtra,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,haryana,40039.91666666666,14153.157270262438,14254210333.33333,5038523988.213428,-9215686345.119904
+rice,maharashtra,jharkhand,17345.0,6131.0445497772525,6174820000.0,2182651859.7207017,-3992168140.2792983
+rice,maharashtra,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,kerala,41247.5,14580.009228419556,14684110000.0,5190483285.317362,-9493626714.682638
+rice,maharashtra,karnataka,7136.666666666667,2522.6417567162675,2540653333.3333335,898060465.3909912,-1642592867.9423423
+rice,maharashtra,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,manipur,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,madhya pradesh,2170.0,767.0433365821065,772520000.0,273067427.8232299,-499452572.1767701
+rice,maharashtra,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,nagaland,1093.3333333333333,386.46730322416425,389226666.6666666,137582359.94780248,-251644306.71886414
+rice,maharashtra,odisha,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,punjab,107777.05833333332,38096.62416175314,38368632766.666664,13562398201.584118,-24806234565.082546
+rice,maharashtra,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,telangana,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,tamil nadu,7254.666666666667,2564.3519473691194,2582661333.3333335,912909293.2634065,-1669752040.069927
+rice,maharashtra,tripura,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,maharashtra,uttar pradesh,875.5,309.4684060726425,311678000.0,110170752.56186073,-201507247.43813926
+rice,maharashtra,west bengal,30564.166666666668,10803.705244171246,10880843333.333334,3846119066.9249635,-7034724266.408371
+rice,meghalaya,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,assam,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,bihar,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,delhi,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,goa,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,haryana,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,kerala,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,manipur,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,odisha,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,punjab,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,telangana,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,tamil nadu,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,tripura,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,meghalaya,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,manipur,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,manipur,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,manipur,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,manipur,assam,2945.0,2520.912780465068,1048420000.0,897444949.8455642,-150975050.15443575
+rice,manipur,bihar,0.0,0.0,0.0,0.0,0.0
+rice,manipur,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,manipur,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,manipur,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,manipur,delhi,0.0,0.0,0.0,0.0,0.0
+rice,manipur,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,manipur,goa,0.0,0.0,0.0,0.0,0.0
+rice,manipur,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,manipur,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,manipur,haryana,1525.9166666666667,1306.1809259506467,543226333.3333334,465000409.63843024,-78225923.69490314
+rice,manipur,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,manipur,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,manipur,kerala,0.0,0.0,0.0,0.0,0.0
+rice,manipur,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,manipur,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,manipur,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,manipur,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,manipur,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,manipur,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,manipur,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,manipur,odisha,0.0,0.0,0.0,0.0,0.0
+rice,manipur,punjab,6607.083333333333,5655.647136365957,2352121666.6666665,2013410380.5462806,-338711286.1203859
+rice,manipur,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,manipur,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,manipur,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,manipur,telangana,0.0,0.0,0.0,0.0,0.0
+rice,manipur,tamil nadu,0.0,0.0,0.0,0.0,0.0
+rice,manipur,tripura,0.0,0.0,0.0,0.0,0.0
+rice,manipur,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,manipur,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,manipur,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,andhra pradesh,11069.916666666666,3339.7753195574787,3940890333.333333,1188960013.7624624,-2751930319.5708704
+rice,madhya pradesh,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,assam,5984.916666666667,1805.6393354007378,2130630333.3333335,642807603.4026626,-1487822729.9306707
+rice,madhya pradesh,bihar,8472.916666666666,2556.2647687501913,3016358333.333333,910030257.6750681,-2106328075.6582649
+rice,madhya pradesh,chhattisgarh,299.6666666666667,90.40893148193449,106681333.33333334,32185579.607568678,-74495753.72576466
+rice,madhya pradesh,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,delhi,1056.6666666666667,318.7945637349637,376173333.3333334,113490864.68964706,-262682468.6436863
+rice,madhya pradesh,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,goa,2207.5,665.9990531024596,785870000.0,237095662.9044756,-548774337.0955244
+rice,madhya pradesh,gujarat,11078.333333333334,3342.3146137954313,3943886666.666667,1189864002.5111735,-2754022664.1554937
+rice,madhya pradesh,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,haryana,442.25,133.42608436446784,157441000.0,47499686.03375055,-109941313.96624945
+rice,madhya pradesh,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,kerala,19975.0,6026.424047892017,7111100000.0,2145406961.0495582,-4965693038.950441
+rice,madhya pradesh,karnataka,40332.5,12168.247705211756,14358370000.0,4331896183.055385,-10026473816.944614
+rice,madhya pradesh,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,maharashtra,238371.91666666663,71916.40805717706,84860402333.33331,25602241268.355034,-59258161064.97828
+rice,madhya pradesh,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,manipur,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,odisha,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,punjab,25150.0,7587.71288132587,8953400000.0,2701225785.7520094,-6252174214.247991
+rice,madhya pradesh,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,telangana,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,tamil nadu,11209.166666666666,3381.7868113556747,3990463333.333333,1203916104.8426201,-2786547228.490713
+rice,madhya pradesh,tripura,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,madhya pradesh,uttar pradesh,889900.0,268481.3396855623,316804400000.0,95579356928.06018,-221225043071.93982
+rice,madhya pradesh,west bengal,2305.833333333333,695.6660550904135,820876666.6666665,247657115.6121872,-573219551.0544794
+rice,mizoram,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,assam,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,bihar,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,delhi,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,goa,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,haryana,1230.5,145.71752442274646,438058000.0,51875438.69449774,-386182561.30550224
+rice,mizoram,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,kerala,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,manipur,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,odisha,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,punjab,5760.416666666667,682.156567501175,2050708333.3333335,242847738.0304183,-1807860595.302915
+rice,mizoram,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,telangana,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,tamil nadu,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,tripura,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,mizoram,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,andhra pradesh,1093.8333333333333,1167.1916994191083,389404666.6666666,415520244.99320257,26115578.32653594
+rice,nagaland,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,assam,36769.5,39235.46109260177,13089942000.0,13967824148.96623,877882148.9662304
+rice,nagaland,bihar,266991.5,284897.3907805487,95048974000.0,101423471117.87534,6374497117.875336
+rice,nagaland,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,delhi,361.8083333333333,386.07315262592886,128803766.66666664,137442042.33483067,8638275.66816403
+rice,nagaland,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,goa,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,himachal pradesh,11048.166666666666,11789.116343561369,3933147333.333333,4196925418.3078475,263778084.97451448
+rice,nagaland,haryana,6123.0,6533.641422102575,2179788000.0,2325976346.268517,146188346.26851702
+rice,nagaland,jharkhand,394397.6666666667,420848.10251738323,140405569333.33334,149821924496.18842,9416355162.855072
+rice,nagaland,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,kerala,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,karnataka,10903.0,11634.214016851933,3881468000.0,4141780189.999288,260312189.99928808
+rice,nagaland,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,manipur,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,odisha,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,punjab,10775.633333333331,11498.305454198253,3836125466.666666,4093396741.694578,257271275.02791214
+rice,nagaland,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,telangana,441.5,471.10937250666126,157174000.0,167714936.6123714,10540936.612371415
+rice,nagaland,tamil nadu,63600.0,67865.35921047261,22641600000.0,24160067878.92825,1518467878.9282494
+rice,nagaland,tripura,0.0,0.0,0.0,0.0,0.0
+rice,nagaland,uttarakhand,445.0,474.8441013940301,158420000.0,169044500.0962747,10624500.096274704
+rice,nagaland,uttar pradesh,885.25,944.6196421552025,315149000.0,336284592.6072521,21135592.60725212
+rice,nagaland,west bengal,91655.41666666669,97802.32351680618,32629328333.33334,34817627171.983,2188298838.649662
+rice,odisha,andhra pradesh,2215.0,1188.9095026676628,788540000.0,423251782.94968796,-365288217.05031204
+rice,odisha,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,odisha,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,odisha,assam,9641.666666666666,5175.200506344942,3432433333.333333,1842371380.2587996,-1590061953.0745335
+rice,odisha,bihar,922420.9166666666,495112.8637852895,328381846333.3333,176260179507.56308,-152121666825.77023
+rice,odisha,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,odisha,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,odisha,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,odisha,delhi,0.0,0.0,0.0,0.0,0.0
+rice,odisha,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,odisha,goa,0.0,0.0,0.0,0.0,0.0
+rice,odisha,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,odisha,himachal pradesh,17605.833333333332,9449.996637644737,6267676666.666666,3364198803.0015264,-2903477863.6651397
+rice,odisha,haryana,0.0,0.0,0.0,0.0,0.0
+rice,odisha,jharkhand,4337344.0,2328085.5521167363,1544094464000.0,828798456553.5581,-715296007446.4419
+rice,odisha,jammu and kashmir,4442.0,2384.2600500450376,1581352000.0,848796577.8160334,-732555422.1839666
+rice,odisha,kerala,21808.33333333333,11705.704170358438,7763766666.666665,4167230684.647604,-3596535982.019061
+rice,odisha,karnataka,156025.75,83747.40263469485,55545167000.0,29814075337.951366,-25731091662.048634
+rice,odisha,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,odisha,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,odisha,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,odisha,manipur,0.0,0.0,0.0,0.0,0.0
+rice,odisha,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,odisha,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,odisha,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,odisha,punjab,2212.5,1187.5676183531396,787650000.0,422774072.13371766,-364875927.86628234
+rice,odisha,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,odisha,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,odisha,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,odisha,telangana,0.0,0.0,0.0,0.0,0.0
+rice,odisha,tamil nadu,1443680.8333333333,774901.0661711829,513950376666.6666,275864779556.9411,-238085597109.72552
+rice,odisha,tripura,0.0,0.0,0.0,0.0,0.0
+rice,odisha,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,odisha,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,odisha,west bengal,1034506.9166666666,555275.4418963538,368284462333.3333,197678057315.10196,-170606405018.23135
+rice,punjab,andhra pradesh,2197.5,2214.0087410257634,782310000.0,788187111.8051717,5877111.805171728
+rice,punjab,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,punjab,arunachal pradesh,19265.0,19409.728507786724,6858340000.0,6909863348.772074,51523348.772073746
+rice,punjab,assam,8999001.916666666,9066607.0097873,3203644682333.333,3227712095484.279,24067413150.9458
+rice,punjab,bihar,6470652.5,6519263.342498387,2303552290000.0,2320857749929.426,17305459929.42578
+rice,punjab,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,punjab,chandigarh,2135594.1666666665,2151637.839491982,760271523333.3333,765983070859.1456,5711547525.812378
+rice,punjab,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,punjab,delhi,253823.3333333333,255730.18369797312,90361106666.66666,91039945396.47842,678838729.8117676
+rice,punjab,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,punjab,goa,212992.5,214592.60831532645,75825330000.0,76394968560.25621,569638560.2562103
+rice,punjab,gujarat,2841799.333333333,2863148.379631939,1011680562666.6665,1019280823148.9702,7600260482.303711
+rice,punjab,himachal pradesh,44093.333333333336,44424.584946968214,15697226666.666668,15815152241.120684,117925574.45401573
+rice,punjab,haryana,306.6666666666667,308.9705031086389,109173333.33333334,109993499.10667546,820165.7733421177
+rice,punjab,jharkhand,27781.666666666668,27990.376719119035,9890273333.333334,9964574112.006376,74300778.6730423
+rice,punjab,jammu and kashmir,2113822.833333333,2129702.9487962886,752520928666.6665,758174249771.4788,5653321104.812256
+rice,punjab,kerala,781452.5,787323.1698277293,278197090000.0,280287048458.67163,2089958458.6716309
+rice,punjab,karnataka,10354270.25,10432056.810212975,3686120209000.0,3713812224435.8193,27692015435.819336
+rice,punjab,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,punjab,maharashtra,7321953.5,7376959.749890412,2606615446000.0,2626197670960.987,19582224960.986816
+rice,punjab,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,punjab,manipur,256313.5833333333,258239.14172634145,91247635666.66666,91933134454.57756,685498787.9109039
+rice,punjab,madhya pradesh,147202.5,148308.36027342203,52404090000.0,52797776257.33824,393686257.3382416
+rice,punjab,mizoram,250220.0,252099.78028644662,89078320000.0,89747521781.97499,669201781.9749908
+rice,punjab,nagaland,961557.0833333334,968780.7906690504,342314321666.6667,344885961478.18195,2571639811.515259
+rice,punjab,odisha,34280.0,34537.52884749177,12203680000.0,12295360269.70707,91680269.7070694
+rice,punjab,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,punjab,rajasthan,31639.0,31876.688308220306,11263484000.0,11348101037.726429,84617037.72642899
+rice,punjab,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,punjab,telangana,0.0,0.0,0.0,0.0,0.0
+rice,punjab,tamil nadu,1494652.3333333333,1505880.9241385905,532096230666.6666,536093608993.3382,3997378326.67157
+rice,punjab,tripura,594664.0,599131.4193280293,211700384000.0,213290785280.7784,1590401280.7784119
+rice,punjab,uttarakhand,64534.16666666666,65018.98024792419,22974163333.33333,23146756968.261013,172593634.92768478
+rice,punjab,uttar pradesh,4551802.916666667,4585998.382219141,1620441838333.3335,1632615424070.0144,12173585736.680908
+rice,punjab,west bengal,289893.3333333333,292071.15993860987,103202026666.66666,103977332938.14511,775306271.4784546
+rice,puducherry,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,assam,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,bihar,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,delhi,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,goa,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,haryana,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,kerala,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,manipur,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,odisha,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,punjab,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,telangana,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,tamil nadu,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,tripura,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,puducherry,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,assam,1915905.5833333333,0.0,682062387666.6666,0.0,-682062387666.6666
+rice,rajasthan,bihar,1540098.3333333333,0.0,548275006666.6666,0.0,-548275006666.6666
+rice,rajasthan,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,chandigarh,7363.333333333333,0.0,2621346666.6666665,0.0,-2621346666.6666665
+rice,rajasthan,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,delhi,7431.666666666667,0.0,2645673333.3333335,0.0,-2645673333.3333335
+rice,rajasthan,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,goa,47029.16666666666,0.0,16742383333.33333,0.0,-16742383333.33333
+rice,rajasthan,gujarat,613955.0,0.0,218567980000.0,0.0,-218567980000.0
+rice,rajasthan,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,haryana,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,jharkhand,12951.666666666666,0.0,4610793333.333333,0.0,-4610793333.333333
+rice,rajasthan,jammu and kashmir,274421.6666666667,0.0,97694113333.33334,0.0,-97694113333.33334
+rice,rajasthan,kerala,42026.66666666666,0.0,14961493333.33333,0.0,-14961493333.33333
+rice,rajasthan,karnataka,1294154.1666666667,0.0,460718883333.3334,0.0,-460718883333.3334
+rice,rajasthan,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,maharashtra,1302326.6666666667,0.0,463628293333.3334,0.0,-463628293333.3334
+rice,rajasthan,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,manipur,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,madhya pradesh,12002.5,0.0,4272890000.0,0.0,-4272890000.0
+rice,rajasthan,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,nagaland,183230.8333333333,0.0,65230176666.66666,0.0,-65230176666.66666
+rice,rajasthan,odisha,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,punjab,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,telangana,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,tamil nadu,513905.0,0.0,182950180000.0,0.0,-182950180000.0
+rice,rajasthan,tripura,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,rajasthan,uttar pradesh,1802540.8333333333,0.0,641704536666.6666,0.0,-641704536666.6666
+rice,rajasthan,west bengal,57348.333333333336,0.0,20416006666.666668,0.0,-20416006666.666668
+rice,sikkim,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,assam,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,bihar,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,delhi,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,goa,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,haryana,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,kerala,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,manipur,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,odisha,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,punjab,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,telangana,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,tamil nadu,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,tripura,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,sikkim,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,telangana,andhra pradesh,4586.175,0.0,1632678300.0,0.0,-1632678300.0
+rice,telangana,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,telangana,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,telangana,assam,1119.6666666666667,0.0,398601333.3333334,0.0,-398601333.3333334
+rice,telangana,bihar,42801.66666666666,0.0,15237393333.33333,0.0,-15237393333.33333
+rice,telangana,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+rice,telangana,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,telangana,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,telangana,delhi,0.0,0.0,0.0,0.0,0.0
+rice,telangana,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,telangana,goa,0.0,0.0,0.0,0.0,0.0
+rice,telangana,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,telangana,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,telangana,haryana,0.0,0.0,0.0,0.0,0.0
+rice,telangana,jharkhand,19987.5,0.0,7115550000.0,0.0,-7115550000.0
+rice,telangana,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,telangana,kerala,1285529.1666666667,0.0,457648383333.3334,0.0,-457648383333.3334
+rice,telangana,karnataka,414534.5,0.0,147574282000.0,0.0,-147574282000.0
+rice,telangana,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,telangana,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,telangana,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,telangana,manipur,0.0,0.0,0.0,0.0,0.0
+rice,telangana,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,telangana,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,telangana,nagaland,6523.333333333333,0.0,2322306666.6666665,0.0,-2322306666.6666665
+rice,telangana,odisha,0.0,0.0,0.0,0.0,0.0
+rice,telangana,punjab,0.0,0.0,0.0,0.0,0.0
+rice,telangana,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,telangana,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,telangana,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,telangana,tamil nadu,3951880.5,0.0,1406869458000.0,0.0,-1406869458000.0
+rice,telangana,tripura,0.0,0.0,0.0,0.0,0.0
+rice,telangana,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,telangana,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+rice,telangana,west bengal,443052.0,0.0,157726512000.0,0.0,-157726512000.0
+rice,tamil nadu,andhra pradesh,14619.608333333332,1382.8847417866195,5204580566.666666,492306968.0760366,-4712273598.59063
+rice,tamil nadu,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,assam,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,bihar,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,chhattisgarh,77398.125,7321.1732944551195,27553732500.0,2606337692.8260226,-24947394807.173977
+rice,tamil nadu,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,delhi,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,goa,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,haryana,14741.666666666666,1394.4303730324116,5248033333.333333,496417212.7995385,-4751616120.533794
+rice,tamil nadu,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,kerala,4823.333333333333,456.2443753030864,1717106666.6666665,162422997.60789874,-1554683669.0587678
+rice,tamil nadu,karnataka,2738.333333333333,259.02194492846263,974846666.6666665,92211812.3945327,-882634854.2721338
+rice,tamil nadu,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,manipur,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,odisha,14615.433333333334,1382.489823970402,5203094266.666667,492166377.33346313,-4710927889.333204
+rice,tamil nadu,punjab,31737.975,3002.1297672273613,11298719100.0,1068758197.1329406,-10229960902.86706
+rice,tamil nadu,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,telangana,97219.20833333331,9196.071245370202,34610038166.66666,3273801363.351792,-31336236803.314865
+rice,tamil nadu,tripura,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,tamil nadu,uttar pradesh,100.0,9.459109370485551,35600000.0,3367442.935892856,-32232557.064107142
+rice,tamil nadu,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,tripura,andhra pradesh,8862.5,8975.497694293894,3155050000.0,3195277179.1686263,40227179.16862631
+rice,tripura,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,tripura,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,tripura,assam,73201.66666666667,74134.99468379542,26059793333.333336,26392058107.431168,332264774.0978317
+rice,tripura,bihar,15450.0,15646.988928275392,5500200000.0,5570328058.46604,70128058.46603966
+rice,tripura,chhattisgarh,2100.833333333333,2127.61915254489,747896666.6666665,757432418.3059808,9535751.639314294
+rice,tripura,chandigarh,4661.666666666667,4721.103347614485,1659553333.3333335,1680712791.7507565,21159458.41742301
+rice,tripura,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,tripura,delhi,0.0,0.0,0.0,0.0,0.0
+rice,tripura,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,tripura,goa,0.0,0.0,0.0,0.0,0.0
+rice,tripura,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,tripura,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,tripura,haryana,4805.583333333333,4866.854965085528,1710787666.6666665,1732600367.5704482,21812700.903781652
+rice,tripura,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,tripura,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,tripura,kerala,0.0,0.0,0.0,0.0,0.0
+rice,tripura,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,tripura,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,tripura,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,tripura,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,tripura,manipur,0.0,0.0,0.0,0.0,0.0
+rice,tripura,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,tripura,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,tripura,nagaland,0.0,0.0,0.0,0.0,0.0
+rice,tripura,odisha,0.0,0.0,0.0,0.0,0.0
+rice,tripura,punjab,15578.658333333333,15777.287667252547,5546002366.666666,5616714409.541906,70712042.87524033
+rice,tripura,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,tripura,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,tripura,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,tripura,telangana,0.0,0.0,0.0,0.0,0.0
+rice,tripura,tamil nadu,54852.5,55551.87444583987,19527490000.0,19776467302.718994,248977302.71899414
+rice,tripura,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,tripura,uttar pradesh,882.75,894.005144105832,314259000.0,318265831.30167615,4006831.301676154
+rice,tripura,west bengal,0.0,0.0,0.0,0.0,0.0
+rice,uttarakhand,andhra pradesh,2212.5,1522.5736827901133,787650000.0,542036231.0732803,-245613768.92671967
+rice,uttarakhand,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,uttarakhand,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,uttarakhand,assam,1010650.8333333334,695498.4683946804,359791696666.6667,247597454748.50623,-112194241918.16046
+rice,uttarakhand,bihar,484480.0,333404.06681950466,172474880000.0,118691847787.74365,-53783032212.25635
+rice,uttarakhand,chhattisgarh,4313.333333333333,2968.301838840537,1535546666.6666665,1056715454.6272312,-478831212.03943527
+rice,uttarakhand,chandigarh,50765.833333333336,34935.46748847116,18072636666.666668,12437026425.895731,-5635610240.770937
+rice,uttarakhand,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,uttarakhand,delhi,4430.0,3048.588210061108,1577080000.0,1085297402.7817545,-491782597.2182455
+rice,uttarakhand,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,uttarakhand,goa,0.0,0.0,0.0,0.0,0.0
+rice,uttarakhand,gujarat,95672.5,65838.8387194292,34059410000.0,23438626584.116795,-10620783415.883205
+rice,uttarakhand,himachal pradesh,6592.5,4536.753448042406,2346930000.0,1615084227.5030963,-731845772.4969037
+rice,uttarakhand,haryana,4318.333333333333,2971.7426833214186,1537326666.6666665,1057940395.262425,-479386271.40424156
+rice,uttarakhand,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,uttarakhand,jammu and kashmir,4381.666666666667,3015.3267134125863,1559873333.3333335,1073456309.9748807,-486417023.3584528
+rice,uttarakhand,kerala,22046.666666666668,15171.830264367321,7848613333.333334,5401171574.114766,-2447441759.218568
+rice,uttarakhand,karnataka,77899.16666666667,53607.783538055366,27732103333.333336,19084370939.54771,-8647732393.785625
+rice,uttarakhand,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,uttarakhand,maharashtra,4412.5,3036.5452543780225,1570850000.0,1081010110.558576,-489839889.4414239
+rice,uttarakhand,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,uttarakhand,manipur,7300.0,5023.632942087153,2598800000.0,1788413327.3830266,-810386672.6169734
+rice,uttarakhand,madhya pradesh,8799.166666666666,6055.31281227149,3132503333.333333,2155691361.16865,-976811972.1646829
+rice,uttarakhand,mizoram,5862.5,4034.39015383369,2087050000.0,1436242894.7647936,-650807105.2352064
+rice,uttarakhand,nagaland,99211.66666666669,68274.38313781325,35319353333.33334,24305680397.061516,-11013672936.271828
+rice,uttarakhand,odisha,0.0,0.0,0.0,0.0,0.0
+rice,uttarakhand,punjab,2215.0,1524.294105030554,788540000.0,542648701.3908772,-245891298.60912275
+rice,uttarakhand,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,uttarakhand,rajasthan,6651.666666666667,4577.470107732838,2367993333.3333335,1629579358.3528905,-738413974.980443
+rice,uttarakhand,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,uttarakhand,telangana,0.0,0.0,0.0,0.0,0.0
+rice,uttarakhand,tamil nadu,35246.666666666664,24255.659693894773,12547813333.333332,8635014851.026539,-3912798482.306793
+rice,uttarakhand,tripura,66805.83333333333,45973.69658313936,23782876666.666664,16366635983.597612,-7416240683.069052
+rice,uttarakhand,uttar pradesh,8918.333333333334,6137.319605732502,3174926666.666667,2184885779.640771,-990040887.0258961
+rice,uttarakhand,west bengal,2232.5,1536.3370607136396,794770000.0,546935993.6140558,-247834006.38594425
+rice,uttar pradesh,andhra pradesh,88959.41666666667,60498.13427307117,31669552333.333336,21537335801.213337,-10132216532.119999
+rice,uttar pradesh,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,uttar pradesh,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,uttar pradesh,assam,576585.6666666666,392115.39811050455,205264497333.3333,139593081727.33963,-65671415605.99368
+rice,uttar pradesh,bihar,484107.25,329224.1171365658,172342181000.0,117203785700.61742,-55138395299.38258
+rice,uttar pradesh,chhattisgarh,13209.166666666666,8983.084293703692,4702463333.333333,3197978008.5585146,-1504485324.7748184
+rice,uttar pradesh,chandigarh,716.6666666666666,487.3795024026986,255133333.3333333,173507102.85536072,-81626230.4779726
+rice,uttar pradesh,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,uttar pradesh,delhi,0.0,0.0,0.0,0.0,0.0
+rice,uttar pradesh,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,uttar pradesh,goa,0.0,0.0,0.0,0.0,0.0
+rice,uttar pradesh,gujarat,178110.0,121126.2741948065,63407160000.0,43120953613.35111,-20286206386.648888
+rice,uttar pradesh,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,uttar pradesh,haryana,34917.583333333336,23746.20612572758,12430659666.666668,8453649380.759018,-3977010285.90765
+rice,uttar pradesh,jharkhand,0.0,0.0,0.0,0.0,0.0
+rice,uttar pradesh,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,uttar pradesh,kerala,84916.66666666667,57748.803831203484,30230333333.333336,20558574163.90844,-9671759169.424896
+rice,uttar pradesh,karnataka,5029.166666666667,3420.1573220933565,1790383333.3333335,1217576006.6652348,-572807326.6680987
+rice,uttar pradesh,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,uttar pradesh,maharashtra,15362.5,10447.489682318313,5469050000.0,3719306326.9053197,-1749743673.0946803
+rice,uttar pradesh,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,uttar pradesh,manipur,11260.0,7657.525391238679,4008560000.0,2726079039.2809696,-1282480960.7190304
+rice,uttar pradesh,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+rice,uttar pradesh,mizoram,2670.0,1815.772006625868,950520000.0,646414834.358809,-304105165.641191
+rice,uttar pradesh,nagaland,97576.66666666669,66358.41941318233,34737293333.33334,23623597311.09291,-11113696022.240433
+rice,uttar pradesh,odisha,368.3333333333333,250.49039542092186,131126666.66666666,89174580.76984818,-41952085.896818474
+rice,uttar pradesh,punjab,61672.7,41941.40907604313,21955481200.0,14931141631.071354,-7024339568.928646
+rice,uttar pradesh,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,uttar pradesh,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,uttar pradesh,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,uttar pradesh,telangana,0.0,0.0,0.0,0.0,0.0
+rice,uttar pradesh,tamil nadu,50.833333333333336,34.56994144949374,18096666.666666668,12306899.156019771,-5789767.510646896
+rice,uttar pradesh,tripura,153144.0,104147.7858362217,54519264000.0,37076611757.69492,-17442652242.305077
+rice,uttar pradesh,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,uttar pradesh,west bengal,25932.5,17635.770622406486,9231970000.0,6278334341.576709,-2953635658.423291
+rice,west bengal,andhra pradesh,19313.666666666668,13632.962699671923,6875665333.333334,4853334721.083205,-2022330612.2501287
+rice,west bengal,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,arunachal pradesh,2207.5,1558.210860678575,785870000.0,554723066.4015727,-231146933.5984273
+rice,west bengal,assam,170097.16666666666,120066.70553596994,60554591333.33333,42743747170.8053,-17810844162.52803
+rice,west bengal,bihar,356234.5,251455.70412158634,126819482000.0,89518230667.28474,-37301251332.715256
+rice,west bengal,chhattisgarh,9711.208333333334,6854.863100934217,3457190166.666667,2440331263.9325814,-1016858902.7340856
+rice,west bengal,chandigarh,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,daman and diu,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,delhi,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,goa,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,gujarat,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,haryana,667.75,471.3455502686833,237719000.0,167799015.89565125,-69919984.10434875
+rice,west bengal,jharkhand,72328.58333333333,51054.670028310466,25748975666.666664,18175462530.078526,-7573513136.588139
+rice,west bengal,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,kerala,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,karnataka,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,lakshadeep,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,maharashtra,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,meghalaya,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,manipur,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,madhya pradesh,3333.333333333333,2352.9042818853527,1186666666.6666665,837633924.3511856,-349032742.31548095
+rice,west bengal,mizoram,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,nagaland,4378.583333333333,3090.716242077552,1558775666.6666665,1100294982.1796086,-458480684.4870579
+rice,west bengal,odisha,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,punjab,1791.4166666666667,1264.5095836922358,637744333.3333334,450165411.7944359,-187578921.53889745
+rice,west bengal,puducherry,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,rajasthan,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,sikkim,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,telangana,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,tamil nadu,12935.833333333334,9131.033291926584,4605156666.666667,3250647851.9258637,-1354508814.7408032
+rice,west bengal,tripura,24741.416666666668,17464.255564472893,8807944333.333334,6217274980.95235,-2590669352.3809843
+rice,west bengal,uttarakhand,0.0,0.0,0.0,0.0,0.0
+rice,west bengal,uttar pradesh,2214.1666666666665,1562.9166692423455,788243333.3333333,556398334.250275,-231844999.08305824
+wheat,andhra pradesh,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,assam,41390.833333333336,0.0,13327848333.333334,0.0,-13327848333.333334
+wheat,andhra pradesh,bihar,25014.166666666668,0.0,8054561666.666667,0.0,-8054561666.666667
+wheat,andhra pradesh,chhattisgarh,2215.0,0.0,713230000.0,0.0,-713230000.0
+wheat,andhra pradesh,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,goa,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,gujarat,217.49166666666667,0.0,70032316.66666667,0.0,-70032316.66666667
+wheat,andhra pradesh,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,haryana,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,kerala,8842.5,0.0,2847285000.0,0.0,-2847285000.0
+wheat,andhra pradesh,karnataka,37955.833333333336,0.0,12221778333.333334,0.0,-12221778333.333334
+wheat,andhra pradesh,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,madhya pradesh,3189.75,0.0,1027099500.0,0.0,-1027099500.0
+wheat,andhra pradesh,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,nagaland,8842.5,0.0,2847285000.0,0.0,-2847285000.0
+wheat,andhra pradesh,odisha,113160.83333333331,0.0,36437788333.33333,0.0,-36437788333.33333
+wheat,andhra pradesh,punjab,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,rajasthan,1328.5583333333334,0.0,427795783.3333334,0.0,-427795783.3333334
+wheat,andhra pradesh,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,tamil nadu,2220.0,0.0,714840000.0,0.0,-714840000.0
+wheat,andhra pradesh,tripura,2205.0,0.0,710010000.0,0.0,-710010000.0
+wheat,andhra pradesh,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,andhra pradesh,uttar pradesh,441.5,0.0,142163000.0,0.0,-142163000.0
+wheat,andhra pradesh,west bengal,32945.833333333336,0.0,10608558333.333334,0.0,-10608558333.333334
+wheat,andaman and nicobar,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,assam,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,goa,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,haryana,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,punjab,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,andaman and nicobar,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,assam,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,goa,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,haryana,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,punjab,110.5,110.5,35581000.0,35581000.0,0.0
+wheat,arunachal pradesh,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,arunachal pradesh,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,assam,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,assam,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,assam,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,assam,bihar,875.5583333333334,914.9012903182199,281929783.3333334,294598215.4824668,12668432.149133444
+wheat,assam,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,assam,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,assam,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,assam,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,assam,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,assam,goa,0.0,0.0,0.0,0.0,0.0
+wheat,assam,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,assam,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,assam,haryana,9091.8,9500.337367183063,2927559600.0,3059108632.2329464,131549032.2329464
+wheat,assam,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,assam,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,assam,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,assam,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,assam,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,assam,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,assam,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,assam,manipur,32854.166666666664,34330.45901262605,10579041666.666666,11054407802.065588,475366135.39892197
+wheat,assam,madhya pradesh,913.6166666666668,954.6697637007597,294184566.6666667,307403663.91164464,13219097.244977951
+wheat,assam,mizoram,28.33333333333333,29.606483359018025,9123333.333333332,9533287.641603803,409954.30827047117
+wheat,assam,nagaland,18720.0,19561.17771108768,6027840000.0,6298699222.970233,270859222.97023296
+wheat,assam,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,assam,punjab,13477.266666666668,14082.863692648769,4339679866.666667,4534682109.032904,195002242.3662367
+wheat,assam,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,assam,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,assam,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,assam,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,assam,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,assam,tripura,71172.75,74370.87665260767,22917625500.0,23947422282.139668,1029796782.1396675
+wheat,assam,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,assam,uttar pradesh,10678.666666666666,11158.50942222943,3438530666.6666665,3593040033.9578767,154509367.29121017
+wheat,assam,west bengal,1505.0,1572.626733717252,484610000.0,506385808.2569551,21775808.256955087
+wheat,bihar,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,assam,27668.916666666668,11079.442206683678,8909391166.666668,3567580390.552144,-5341810776.114524
+wheat,bihar,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,chandigarh,280.3333333333333,112.25365281523456,90267333.33333333,36145676.20650553,-54121657.1268278
+wheat,bihar,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,goa,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,haryana,57968.91666666666,23212.447011564556,18665991166.666664,7474407937.723787,-11191583228.942877
+wheat,bihar,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,karnataka,2031.6666666666667,813.5386610093398,654196666.6666667,261959448.8450074,-392237217.8216593
+wheat,bihar,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,madhya pradesh,10673.341666666667,4273.917680719538,3436816016.666667,1376201493.1916912,-2060614523.4749758
+wheat,bihar,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,nagaland,2212.5,885.9496082771932,712425000.0,285275773.8652562,-427149226.1347438
+wheat,bihar,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,punjab,108182.975,43319.622293112494,34834917950.0,13948918378.382223,-20885999571.617775
+wheat,bihar,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,rajasthan,841.0,336.7609584457037,270802000.0,108437028.6195166,-162364971.3804834
+wheat,bihar,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,telangana,2145.0,858.920637177211,690690000.0,276572445.17106193,-414117554.82893807
+wheat,bihar,tamil nadu,6631.583333333333,2655.4796187228153,2135369833.3333333,855064437.2287465,-1280305396.1045866
+wheat,bihar,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,bihar,uttarakhand,220.0,88.09442432586779,70840000.0,28366404.63292943,-42473595.36707057
+wheat,bihar,uttar pradesh,2309.25,924.6911335205009,743578500.0,297750544.99360126,-445827955.00639874
+wheat,bihar,west bengal,8850.0,3543.7984331087728,2849700000.0,1141103095.4610248,-1708596904.5389752
+wheat,chhattisgarh,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,assam,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,goa,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,haryana,220.25,220.25,70920500.0,70920500.0,0.0
+wheat,chhattisgarh,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,madhya pradesh,1109.25,1109.25,357178500.0,357178500.0,0.0
+wheat,chhattisgarh,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,punjab,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,tamil nadu,533.3333333333334,533.3333333333334,171733333.33333334,171733333.33333334,0.0
+wheat,chhattisgarh,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,chhattisgarh,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,andhra pradesh,2220.0,2220.0,714840000.0,714840000.0,0.0
+wheat,chandigarh,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,assam,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,bihar,5774.166666666667,5774.166666666667,1859281666.6666667,1859281666.6666667,0.0
+wheat,chandigarh,chhattisgarh,2212.5,2212.5,712425000.0,712425000.0,0.0
+wheat,chandigarh,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,goa,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,gujarat,4445.0,4445.0,1431290000.0,1431290000.0,0.0
+wheat,chandigarh,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,haryana,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,maharashtra,2215.0,2215.0,713230000.0,713230000.0,0.0
+wheat,chandigarh,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,odisha,2207.5,2207.5,710815000.0,710815000.0,0.0
+wheat,chandigarh,punjab,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,tamil nadu,2222.5,2222.5,715645000.0,715645000.0,0.0
+wheat,chandigarh,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,chandigarh,uttar pradesh,7625.833333333333,7625.833333333333,2455518333.333333,2455518333.333333,0.0
+wheat,chandigarh,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,assam,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,goa,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,haryana,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,punjab,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,daman and diu,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,assam,12589.166666666666,0.0,4053711666.6666665,0.0,-4053711666.6666665
+wheat,delhi,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,chandigarh,202.5,0.0,65205000.0,0.0,-65205000.0
+wheat,delhi,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,goa,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,haryana,1563.8333333333333,0.0,503554333.3333333,0.0,-503554333.3333333
+wheat,delhi,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,madhya pradesh,3509.816666666667,0.0,1130160966.6666667,0.0,-1130160966.6666667
+wheat,delhi,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,nagaland,53.333333333333336,0.0,17173333.333333336,0.0,-17173333.333333336
+wheat,delhi,odisha,4437.5,0.0,1428875000.0,0.0,-1428875000.0
+wheat,delhi,punjab,782.4166666666666,0.0,251938166.66666666,0.0,-251938166.66666666
+wheat,delhi,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,rajasthan,442.44166666666666,0.0,142466216.66666666,0.0,-142466216.66666666
+wheat,delhi,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,delhi,uttar pradesh,6500.0,0.0,2093000000.0,0.0,-2093000000.0
+wheat,delhi,west bengal,8835.0,0.0,2844870000.0,0.0,-2844870000.0
+wheat,dadra and nagar haveli,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,assam,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,goa,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,haryana,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,punjab,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,dadra and nagar haveli,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,goa,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,goa,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,goa,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,goa,assam,0.0,0.0,0.0,0.0,0.0
+wheat,goa,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,goa,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,goa,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,goa,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,goa,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,goa,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,goa,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,goa,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,goa,haryana,495.3333333333333,0.0,159497333.3333333,0.0,-159497333.3333333
+wheat,goa,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,goa,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,goa,kerala,2210.0,0.0,711620000.0,0.0,-711620000.0
+wheat,goa,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,goa,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,goa,maharashtra,4240.0,0.0,1365280000.0,0.0,-1365280000.0
+wheat,goa,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,goa,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,goa,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,goa,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,goa,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,goa,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,goa,punjab,1896.75,0.0,610753500.0,0.0,-610753500.0
+wheat,goa,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,goa,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,goa,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,goa,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,goa,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,goa,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,goa,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,goa,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,goa,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,andhra pradesh,11628.25,5435.778181745371,3744296500.0,1750320574.5220094,-1993975925.4779906
+wheat,gujarat,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,assam,2195.583333333333,1026.3542647893798,706977833.3333333,330486073.2621803,-376491760.0711529
+wheat,gujarat,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,goa,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,haryana,38484.5,17990.08495993634,12392009000.0,5792807357.099502,-6599201642.900498
+wheat,gujarat,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,jammu and kashmir,7279.666666666667,3402.975790600109,2344052666.666667,1095758204.573235,-1248294462.093432
+wheat,gujarat,kerala,4243.333333333333,1983.60189634779,1366353333.3333333,638719810.6239884,-727633522.7093449
+wheat,gujarat,karnataka,26087.75,12195.061360121068,8400255500.0,3926809757.958984,-4473445742.041016
+wheat,gujarat,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,maharashtra,17823.333333333332,8331.751248838675,5739113333.333333,2682823902.1260533,-3056289431.2072797
+wheat,gujarat,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,madhya pradesh,28536.658333333336,13339.835723196145,9188803983.333334,4295427102.869159,-4893376880.464175
+wheat,gujarat,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,punjab,70325.34999999999,32874.508473210226,22644762699.999996,10585591728.373693,-12059170971.626303
+wheat,gujarat,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,rajasthan,3789.9166666666665,1771.6463205813266,1220353166.6666665,570470115.2271872,-649883051.4394794
+wheat,gujarat,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,telangana,2202.75,1029.7044172458982,709285500.0,331564822.3531792,-377720677.6468208
+wheat,gujarat,tamil nadu,13837.583333333334,6468.560064619932,4455701833.333334,2082876340.8076181,-2372825492.525716
+wheat,gujarat,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,gujarat,uttar pradesh,68211.08333333333,31886.16675222399,21963968833.333332,10267345694.216125,-11696623139.117207
+wheat,gujarat,west bengal,6643.416666666667,3105.552371931308,2139180166.6666667,999987863.7618811,-1139192302.9047856
+wheat,himachal pradesh,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,assam,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,goa,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,haryana,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,punjab,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,himachal pradesh,west bengal,4371.666666666667,4371.666666666667,1407676666.6666667,1407676666.6666667,0.0
+wheat,haryana,andhra pradesh,533202.0,533202.0,171691044000.0,171691044000.0,0.0
+wheat,haryana,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,haryana,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,haryana,assam,415097.0833333333,415097.0833333333,133661260833.33333,133661260833.33333,0.0
+wheat,haryana,bihar,3439474.583333333,3439474.583333333,1107510815833.3333,1107510815833.3333,0.0
+wheat,haryana,chhattisgarh,377005.3333333333,377005.3333333333,121395717333.33333,121395717333.33333,0.0
+wheat,haryana,chandigarh,97530.83333333331,97530.83333333331,31404928333.33333,31404928333.33333,0.0
+wheat,haryana,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,haryana,delhi,1150321.6666666667,1150321.6666666667,370403576666.6667,370403576666.6667,0.0
+wheat,haryana,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,haryana,goa,50314.16666666666,50314.16666666666,16201161666.666664,16201161666.666664,0.0
+wheat,haryana,gujarat,3590968.5,3590968.5,1156291857000.0,1156291857000.0,0.0
+wheat,haryana,himachal pradesh,46217.5,46217.5,14882035000.0,14882035000.0,0.0
+wheat,haryana,jharkhand,441600.0,441600.0,142195200000.0,142195200000.0,0.0
+wheat,haryana,jammu and kashmir,81910.83333333333,81910.83333333333,26375288333.333332,26375288333.333332,0.0
+wheat,haryana,kerala,671872.5833333334,671872.5833333334,216342971833.33334,216342971833.33334,0.0
+wheat,haryana,karnataka,809999.1666666666,809999.1666666666,260819731666.66666,260819731666.66666,0.0
+wheat,haryana,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,haryana,maharashtra,5394517.166666667,5394517.166666667,1737034527666.6667,1737034527666.6667,0.0
+wheat,haryana,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,haryana,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,haryana,madhya pradesh,343337.6666666667,343337.6666666667,110554728666.66667,110554728666.66667,0.0
+wheat,haryana,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,haryana,nagaland,22041.666666666668,22041.666666666668,7097416666.666667,7097416666.666667,0.0
+wheat,haryana,odisha,1520701.9166666667,1520701.9166666667,489666017166.6667,489666017166.6667,0.0
+wheat,haryana,punjab,21661.666666666668,21661.666666666668,6975056666.666667,6975056666.666667,0.0
+wheat,haryana,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,haryana,rajasthan,3428324.833333333,3428324.833333333,1103920596333.3333,1103920596333.3333,0.0
+wheat,haryana,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,haryana,telangana,8695.0,8695.0,2799790000.0,2799790000.0,0.0
+wheat,haryana,tamil nadu,851777.75,851777.75,274272435500.0,274272435500.0,0.0
+wheat,haryana,tripura,19125.83333333333,19125.83333333333,6158518333.333332,6158518333.333332,0.0
+wheat,haryana,uttarakhand,213609.16666666663,213609.16666666663,68782151666.66666,68782151666.66666,0.0
+wheat,haryana,uttar pradesh,7950576.666666667,7950576.666666667,2560085686666.667,2560085686666.667,0.0
+wheat,haryana,west bengal,6734636.0,6734636.0,2168552792000.0,2168552792000.0,0.0
+wheat,jharkhand,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,assam,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,bihar,2169.1666666666665,2169.166665480466,698471666.6666666,698471666.2847099,-0.38195669651031494
+wheat,jharkhand,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,goa,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,haryana,5674.666666666667,5674.6666635634965,1827242666.6666667,1827242665.667446,-0.9992208480834961
+wheat,jharkhand,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,punjab,14934.133333333331,14934.133325166655,4808790933.333333,4808790930.703663,-2.6296701431274414
+wheat,jharkhand,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,jharkhand,uttar pradesh,664.25,664.2499996367574,213888500.0,213888499.88303587,-0.11696413159370422
+wheat,jharkhand,west bengal,2215.833333333333,2215.833332121613,713498333.3333333,713498332.9431593,-0.39017391204833984
+wheat,jammu and kashmir,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,assam,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,goa,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,haryana,220.75,220.7656275587623,71081500.0,71086532.07392146,5032.073921456933
+wheat,jammu and kashmir,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,punjab,18692.00833333333,18693.331597019016,6018826683.333333,6019252774.240123,426090.90678977966
+wheat,jammu and kashmir,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,jammu and kashmir,uttar pradesh,665.0,665.0470773570869,214130000.0,214145158.90898198,15158.908981978893
+wheat,jammu and kashmir,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,assam,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,goa,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,haryana,3734.5833333333335,0.0,1202535833.3333335,0.0,-1202535833.3333335
+wheat,kerala,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,karnataka,2669.05,0.0,859434100.0,0.0,-859434100.0
+wheat,kerala,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,madhya pradesh,16357.125,0.0,5266994250.0,0.0,-5266994250.0
+wheat,kerala,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,punjab,12965.866666666669,0.0,4175009066.6666675,0.0,-4175009066.6666675
+wheat,kerala,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,rajasthan,6555.408333333333,0.0,2110841483.3333333,0.0,-2110841483.3333333
+wheat,kerala,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,tamil nadu,253119.16666666663,0.0,81504371666.66666,0.0,-81504371666.66666
+wheat,kerala,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,kerala,uttar pradesh,884.5,0.0,284809000.0,0.0,-284809000.0
+wheat,kerala,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,andhra pradesh,2110.833333333333,672.7320136295966,679688333.3333333,216619708.3887301,-463068624.94460315
+wheat,karnataka,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,assam,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,bihar,221.0,70.4336873330316,71162000.0,22679647.321236175,-48482352.67876382
+wheat,karnataka,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,goa,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,gujarat,1744.6666666666667,556.0330610876131,561782666.6666667,179042645.6702114,-382740020.9964553
+wheat,karnataka,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,haryana,5064.25,1613.9990998927842,1630688500.0,519707710.1654765,-1110980789.8345234
+wheat,karnataka,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,kerala,45516.66666666666,14506.365015573852,14656366666.666664,4671049535.01478,-9985317131.651884
+wheat,karnataka,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,maharashtra,197.8583333333333,63.05833477934272,63710383.33333332,20304783.798948355,-43405599.534384966
+wheat,karnataka,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,madhya pradesh,31103.441666666666,9912.805815978223,10015308216.666666,3191923472.744988,-6823384743.921679
+wheat,karnataka,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,punjab,2288.9,729.482655821611,737025800.0,234893415.17455876,-502132384.82544124
+wheat,karnataka,puducherry,111.24166666666667,35.45321614663043,35819816.66666667,11415935.599214999,-24403881.06745167
+wheat,karnataka,rajasthan,8148.741666666666,2597.0403742427457,2623894816.6666665,836247000.5061641,-1787647816.1605024
+wheat,karnataka,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,tamil nadu,6069.166666666667,1934.2705310952836,1954271666.6666667,622835111.0126814,-1331436555.6539855
+wheat,karnataka,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,karnataka,uttar pradesh,23631.166666666668,7531.358390564519,7609235666.666667,2425097401.761775,-5184138264.904892
+wheat,karnataka,west bengal,218.26666666666665,69.56256178833951,70281866.66666666,22399144.89584532,-47882721.77082133
+wheat,lakshadeep,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,assam,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,goa,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,haryana,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,punjab,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,lakshadeep,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,andhra pradesh,15395.833333333334,8511.301790811942,4957458333.333334,2740639176.641445,-2216819156.691889
+wheat,maharashtra,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,assam,2210.0,1221.7576373062664,711620000.0,393405959.21261775,-318214040.78738225
+wheat,maharashtra,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,chhattisgarh,2166.6666666666665,1197.801605202222,697666666.6666666,385692116.87511545,-311974549.7915512
+wheat,maharashtra,chandigarh,280.3333333333333,154.97709999616438,90267333.33333333,49902626.198764935,-40364707.13456839
+wheat,maharashtra,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,goa,17785.0,9832.108407009931,5726770000.0,3165938907.057198,-2560831092.942802
+wheat,maharashtra,gujarat,13203.333333333334,7299.218704932309,4251473333.3333335,2350348422.9882035,-1901124910.34513
+wheat,maharashtra,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,haryana,86270.11666666667,47692.838872761364,27778977566.666668,15357094117.02916,-12421883449.637508
+wheat,maharashtra,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,jammu and kashmir,1916.6666666666667,1059.5937276788886,617166666.6666667,341189180.31260216,-275977486.3540646
+wheat,maharashtra,kerala,38069.41666666666,21045.973104205634,12258352166.666664,6776803339.5542145,-5481548827.11245
+wheat,maharashtra,karnataka,21405.83333333333,11833.819166472873,6892678333.333332,3810489771.604265,-3082188561.729067
+wheat,maharashtra,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,madhya pradesh,31513.13333333333,17421.45308843922,10147228933.333332,5609707894.477428,-4537521038.855904
+wheat,maharashtra,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,punjab,83899.8,46382.45313052864,27015735600.0,14935149908.03022,-12080585691.96978
+wheat,maharashtra,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,rajasthan,5050.066666666667,2791.8359814053388,1626121466.6666667,898971186.0125191,-727150280.6541476
+wheat,maharashtra,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,telangana,2211.5,1222.5868845714065,712103000.0,393672976.83199286,-318430023.16800714
+wheat,maharashtra,tamil nadu,78705.58333333333,43510.92648694334,25343197833.333332,14010518328.795755,-11332679504.537577
+wheat,maharashtra,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,maharashtra,uttar pradesh,6329.333333333333,3499.054904550737,2038045333.3333333,1126695679.2653372,-911349654.067996
+wheat,maharashtra,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,assam,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,goa,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,haryana,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,punjab,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,meghalaya,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,assam,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,goa,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,haryana,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,punjab,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,manipur,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,madhya pradesh,andhra pradesh,2896735.25,2888709.275932286,932748750500.0,930164386850.196,-2584363649.803955
+wheat,madhya pradesh,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,madhya pradesh,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,madhya pradesh,assam,280854.8333333333,280076.669844238,90435256333.33333,90184687689.84462,-250568643.4887085
+wheat,madhya pradesh,bihar,1098622.5,1095578.5505416547,353756445000.0,352776293274.41284,-980151725.5871582
+wheat,madhya pradesh,chhattisgarh,570753.5833333334,569172.1984073592,183782653833.33334,183273447887.16965,-509205946.1636963
+wheat,madhya pradesh,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,madhya pradesh,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,madhya pradesh,delhi,427459.5,426275.1394817241,137641959000.0,137260594913.11517,-381364086.88482666
+wheat,madhya pradesh,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,madhya pradesh,goa,102466.0,102182.09781776833,32994052000.0,32902635497.321404,-91416502.6785965
+wheat,madhya pradesh,gujarat,2606489.25,2599267.4594935062,839289538500.0,836964121956.909,-2325416543.0909424
+wheat,madhya pradesh,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,madhya pradesh,haryana,196492.0833333333,195947.66341599898,63270450833.33333,63095147619.95167,-175303213.38166046
+wheat,madhya pradesh,jharkhand,214778.25,214183.16466563643,69158596500.0,68966979022.33493,-191617477.66506958
+wheat,madhya pradesh,jammu and kashmir,237859.3333333333,237200.29732336412,76590705333.33333,76378495738.12325,-212209595.210083
+wheat,madhya pradesh,kerala,1697644.5833333333,1692940.925516476,546641555833.3333,545126978016.30524,-1514577817.0280762
+wheat,madhya pradesh,karnataka,3539836.833333333,3530029.0199930314,1139827460333.3333,1136669344437.756,-3158115895.5771484
+wheat,madhya pradesh,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,madhya pradesh,maharashtra,12864392.0,12828748.674781064,4142334224000.0,4130857073279.5024,-11477150720.497559
+wheat,madhya pradesh,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,madhya pradesh,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,madhya pradesh,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,madhya pradesh,nagaland,26860.0,26785.579093409106,8648920000.0,8624956468.077732,-23963531.922267914
+wheat,madhya pradesh,odisha,1186885.6666666667,1183597.1667659567,382177184666.6667,381118287698.63806,-1058896968.0286255
+wheat,madhya pradesh,punjab,17616.916666666668,17568.105538235188,5672647166.666667,5656929983.31173,-15717183.3549366
+wheat,madhya pradesh,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,madhya pradesh,rajasthan,69003.16666666667,68811.97983788872,22219019666.666668,22157457507.800167,-61562158.866500854
+wheat,madhya pradesh,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,madhya pradesh,telangana,207126.8333333333,206552.94775194957,66694840333.33333,66510049176.12776,-184791157.2055664
+wheat,madhya pradesh,tamil nadu,5287245.5,5272596.147673916,1702493051000.0,1697775959551.001,-4717091448.999023
+wheat,madhya pradesh,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,madhya pradesh,uttarakhand,96647.5,96379.71911505051,31120495000.0,31034269555.046265,-86225444.95373535
+wheat,madhya pradesh,uttar pradesh,2908697.75,2900638.631476028,936600675500.0,934005639335.281,-2595036164.718994
+wheat,madhya pradesh,west bengal,1872530.5,1867342.2863950448,602954821000.0,601284216219.2045,-1670604780.7955322
+wheat,mizoram,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,assam,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,goa,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,haryana,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,punjab,121.66666666666669,0.0,39176666.66666667,0.0,-39176666.66666667
+wheat,mizoram,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,mizoram,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,assam,6637.5,13302.994950367549,2137275000.0,4283564374.0183506,2146289374.0183506
+wheat,nagaland,bihar,219.9583333333333,440.84438382291444,70826583.33333331,141951891.59097844,71125308.25764513
+wheat,nagaland,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,goa,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,haryana,501.5833333333333,1005.2821921690178,161509833.3333333,323700865.87842375,162191032.54509044
+wheat,nagaland,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,karnataka,2207.5,4424.310561647663,710815000.0,1424628000.8505476,713813000.8505476
+wheat,nagaland,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,odisha,181246.66666666663,363257.7764877765,58361426666.66666,116969004029.06403,58607577362.39737
+wheat,nagaland,punjab,882.25,1768.2210613878372,284084500.0,569367181.7668836,285282681.7668836
+wheat,nagaland,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,rajasthan,256126.66666666663,513333.5974871772,82472786666.66666,165293418390.87106,82820631724.2044
+wheat,nagaland,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,tamil nadu,20426.666666666668,40939.48678260005,6577386666.666667,13182514743.997215,6605128077.330548
+wheat,nagaland,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,nagaland,uttar pradesh,9594.166666666666,19228.798601830706,3089321666.6666665,6191673149.789487,3102351483.1228204
+wheat,nagaland,west bengal,51138.333333333336,102492.352557973,16466543333.333334,33002537523.66731,16535994190.333975
+wheat,odisha,andhra pradesh,2205.0,93771.84927169094,710010000.0,30194535465.48448,29484525465.48448
+wheat,odisha,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,assam,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,bihar,209.8333333333333,8923.5644922947,67566333.33333331,2873387766.5188932,2805821433.1855597
+wheat,odisha,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,delhi,220.75,9387.816656111463,71081500.0,3022876963.267891,2951795463.267891
+wheat,odisha,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,goa,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,gujarat,2215.0,94197.11842938568,713230000.0,30331472134.262188,29618242134.262188
+wheat,odisha,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,haryana,12873.916666666666,547487.9697065653,4145401166.6666665,176291126245.514,172145725078.84735
+wheat,odisha,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,maharashtra,4262.5,181270.9784673844,1372525000.0,58369255066.49778,56996730066.49778
+wheat,odisha,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,madhya pradesh,10151.566666666668,431714.8205615369,3268804466.666667,139012172220.81488,135743367754.14821
+wheat,odisha,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,punjab,17719.55,753557.8103229891,5705695100.0,242645614924.0025,236939919824.0025
+wheat,odisha,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,rajasthan,7162.5,304599.03419886006,2306325000.0,98080889012.03294,95774564012.03294
+wheat,odisha,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,tamil nadu,60229.16666666666,2561360.697698965,19393791666.666664,824758144659.0668,805364352992.4001
+wheat,odisha,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,odisha,uttar pradesh,71674.08333333333,3048077.704770952,23079054833.333332,981481020936.2466,958401966102.9132
+wheat,odisha,west bengal,105522.75,4487557.101013299,33978325500.0,1444993386526.2822,1411015061026.2822
+wheat,punjab,andhra pradesh,813848.3333333334,813848.3333333334,262059163333.33334,262059163333.33334,0.0
+wheat,punjab,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,punjab,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,punjab,assam,2337256.5,2337256.5,752596593000.0,752596593000.0,0.0
+wheat,punjab,bihar,10369251.083333334,10369251.083333334,3338898848833.3335,3338898848833.3335,0.0
+wheat,punjab,chhattisgarh,350679.1666666667,350679.1666666667,112918691666.66667,112918691666.66667,0.0
+wheat,punjab,chandigarh,637879.1666666666,637879.1666666666,205397091666.66666,205397091666.66666,0.0
+wheat,punjab,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,punjab,delhi,1363936.6666666667,1363936.6666666667,439187606666.6667,439187606666.6667,0.0
+wheat,punjab,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,punjab,goa,97541.66666666669,97541.66666666669,31408416666.66667,31408416666.66667,0.0
+wheat,punjab,gujarat,7588925.0,7588925.0,2443633850000.0,2443633850000.0,0.0
+wheat,punjab,himachal pradesh,549219.1666666666,549219.1666666666,176848571666.66666,176848571666.66666,0.0
+wheat,punjab,haryana,38203.333333333336,38203.333333333336,12301473333.333334,12301473333.333334,0.0
+wheat,punjab,jharkhand,890718.6666666666,890718.6666666666,286811410666.6666,286811410666.6666,0.0
+wheat,punjab,jammu and kashmir,1390784.1666666667,1390784.1666666667,447832501666.6667,447832501666.6667,0.0
+wheat,punjab,kerala,1327568.75,1327568.75,427477137500.0,427477137500.0,0.0
+wheat,punjab,karnataka,2518473.6666666665,2518473.6666666665,810948520666.6666,810948520666.6666,0.0
+wheat,punjab,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,punjab,maharashtra,8271714.583333333,8271714.583333333,2663492095833.333,2663492095833.333,0.0
+wheat,punjab,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,punjab,manipur,1401.6666666666667,1401.6666666666667,451336666.6666667,451336666.6666667,0.0
+wheat,punjab,madhya pradesh,875571.3333333334,875571.3333333334,281933969333.3334,281933969333.3334,0.0
+wheat,punjab,mizoram,7952.5,7952.5,2560705000.0,2560705000.0,0.0
+wheat,punjab,nagaland,197675.0,197675.0,63651350000.0,63651350000.0,0.0
+wheat,punjab,odisha,2143236.25,2143236.25,690122072500.0,690122072500.0,0.0
+wheat,punjab,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,punjab,rajasthan,1792689.3333333333,1792689.3333333333,577245965333.3333,577245965333.3333,0.0
+wheat,punjab,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,punjab,telangana,13342.5,13342.5,4296285000.0,4296285000.0,0.0
+wheat,punjab,tamil nadu,1866469.6666666667,1866469.6666666667,601003232666.6667,601003232666.6667,0.0
+wheat,punjab,tripura,87614.0,87614.0,28211708000.0,28211708000.0,0.0
+wheat,punjab,uttarakhand,561764.1666666666,561764.1666666666,180888061666.66666,180888061666.66666,0.0
+wheat,punjab,uttar pradesh,12165168.916666666,12165168.916666666,3917184391166.6665,3917184391166.6665,0.0
+wheat,punjab,west bengal,14488084.416666666,14488084.416666666,4665163182166.666,4665163182166.666,0.0
+wheat,puducherry,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,assam,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,goa,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,haryana,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,punjab,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,puducherry,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,rajasthan,andhra pradesh,251480.75,251480.75,80976801500.0,80976801500.0,0.0
+wheat,rajasthan,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,rajasthan,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,rajasthan,assam,86159.83333333333,86159.83333333333,27743466333.333332,27743466333.333332,0.0
+wheat,rajasthan,bihar,6659.083333333333,6659.083333333333,2144224833.3333333,2144224833.3333333,0.0
+wheat,rajasthan,chhattisgarh,1686.25,1686.25,542972500.0,542972500.0,0.0
+wheat,rajasthan,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,rajasthan,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,rajasthan,delhi,164922.16666666666,164922.16666666666,53104937666.666664,53104937666.666664,0.0
+wheat,rajasthan,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,rajasthan,goa,0.0,0.0,0.0,0.0,0.0
+wheat,rajasthan,gujarat,246646.66666666663,246646.66666666663,79420226666.66666,79420226666.66666,0.0
+wheat,rajasthan,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,rajasthan,haryana,10140.333333333334,10140.333333333334,3265187333.3333335,3265187333.3333335,0.0
+wheat,rajasthan,jharkhand,6595.5,6595.5,2123751000.0,2123751000.0,0.0
+wheat,rajasthan,jammu and kashmir,24277.916666666668,24277.916666666668,7817489166.666667,7817489166.666667,0.0
+wheat,rajasthan,kerala,979643.8333333334,979643.8333333334,315445314333.3334,315445314333.3334,0.0
+wheat,rajasthan,karnataka,1061425.0833333333,1061425.0833333333,341778876833.3333,341778876833.3333,0.0
+wheat,rajasthan,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,rajasthan,maharashtra,99427.58333333331,99427.58333333331,32015681833.33333,32015681833.33333,0.0
+wheat,rajasthan,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,rajasthan,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,rajasthan,madhya pradesh,40278.61666666667,40278.61666666667,12969714566.666668,12969714566.666668,0.0
+wheat,rajasthan,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,rajasthan,nagaland,9779.833333333334,9779.833333333334,3149106333.3333335,3149106333.3333335,0.0
+wheat,rajasthan,odisha,120505.75,120505.75,38802851500.0,38802851500.0,0.0
+wheat,rajasthan,punjab,23178.0,23178.0,7463316000.0,7463316000.0,0.0
+wheat,rajasthan,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,rajasthan,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,rajasthan,telangana,55400.25,55400.25,17838880500.0,17838880500.0,0.0
+wheat,rajasthan,tamil nadu,2970374.1666666665,2970374.1666666665,956460481666.6666,956460481666.6666,0.0
+wheat,rajasthan,tripura,7921.333333333333,7921.333333333333,2550669333.333333,2550669333.333333,0.0
+wheat,rajasthan,uttarakhand,15426.916666666666,15426.916666666666,4967467166.666666,4967467166.666666,0.0
+wheat,rajasthan,uttar pradesh,54799.083333333336,54799.083333333336,17645304833.333336,17645304833.333336,0.0
+wheat,rajasthan,west bengal,81691.33333333333,81691.33333333333,26304609333.333332,26304609333.333332,0.0
+wheat,sikkim,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,assam,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,goa,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,haryana,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,punjab,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,sikkim,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,assam,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,goa,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,gujarat,215.825,0.0,69495650.0,0.0,-69495650.0
+wheat,telangana,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,haryana,1004.1666666666666,0.0,323341666.6666666,0.0,-323341666.6666666
+wheat,telangana,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,madhya pradesh,20965.675,0.0,6750947350.0,0.0,-6750947350.0
+wheat,telangana,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,punjab,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,rajasthan,2044.275,0.0,658256550.0,0.0,-658256550.0
+wheat,telangana,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,telangana,uttar pradesh,3695.3333333333335,0.0,1189897333.3333335,0.0,-1189897333.3333335
+wheat,telangana,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,andhra pradesh,23827.416666666668,0.0,7672428166.666667,0.0,-7672428166.666667
+wheat,tamil nadu,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,assam,8837.5,0.0,2845675000.0,0.0,-2845675000.0
+wheat,tamil nadu,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,goa,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,haryana,8702.833333333334,0.0,2802312333.3333335,0.0,-2802312333.3333335
+wheat,tamil nadu,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,kerala,7727.5,0.0,2488255000.0,0.0,-2488255000.0
+wheat,tamil nadu,karnataka,106295.83333333331,0.0,34227258333.33333,0.0,-34227258333.33333
+wheat,tamil nadu,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,madhya pradesh,27256.283333333336,0.0,8776523233.333334,0.0,-8776523233.333334
+wheat,tamil nadu,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,punjab,17750.7,0.0,5715725400.0,0.0,-5715725400.0
+wheat,tamil nadu,puducherry,220.2333333333333,0.0,70915133.33333331,0.0,-70915133.33333331
+wheat,tamil nadu,rajasthan,25228.566666666666,0.0,8123598466.666666,0.0,-8123598466.666666
+wheat,tamil nadu,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,tamil nadu,uttar pradesh,9453.133333333331,0.0,3043908933.3333325,0.0,-3043908933.3333325
+wheat,tamil nadu,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,assam,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,bihar,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,goa,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,haryana,664.25,0.0,213888500.0,0.0,-213888500.0
+wheat,tripura,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,madhya pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,punjab,3280.9166666666665,0.0,1056455166.6666666,0.0,-1056455166.6666666
+wheat,tripura,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,tamil nadu,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,tripura,uttar pradesh,1107.75,0.0,356695500.0,0.0,-356695500.0
+wheat,tripura,west bengal,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,assam,11994.166666666666,12771.151098564156,3862121666.6666665,4112310653.7376585,250188987.070992
+wheat,uttarakhand,bihar,80640.0,85863.87476591789,25966080000.0,27648167674.62556,1682087674.6255608
+wheat,uttarakhand,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,chandigarh,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,goa,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,haryana,4586.583333333333,4883.703087013635,1476879833.3333333,1572552394.0183904,95672560.68505716
+wheat,uttarakhand,jharkhand,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,madhya pradesh,444.0,472.7624057052027,142968000.0,152229494.63707528,9261494.637075275
+wheat,uttarakhand,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,nagaland,1328.3333333333333,1414.383023074499,427723333.3333333,455431333.4299887,27708000.09665537
+wheat,uttarakhand,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,punjab,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,tamil nadu,11040.0,11755.173331048283,3554880000.0,3785165812.597547,230285812.59754705
+wheat,uttarakhand,tripura,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,uttar pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,uttarakhand,west bengal,2147.5,2286.6154645313577,691495000.0,736290179.5790972,44795179.57909715
+wheat,uttar pradesh,andhra pradesh,910495.0,908939.5896753467,293179390000.0,292678547875.4617,-500842124.5383301
+wheat,uttar pradesh,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,uttar pradesh,arunachal pradesh,2217.5,2213.7118162154447,714035000.0,712815204.8213732,-1219795.1786267757
+wheat,uttar pradesh,assam,1589176.0,1586461.1901898514,511714672000.0,510840503241.13214,-874168758.8678589
+wheat,uttar pradesh,bihar,135217.91666666666,134986.92215965517,43540169166.666664,43465788935.408966,-74380231.25769806
+wheat,uttar pradesh,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,uttar pradesh,chandigarh,28983.75,28934.236686915174,9332767500.0,9316824213.186686,-15943286.813314438
+wheat,uttar pradesh,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,uttar pradesh,delhi,35883.166666666664,35821.86699130921,11554379666.666666,11534641171.201565,-19738495.465101242
+wheat,uttar pradesh,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,uttar pradesh,goa,70515.0,70394.53831812045,22705830000.0,22667041338.434784,-38788661.565216064
+wheat,uttar pradesh,gujarat,1672981.25,1670123.2746028795,538699962500.0,537779694422.1272,-920268077.8728027
+wheat,uttar pradesh,himachal pradesh,4367.5,4360.038943549473,1406335000.0,1403932539.82293,-2402460.1770699024
+wheat,uttar pradesh,haryana,33480.35833333333,33423.16340637079,10780675383.333332,10762258616.851395,-18416766.48193741
+wheat,uttar pradesh,jharkhand,9845.833333333334,9829.01356955486,3170358333.3333335,3164942369.3966646,-5415963.936668873
+wheat,uttar pradesh,jammu and kashmir,228726.66666666663,228335.92995876944,73649986666.66666,73524169446.72375,-125817219.94290161
+wheat,uttar pradesh,kerala,385110.8333333333,384452.9435411846,124005688333.33333,123793847820.26144,-211840513.07188416
+wheat,uttar pradesh,karnataka,3200525.583333333,3195058.0842953003,1030569237833.3333,1028808703143.0867,-1760534690.246582
+wheat,uttar pradesh,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,uttar pradesh,maharashtra,216741.66666666663,216371.40408849117,69790816666.66666,69671592116.49416,-119224550.17250061
+wheat,uttar pradesh,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,uttar pradesh,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,uttar pradesh,madhya pradesh,8143.766666666666,8129.854565276873,2622292866.6666665,2617813170.019153,-4479696.64751339
+wheat,uttar pradesh,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,uttar pradesh,nagaland,198975.0,198635.0884471108,64069950000.0,63960498479.96967,-109451520.03032684
+wheat,uttar pradesh,odisha,1296869.4166666667,1294653.9579541967,417591952166.6667,416878574461.25134,-713377705.4153442
+wheat,uttar pradesh,punjab,457557.30833333335,456775.65729570854,147333453283.33334,147081761649.21814,-251691634.11520386
+wheat,uttar pradesh,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,uttar pradesh,rajasthan,7357.583333333333,7345.014279048397,2369141833.333333,2365094597.853584,-4047235.4797492027
+wheat,uttar pradesh,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,uttar pradesh,telangana,33181.666666666664,33124.98199852183,10684496666.666666,10666244203.524029,-18252463.142637253
+wheat,uttar pradesh,tamil nadu,1850249.75,1847088.9445432571,595780419500.0,594762640142.9288,-1017779357.071167
+wheat,uttar pradesh,tripura,114650.83333333331,114454.9738394352,36917568333.33333,36854501576.298134,-63066757.0351944
+wheat,uttar pradesh,uttarakhand,2217.5,2213.7118162154447,714035000.0,712815204.8213732,-1219795.1786267757
+wheat,uttar pradesh,west bengal,1239414.0,1237296.693115152,399091308000.0,398409535183.0789,-681772816.9210815
+wheat,west bengal,andhra pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,andaman and nicobar,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,arunachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,assam,31755.83333333333,171047.78806906226,10225378333.333332,55077387758.238045,44852009424.90471
+wheat,west bengal,bihar,3040.833333333333,16378.969183194904,979148333.3333333,5274028076.988759,4294879743.655426
+wheat,west bengal,chhattisgarh,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,chandigarh,219.75,1183.6487184457376,70759500.0,381134887.3395275,310375387.3395275
+wheat,west bengal,daman and diu,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,delhi,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,dadra and nagar haveli,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,goa,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,gujarat,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,himachal pradesh,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,haryana,47464.25,255658.69708527008,15283488500.0,82322100461.45697,67038611961.45697
+wheat,west bengal,jharkhand,2215.0,11930.748174549755,713230000.0,3841700912.2050214,3128470912.2050214
+wheat,west bengal,jammu and kashmir,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,kerala,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,karnataka,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,lakshadeep,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,maharashtra,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,meghalaya,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,manipur,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,madhya pradesh,9463.583333333334,50974.099132670955,3047273833.3333335,16413659920.720047,13366386087.386713
+wheat,west bengal,mizoram,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,nagaland,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,odisha,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,punjab,200322.56666666665,1079005.9126769549,64503866466.666664,347439903881.9795,282936037415.3128
+wheat,west bengal,puducherry,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,rajasthan,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,sikkim,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,telangana,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,tamil nadu,19758.166666666668,106424.24870915718,6362129666.666667,34268608084.348614,27906478417.681946
+wheat,west bengal,tripura,6598.333333333333,35540.88188340292,2124663333.3333333,11444163966.455742,9319500633.122408
+wheat,west bengal,uttarakhand,0.0,0.0,0.0,0.0,0.0
+wheat,west bengal,uttar pradesh,2194.0,11817.6349864389,706468000.0,3805278465.6333256,3098810465.6333256

@@ -1,0 +1,25 @@
+# Primary revenue price summary
+
+Scenario year: `2017-18`.
+
+This table summarizes the implemented price benchmark used in the revised main optimization.
+Matched state-crop combinations use direct state-year realized prices derived from MoSPI
+value of output divided by DES APY production. Unmatched state-crop combinations use the
+submitted model's MSP reference multiplied by the crop-specific all-India realized-price/MSP
+ratio for 2017-18.
+
+Output files:
+- `data/generated/primary_revenue_price_summary/primary_revenue_price_summary.csv`
+- `data/generated/primary_revenue_price_summary/primary_revenue_price_summary.tex`
+
+Summary:
+
+```csv
+crop,msp_reference_rs_per_quintal,fallback_multiplier,fallback_price_rs_per_quintal,matched_states_in_model,direct_area_coverage_percent,area_weighted_benchmark_price_rs_per_quintal
+Rice,1570.0,1.4994573215463318,2354.147994827741,31/32,99.99997755074334,2305.2330928315027
+Wheat,1735.0,0.9189797375087708,1594.4298445777174,21/27,99.98608916131717,1602.171516739619
+Maize,1425.0,0.8829622988251736,1258.2212758258725,28/30,99.99885587618738,1277.6538090839247
+Jowar,1712.5,0.9525914377708102,1631.3128371825126,12/22,99.8993945236701,1543.5408204891492
+Bajra,1425.0,0.9034437295530016,1287.4073146130272,12/21,99.96698305919007,1269.462903727619
+Ragi,1900.0,1.1616733179937972,2207.1793041882147,12/19,99.08525971895858,2217.4145055329423
+```

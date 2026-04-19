@@ -1,0 +1,23 @@
+season,pattern,State,n_districts,co_occurring_area_ha
+rabi,rice_loss_wheat_gain,west bengal,7,489571.095341279
+rabi,rice_loss_wheat_gain,uttar pradesh,20,19927.0
+rabi,rice_loss_wheat_gain,assam,2,19342.0
+rabi,rice_loss_wheat_gain,uttarakhand,2,13949.0
+rabi,rice_loss_wheat_gain,gujarat,6,7878.0
+rabi,rice_loss_wheat_gain,madhya pradesh,15,6200.0
+rabi,rice_loss_wheat_gain,bihar,5,4133.0
+rabi,rice_loss_wheat_gain,meghalaya,2,281.0
+rabi,rice_loss_wheat_gain,dadra and nagar haveli,1,5.431351155493758e-07
+rabi,wheat_loss_rice_gain,uttar pradesh,2,301906.36950694415
+rabi,wheat_loss_rice_gain,bihar,3,214490.0
+rabi,wheat_loss_rice_gain,maharashtra,4,148405.0
+rabi,wheat_loss_rice_gain,gujarat,4,112870.0
+rabi,wheat_loss_rice_gain,madhya pradesh,1,55560.0
+rabi,wheat_loss_rice_gain,assam,21,15845.0
+rabi,wheat_loss_rice_gain,uttarakhand,1,11023.795030487096
+rabi,wheat_loss_rice_gain,west bengal,7,3547.0
+rabi,wheat_loss_rice_gain,nagaland,4,1650.0
+rabi,wheat_loss_rice_gain,telangana,5,1163.0
+rabi,wheat_loss_rice_gain,meghalaya,4,417.0
+rabi,wheat_loss_rice_gain,tripura,7,171.0
+rabi,wheat_loss_rice_gain,odisha,6,48.0

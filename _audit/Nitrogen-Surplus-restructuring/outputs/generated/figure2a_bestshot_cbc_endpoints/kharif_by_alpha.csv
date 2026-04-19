@@ -1,0 +1,3 @@
+Alpha,rows,objective_nitrogen,objective_water,solve_status,solve_status_code,objective_nitrogen_nunique,objective_water_nunique,solve_status_nunique,is_optimal,is_consistent,is_valid,season
+0.0,3535,4264684841.3761873,177530981163.72528,Infeasible,-1,1,1,1,False,True,False,kharif
+1.0,3535,3866575127.990634,205821725227.94965,Infeasible,-1,1,1,1,False,True,False,kharif

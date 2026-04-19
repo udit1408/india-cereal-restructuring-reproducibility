@@ -1,0 +1,96 @@
+source_state,target_state,trade_kcal
+andhra pradesh,haryana,4327732500.0
+andhra pradesh,karnataka,50043240000.0
+andhra pradesh,kerala,8652150000.0
+andhra pradesh,maharashtra,4395690000.0
+andhra pradesh,punjab,8214570000.0
+andhra pradesh,tamil nadu,270065370000.0
+andhra pradesh,uttar pradesh,8691930000.0
+andhra pradesh,west bengal,43544182500.0
+bihar,andhra pradesh,57056122500.0
+bihar,assam,58547320000.0
+bihar,chhattisgarh,26463645000.0
+bihar,gujarat,11446695000.0
+bihar,haryana,32257160000.0
+bihar,karnataka,238432480000.0
+bihar,kerala,32243900000.0
+bihar,maharashtra,43262960000.0
+bihar,punjab,87622080000.0
+bihar,tamil nadu,476427380000.0
+bihar,telangana,16893240000.0
+bihar,uttarakhand,363047750000.0
+bihar,west bengal,25303395000.0
+chhattisgarh,assam,5850975000.0
+chhattisgarh,tamil nadu,2927145000.0
+chhattisgarh,west bengal,14618045000.0
+delhi,maharashtra,2940405000.0
+gujarat,assam,2448680000.0
+gujarat,haryana,16929172333.333332
+haryana,karnataka,6059570000.0
+haryana,punjab,30066276500.0
+karnataka,andhra pradesh,48226620000.0
+karnataka,assam,6532760000.0
+karnataka,bihar,2861950000.0
+karnataka,haryana,5771415000.0
+karnataka,kerala,14685450000.0
+karnataka,maharashtra,17036890000.0
+karnataka,odisha,14201460000.0
+karnataka,punjab,5681910000.0
+karnataka,rajasthan,2847585000.0
+karnataka,tamil nadu,211553134000.0
+karnataka,uttarakhand,8454355000.0
+karnataka,west bengal,17605965000.0
+madhya pradesh,andhra pradesh,5575830000.0
+madhya pradesh,assam,3717220000.0
+madhya pradesh,bihar,68894429500.0
+madhya pradesh,chhattisgarh,30144400000.0
+madhya pradesh,gujarat,11728470000.0
+madhya pradesh,haryana,109400525000.0
+madhya pradesh,karnataka,14119690000.0
+madhya pradesh,kerala,2937090000.0
+madhya pradesh,punjab,334741735000.0
+madhya pradesh,tamil nadu,181171800000.0
+madhya pradesh,telangana,34810815000.0
+madhya pradesh,uttar pradesh,2923830000.0
+madhya pradesh,uttarakhand,374529363000.0
+madhya pradesh,west bengal,67405994500.0
+maharashtra,andhra pradesh,18822570000.0
+maharashtra,assam,5850975000.0
+maharashtra,bihar,23711090000.0
+maharashtra,delhi,1252834000.0
+maharashtra,haryana,39094900000.0
+maharashtra,karnataka,81739060000.0
+maharashtra,kerala,5844345000.0
+maharashtra,punjab,37132420000.0
+maharashtra,tamil nadu,204894625000.0
+maharashtra,telangana,97321770000.0
+maharashtra,uttarakhand,123008600000.0
+maharashtra,west bengal,25031350000.0
+odisha,assam,5706220000.0
+odisha,tamil nadu,17433585000.0
+odisha,west bengal,90572430000.0
+punjab,karnataka,5867550000.0
+punjab,tamil nadu,2937090000.0
+rajasthan,andhra pradesh,1288980000.0
+rajasthan,tamil nadu,26980374666.666664
+tamil nadu,kerala,2923830000.0
+telangana,tamil nadu,82898205000.0
+uttar pradesh,assam,29189600000.0
+uttar pradesh,bihar,2306135000.0
+uttar pradesh,haryana,28099045000.0
+uttar pradesh,karnataka,2831010000.0
+uttar pradesh,maharashtra,33071545000.0
+uttar pradesh,tamil nadu,212814758333.3333
+uttar pradesh,telangana,88311600000.0
+uttar pradesh,west bengal,30246700000.0
+west bengal,andhra pradesh,17577787500.0
+west bengal,assam,2947035000.0
+west bengal,bihar,7245485000.0
+west bengal,chhattisgarh,5857605000.0
+west bengal,gujarat,2755870000.0
+west bengal,karnataka,87655230000.0
+west bengal,maharashtra,22975160000.0
+west bengal,punjab,20472335000.0
+west bengal,tamil nadu,155118795000.0
+west bengal,telangana,96135000000.0
+west bengal,uttarakhand,29071445000.0

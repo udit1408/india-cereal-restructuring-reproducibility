@@ -1,0 +1,2391 @@
+,state,district,crop,Area (Hectare),Production (Tonnes),Yield (Tonnes/Hectare)
+0,andaman and nicobar,,Maize,239.0,879.36,3.809886919977471
+1,andaman and nicobar,nicobars,Maize,9.7,18.22,9.166666666666668
+2,andaman and nicobar,north and middle andaman,Maize,96.5,456.0,4.725388601036269
+3,andaman and nicobar,south andamans,Maize,73.0,253.0,3.4657534246575343
+4,andhra pradesh,adilabad,Maize,15049.0,54372.0,4.938932846419152
+5,andhra pradesh,adilabad,bajra,1820.0,1127.0,1.0
+6,andhra pradesh,adilabad,jowar,96100.0,63196.0,0.9759563905383044
+7,andhra pradesh,adilabad,ragi,13.0,17.0,1.3076923076923077
+8,andhra pradesh,adilabad,rice,27644.0,79891.0,3.100006456194719
+9,andhra pradesh,adilabad,wheat,7180.0,8350.0,1.3461084905660377
+10,andhra pradesh,anantapur,Maize,8952.0,57970.0,9.117052631578948
+11,andhra pradesh,anantapur,bajra,317.0,185.0,1.893939393939394
+12,andhra pradesh,anantapur,jowar,24944.0,30576.0,1.4932432432432432
+13,andhra pradesh,anantapur,ragi,1695.0,3421.0,2.5880195599022007
+14,andhra pradesh,anantapur,rice,38119.0,108906.0,3.1346033075151767
+15,andhra pradesh,anantapur,wheat,520.0,333.0,1.3333333333333333
+16,andhra pradesh,chittoor,Maize,1303.0,9713.0,9.116883116883116
+17,andhra pradesh,chittoor,bajra,393.0,514.0,4.0
+18,andhra pradesh,chittoor,jowar,130.0,155.0,1.7272727272727273
+19,andhra pradesh,chittoor,ragi,1776.0,2700.0,2.259216589861752
+20,andhra pradesh,chittoor,rice,78677.0,301962.0,3.8669976482884767
+21,andhra pradesh,chittoor,wheat,7.0,7.0,1.4
+22,andhra pradesh,east godavari,Maize,12156.0,108400.0,9.993054433855598
+23,andhra pradesh,east godavari,bajra,24.0,11.0,1.0
+24,andhra pradesh,east godavari,jowar,1776.0,1172.0,4.583333333333333
+25,andhra pradesh,east godavari,ragi,115.0,190.0,1.8928571428571428
+26,andhra pradesh,east godavari,rice,172888.0,900954.0,5.60099716516636
+27,andhra pradesh,guntur,Maize,95547.0,950884.0,11.292996016632744
+28,andhra pradesh,guntur,bajra,200.0,268.0,2.0
+29,andhra pradesh,guntur,jowar,40280.0,240149.0,6.975920125293657
+30,andhra pradesh,guntur,ragi,1175.0,1406.0,1.875
+31,andhra pradesh,guntur,rice,112342.0,383423.0,4.622997374484274
+32,andhra pradesh,guntur,wheat,43.0,56.0,1.302325581395349
+33,andhra pradesh,hyderabad,rice,100.0,200.0,2.4166666666666665
+34,andhra pradesh,kadapa,Maize,4364.0,33761.0,13.751934826883913
+35,andhra pradesh,kadapa,bajra,3979.0,8595.0,2.7088122605363987
+36,andhra pradesh,kadapa,jowar,19038.0,38133.0,2.002994011976048
+37,andhra pradesh,kadapa,ragi,948.0,1814.0,2.259259259259259
+38,andhra pradesh,kadapa,rice,37550.0,98231.0,3.3639892781218226
+39,andhra pradesh,kadapa,wheat,274.0,195.0,2.0
+40,andhra pradesh,karimnagar,Maize,65000.0,377000.0,5.8
+41,andhra pradesh,karimnagar,bajra,2696.0,1955.0,1.0
+42,andhra pradesh,karimnagar,jowar,6200.0,5200.0,1.297071129707113
+43,andhra pradesh,karimnagar,rice,221971.0,828396.0,3.7320010271612056
+44,andhra pradesh,karimnagar,wheat,200.0,108.0,1.3125
+45,andhra pradesh,khammam,Maize,21774.0,167080.0,7.771010547805376
+46,andhra pradesh,khammam,bajra,91.0,55.0,1.0
+47,andhra pradesh,khammam,jowar,22400.0,16400.0,1.3560076930863447
+48,andhra pradesh,khammam,ragi,4.0,7.0,1.75
+49,andhra pradesh,khammam,rice,54625.0,197087.0,3.608
+50,andhra pradesh,krishna,Maize,25554.0,205365.0,9.387049420975371
+51,andhra pradesh,krishna,bajra,2.0,2.0,1.0
+52,andhra pradesh,krishna,jowar,2584.0,9031.0,4.959493670886076
+53,andhra pradesh,krishna,ragi,5.0,9.0,2.0
+54,andhra pradesh,krishna,rice,134500.0,491200.0,5.633809958422066
+55,andhra pradesh,kurnool,Maize,14029.0,97796.0,9.116915871014232
+56,andhra pradesh,kurnool,bajra,1241.0,1870.0,2.2804878048780486
+57,andhra pradesh,kurnool,jowar,113800.0,141292.0,2.420993757442356
+58,andhra pradesh,kurnool,ragi,6.0,10.0,1.6666666666666667
+59,andhra pradesh,kurnool,rice,44772.0,157911.0,3.9159993800692257
+60,andhra pradesh,kurnool,wheat,1264.0,876.0,2.3125
+61,andhra pradesh,mahbubnagar,Maize,4976.0,23935.0,5.666666666666667
+62,andhra pradesh,mahbubnagar,bajra,594.0,364.0,1.0
+63,andhra pradesh,mahbubnagar,jowar,61000.0,35237.0,1.0
+64,andhra pradesh,mahbubnagar,ragi,1182.0,2047.0,2.0
+65,andhra pradesh,mahbubnagar,rice,74700.0,185537.0,2.8259994768716927
+66,andhra pradesh,mahbubnagar,wheat,315.0,200.0,1.4285714285714286
+67,andhra pradesh,medak,Maize,18000.0,93000.0,5.166666666666667
+68,andhra pradesh,medak,bajra,9.0,5.0,0.5555555555555556
+69,andhra pradesh,medak,jowar,55600.0,44844.0,1.2339949518127582
+70,andhra pradesh,medak,ragi,1.0,2.0,2.0
+71,andhra pradesh,medak,rice,62644.0,229026.0,3.655992593065577
+72,andhra pradesh,medak,wheat,4052.0,7820.0,2.7400140154169588
+73,andhra pradesh,nalgonda,Maize,2000.0,7000.0,5.351351351351352
+74,andhra pradesh,nalgonda,bajra,82.0,16.0,0.6
+75,andhra pradesh,nalgonda,jowar,18700.0,10423.0,0.7255985267034991
+76,andhra pradesh,nalgonda,ragi,8.0,14.0,2.0
+77,andhra pradesh,nalgonda,rice,199166.0,681148.0,3.4320018312922054
+78,andhra pradesh,nizamabad,Maize,39000.0,161000.0,6.819996161965074
+79,andhra pradesh,nizamabad,bajra,9000.0,6000.0,2.0
+80,andhra pradesh,nizamabad,jowar,24800.0,43147.0,1.900937081659973
+81,andhra pradesh,nizamabad,ragi,8.0,14.0,1.75
+82,andhra pradesh,nizamabad,rice,110314.0,416744.0,3.9730013156138577
+83,andhra pradesh,nizamabad,wheat,2610.0,2179.0,2.0
+84,andhra pradesh,prakasam,Maize,20101.0,161351.0,8.389008234872897
+85,andhra pradesh,prakasam,bajra,1807.0,2714.0,2.532863849765258
+86,andhra pradesh,prakasam,jowar,20714.0,39000.0,2.339046045839356
+87,andhra pradesh,prakasam,ragi,5951.0,12241.0,2.191039729501268
+88,andhra pradesh,prakasam,rice,107903.0,385888.0,3.959003774334525
+89,andhra pradesh,prakasam,wheat,73.0,67.0,0.9178082191780822
+90,andhra pradesh,rangareddi,Maize,2331.0,11212.0,5.350473612990528
+91,andhra pradesh,rangareddi,bajra,39.0,23.0,1.0
+92,andhra pradesh,rangareddi,jowar,23400.0,20223.0,2.1560545764639
+93,andhra pradesh,rangareddi,ragi,358.0,620.0,3.0
+94,andhra pradesh,rangareddi,rice,29800.0,77000.0,2.786983669548511
+95,andhra pradesh,rangareddi,wheat,2156.0,1529.0,1.3215339233038348
+96,andhra pradesh,spsr nellore,Maize,1631.0,12157.0,9.116370808678502
+97,andhra pradesh,spsr nellore,bajra,79.0,193.0,3.74468085106383
+98,andhra pradesh,spsr nellore,jowar,3000.0,12000.0,4.714285714285714
+99,andhra pradesh,spsr nellore,ragi,788.0,1640.0,2.25
+100,andhra pradesh,spsr nellore,rice,257837.0,1179003.0,4.698997757494689
+101,andhra pradesh,srikakulam,Maize,24924.0,188077.0,11.0
+102,andhra pradesh,srikakulam,jowar,400.0,200.0,4.666666666666667
+103,andhra pradesh,srikakulam,ragi,3910.0,6209.0,2.0139240506329115
+104,andhra pradesh,srikakulam,rice,9520.0,30457.0,3.75
+105,andhra pradesh,srikakulam,wheat,5.0,3.0,0.6
+106,andhra pradesh,visakhapatanam,Maize,1474.0,12486.0,11.0
+107,andhra pradesh,visakhapatanam,jowar,363.0,374.0,5.0
+108,andhra pradesh,visakhapatanam,ragi,2100.0,4400.0,3.049107142857143
+109,andhra pradesh,visakhapatanam,rice,7262.0,18873.0,3.710526315789474
+110,andhra pradesh,vizianagaram,Maize,19606.0,167827.0,8.559981638273998
+111,andhra pradesh,vizianagaram,bajra,5.0,5.0,1.0
+112,andhra pradesh,vizianagaram,jowar,200.0,300.0,4.714285714285714
+113,andhra pradesh,vizianagaram,ragi,2600.0,5700.0,2.562962962962963
+114,andhra pradesh,vizianagaram,rice,7507.0,23452.0,3.6944444444444446
+115,andhra pradesh,warangal,Maize,41000.0,228000.0,5.59300052627622
+116,andhra pradesh,warangal,bajra,2000.0,1000.0,0.8
+117,andhra pradesh,warangal,jowar,25400.0,19200.0,0.9068797776233496
+118,andhra pradesh,warangal,rice,98782.0,341094.0,3.535211267605634
+119,andhra pradesh,warangal,wheat,55.0,42.0,1.3
+120,andhra pradesh,west godavari,Maize,57247.0,487934.0,9.23800793719265
+121,andhra pradesh,west godavari,jowar,1823.0,2220.0,4.72
+122,andhra pradesh,west godavari,ragi,10.0,18.0,1.8
+123,andhra pradesh,west godavari,rice,200369.0,931515.0,5.394663525254012
+124,arunachal pradesh,anjaw,wheat,34.0,73.0,2.147058823529412
+125,arunachal pradesh,changlang,wheat,375.0,862.0,2.300268096514745
+126,arunachal pradesh,dibang valley,wheat,196.0,350.0,2.6717557251908395
+127,arunachal pradesh,east kameng,wheat,470.0,795.0,4.2631578947368425
+128,arunachal pradesh,east siang,wheat,538.0,1181.0,3.466019417475728
+129,arunachal pradesh,kurung kumey,wheat,15.0,16.0,1.0666666666666669
+130,arunachal pradesh,lohit,wheat,558.0,1136.0,2.125560538116592
+131,arunachal pradesh,lower dibang valley,wheat,394.0,795.0,2.018324607329843
+132,arunachal pradesh,lower siang,wheat,40.0,106.0,2.65
+133,arunachal pradesh,lower subansiri,wheat,65.0,78.0,2.0
+134,arunachal pradesh,namsai,wheat,337.0,706.0,2.0955223880597016
+135,arunachal pradesh,pakke kessang,wheat,45.0,106.0,2.355555555555556
+136,arunachal pradesh,papum pare,wheat,301.0,742.0,2.5734767025089607
+137,arunachal pradesh,tawang,wheat,2290.0,3330.0,1.7490942028985508
+138,arunachal pradesh,tirap,wheat,108.0,357.0,3.3679245283018866
+139,arunachal pradesh,upper siang,wheat,300.0,510.0,1.7
+140,arunachal pradesh,upper subansiri,wheat,300.0,300.0,2.0
+141,arunachal pradesh,west kameng,wheat,811.0,1374.0,1.694204685573366
+142,arunachal pradesh,west siang,wheat,90.0,130.0,1.4651162790697674
+143,assam,baksa,rice,12737.0,25691.0,2.4457028647568286
+144,assam,baksa,wheat,2853.0,3320.0,2.1392857142857142
+145,assam,barpeta,rice,52921.0,191924.0,3.823111093404514
+146,assam,barpeta,wheat,13620.0,15645.0,1.5143743536711478
+147,assam,bongaigaon,rice,18158.0,49611.0,3.334959349593496
+148,assam,bongaigaon,wheat,6086.0,8733.0,1.5370756684999052
+149,assam,cachar,rice,10261.0,23399.0,2.5929742907801416
+150,assam,cachar,wheat,255.0,322.0,1.4090909090909092
+151,assam,chirang,rice,3757.0,9672.0,2.965052115266708
+152,assam,chirang,wheat,1814.0,2426.0,1.700716845878136
+153,assam,darrang,rice,21000.0,70825.0,3.7589882461396633
+154,assam,darrang,wheat,6200.0,6681.0,1.794994857730545
+155,assam,dhemaji,rice,8500.0,12823.0,2.26697965571205
+156,assam,dhemaji,wheat,3666.0,4463.0,1.3675438596491227
+157,assam,dhubri,rice,57176.0,193213.0,3.9009174686855066
+158,assam,dhubri,wheat,18270.0,25101.0,1.4934156378600822
+159,assam,dibrugarh,rice,1256.0,3693.0,2.9801488833746896
+160,assam,dibrugarh,wheat,1916.0,2533.0,1.5007496251874064
+161,assam,dima hasao,rice,52.0,83.0,2.9642857142857144
+162,assam,dima hasao,wheat,59.0,74.0,1.3035714285714286
+163,assam,goalpara,rice,27859.0,98565.0,3.537994902903909
+164,assam,goalpara,wheat,4720.0,7892.0,1.973
+165,assam,golaghat,rice,7663.0,16840.0,2.6047350620067644
+166,assam,golaghat,wheat,1596.0,1989.0,1.401639344262295
+167,assam,hailakandi,rice,4050.0,8684.0,2.592897581060216
+168,assam,hailakandi,wheat,1238.0,1576.0,1.3
+169,assam,jorhat,rice,9560.0,20229.0,3.043147690553127
+170,assam,jorhat,wheat,4110.0,3742.0,1.5
+171,assam,kamrup,rice,44981.0,123940.0,3.6054223877123577
+172,assam,kamrup,wheat,6790.0,8325.0,1.853849014503533
+173,assam,kamrup metro,rice,8248.0,26931.0,3.63098287717406
+174,assam,kamrup metro,wheat,797.0,1543.0,1.9360100376411544
+175,assam,karbi anglong,rice,4839.0,13759.0,2.974898398278748
+176,assam,karbi anglong,wheat,1845.0,2706.0,1.5733137829912025
+177,assam,karimganj,rice,6895.0,14223.0,2.5930720145852324
+178,assam,karimganj,wheat,60.0,68.0,1.4
+179,assam,kokrajhar,rice,23120.0,69796.0,3.0272380291464263
+180,assam,kokrajhar,wheat,3751.0,5876.0,2.70522141440846
+181,assam,lakhimpur,rice,21815.0,44526.0,2.857528600866908
+182,assam,lakhimpur,wheat,1040.0,951.0,1.375
+183,assam,marigaon,rice,45000.0,134956.0,3.2820038910505835
+184,assam,marigaon,wheat,9200.0,12288.0,1.536
+185,assam,nagaon,rice,59833.0,145532.0,3.040927050775491
+186,assam,nagaon,wheat,6199.0,6993.0,1.3014861995753717
+187,assam,nalbari,rice,17900.0,39665.0,3.622043648981828
+188,assam,nalbari,wheat,4125.0,6392.0,1.70863309352518
+189,assam,sivasagar,rice,2892.0,8384.0,2.981916817359856
+190,assam,sivasagar,wheat,488.0,493.0,1.5
+191,assam,sonitpur,rice,25008.0,81831.0,4.113193906532404
+192,assam,sonitpur,wheat,4829.0,6769.0,1.6365921787709496
+193,assam,tinsukia,rice,400.0,1068.0,2.976470588235294
+194,assam,tinsukia,wheat,630.0,819.0,1.4166666666666667
+195,assam,udalguri,rice,12089.0,21772.0,3.3718190386427898
+196,assam,udalguri,wheat,5575.0,3844.0,1.4859287054409005
+197,bihar,araria,Maize,47321.0,327779.0,7.395568692042147
+198,bihar,araria,barley,173.0,203.0,1.6
+199,bihar,araria,rice,29978.0,103334.0,3.446994462605911
+200,bihar,araria,wheat,60210.0,220848.0,3.726008908084762
+201,bihar,arwal,Maize,480.0,2536.0,6.91008174386921
+202,bihar,arwal,barley,241.0,315.0,1.7439024390243902
+203,bihar,arwal,rice,19.0,22.0,1.3
+204,bihar,arwal,wheat,18142.0,47341.0,2.74427894380501
+205,bihar,aurangabad,Maize,40.0,116.0,4.8
+206,bihar,aurangabad,barley,2461.0,2503.0,2.137573964497041
+207,bihar,aurangabad,rice,743.0,971.0,2.1666666666666665
+208,bihar,aurangabad,wheat,97579.0,229422.0,3.010036867447749
+209,bihar,banka,Maize,6667.0,35997.0,6.726436781609196
+210,bihar,banka,barley,1974.0,3340.0,2.424778761061947
+211,bihar,banka,rice,480.0,808.0,1.9656084656084656
+212,bihar,banka,wheat,40698.0,90876.0,3.0391683991683998
+213,bihar,begusarai,Maize,30881.0,238836.0,7.734075969042453
+214,bihar,begusarai,barley,461.0,275.0,2.0
+215,bihar,begusarai,rice,5489.0,2996.0,3.782608695652174
+216,bihar,begusarai,wheat,68281.0,257791.0,3.7787128712871287
+217,bihar,bhagalpur,Maize,28503.0,193075.0,7.922902629539085
+218,bihar,bhagalpur,barley,3262.0,4110.0,1.59984520123839
+219,bihar,bhagalpur,rice,1990.0,2228.0,2.630434782608696
+220,bihar,bhagalpur,wheat,56392.0,163598.0,3.383689424807132
+221,bihar,bhojpur,Maize,977.0,4947.0,5.084275436793423
+222,bihar,bhojpur,barley,2785.0,4656.0,2.864032150033489
+223,bihar,bhojpur,rice,957.0,1149.0,2.375
+224,bihar,bhojpur,wheat,98398.0,308001.0,3.584616458922524
+225,bihar,bokaro,Maize,29.0,58.0,2.0
+226,bihar,bokaro,barley,84.0,87.0,1.25
+227,bihar,bokaro,rice,53.0,72.0,1.4545454545454546
+228,bihar,bokaro,wheat,659.0,844.0,1.318840579710145
+229,bihar,buxar,Maize,254.0,1369.0,5.413793103448276
+230,bihar,buxar,barley,6166.0,13664.0,2.2160233538760945
+231,bihar,buxar,rice,4.0,6.0,1.5
+232,bihar,buxar,wheat,90524.0,278859.0,3.456486960054852
+233,bihar,chatra,Maize,43.0,83.0,2.05
+234,bihar,chatra,barley,538.0,614.0,1.1563088512241055
+235,bihar,chatra,rice,2.0,3.0,1.5
+236,bihar,chatra,wheat,5212.0,7577.0,1.647890387124837
+237,bihar,darbhanga,Maize,18099.0,96500.0,7.542008597108246
+238,bihar,darbhanga,barley,335.0,345.0,2.0
+239,bihar,darbhanga,rice,15146.0,15757.0,2.4420323325635103
+240,bihar,darbhanga,wheat,81686.0,222606.0,3.713380152468013
+241,bihar,deoghar,Maize,85.0,197.0,2.3176470588235296
+242,bihar,deoghar,barley,13.0,14.0,1.25
+243,bihar,deoghar,rice,74.0,165.0,2.22972972972973
+244,bihar,deoghar,wheat,4385.0,8026.0,1.8408256880733944
+245,bihar,dhanbad,rice,8.0,12.0,1.5
+246,bihar,dhanbad,wheat,800.0,1592.0,1.99
+247,bihar,dumka,Maize,181.0,454.0,2.50828729281768
+248,bihar,dumka,rice,269.0,540.0,2.007434944237918
+249,bihar,dumka,wheat,5636.0,10564.0,1.9143314651721377
+250,bihar,east singhbum,rice,672.0,936.0,1.476340694006309
+251,bihar,east singhbum,wheat,292.0,454.0,1.6814814814814816
+252,bihar,garhwa,Maize,27.0,64.0,2.3703703703703702
+253,bihar,garhwa,barley,4601.0,3327.0,0.7299254058797718
+254,bihar,garhwa,wheat,7970.0,11330.0,1.4215809284818068
+255,bihar,gaya,Maize,2242.0,6790.0,5.160919540229885
+256,bihar,gaya,barley,2113.0,3106.0,2.2222222222222223
+257,bihar,gaya,rice,359.0,698.0,2.3076923076923075
+258,bihar,gaya,wheat,73663.0,231671.0,3.220112586003197
+259,bihar,giridih,Maize,11.0,21.0,2.0
+260,bihar,giridih,barley,13.0,15.0,1.1538461538461535
+261,bihar,giridih,rice,17.0,27.0,1.588235294117647
+262,bihar,giridih,wheat,4770.0,6720.0,1.4088050314465408
+263,bihar,godda,Maize,555.0,1576.0,2.868787276341948
+264,bihar,godda,barley,1287.0,1429.0,1.1561488673139158
+265,bihar,godda,rice,6.0,9.0,1.5
+266,bihar,godda,wheat,8667.0,15404.0,1.7773162570670358
+267,bihar,gopalganj,Maize,10887.0,35030.0,4.603237095363079
+268,bihar,gopalganj,barley,213.0,318.0,1.6933333333333334
+269,bihar,gopalganj,rice,64232.0,74536.0,2.65
+270,bihar,gopalganj,wheat,90266.0,291749.0,3.444904947455426
+271,bihar,gumla,Maize,11.0,23.0,2.111111111111111
+272,bihar,gumla,barley,22.0,25.0,1.1363636363636365
+273,bihar,gumla,rice,815.0,1001.0,1.2282208588957055
+274,bihar,gumla,wheat,1758.0,3636.0,2.068259385665529
+275,bihar,hazaribagh,Maize,254.0,630.0,2.702857142857143
+276,bihar,hazaribagh,barley,211.0,244.0,1.1563981042654028
+277,bihar,hazaribagh,rice,71.0,104.0,1.5490196078431373
+278,bihar,hazaribagh,wheat,5047.0,10313.0,2.0433921141272045
+279,bihar,jamui,Maize,2308.0,7854.0,5.942075623491553
+280,bihar,jamui,barley,1423.0,1409.0,1.9901960784313728
+281,bihar,jamui,rice,112.0,226.0,2.230769230769231
+282,bihar,jamui,wheat,52120.0,105711.0,2.725651942522618
+283,bihar,jehanabad,Maize,884.0,2463.0,6.176923076923077
+284,bihar,jehanabad,barley,1212.0,1116.0,8.053763440860216
+285,bihar,jehanabad,rice,124.0,270.0,2.231404958677686
+286,bihar,jehanabad,wheat,44404.0,128275.0,3.6850043091065783
+287,bihar,kaimur (bhabua),Maize,222.0,580.0,6.285714285714286
+288,bihar,kaimur (bhabua),barley,1886.0,2897.0,1.5516372795969773
+289,bihar,kaimur (bhabua),rice,287.0,327.0,1.1393728222996515
+290,bihar,kaimur (bhabua),wheat,98301.0,249415.0,3.00723031225096
+291,bihar,katihar,Maize,77574.0,814391.0,10.49824683527986
+292,bihar,katihar,barley,786.0,1564.0,1.9898218829516536
+293,bihar,katihar,rice,44803.0,120495.0,2.985966249696802
+294,bihar,katihar,wheat,47809.0,121672.0,3.340526590341268
+295,bihar,khagaria,Maize,47261.0,396641.0,8.392564693933688
+296,bihar,khagaria,barley,1950.0,1496.0,1.9830508474576272
+297,bihar,khagaria,rice,8029.0,4484.0,2.603290676416819
+298,bihar,khagaria,wheat,41772.0,121351.0,3.807770214178981
+299,bihar,kishanganj,Maize,4308.0,21450.0,6.818181818181818
+300,bihar,kishanganj,barley,84.0,97.0,2.0
+301,bihar,kishanganj,rice,13499.0,36068.0,2.718010550113037
+302,bihar,kishanganj,wheat,29190.0,47913.0,2.8454819655649115
+303,bihar,koderma,barley,84.0,97.0,1.1547619047619049
+304,bihar,koderma,wheat,1446.0,2445.0,1.6908713692946058
+305,bihar,lakhisarai,Maize,3317.0,15567.0,6.27027027027027
+306,bihar,lakhisarai,barley,1181.0,1124.0,1.5223880597014925
+307,bihar,lakhisarai,wheat,52762.0,153199.0,3.277115224872434
+308,bihar,lohardaga,Maize,103.0,227.0,2.210526315789474
+309,bihar,lohardaga,barley,51.0,59.0,1.156862745098039
+310,bihar,lohardaga,rice,172.0,200.0,1.162790697674419
+311,bihar,lohardaga,wheat,1889.0,2958.0,1.5659078877713075
+312,bihar,madhepura,Maize,40267.0,265464.0,7.485237707776357
+313,bihar,madhepura,barley,261.0,269.0,2.0
+314,bihar,madhepura,rice,20395.0,19326.0,2.744219653179191
+315,bihar,madhepura,wheat,51601.0,127666.0,3.804775972427376
+316,bihar,madhubani,Maize,1633.0,5751.0,6.305084745762712
+317,bihar,madhubani,barley,396.0,408.0,2.0
+318,bihar,madhubani,rice,32460.0,29175.0,2.393069993069993
+319,bihar,madhubani,wheat,95278.0,225941.0,2.3737287779458733
+320,bihar,munger,Maize,3588.0,10566.0,4.11921032649962
+321,bihar,munger,barley,392.0,347.0,1.5384615384615383
+322,bihar,munger,rice,352.0,635.0,2.56043956043956
+323,bihar,munger,wheat,22802.0,44174.0,2.8597138602964978
+324,bihar,muzaffarpur,Maize,27332.0,88469.0,3.92399565689468
+325,bihar,muzaffarpur,barley,1255.0,1839.0,2.0551558752997603
+326,bihar,muzaffarpur,rice,33832.0,38296.0,2.8217821782178216
+327,bihar,muzaffarpur,wheat,127915.0,354034.0,4.046565321751057
+328,bihar,nalanda,Maize,5749.0,32290.0,5.616628978952861
+329,bihar,nalanda,barley,503.0,709.0,2.253731343283582
+330,bihar,nalanda,rice,90.0,175.0,2.8
+331,bihar,nalanda,wheat,101255.0,266555.0,3.5448500565197154
+332,bihar,nawada,Maize,1244.0,4711.0,4.814249363867685
+333,bihar,nawada,barley,587.0,611.0,1.736842105263158
+334,bihar,nawada,rice,145.0,260.0,2.75
+335,bihar,nawada,wheat,59357.0,141047.0,3.074652535676103
+336,bihar,pakur,Maize,2.0,4.0,2.0
+337,bihar,pakur,barley,172.0,191.0,1.161764705882353
+338,bihar,pakur,rice,116.0,199.0,1.7155172413793105
+339,bihar,pakur,wheat,1578.0,2952.0,1.870722433460076
+340,bihar,palamu,Maize,81.0,197.0,2.432098765432099
+341,bihar,palamu,barley,5791.0,5901.0,1.0209342560553634
+342,bihar,palamu,rice,144.0,222.0,1.5416666666666667
+343,bihar,palamu,wheat,12978.0,18307.0,1.410617968870396
+344,bihar,pashchim champaran,Maize,12625.0,57581.0,4.700584795321637
+345,bihar,pashchim champaran,barley,2127.0,4043.0,2.0961337513061653
+346,bihar,pashchim champaran,rice,65505.0,95564.0,2.312169312169312
+347,bihar,pashchim champaran,wheat,84056.0,246107.0,3.244237040368829
+348,bihar,patna,Maize,6645.0,16614.0,4.92497670083877
+349,bihar,patna,barley,1078.0,2112.0,2.2432432432432434
+350,bihar,patna,rice,4423.0,5090.0,2.375
+351,bihar,patna,wheat,72028.0,252151.0,3.657180312634828
+352,bihar,purbi champaran,Maize,14134.0,57254.0,4.35922080151034
+353,bihar,purbi champaran,barley,2218.0,3254.0,2.636363636363636
+354,bihar,purbi champaran,rice,82215.0,131105.0,2.079903147699758
+355,bihar,purbi champaran,wheat,128684.0,359055.0,3.235050320302012
+356,bihar,purnia,Maize,45590.0,401618.0,9.401995012468827
+357,bihar,purnia,barley,225.0,282.0,1.2533333333333334
+358,bihar,purnia,rice,21846.0,45627.0,3.021598272138229
+359,bihar,purnia,wheat,58812.0,112973.0,3.484025439580995
+360,bihar,ranchi,Maize,332.0,713.0,2.476
+361,bihar,ranchi,barley,21.0,23.0,1.15
+362,bihar,ranchi,rice,1090.0,2302.0,2.1119266055045878
+363,bihar,ranchi,wheat,3838.0,7756.0,2.0627659574468087
+364,bihar,rohtas,Maize,156.0,451.0,4.857142857142857
+365,bihar,rohtas,barley,2936.0,3545.0,2.3904899135446684
+366,bihar,rohtas,rice,504.0,976.0,2.2857142857142856
+367,bihar,rohtas,wheat,150461.0,517855.0,3.6796984360455616
+368,bihar,saharsa,Maize,36379.0,212190.0,6.000549593590003
+369,bihar,saharsa,barley,146.0,151.0,1.5777777777777775
+370,bihar,saharsa,rice,16831.0,16934.0,3.2756097560975608
+371,bihar,saharsa,wheat,54469.0,149817.0,3.0702069278537683
+372,bihar,sahebganj,Maize,37.0,108.0,2.918918918918919
+373,bihar,sahebganj,barley,412.0,457.0,1.154727793696275
+374,bihar,sahebganj,rice,457.0,621.0,2.013245033112583
+375,bihar,sahebganj,wheat,2639.0,5181.0,2.072208228379513
+376,bihar,samastipur,Maize,50892.0,409974.0,8.247148518436564
+377,bihar,samastipur,barley,725.0,1014.0,2.0
+378,bihar,samastipur,rice,31385.0,33879.0,2.4190365641323277
+379,bihar,samastipur,wheat,64032.0,239464.0,3.839630292994491
+380,bihar,saran,Maize,12600.0,53303.0,5.117906865098416
+381,bihar,saran,barley,820.0,876.0,1.984375
+382,bihar,saran,rice,19132.0,20200.0,2.827838827838828
+383,bihar,saran,wheat,98192.0,312705.0,3.4815792110624937
+384,bihar,sheikhpura,Maize,254.0,869.0,5.830985915492958
+385,bihar,sheikhpura,barley,136.0,129.0,1.6666666666666667
+386,bihar,sheikhpura,rice,33.0,47.0,2.0
+387,bihar,sheikhpura,wheat,25250.0,62714.0,2.8883504555146344
+388,bihar,sheohar,Maize,1996.0,7643.0,4.88370607028754
+389,bihar,sheohar,barley,257.0,528.0,2.054474708171206
+390,bihar,sheohar,rice,8400.0,10920.0,2.321428571428572
+391,bihar,sheohar,wheat,16620.0,53612.0,3.6764078666771978
+392,bihar,sitamarhi,Maize,7031.0,25056.0,5.3698781838316725
+393,bihar,sitamarhi,barley,2044.0,2753.0,2.0689655172413794
+394,bihar,sitamarhi,rice,28217.0,34215.0,2.8
+395,bihar,sitamarhi,wheat,92499.0,321406.0,3.628958867298204
+396,bihar,siwan,Maize,9804.0,52354.0,8.526710097719869
+397,bihar,siwan,barley,1244.0,1748.0,1.9921875
+398,bihar,siwan,rice,45900.0,48355.0,2.333333333333333
+399,bihar,siwan,wheat,99181.0,314201.0,3.312993599679457
+400,bihar,supaul,Maize,15242.0,115021.0,9.684347899301171
+401,bihar,supaul,barley,192.0,225.0,1.2592592592592593
+402,bihar,supaul,rice,23589.0,22668.0,3.2935153583617747
+403,bihar,supaul,wheat,64567.0,148032.0,2.532214777696451
+404,bihar,vaishali,Maize,20413.0,85271.0,4.959634735066597
+405,bihar,vaishali,barley,788.0,1155.0,2.057851239669421
+406,bihar,vaishali,rice,14078.0,19203.0,2.827814569536424
+407,bihar,vaishali,wheat,50222.0,172444.0,3.852894519293072
+408,bihar,west singhbhum,Maize,8.0,20.0,2.5
+409,bihar,west singhbhum,barley,10.0,12.0,1.2
+410,bihar,west singhbhum,rice,190.0,232.0,1.2210526315789474
+411,bihar,west singhbhum,wheat,379.0,634.0,1.7759103641456582
+412,chandigarh,chandigarh,wheat,880.0,3960.0,5.0
+413,chhattisgarh,balod,barley,3.0,3.0,1.0
+414,chhattisgarh,balod,wheat,3664.0,4382.0,1.240656851642129
+415,chhattisgarh,baloda bazar,barley,1.0,1.0,1.0
+416,chhattisgarh,baloda bazar,wheat,5375.0,9042.0,2.2034745985785733
+417,chhattisgarh,balrampur,Maize,160.0,350.0,2.1875
+418,chhattisgarh,balrampur,barley,1398.0,1354.0,1.1162407254740314
+419,chhattisgarh,balrampur,wheat,10811.0,19052.0,2.0645860424794105
+420,chhattisgarh,bastar,wheat,1160.0,2135.0,2.4814814814814814
+421,chhattisgarh,bemetara,barley,196.0,77.0,0.8783783783783784
+422,chhattisgarh,bemetara,wheat,21831.0,18333.0,1.2234042553191489
+423,chhattisgarh,bijapur,wheat,2.0,3.0,1.5
+424,chhattisgarh,bilaspur,barley,18.0,11.0,1.2222222222222223
+425,chhattisgarh,bilaspur,wheat,19057.0,21846.0,1.7609800362976409
+426,chhattisgarh,dantewada,wheat,31.0,41.0,2.4
+427,chhattisgarh,dhamtari,wheat,4547.0,7016.0,1.8301781737193763
+428,chhattisgarh,durg,barley,110.0,72.0,2.6875
+429,chhattisgarh,durg,wheat,26321.0,26725.0,1.4287917017101206
+430,chhattisgarh,gariyaband,wheat,534.0,874.0,2.0529595015576323
+431,chhattisgarh,gaurella-pendra-marwahi,wheat,1086.0,1326.0,1.2209944751381216
+432,chhattisgarh,janjgir-champa,wheat,4537.0,5584.0,2.1934127540294326
+433,chhattisgarh,jashpur,barley,22.0,22.0,1.2666666666666666
+434,chhattisgarh,jashpur,wheat,1496.0,2161.0,2.0046620046620047
+435,chhattisgarh,kabirdham,wheat,10265.0,12414.0,1.543070229956495
+436,chhattisgarh,kanker,wheat,1423.0,2722.0,2.333333333333333
+437,chhattisgarh,kondagaon,wheat,250.0,479.0,2.3954802259887007
+438,chhattisgarh,korba,barley,249.0,287.0,1.2587719298245614
+439,chhattisgarh,korba,wheat,801.0,951.0,1.4194029850746268
+440,chhattisgarh,korea,barley,639.0,559.0,1.089820359281437
+441,chhattisgarh,korea,wheat,5157.0,6885.0,1.606437454279444
+442,chhattisgarh,mahasamund,barley,1.0,1.0,1.0
+443,chhattisgarh,mahasamund,wheat,2313.0,3580.0,2.1259259259259258
+444,chhattisgarh,mungeli,wheat,6210.0,9957.0,1.7985910404624277
+445,chhattisgarh,narayanpur,wheat,35.0,85.0,2.833333333333333
+446,chhattisgarh,raigarh,wheat,7025.0,10808.0,2.166396103896104
+447,chhattisgarh,raipur,barley,2.0,2.0,1.0
+448,chhattisgarh,raipur,wheat,9963.0,12897.0,2.1024636058230683
+449,chhattisgarh,rajnandgaon,barley,71.0,90.0,2.2222222222222223
+450,chhattisgarh,rajnandgaon,wheat,19086.0,25948.0,1.637097791798107
+451,chhattisgarh,sukma,barley,344.0,285.0,0.8284883720930233
+452,chhattisgarh,sukma,wheat,2.0,3.0,1.5
+453,chhattisgarh,surajpur,barley,745.0,651.0,1.1240105540897098
+454,chhattisgarh,surajpur,wheat,6872.0,13163.0,1.915454016298021
+455,chhattisgarh,surguja,barley,3722.0,3677.0,1.189921151868358
+456,chhattisgarh,surguja,wheat,20556.0,27559.0,1.831763619575254
+457,dadra and nagar haveli,dadra and nagar haveli,rice,3350.0,8486.0,3.5
+458,dadra and nagar haveli,dadra and nagar haveli,wheat,40.0,92.0,2.3
+459,gujarat,ahmadabad,Maize,1046.0,2373.0,2.268642447418738
+460,gujarat,ahmadabad,bajra,12200.0,26300.0,3.637037037037037
+461,gujarat,ahmadabad,jowar,9000.0,9600.0,1.3218673218673218
+462,gujarat,ahmadabad,rice,33885.0,95566.0,3.872340425531915
+463,gujarat,ahmadabad,wheat,230400.0,547600.0,2.6896770026665986
+464,gujarat,amreli,Maize,800.0,1500.0,2.3
+465,gujarat,amreli,bajra,3959.000000000001,11373.0,3.0
+466,gujarat,amreli,jowar,1700.0,1500.0,1.323943661971831
+467,gujarat,amreli,wheat,55000.0,208200.0,4.047431832593532
+468,gujarat,anand,Maize,3600.0,7100.0,2.5
+469,gujarat,anand,bajra,48100.0,144359.0,3.2937577478306075
+470,gujarat,anand,jowar,400.0,400.0,1.0
+471,gujarat,anand,rice,9100.0,27100.0,3.5
+472,gujarat,anand,wheat,70156.0,189576.0,3.18825522499006
+473,gujarat,aravalli,Maize,13825.0,67288.0,5.519422107128254
+474,gujarat,aravalli,bajra,4258.0,12554.0,3.062157221206581
+475,gujarat,aravalli,jowar,290.0,383.0,1.4333333333333331
+476,gujarat,aravalli,rice,50.0,147.0,2.94
+477,gujarat,aravalli,wheat,78409.0,232780.0,2.968791847874606
+478,gujarat,banas kantha,Maize,500.0,1145.0,2.708108108108108
+479,gujarat,banas kantha,bajra,170308.0,473177.00000000006,2.874267150404878
+480,gujarat,banas kantha,jowar,400.0,400.0,1.0
+481,gujarat,banas kantha,wheat,93158.0,290342.0,3.135893065904193
+482,gujarat,bharuch,Maize,1600.0,3400.0,2.2666666666666666
+483,gujarat,bharuch,bajra,2100.0,5300.0,3.0
+484,gujarat,bharuch,jowar,35400.0,28800.0,1.3274774774774776
+485,gujarat,bharuch,rice,2885.0,8900.0,4.833333333333333
+486,gujarat,bharuch,wheat,29300.0,47313.0,2.081818181818182
+487,gujarat,bhavnagar,Maize,1614.0,3843.0,3.0
+488,gujarat,bhavnagar,bajra,7000.0,17700.0,3.2535121328224776
+489,gujarat,bhavnagar,jowar,1900.0,1600.0,1.515384615384615
+490,gujarat,bhavnagar,wheat,49500.0,160000.0,3.4982323140285017
+491,gujarat,botad,Maize,12.0,31.0,2.583333333333333
+492,gujarat,botad,bajra,601.0,1726.0000000000002,2.923076923076923
+493,gujarat,botad,wheat,13245.0,51432.0,3.8831257078142696
+494,gujarat,chhotaudepur,Maize,47245.0,119111.0,2.947553411440386
+495,gujarat,chhotaudepur,bajra,53.0,155.0,2.9245283018867925
+496,gujarat,chhotaudepur,jowar,400.0,528.0,1.5142857142857142
+497,gujarat,chhotaudepur,wheat,1258.0,3933.0,3.564885496183206
+498,gujarat,dang,Maize,130.0,327.0,2.5153846153846158
+499,gujarat,dang,jowar,400.0,400.0,1.0
+500,gujarat,dang,wheat,4400.0,13900.0,4.0
+501,gujarat,devbhumi dwarka,Maize,644.0,1288.0,2.0
+502,gujarat,devbhumi dwarka,bajra,313.0,899.0,2.933333333333333
+503,gujarat,devbhumi dwarka,jowar,319.0,421.0,1.3197492163009403
+504,gujarat,devbhumi dwarka,wheat,14882.0,64126.0,4.308963848945035
+505,gujarat,dohad,Maize,48860.0,94251.0,2.1602765270387048
+506,gujarat,dohad,bajra,100.0,247.00000000000003,3.0
+507,gujarat,dohad,jowar,300.0,200.0,1.2
+508,gujarat,dohad,wheat,65300.0,151300.0,3.106776180698152
+509,gujarat,gandhinagar,Maize,500.0,800.0,2.1515151515151514
+510,gujarat,gandhinagar,bajra,15700.0,42700.0,3.632070081889164
+511,gujarat,gandhinagar,jowar,400.0,400.0,1.0
+512,gujarat,gandhinagar,rice,3000.0,9200.0,3.333333333333333
+513,gujarat,gandhinagar,wheat,43800.0,141700.0,3.945205479452055
+514,gujarat,gir somnath,Maize,430.0,626.0,2.549019607843137
+515,gujarat,gir somnath,bajra,6077.0,19163.0,3.655040871934604
+516,gujarat,gir somnath,jowar,1010.0,1334.0,1.425
+517,gujarat,gir somnath,wheat,91600.0,359118.0,4.177357075913777
+518,gujarat,jamnagar,Maize,115.0,262.0,2.2782608695652176
+519,gujarat,jamnagar,bajra,2300.0,5900.0,3.0
+520,gujarat,jamnagar,jowar,2600.0,2100.0,1.44
+521,gujarat,jamnagar,wheat,60400.0,219900.0,4.100347082851274
+522,gujarat,junagadh,Maize,24600.0,47400.0,2.550943396226415
+523,gujarat,junagadh,bajra,10000.0,25803.0,3.8432371250707407
+524,gujarat,junagadh,jowar,13900.0,8400.0,2.0
+525,gujarat,junagadh,wheat,210000.0,905900.0,4.770433964483123
+526,gujarat,kachchh,Maize,2218.0,5012.0,2.2857142857142856
+527,gujarat,kachchh,bajra,4600.0,11700.0,2.9189356435643563
+528,gujarat,kachchh,jowar,300.0,300.0,1.0
+529,gujarat,kachchh,wheat,34800.0,97000.0,3.292488474470519
+530,gujarat,kheda,Maize,7500.0,14800.0,2.8689320388349517
+531,gujarat,kheda,bajra,52000.0,132700.0,3.462658257859548
+532,gujarat,kheda,jowar,1000.0,1100.0,1.5454545454545454
+533,gujarat,kheda,rice,13988.0,43606.0,5.0
+534,gujarat,kheda,wheat,100400.0,271200.0,3.348921007326741
+535,gujarat,mahesana,Maize,1500.0,3000.0,2.217391304347826
+536,gujarat,mahesana,bajra,69400.0,172800.0,3.247769784172662
+537,gujarat,mahesana,jowar,400.0,400.0,1.0
+538,gujarat,mahesana,rice,402.0,1071.0,3.2555555555555555
+539,gujarat,mahesana,wheat,90160.0,280141.0,3.4666540383802764
+540,gujarat,mahisagar,Maize,12380.0,30951.0,2.5104646697388637
+541,gujarat,mahisagar,bajra,5938.0,11020.0,2.5390048154093097
+542,gujarat,mahisagar,jowar,91.0,120.0,1.3186813186813189
+543,gujarat,mahisagar,rice,449.0,1324.0,3.2551020408163267
+544,gujarat,mahisagar,wheat,26186.0,70192.0,2.762043795620438
+545,gujarat,morbi,bajra,488.0,1402.0,2.9185185185185185
+546,gujarat,morbi,jowar,70.0,85.0,1.2142857142857142
+547,gujarat,morbi,wheat,20993.0,87921.0,4.188110322488448
+548,gujarat,narmada,Maize,6100.0,11800.0,2.25
+549,gujarat,narmada,bajra,1700.0,4300.0,3.0
+550,gujarat,narmada,jowar,5100.0,4500.0,1.2419904567143831
+551,gujarat,narmada,rice,100.0,100.0,3.185185185185185
+552,gujarat,narmada,wheat,4300.0,13700.0,3.3362936648904675
+553,gujarat,navsari,Maize,351.0,764.0,2.1766381766381766
+554,gujarat,navsari,bajra,83.0,218.00000000000003,2.626506024096386
+555,gujarat,navsari,jowar,1318.0,1877.0,2.763285024154589
+556,gujarat,navsari,rice,27400.0,80700.0,3.876923076923077
+557,gujarat,navsari,wheat,700.0,1900.0,3.340659340659341
+558,gujarat,panch mahals,Maize,36491.0,83302.0,2.5000257904781558
+559,gujarat,panch mahals,bajra,14200.0,35800.0,2.794011765738871
+560,gujarat,panch mahals,jowar,3900.0,2600.0,1.2
+561,gujarat,panch mahals,rice,3213.0,5938.0,5.0
+562,gujarat,panch mahals,wheat,70700.0,156100.0,3.153452685421995
+563,gujarat,patan,Maize,2300.0,4500.0,2.106382978723404
+564,gujarat,patan,bajra,15100.0,42300.0,3.01569290197972
+565,gujarat,patan,jowar,1100.0,1200.0,1.425
+566,gujarat,patan,rice,520.0,1386.0,2.6653846153846152
+567,gujarat,patan,wheat,47800.0,154800.0,3.4135338345864663
+568,gujarat,porbandar,Maize,500.0,900.0,1.8
+569,gujarat,porbandar,bajra,700.0,1700.0,3.0
+570,gujarat,porbandar,jowar,25500.0,31063.0,2.1654234925061
+571,gujarat,porbandar,wheat,34600.0,117492.0,3.513757878722017
+572,gujarat,rajkot,Maize,400.0,763.0,2.392156862745098
+573,gujarat,rajkot,bajra,1313.0,3772.0,3.0
+574,gujarat,rajkot,jowar,4500.0,4400.0,1.31875
+575,gujarat,rajkot,wheat,170200.0,678300.0,4.283910555639211
+576,gujarat,sabar kantha,Maize,12700.0,24472.0,6.468939994713191
+577,gujarat,sabar kantha,bajra,22000.0,53100.0,3.473158551810237
+578,gujarat,sabar kantha,jowar,300.0,357.0,1.423809523809524
+579,gujarat,sabar kantha,wheat,179466.0,526650.0,3.4427385372773167
+580,gujarat,surat,Maize,1000.0,1700.0,1.8888888888888888
+581,gujarat,surat,bajra,200.0,400.0,3.0
+582,gujarat,surat,jowar,9200.0,9400.0,1.8299435028248587
+583,gujarat,surat,rice,19000.0,64000.0,4.823529411764706
+584,gujarat,surat,wheat,13545.0,30190.0,3.048387096774193
+585,gujarat,surendranagar,Maize,765.0,1473.0,2.5
+586,gujarat,surendranagar,bajra,2200.0,6101.0,3.126829268292683
+587,gujarat,surendranagar,jowar,4000.0,4300.0,1.1912087912087912
+588,gujarat,surendranagar,wheat,66900.0,207100.0,3.1270801815431164
+589,gujarat,tapi,Maize,1717.0,2448.0,2.2519083969465647
+590,gujarat,tapi,bajra,125.0,349.0,2.8666666666666667
+591,gujarat,tapi,jowar,4800.0,5200.0,1.8001249219237974
+592,gujarat,tapi,rice,2600.0,8300.0,3.2523489932885905
+593,gujarat,tapi,wheat,5496.0,17816.0,3.30188679245283
+594,gujarat,vadodara,Maize,81000.0,165800.0,2.580388692579505
+595,gujarat,vadodara,bajra,11300.0,25200.0,4.127659574468085
+596,gujarat,vadodara,jowar,21200.0,19400.0,1.490909090909091
+597,gujarat,vadodara,rice,1353.0,3991.0,3.2517857142857145
+598,gujarat,vadodara,wheat,47500.0,132600.0,3.4246575342465757
+599,gujarat,valsad,Maize,35.0,68.0,2.5
+600,gujarat,valsad,bajra,100.0,200.0,2.0
+601,gujarat,valsad,jowar,500.0,400.0,1.5151515151515151
+602,gujarat,valsad,rice,9500.0,28800.0,4.47457627118644
+603,gujarat,valsad,wheat,1000.0,2200.0,3.5
+604,haryana,ambala,barley,77.0,120.0,4.0
+605,haryana,ambala,wheat,174000.0,797000.0,4.858662317225853
+606,haryana,bhiwani,barley,12816.0,43000.0,3.9
+607,haryana,bhiwani,wheat,219000.0,843000.0,4.465661578328333
+608,haryana,charki dadri,barley,2100.0,7300.0,4.357142857142857
+609,haryana,charki dadri,wheat,54800.0,273000.0,5.0
+610,haryana,faridabad,barley,3024.0,7000.0,8.241758241758241
+611,haryana,faridabad,wheat,135774.0,545000.0,5.135135135135135
+612,haryana,fatehabad,barley,7000.0,21000.0,4.439746300211416
+613,haryana,fatehabad,wheat,191900.0,1034000.0,5.461334910817563
+614,haryana,gurgaon,barley,4000.0,13000.0,4.950495049504951
+615,haryana,gurgaon,wheat,136504.0,486000.0,5.064039408866995
+616,haryana,hisar,barley,9366.0,32000.0,3.876651982378855
+617,haryana,hisar,wheat,237072.0,1208000.0,5.095498413983937
+618,haryana,jhajjar,barley,6923.0,25000.0,4.424242424242424
+619,haryana,jhajjar,wheat,114000.0,512600.0,5.086021505376344
+620,haryana,jind,barley,2000.0,6000.0,7.092198581560283
+621,haryana,jind,wheat,219000.0,1136000.0,5.244448548081806
+622,haryana,kaithal,barley,108.0,0.0,0.0
+623,haryana,kaithal,wheat,215000.0,1057000.0,5.446648260884633
+624,haryana,karnal,barley,311.0,700.0,4.0
+625,haryana,karnal,wheat,197000.0,1027000.0,5.676161866671324
+626,haryana,kurukshetra,barley,13.0,40.0,4.0
+627,haryana,kurukshetra,wheat,115107.0,609000.0,5.437305810506768
+628,haryana,mahendragarh,barley,1373.0,4000.0,5.891016200294551
+629,haryana,mahendragarh,wheat,217000.0,946000.0,5.021739130434782
+630,haryana,mewat,barley,1873.0,6000.0,4.205128205128205
+631,haryana,mewat,wheat,98099.0,362300.0,4.603557814485388
+632,haryana,palwal,barley,1035.0,4000.0,4.3057050592034445
+633,haryana,palwal,wheat,105000.0,507000.0,5.0909748162429205
+634,haryana,panchkula,barley,100.0,400.0,4.0
+635,haryana,panchkula,wheat,88000.0,378000.0,4.295454545454546
+636,haryana,panipat,barley,142.0,40.0,4.0
+637,haryana,panipat,wheat,174000.0,858000.0,5.564067413918233
+638,haryana,rewari,barley,4443.0,15000.0,5.038461538461538
+639,haryana,rewari,wheat,54781.0,243000.0,5.020833333333333
+640,haryana,rohtak,barley,3435.0,12000.0,4.0
+641,haryana,rohtak,wheat,107000.0,512000.0,4.995950547895749
+642,haryana,sirsa,barley,11755.0,46000.0,4.2
+643,haryana,sirsa,wheat,304500.0,1602000.0,5.356909979167573
+644,haryana,sonipat,barley,1000.0,3000.0,5.235602094240837
+645,haryana,sonipat,wheat,162264.0,894000.0,5.509540008874427
+646,haryana,yamunanagar,barley,937.0,3000.0,3.2017075773746
+647,haryana,yamunanagar,wheat,93500.0,457500.0,5.378056115769734
+648,himachal pradesh,bilaspur,barley,317.0,370.0,1.9545454545454544
+649,himachal pradesh,bilaspur,wheat,28143.0,67319.0,2.3951825233046327
+650,himachal pradesh,chamba,barley,4740.0,9057.0,2.161201432901626
+651,himachal pradesh,chamba,wheat,23075.0,50277.0,2.6917764214584
+652,himachal pradesh,hamirpur,barley,134.0,167.0,1.7590361445783131
+653,himachal pradesh,hamirpur,wheat,35035.0,71439.0,2.059413646977428
+654,himachal pradesh,kangra,barley,3412.0,5559.0,2.1430223592906708
+655,himachal pradesh,kangra,wheat,119675.0,190985.0,2.2500029524653087
+656,himachal pradesh,kinnaur,barley,1475.0,3154.0,3.0538847117794488
+657,himachal pradesh,kinnaur,wheat,479.0,996.0,2.119148936170213
+658,himachal pradesh,kullu,barley,5967.0,7098.0,1.997715404699739
+659,himachal pradesh,kullu,wheat,36689.0,55769.0,2.4018691588785046
+660,himachal pradesh,lahul and spiti,barley,647.0,1016.0,1.7801801801801802
+661,himachal pradesh,lahul and spiti,wheat,185.0,275.0,3.2698412698412698
+662,himachal pradesh,mandi,barley,4290.0,8056.0,2.098463141443084
+663,himachal pradesh,mandi,wheat,68477.0,132072.0,2.050202579984166
+664,himachal pradesh,shimla,barley,5234.0,6026.0,1.7646493756003845
+665,himachal pradesh,shimla,wheat,24294.0,28154.0,1.996879211291581
+666,himachal pradesh,sirmaur,barley,2776.0,3890.0,1.7098901098901098
+667,himachal pradesh,sirmaur,wheat,36635.0,59749.0,2.501945358929411
+668,himachal pradesh,solan,barley,1966.0,2975.0,1.7603550295857988
+669,himachal pradesh,solan,wheat,39923.0,65003.0,2.689152656923207
+670,himachal pradesh,una,barley,1.0,1.0,1.0
+671,himachal pradesh,una,wheat,38968.0,69021.0,2.203172880490296
+672,jammu and kashmir,anantnag,wheat,466.0,1020.0,2.515337423312884
+673,jammu and kashmir,badgam,wheat,3134.0,2149.5,1.5909090909090908
+674,jammu and kashmir,bandipora,barley,2125.0,1912.5,0.9
+675,jammu and kashmir,baramulla,barley,1.0,0.5,0.5
+676,jammu and kashmir,baramulla,wheat,678.0,980.0,1.4454277286135693
+677,jammu and kashmir,doda,barley,7860.0,2481.6,0.3212309820193638
+678,jammu and kashmir,doda,wheat,11735.0,14930.0,2.073832562053008
+679,jammu and kashmir,jammu,bajra,24.0,16.8,0.7000000000000001
+680,jammu and kashmir,jammu,barley,610.0,901.267,1.483116883116883
+681,jammu and kashmir,jammu,wheat,101280.0,240468.0,2.800100080064051
+682,jammu and kashmir,kargil,ragi,3993.0,2962.3,0.7418732782369146
+683,jammu and kashmir,kargil,wheat,1623.0,1404.2,0.8652173913043478
+684,jammu and kashmir,kathua,bajra,3.0,0.9,0.3
+685,jammu and kashmir,kathua,barley,1897.0,1669.8000000000002,0.8911014312383323
+686,jammu and kashmir,kathua,wheat,55982.0,127168.7,2.5159003679816405
+687,jammu and kashmir,kishtwar,barley,2340.0,751.5,0.3211764705882354
+688,jammu and kashmir,kishtwar,wheat,3416.0,4615.7,1.919209979209979
+689,jammu and kashmir,kulgam,wheat,13.0,10.0,1.4
+690,jammu and kashmir,kupwara,wheat,130.0,140.0,1.3131313131313131
+691,jammu and kashmir,leh ladakh,bajra,4542.0,1805.7,0.397556142668428
+692,jammu and kashmir,leh ladakh,barley,154.0,138.6,0.9
+693,jammu and kashmir,leh ladakh,ragi,4562.0,1813.7,0.3975668566418238
+694,jammu and kashmir,leh ladakh,wheat,2713.0,2508.6,0.924908424908425
+695,jammu and kashmir,poonch,wheat,17020.0,38122.4,2.453652571281457
+696,jammu and kashmir,pulwama,wheat,828.0,870.0,2.074404761904762
+697,jammu and kashmir,rajauri,barley,67.0,40.400000000000006,3.0
+698,jammu and kashmir,rajauri,wheat,53832.0,109289.2,2.297101540660403
+699,jammu and kashmir,ramban,barley,2781.0,892.8,0.3214285714285714
+700,jammu and kashmir,ramban,wheat,5416.0,6931.9,1.4384519609877566
+701,jammu and kashmir,reasi,bajra,8.0,7.300000000000001,0.9125
+702,jammu and kashmir,reasi,barley,392.0,359.3,0.9188405797101448
+703,jammu and kashmir,reasi,wheat,15064.0,28825.0,1.913502389803505
+704,jammu and kashmir,samba,barley,745.0,371.3,0.4988372093023256
+705,jammu and kashmir,samba,wheat,30728.0,82586.0,2.769639102409431
+706,jammu and kashmir,srinagar,barley,20.0,5.0,0.25
+707,jammu and kashmir,srinagar,wheat,16.0,10.0,5.0
+708,jammu and kashmir,udhampur,bajra,167.0,41.8,0.2506024096385542
+709,jammu and kashmir,udhampur,barley,1506.0,1380.0,0.9182432432432432
+710,jammu and kashmir,udhampur,wheat,41552.0,67350.0,1.857999943771261
+711,jharkhand,bokaro,wheat,4143.0,15536.0,3.749939657253198
+712,jharkhand,chatra,Maize,75.0,122.0,1.8125
+713,jharkhand,chatra,wheat,11262.43,25133.0,2.698981756470089
+714,jharkhand,deoghar,Maize,256.0,461.0,2.5968992248062017
+715,jharkhand,deoghar,wheat,12029.0,31275.0,2.599966747028016
+716,jharkhand,dhanbad,wheat,3228.0,6919.0,2.5
+717,jharkhand,dumka,Maize,1056.0,2275.0,2.5
+718,jharkhand,dumka,wheat,15359.0,34558.0,2.3519806471121862
+719,jharkhand,east singhbum,Maize,750.0,1013.0,1.5008130081300812
+720,jharkhand,east singhbum,wheat,5980.0,13036.0,2.179933110367893
+721,jharkhand,garhwa,Maize,250.0,233.0,1.2
+722,jharkhand,garhwa,barley,2962.57,1801.24,0.6079991358853968
+723,jharkhand,garhwa,wheat,17118.0,31038.0,2.1
+724,jharkhand,giridih,Maize,20.0,28.0,1.4
+725,jharkhand,giridih,wheat,10897.0,28376.0,2.6219538037719854
+726,jharkhand,godda,Maize,1200.0,2089.0,2.3806451612903228
+727,jharkhand,godda,barley,1051.19,1249.86,1.1889953291032067
+728,jharkhand,godda,wheat,17341.0,30366.0,2.41
+729,jharkhand,gumla,Maize,518.0,1036.0,2.0
+730,jharkhand,gumla,wheat,9138.0,21401.0,2.354021990740741
+731,jharkhand,hazaribagh,Maize,34.0,51.0,1.5
+732,jharkhand,hazaribagh,barley,43.2,36.76,0.8509259259259259
+733,jharkhand,hazaribagh,wheat,13890.0,34725.0,2.5000362187613185
+734,jharkhand,jamtara,Maize,160.0,410.0,2.5625
+735,jharkhand,jamtara,wheat,6882.0,10906.0,2.182582780881548
+736,jharkhand,khunti,Maize,107.0,225.0,2.8125
+737,jharkhand,khunti,wheat,6916.0,12103.0,2.519018404907976
+738,jharkhand,koderma,Maize,135.0,257.0,2.1666666666666665
+739,jharkhand,koderma,wheat,8765.0,21913.0,2.500057045065602
+740,jharkhand,latehar,wheat,8640.0,12592.0,2.5219307029841778
+741,jharkhand,lohardaga,Maize,20.0,61.0,3.05
+742,jharkhand,lohardaga,wheat,7525.0,20152.0,2.69993876301286
+743,jharkhand,pakur,Maize,734.0,1652.0,2.250681198910082
+744,jharkhand,pakur,wheat,8518.0,18314.0,2.281940563881128
+745,jharkhand,palamu,Maize,1028.0,1645.0,2.0
+746,jharkhand,palamu,barley,3425.43,2702.66,0.7889987534411738
+747,jharkhand,palamu,wheat,23544.07,39831.0,2.2
+748,jharkhand,ramgarh,Maize,14.0,20.0,1.5384615384615383
+749,jharkhand,ramgarh,wheat,3724.0,9310.0,2.5001367989056087
+750,jharkhand,ranchi,Maize,1803.0,4688.0,2.699873896595208
+751,jharkhand,ranchi,wheat,15012.0,30024.0,2.305982905982906
+752,jharkhand,sahebganj,Maize,1005.0,864.0,0.8603491271820449
+753,jharkhand,sahebganj,wheat,12110.0,22343.0,1.9380234505862648
+754,jharkhand,saraikela kharsawan,Maize,480.0,864.0,1.8
+755,jharkhand,saraikela kharsawan,wheat,4880.0,15128.0,3.100136054421769
+756,jharkhand,simdega,Maize,1165.0,3262.0,3.1142857142857143
+757,jharkhand,simdega,wheat,10477.0,23049.0,3.6346153846153846
+758,jharkhand,west singhbhum,Maize,34.0,73.0,2.147058823529412
+759,jharkhand,west singhbhum,wheat,4054.0,4784.0,1.6829268292682926
+760,karnataka,bagalkote,Maize,27780.0,91134.0,4.297319060250095
+761,karnataka,bagalkote,bajra,219.0,229.0,1.0456621004566211
+762,karnataka,bagalkote,jowar,170489.0,178029.0,1.441565382155032
+763,karnataka,bagalkote,ragi,76.0,108.0,1.4210526315789471
+764,karnataka,bagalkote,rice,63.0,196.0,3.5
+765,karnataka,bagalkote,wheat,26356.0,41483.0,1.650293002412961
+766,karnataka,ballari,Maize,14920.0,45461.0,3.952307692307692
+767,karnataka,ballari,bajra,2224.0,2617.0,1.2622309197651664
+768,karnataka,ballari,jowar,67303.0,64446.0,2.232114770506649
+769,karnataka,ballari,ragi,8552.0,11567.0,2.25
+770,karnataka,ballari,rice,46372.0,157854.0,4.6774475524475525
+771,karnataka,ballari,wheat,2900.0,2658.0,1.8771929824561404
+772,karnataka,bangalore rural,Maize,509.0,1641.0,3.718181818181818
+773,karnataka,bangalore rural,jowar,196.0,248.0,1.2653061224489797
+774,karnataka,bangalore rural,ragi,2863.0,5419.0,2.3480243161094223
+775,karnataka,bangalore rural,rice,8761.0,23493.0,4.467080745341615
+776,karnataka,bangalore rural,wheat,9.0,14.0,1.5555555555555556
+777,karnataka,belagavi,Maize,44298.0,172028.0,3.965977605512489
+778,karnataka,belagavi,bajra,217.0,238.0,1.1176470588235294
+779,karnataka,belagavi,jowar,209518.0,153578.0,1.1772934095341003
+780,karnataka,belagavi,ragi,133.0,171.0,1.693069306930693
+781,karnataka,belagavi,rice,1363.0,4138.0,4.440559440559441
+782,karnataka,belagavi,wheat,72367.0,89933.0,1.6282927836115484
+783,karnataka,bengaluru urban,Maize,2674.0,4901.0,3.769230769230769
+784,karnataka,bengaluru urban,bajra,2.0,2.0,1.0
+785,karnataka,bengaluru urban,jowar,48.0,53.0,1.6
+786,karnataka,bengaluru urban,ragi,3001.0,5080.0,2.38659793814433
+787,karnataka,bengaluru urban,rice,2491.0,7315.0,4.953703703703703
+788,karnataka,bengaluru urban,wheat,3.0,3.0,1.0
+789,karnataka,bidar,Maize,781.0,2502.0,3.724832214765101
+790,karnataka,bidar,bajra,7.0,7.0,1.0
+791,karnataka,bidar,jowar,37206.0,25450.0,0.9775441735629612
+792,karnataka,bidar,ragi,24.0,34.0,1.4166666666666667
+793,karnataka,bidar,rice,112.0,180.0,3.0416666666666665
+794,karnataka,bidar,wheat,10101.0,10271.0,1.3698749636522245
+795,karnataka,chamarajanagara,Maize,9610.0,38385.0,4.814126394052044
+796,karnataka,chamarajanagara,bajra,3.0,3.0,1.0
+797,karnataka,chamarajanagara,jowar,1047.0,1151.0,2.0448430493273544
+798,karnataka,chamarajanagara,ragi,5128.0,10396.0,2.749502982107356
+799,karnataka,chamarajanagara,rice,6193.0,21866.0,4.1993769470404985
+800,karnataka,chamarajanagara,wheat,16.0,18.0,1.5
+801,karnataka,chikkaballapura,Maize,2620.0,7546.0,6.22883064516129
+802,karnataka,chikkaballapura,bajra,9.0,9.0,1.0
+803,karnataka,chikkaballapura,jowar,585.0,681.0,1.1641025641025642
+804,karnataka,chikkaballapura,ragi,852.0,1270.0,2.088652482269504
+805,karnataka,chikkaballapura,rice,3067.0,9590.0,4.1063829787234045
+806,karnataka,chikkaballapura,wheat,4.0,4.0,1.0
+807,karnataka,chikkamagaluru,Maize,437.0,1518.0,3.5
+808,karnataka,chikkamagaluru,bajra,2.0,2.0,1.0
+809,karnataka,chikkamagaluru,jowar,12739.0,11231.0,1.1902915894151356
+810,karnataka,chikkamagaluru,ragi,885.0,848.0,2.8947368421052637
+811,karnataka,chikkamagaluru,rice,4880.0,16816.0,4.473530194200586
+812,karnataka,chikkamagaluru,wheat,68.0,58.0,1.5
+813,karnataka,chitradurga,Maize,8000.0,22758.0,3.743492063492064
+814,karnataka,chitradurga,bajra,80.0,84.0,1.05
+815,karnataka,chitradurga,jowar,34337.0,17605.0,0.964170367379895
+816,karnataka,chitradurga,ragi,8171.0,14055.0,2.2844574780058653
+817,karnataka,chitradurga,rice,33313.0,111621.0,3.727433628318584
+818,karnataka,chitradurga,wheat,1566.0,2577.0,2.2744924977934686
+819,karnataka,dakshina kannada,Maize,31.0,101.0,3.4615384615384617
+820,karnataka,dakshina kannada,jowar,1.0,1.0,1.0
+821,karnataka,dakshina kannada,rice,45851.0,89112.0,3.292485411456473
+822,karnataka,dakshina kannada,wheat,3.0,3.0,1.0
+823,karnataka,davangere,Maize,6273.0,21314.0,3.710640138408305
+824,karnataka,davangere,bajra,10.0,10.0,1.0
+825,karnataka,davangere,jowar,26082.0,26040.0,1.7580225498699047
+826,karnataka,davangere,ragi,4796.0,6730.0,2.846361185983828
+827,karnataka,davangere,rice,66915.0,269152.0,4.976148095407618
+828,karnataka,davangere,wheat,1006.0,813.0,1.927807486631016
+829,karnataka,dharwad,Maize,8008.0,28436.0,3.550949050949051
+830,karnataka,dharwad,bajra,35.0,38.0,1.0909090909090908
+831,karnataka,dharwad,jowar,171449.0,85617.0,1.0113078182562425
+832,karnataka,dharwad,ragi,56.0,79.0,1.5
+833,karnataka,dharwad,rice,2483.0,6211.0,4.450495049504951
+834,karnataka,dharwad,wheat,86170.0,41158.0,1.2321545627048474
+835,karnataka,gadag,Maize,6836.0,15421.0,5.287489643744822
+836,karnataka,gadag,bajra,215.0,224.0,1.041860465116279
+837,karnataka,gadag,jowar,86958.0,62649.0,0.9628679013294398
+838,karnataka,gadag,ragi,33.0,47.0,1.4242424242424243
+839,karnataka,gadag,rice,1594.0,4682.0,4.049678012879485
+840,karnataka,gadag,wheat,37589.0,31253.0,1.0782359610908874
+841,karnataka,hassan,Maize,9653.0,30835.0,4.2175732217573225
+842,karnataka,hassan,bajra,5.0,5.0,1.0
+843,karnataka,hassan,jowar,5041.0,3295.0,1.186046511627907
+844,karnataka,hassan,ragi,41422.0,41280.0,1.4481669882476758
+845,karnataka,hassan,rice,15960.0,42373.0,4.152709359605911
+846,karnataka,hassan,wheat,12.0,14.0,1.1666666666666667
+847,karnataka,haveri,Maize,20737.0,64848.0,3.5281008805304923
+848,karnataka,haveri,bajra,25.0,26.0,1.125
+849,karnataka,haveri,jowar,92018.0,34614.0,1.1122276854610056
+850,karnataka,haveri,ragi,106.0,156.0,2.0
+851,karnataka,haveri,rice,7312.0,21110.0,4.473459426479561
+852,karnataka,haveri,wheat,2138.0,1557.0,1.1847133757961783
+853,karnataka,kalaburagi,Maize,2300.0,5338.0,3.9363395225464193
+854,karnataka,kalaburagi,bajra,373.0,279.0,1.0416666666666667
+855,karnataka,kalaburagi,jowar,421789.0,318948.0,1.5218984204418042
+856,karnataka,kalaburagi,ragi,44.0,62.0,1.4090909090909092
+857,karnataka,kalaburagi,rice,45448.0,159819.0,4.234513274336283
+858,karnataka,kalaburagi,wheat,31913.0,26539.0,2.089989980872575
+859,karnataka,kodagu,Maize,791.0,2489.0,4.095833333333333
+860,karnataka,kodagu,ragi,350.0,666.0,1.9028571428571428
+861,karnataka,kodagu,rice,1179.0,5073.0,4.302798982188295
+862,karnataka,kodagu,wheat,2.0,2.0,1.0
+863,karnataka,kolar,Maize,3487.0,8782.0,3.578787878787878
+864,karnataka,kolar,bajra,10.0,10.0,1.0
+865,karnataka,kolar,jowar,464.0,558.0,1.2025862068965518
+866,karnataka,kolar,ragi,4703.0,7221.0,2.609154929577465
+867,karnataka,kolar,rice,18419.0,45391.0,4.472934472934473
+868,karnataka,kolar,wheat,1.0,1.0,1.0
+869,karnataka,koppal,Maize,9608.0,27163.0,3.2490463215258854
+870,karnataka,koppal,bajra,938.0,979.0,1.0437100213219617
+871,karnataka,koppal,jowar,54564.0,53455.0,1.300630301602262
+872,karnataka,koppal,ragi,35.0,50.0,1.4285714285714286
+873,karnataka,koppal,rice,44086.0,152810.0,5.168733031674208
+874,karnataka,koppal,wheat,12264.0,8164.0,1.2844556324732537
+875,karnataka,mandya,Maize,2884.0,10732.0,3.72122052704577
+876,karnataka,mandya,bajra,1.0,1.0,1.0
+877,karnataka,mandya,jowar,621.0,689.0,1.5714285714285714
+878,karnataka,mandya,ragi,17121.0,30718.0,2.547966231772832
+879,karnataka,mandya,rice,26978.0,95859.0,4.824793638010871
+880,karnataka,mandya,wheat,3.0,1.0,1.0
+881,karnataka,mysuru,Maize,8142.0,26630.0,3.610086100861009
+882,karnataka,mysuru,bajra,2.0,2.0,1.0
+883,karnataka,mysuru,jowar,2253.0,3756.0,1.66711051930759
+884,karnataka,mysuru,ragi,23686.0,53903.0,2.372804507637452
+885,karnataka,mysuru,rice,21377.0,84275.0,4.390237549489477
+886,karnataka,mysuru,wheat,7.0,8.0,1.1428571428571428
+887,karnataka,raichur,Maize,2465.0,6181.0,4.280261723009815
+888,karnataka,raichur,bajra,2737.0,2982.0,1.25
+889,karnataka,raichur,jowar,197571.0,170321.0,1.9542258528338257
+890,karnataka,raichur,ragi,59.0,84.0,1.423728813559322
+891,karnataka,raichur,rice,80210.0,240181.0,3.331695475990055
+892,karnataka,raichur,wheat,18598.0,3725.0,0.9933586337760912
+893,karnataka,ramanagara,Maize,1485.0,5443.0,8.483870967741936
+894,karnataka,ramanagara,bajra,86.0,92.0,1.069767441860465
+895,karnataka,ramanagara,jowar,640.0,872.0,1.3625
+896,karnataka,ramanagara,ragi,1077.0,1782.0,2.087378640776699
+897,karnataka,ramanagara,rice,868.0,2738.0,3.81203007518797
+898,karnataka,ramanagara,wheat,4.0,5.0,1.25
+899,karnataka,shivamogga,Maize,5892.0,26610.0,5.100746268656716
+900,karnataka,shivamogga,bajra,1.0,1.0,1.0
+901,karnataka,shivamogga,jowar,2945.0,1648.0,1.9090909090909087
+902,karnataka,shivamogga,ragi,587.0,1004.0,2.25
+903,karnataka,shivamogga,rice,38347.0,119344.0,4.572374510501958
+904,karnataka,shivamogga,wheat,255.0,60.0,1.5
+905,karnataka,tumakuru,Maize,2435.0,6197.0,3.839479392624729
+906,karnataka,tumakuru,bajra,14.0,16.0,1.2
+907,karnataka,tumakuru,jowar,6735.0,3410.0,1.972972972972973
+908,karnataka,tumakuru,ragi,10987.0,15444.0,2.2839506172839505
+909,karnataka,tumakuru,rice,26023.0,73494.0,4.24293059125964
+910,karnataka,tumakuru,wheat,16.0,18.0,1.4
+911,karnataka,udupi,Maize,45.0,142.0,3.8333333333333335
+912,karnataka,udupi,bajra,12.0,13.0,1.0833333333333333
+913,karnataka,udupi,jowar,13.0,14.0,1.0769230769230769
+914,karnataka,udupi,rice,16358.0,34945.0,3.2059633027522936
+915,karnataka,udupi,wheat,1.0,1.0,1.0
+916,karnataka,uttara kannada,Maize,2049.0,7496.0,3.746835443037975
+917,karnataka,uttara kannada,bajra,2.0,2.0,1.0
+918,karnataka,uttara kannada,jowar,227.0,249.0,2.0
+919,karnataka,uttara kannada,ragi,25.0,39.0,2.0
+920,karnataka,uttara kannada,rice,5244.0,12368.0,3.4431818181818183
+921,karnataka,vijayapura,Maize,18650.0,62112.0,3.434103428430486
+922,karnataka,vijayapura,bajra,143.0,149.0,1.041958041958042
+923,karnataka,vijayapura,jowar,510721.0,263309.0,1.1960505548259617
+924,karnataka,vijayapura,ragi,89.0,126.0,1.4157303370786516
+925,karnataka,vijayapura,rice,50.0,152.0,3.04
+926,karnataka,vijayapura,wheat,81437.0,77309.0,1.0684653140338265
+927,karnataka,yadagiri,Maize,479.0,1487.0,3.727272727272727
+928,karnataka,yadagiri,bajra,5091.0,5025.0,1.063302752293578
+929,karnataka,yadagiri,jowar,56954.0,71622.0,1.5672499069297452
+930,karnataka,yadagiri,ragi,17.0,25.0,1.4705882352941178
+931,karnataka,yadagiri,rice,47488.0,119416.0,3.1181054943497823
+932,karnataka,yadagiri,wheat,1804.0,1605.0,1.2585034013605445
+933,kerala,alappuzha,rice,27163.0,95684.0,4.612837242445546
+934,kerala,ernakulam,rice,12446.0,19138.0,2.933333333333333
+935,kerala,idukki,rice,555.0,1297.0,2.921875
+936,kerala,kannur,rice,369.0,514.0,2.642857142857143
+937,kerala,kasaragod,rice,414.04,976.059,2.6066724436741766
+938,kerala,kollam,rice,336.0,880.0,2.631657645264512
+939,kerala,kottayam,rice,11635.88,36177.883,3.527159372622174
+940,kerala,kozhikode,rice,1058.0,2069.0,2.803240740740741
+941,kerala,malappuram,rice,2703.0,10797.0,4.247876263840134
+942,kerala,palakkad,rice,8143.0,24496.0,3.321067157313708
+943,kerala,pathanamthitta,rice,3036.0,10667.0,3.8622627116157617
+944,kerala,thiruvananthapuram,rice,384.0,927.0,2.706766917293233
+945,kerala,thrissur,rice,11597.0,46803.0,4.035785116840562
+946,kerala,wayanad,rice,3599.0,9023.0,2.963381379041683
+947,laddakh,kargil,barley,4243.0,3689.1,0.8694684385382061
+948,laddakh,kargil,wheat,1604.0,1390.0,0.9097370291400142
+949,laddakh,leh ladakh,barley,162.0,143.0,0.912121212121212
+950,laddakh,leh ladakh,wheat,3725.0,2920.0,0.924908424908425
+951,madhya pradesh,agar malwa,Maize,74.0,296.0,4.0
+952,madhya pradesh,agar malwa,barley,34.0,80.0,2.3529411764705883
+953,madhya pradesh,agar malwa,wheat,126577.0,569597.0,4.5000039501647215
+954,madhya pradesh,alirajpur,Maize,6800.0,26250.0,3.860294117647059
+955,madhya pradesh,alirajpur,barley,11.0,11.0,1.0
+956,madhya pradesh,alirajpur,jowar,1448.0,1951.0,1.899100899100899
+957,madhya pradesh,alirajpur,rice,240.0,410.0,1.7083333333333333
+958,madhya pradesh,alirajpur,wheat,36888.0,84879.0,3.947368421052632
+959,madhya pradesh,anuppur,Maize,50.0,200.0,4.0
+960,madhya pradesh,anuppur,barley,527.0,363.0,1.15
+961,madhya pradesh,anuppur,wheat,37000.0,73000.0,3.643884892086331
+962,madhya pradesh,ashoknagar,Maize,30.0,60.0,3.0
+963,madhya pradesh,ashoknagar,barley,725.0,2048.0,2.970149253731343
+964,madhya pradesh,ashoknagar,rice,20.0,30.0,1.5
+965,madhya pradesh,ashoknagar,wheat,211876.0,812544.0,3.8349978289188016
+966,madhya pradesh,balaghat,Maize,40.0,120.0,3.0
+967,madhya pradesh,balaghat,barley,3.0,4.0,2.0
+968,madhya pradesh,balaghat,jowar,82.0,122.0,1.8
+969,madhya pradesh,balaghat,rice,27133.0,92487.33,3.4086658312755684
+970,madhya pradesh,balaghat,wheat,76811.0,138120.0,2.485961123110151
+971,madhya pradesh,barwani,Maize,925.0,3793.0,4.100540540540541
+972,madhya pradesh,barwani,barley,28.0,90.0,3.2142857142857144
+973,madhya pradesh,barwani,jowar,3500.0,3300.0,1.9906832298136643
+974,madhya pradesh,barwani,rice,660.0,1370.0,2.075757575757576
+975,madhya pradesh,barwani,wheat,131000.0,466667.0,4.112002044250985
+976,madhya pradesh,bastar,jowar,1800.0,2000.0,1.1111111111111112
+977,madhya pradesh,bastar,wheat,1400.0,2200.0,1.8333333333333333
+978,madhya pradesh,betul,Maize,600.0,2400.0,4.0
+979,madhya pradesh,betul,barley,10.0,10.0,1.0
+980,madhya pradesh,betul,rice,10.0,26.66,2.666
+981,madhya pradesh,betul,wheat,264808.0,693267.0,3.250458892860593
+982,madhya pradesh,bhind,barley,10553.0,22447.0,2.8686440677966103
+983,madhya pradesh,bhind,jowar,2.0,4.0,2.0
+984,madhya pradesh,bhind,wheat,145000.0,582000.0,4.222010869565217
+985,madhya pradesh,bhopal,Maize,20.0,50.0,2.5
+986,madhya pradesh,bhopal,barley,8.0,10.0,2.5
+987,madhya pradesh,bhopal,wheat,141761.0,427835.0,3.736069932702716
+988,madhya pradesh,bilaspur,barley,300.0,100.0,0.3333333333333333
+989,madhya pradesh,bilaspur,wheat,13500.0,9200.0,0.8288288288288288
+990,madhya pradesh,burhanpur,Maize,4370.0,34305.0,7.850114416475972
+991,madhya pradesh,burhanpur,jowar,81.0,94.0,3.615384615384616
+992,madhya pradesh,burhanpur,rice,45.0,29.33,0.6517777777777778
+993,madhya pradesh,burhanpur,wheat,21000.0,73500.0,3.598996787465479
+994,madhya pradesh,chhatarpur,barley,11755.0,18912.0,1.920975114271204
+995,madhya pradesh,chhatarpur,jowar,831.0,1070.0,1.4
+996,madhya pradesh,chhatarpur,wheat,351196.0,934533.0,2.922523019357901
+997,madhya pradesh,chhindwara,Maize,1000.0,3450.0,4.829457364341085
+998,madhya pradesh,chhindwara,barley,54.0,10.0,0.1851851851851851
+999,madhya pradesh,chhindwara,jowar,154.0,212.0,5.571428571428571
+1000,madhya pradesh,chhindwara,rice,8.0,13.33,1.66625
+1001,madhya pradesh,chhindwara,wheat,287244.0,1566629.0,5.454000779824818
+1002,madhya pradesh,damoh,Maize,200.0,450.0,3.6
+1003,madhya pradesh,damoh,barley,120.0,200.0,2.193548387096774
+1004,madhya pradesh,damoh,jowar,4.0,4.0,1.0
+1005,madhya pradesh,damoh,rice,30.0,60.0,2.0
+1006,madhya pradesh,damoh,wheat,167411.0,408650.0,3.5052631578947366
+1007,madhya pradesh,dantewada,jowar,1800.0,2400.0,1.3333333333333333
+1008,madhya pradesh,datia,barley,5123.0,10716.0,3.376760563380281
+1009,madhya pradesh,datia,jowar,22.0,25.0,1.1904761904761905
+1010,madhya pradesh,datia,wheat,191215.0,651661.0,3.408001464320268
+1011,madhya pradesh,dewas,barley,100.0,100.0,2.5405405405405403
+1012,madhya pradesh,dewas,jowar,100.0,100.0,2.6875
+1013,madhya pradesh,dewas,wheat,304846.0,1330043.0,4.362999678526207
+1014,madhya pradesh,dhamtari,wheat,2300.0,1700.0,0.7391304347826086
+1015,madhya pradesh,dhar,Maize,11000.0,42870.0,4.475382003395586
+1016,madhya pradesh,dhar,barley,100.0,100.0,2.0
+1017,madhya pradesh,dhar,jowar,778.0,400.0,1.809523809523809
+1018,madhya pradesh,dhar,rice,2075.0,840.0,1.68
+1019,madhya pradesh,dhar,wheat,364792.0,1314710.0,3.941798941798942
+1020,madhya pradesh,dindori,barley,200.0,200.0,1.0
+1021,madhya pradesh,dindori,wheat,95000.0,122000.0,2.425
+1022,madhya pradesh,durg,wheat,16900.0,10700.0,0.6407185628742516
+1023,madhya pradesh,guna,barley,306.0,531.0,4.0
+1024,madhya pradesh,guna,wheat,212471.0,835957.0,3.957998551184383
+1025,madhya pradesh,gwalior,Maize,13.0,53.0,4.076923076923077
+1026,madhya pradesh,gwalior,barley,2300.0,6618.0,3.395802098950525
+1027,madhya pradesh,gwalior,rice,228.0,615.33,2.6988157894736844
+1028,madhya pradesh,gwalior,wheat,151825.0,655884.0,4.32
+1029,madhya pradesh,harda,Maize,200.0,750.0,3.75
+1030,madhya pradesh,harda,barley,359.0,500.0,3.067796610169492
+1031,madhya pradesh,harda,jowar,200.0,333.0,3.830188679245283
+1032,madhya pradesh,harda,rice,1000.0,1670.0,1.67
+1033,madhya pradesh,harda,wheat,189000.0,779000.0,4.599187950402713
+1034,madhya pradesh,hoshangabad,Maize,1027.0,4313.0,4.199610516066212
+1035,madhya pradesh,hoshangabad,barley,600.0,800.0,2.75
+1036,madhya pradesh,hoshangabad,jowar,300.0,400.0,4.0
+1037,madhya pradesh,hoshangabad,wheat,308308.0,1455214.0,4.796116504854369
+1038,madhya pradesh,indore,Maize,3200.0,11150.0,3.484375
+1039,madhya pradesh,indore,barley,8.0,14.0,2.0
+1040,madhya pradesh,indore,rice,450.0,1020.0,2.2666666666666666
+1041,madhya pradesh,indore,wheat,187273.0,964269.0,5.14900172475477
+1042,madhya pradesh,jabalpur,barley,400.0,400.0,2.4347826086956523
+1043,madhya pradesh,jabalpur,jowar,1.0,2.0,2.0
+1044,madhya pradesh,jabalpur,wheat,219428.0,947929.0,4.320000182292142
+1045,madhya pradesh,janjgir-champa,wheat,1400.0,1700.0,1.2142857142857142
+1046,madhya pradesh,jashpur,wheat,1100.0,1500.0,1.3636363636363635
+1047,madhya pradesh,jhabua,Maize,283.0,810.0,3.6818181818181817
+1048,madhya pradesh,jhabua,barley,400.0,400.0,2.2666666666666666
+1049,madhya pradesh,jhabua,jowar,4131.0,2755.0,1.2096902303415409
+1050,madhya pradesh,jhabua,rice,5.0,2.0,0.4
+1051,madhya pradesh,jhabua,wheat,73534.0,209204.0,3.1875
+1052,madhya pradesh,kabirdham,wheat,6000.0,4000.0,0.6666666666666666
+1053,madhya pradesh,kanker,wheat,500.0,600.0,1.2
+1054,madhya pradesh,katni,Maize,2500.0,7130.0,2.852
+1055,madhya pradesh,katni,barley,439.0,500.0,2.5353535353535355
+1056,madhya pradesh,katni,wheat,194702.0,674837.0,3.4659993220408625
+1057,madhya pradesh,khandwa,Maize,4320.0,16640.0,3.851851851851852
+1058,madhya pradesh,khandwa,barley,6.0,8.0,2.0
+1059,madhya pradesh,khandwa,jowar,200.0,192.0,2.0
+1060,madhya pradesh,khandwa,rice,190.0,360.0,1.894736842105263
+1061,madhya pradesh,khandwa,wheat,216164.0,692589.0,3.955223880597015
+1062,madhya pradesh,khargone,Maize,7250.0,58000.0,8.0
+1063,madhya pradesh,khargone,jowar,3400.0,2900.0,2.0
+1064,madhya pradesh,khargone,wheat,281989.0,1157283.0,4.139072847682119
+1065,madhya pradesh,korba,barley,200.0,200.0,1.0
+1066,madhya pradesh,korba,wheat,500.0,400.0,0.8
+1067,madhya pradesh,korea,barley,1100.0,900.0,0.8181818181818182
+1068,madhya pradesh,korea,wheat,5100.0,5500.0,1.0784313725490196
+1069,madhya pradesh,mahasamund,wheat,1100.0,1600.0,1.4545454545454546
+1070,madhya pradesh,mandla,barley,100.0,100.0,1.6666666666666667
+1071,madhya pradesh,mandla,jowar,6.0,7.0,1.1666666666666667
+1072,madhya pradesh,mandla,wheat,82291.0,162000.0,3.306122448979592
+1073,madhya pradesh,mandsaur,Maize,80.0,290.0,3.625
+1074,madhya pradesh,mandsaur,barley,1000.0,2400.0,4.2
+1075,madhya pradesh,mandsaur,rice,520.0,1120.0,2.1538461538461537
+1076,madhya pradesh,mandsaur,wheat,238130.0,1338767.0,5.622000587914164
+1077,madhya pradesh,morena,barley,3461.0,5361.0,3.4186046511627906
+1078,madhya pradesh,morena,wheat,125000.0,487757.0,4.264020618556701
+1079,madhya pradesh,narsinghpur,Maize,35.0,98.0,2.8
+1080,madhya pradesh,narsinghpur,jowar,3.0,3.0,1.0
+1081,madhya pradesh,narsinghpur,rice,500.0,1170.0,2.34
+1082,madhya pradesh,narsinghpur,wheat,145047.0,705509.0,4.86400270257227
+1083,madhya pradesh,neemuch,Maize,200.0,250.0,4.0
+1084,madhya pradesh,neemuch,barley,1471.0,4772.0,3.3758921490880254
+1085,madhya pradesh,neemuch,rice,280.0,640.0,2.2857142857142856
+1086,madhya pradesh,neemuch,wheat,103768.0,492068.0,4.742001387711047
+1087,madhya pradesh,niwari,barley,621.0,1439.0,2.317230273752013
+1088,madhya pradesh,niwari,wheat,77809.0,245332.0,3.153002865992366
+1089,madhya pradesh,panna,barley,3500.0,3694.0,1.6170774647887325
+1090,madhya pradesh,panna,jowar,6.0,12.0,2.0
+1091,madhya pradesh,panna,wheat,146314.0,360957.0,3.064935064935065
+1092,madhya pradesh,raipur,wheat,13500.0,13100.0,0.9879518072289156
+1093,madhya pradesh,raisen,Maize,40.0,74.0,3.0
+1094,madhya pradesh,raisen,barley,100.0,138.0,4.0
+1095,madhya pradesh,raisen,jowar,5.0,12.0,2.4
+1096,madhya pradesh,raisen,wheat,286929.0,1168662.0,4.073000637788442
+1097,madhya pradesh,rajgarh,Maize,10.0,40.0,4.0
+1098,madhya pradesh,rajgarh,barley,200.0,300.0,2.85
+1099,madhya pradesh,rajgarh,wheat,336555.0,962884.0,3.546583850931677
+1100,madhya pradesh,rajnandgaon,wheat,18700.0,11800.0,0.6310160427807486
+1101,madhya pradesh,ratlam,Maize,410.0,1353.0,3.3
+1102,madhya pradesh,ratlam,barley,100.0,200.0,3.85
+1103,madhya pradesh,ratlam,jowar,9.0,14.0,2.333333333333333
+1104,madhya pradesh,ratlam,rice,180.0,150.0,0.8333333333333334
+1105,madhya pradesh,ratlam,wheat,227752.0,824462.0,4.0278089029235
+1106,madhya pradesh,rewa,barley,5700.0,3800.0,1.6517967781908305
+1107,madhya pradesh,rewa,wheat,334362.0,1049562.0,3.4321608040201004
+1108,madhya pradesh,sagar,Maize,15.0,18.0,1.2
+1109,madhya pradesh,sagar,barley,992.0,1370.0,2.4107142857142856
+1110,madhya pradesh,sagar,jowar,2.0,4.0,2.0
+1111,madhya pradesh,sagar,wheat,360758.0,1200242.0,3.327000371440134
+1112,madhya pradesh,satna,Maize,100.0,152.0,1.52
+1113,madhya pradesh,satna,barley,10256.0,8998.0,1.552981068098333
+1114,madhya pradesh,satna,wheat,308362.0,986450.0,3.6751388661983335
+1115,madhya pradesh,sehore,barley,310.0,406.0,2.5
+1116,madhya pradesh,sehore,jowar,300.0,369.0,2.764705882352941
+1117,madhya pradesh,sehore,wheat,338431.0,1226812.0,3.642276422764228
+1118,madhya pradesh,seoni,Maize,1500.0,5930.0,4.300662251655629
+1119,madhya pradesh,seoni,barley,7.0,8.0,2.0
+1120,madhya pradesh,seoni,jowar,100.0,100.0,2.4482758620689653
+1121,madhya pradesh,seoni,rice,2030.0,2980.0,1.806036363636364
+1122,madhya pradesh,seoni,wheat,260669.0,1125829.0,4.318998423287771
+1123,madhya pradesh,shahdol,Maize,70.0,280.0,4.0
+1124,madhya pradesh,shahdol,barley,2400.0,1300.0,1.1066176470588236
+1125,madhya pradesh,shahdol,jowar,1.0,2.0,2.0
+1126,madhya pradesh,shahdol,rice,10.0,20.0,2.0
+1127,madhya pradesh,shahdol,wheat,72800.0,160829.0,2.6488125638406537
+1128,madhya pradesh,shajapur,Maize,20.0,80.0,4.0
+1129,madhya pradesh,shajapur,barley,300.0,600.0,2.034090909090909
+1130,madhya pradesh,shajapur,wheat,203701.0,1097745.0,5.389001526747537
+1131,madhya pradesh,sheopur,barley,751.0,1310.0,3.4074074074074074
+1132,madhya pradesh,sheopur,wheat,120508.0,541804.0,4.496000265542537
+1133,madhya pradesh,shivpuri,barley,2000.0,3313.0,1.761297182349814
+1134,madhya pradesh,shivpuri,rice,50.0,108.66,2.1732
+1135,madhya pradesh,shivpuri,wheat,311478.0,889371.0,3.288866659403568
+1136,madhya pradesh,sidhi,barley,28400.0,24500.0,1.4552590266875982
+1137,madhya pradesh,sidhi,wheat,118696.0,290401.0,3.0250419275200784
+1138,madhya pradesh,singrauli,Maize,931.0,1520.0,3.8
+1139,madhya pradesh,singrauli,barley,13604.0,16470.0,2.783975659229209
+1140,madhya pradesh,singrauli,wheat,94045.0,454143.0,4.82899675687171
+1141,madhya pradesh,surguja,barley,5500.0,4700.0,0.8545454545454545
+1142,madhya pradesh,surguja,wheat,21200.0,23100.0,1.2590361445783131
+1143,madhya pradesh,tikamgarh,barley,12682.0,25346.0,2.491820580474934
+1144,madhya pradesh,tikamgarh,wheat,269967.0,763774.0,3.065998098280489
+1145,madhya pradesh,ujjain,Maize,60.0,220.0,3.6666666666666665
+1146,madhya pradesh,ujjain,barley,300.0,500.0,2.7142857142857144
+1147,madhya pradesh,ujjain,rice,200.0,380.0,1.9
+1148,madhya pradesh,ujjain,wheat,408353.0,1765718.0,4.323999089023467
+1149,madhya pradesh,umaria,barley,700.0,400.0,1.2705882352941176
+1150,madhya pradesh,umaria,rice,20.0,30.0,1.5
+1151,madhya pradesh,umaria,wheat,75311.0,148212.0,2.3749102226478334
+1152,madhya pradesh,vidisha,Maize,1190.0,4320.0,3.630252100840336
+1153,madhya pradesh,vidisha,barley,427.0,1039.0,2.473809523809524
+1154,madhya pradesh,vidisha,wheat,383599.0,1120493.0,3.9
+1155,maharashtra,ahmednagar,Maize,50979.0,176700.0,3.841304347826087
+1156,maharashtra,ahmednagar,jowar,598400.0,354500.0,0.7035126017066878
+1157,maharashtra,ahmednagar,wheat,153900.0,271100.0,2.224310776942356
+1158,maharashtra,akola,Maize,1300.0,1000.0,2.5
+1159,maharashtra,akola,jowar,3400.0,1445.0,1.0
+1160,maharashtra,akola,wheat,48500.0,131400.0,2.709278350515464
+1161,maharashtra,amravati,Maize,2212.0,2321.0,2.0
+1162,maharashtra,amravati,jowar,1100.0,1100.0,1.0
+1163,maharashtra,amravati,wheat,73600.0,111900.0,1.9806094182825484
+1164,maharashtra,aurangabad,Maize,40454.0,74056.0,3.135593220338983
+1165,maharashtra,aurangabad,jowar,213400.0,188100.0,1.0948777648428405
+1166,maharashtra,aurangabad,wheat,75300.0,158400.0,2.186991869918699
+1167,maharashtra,beed,Maize,40929.0,74600.0,2.740740740740741
+1168,maharashtra,beed,jowar,500300.0,237470.0,0.8328502415458937
+1169,maharashtra,beed,wheat,67000.0,91900.0,1.6828389830508474
+1170,maharashtra,bhandara,Maize,575.0,500.0,1.6666666666666667
+1171,maharashtra,bhandara,jowar,3900.0,900.0,1.0
+1172,maharashtra,bhandara,rice,14000.0,35015.0,2.857142857142857
+1173,maharashtra,bhandara,wheat,21100.0,15700.0,1.3813813813813811
+1174,maharashtra,buldhana,Maize,32980.0,57600.0,2.551282051282051
+1175,maharashtra,buldhana,jowar,21700.0,20400.0,1.2307692307692308
+1176,maharashtra,buldhana,wheat,103880.0,162400.0,2.041304347826087
+1177,maharashtra,chandrapur,Maize,200.0,300.0,2.0
+1178,maharashtra,chandrapur,jowar,85400.0,32200.0,0.6766917293233082
+1179,maharashtra,chandrapur,rice,6700.0,12968.0,2.608695652173913
+1180,maharashtra,chandrapur,wheat,36000.0,36800.0,1.320321469575201
+1181,maharashtra,dhule,Maize,12800.0,46025.0,3.970410628019324
+1182,maharashtra,dhule,jowar,46600.0,48400.0,1.920394057360769
+1183,maharashtra,dhule,wheat,54078.0,133700.0,2.4723547468471465
+1184,maharashtra,gadchiroli,Maize,3217.0,4721.0,2.75
+1185,maharashtra,gadchiroli,jowar,18200.0,5900.0,1.1538461538461535
+1186,maharashtra,gadchiroli,rice,9130.0,21176.0,2.3193866374589267
+1187,maharashtra,gadchiroli,wheat,1400.0,1300.0,1.4444444444444444
+1188,maharashtra,gondia,Maize,2200.0,1900.0,2.0
+1189,maharashtra,gondia,jowar,18300.0,7400.0,0.4043715846994535
+1190,maharashtra,gondia,rice,40835.0,106718.0,2.968949383241174
+1191,maharashtra,gondia,wheat,45100.0,58400.0,1.29490022172949
+1192,maharashtra,hingoli,Maize,6800.0,4900.0,2.5
+1193,maharashtra,hingoli,jowar,25600.0,28900.0,1.3474178403755868
+1194,maharashtra,hingoli,wheat,77200.0,86300.0,1.9218328840970351
+1195,maharashtra,jalgaon,Maize,84300.0,312000.0,3.7971910522600583
+1196,maharashtra,jalgaon,jowar,74300.0,96700.0,1.8688524590163933
+1197,maharashtra,jalgaon,wheat,77133.0,190532.0,2.61787072243346
+1198,maharashtra,jalna,Maize,17700.0,77000.0,4.350282485875706
+1199,maharashtra,jalna,jowar,166000.0,172100.0,1.1135029354207435
+1200,maharashtra,jalna,wheat,39100.0,63000.0,2.477366255144033
+1201,maharashtra,kolhapur,Maize,9400.0,30700.0,3.664429530201342
+1202,maharashtra,kolhapur,jowar,20300.0,32600.0,2.1589403973509933
+1203,maharashtra,kolhapur,rice,900.0,3400.0,4.5
+1204,maharashtra,kolhapur,wheat,16600.0,41700.0,2.6511627906976742
+1205,maharashtra,latur,Maize,5084.0,8100.0,2.36
+1206,maharashtra,latur,jowar,40100.0,43600.0,1.087281795511222
+1207,maharashtra,latur,wheat,68600.0,97400.0,1.5258064516129033
+1208,maharashtra,mumbai suburban,Maize,100.0,100.0,1.0
+1209,maharashtra,nagpur,Maize,1447.0,1903.0,1.6666666666666667
+1210,maharashtra,nagpur,jowar,23500.0,11500.0,0.8333333333333334
+1211,maharashtra,nagpur,rice,1000.0,1900.0,2.9166666666666665
+1212,maharashtra,nagpur,wheat,135900.0,244400.0,1.807652197066633
+1213,maharashtra,nanded,Maize,9900.0,19200.0,2.5
+1214,maharashtra,nanded,jowar,35707.0,37600.0,1.3854705473635451
+1215,maharashtra,nanded,rice,500.0,1200.0,2.735042735042735
+1216,maharashtra,nanded,wheat,60600.0,82700.0,1.8276374442793464
+1217,maharashtra,nandurbar,Maize,7581.0,24800.0,3.710908274726919
+1218,maharashtra,nandurbar,jowar,32700.0,41000.0,1.5326086956521738
+1219,maharashtra,nandurbar,rice,10800.0,17400.0,1.6111111111111112
+1220,maharashtra,nandurbar,wheat,26283.0,75033.0,2.8548110946239014
+1221,maharashtra,nashik,Maize,5300.0,22300.0,4.483870967741935
+1222,maharashtra,nashik,jowar,35300.0,29100.0,0.8818181818181818
+1223,maharashtra,nashik,wheat,112458.0,223600.0,2.553547823766963
+1224,maharashtra,osmanabad,Maize,9707.0,16189.0,2.142857142857143
+1225,maharashtra,osmanabad,jowar,286600.0,236000.0,0.922300632564262
+1226,maharashtra,osmanabad,wheat,42200.0,45100.0,1.5430711610486891
+1227,maharashtra,palghar,Maize,30.0,100.0,3.571428571428572
+1228,maharashtra,palghar,rice,1400.0,4000.0,2.857142857142857
+1229,maharashtra,palghar,wheat,42.0,100.0,2.9
+1230,maharashtra,parbhani,Maize,6000.0,10028.0,2.5
+1231,maharashtra,parbhani,jowar,255900.0,242800.0,1.0342976572199247
+1232,maharashtra,parbhani,wheat,74400.0,102900.0,1.9283018867924528
+1233,maharashtra,pune,Maize,27828.0,182800.0,7.341365461847389
+1234,maharashtra,pune,jowar,510800.0,343000.0,0.7381008206330598
+1235,maharashtra,pune,wheat,73400.0,177200.0,2.447513812154696
+1236,maharashtra,raigad,Maize,200.0,600.0,3.0
+1237,maharashtra,raigad,rice,9100.0,30100.0,3.339171438194678
+1238,maharashtra,raigad,wheat,10.0,9.0,0.9
+1239,maharashtra,ratnagiri,Maize,100.0,300.0,3.0
+1240,maharashtra,ratnagiri,rice,500.0,1300.0,3.5
+1241,maharashtra,sangli,Maize,26700.0,97800.0,3.662921348314607
+1242,maharashtra,sangli,jowar,217600.0,152237.0,0.9758281626583252
+1243,maharashtra,sangli,wheat,39300.0,72900.0,2.484375
+1244,maharashtra,satara,Maize,14886.0,43225.0,3.164116828929068
+1245,maharashtra,satara,jowar,164800.0,143900.0,1.0266666666666666
+1246,maharashtra,satara,wheat,43700.0,94000.0,2.1709006928406467
+1247,maharashtra,sindhudurg,Maize,300.0,907.0,3.508771929824561
+1248,maharashtra,sindhudurg,rice,4500.0,10200.0,3.0064516129032257
+1249,maharashtra,solapur,Maize,54309.0,119547.0,3.291845493562232
+1250,maharashtra,solapur,jowar,726300.0,406000.0,0.6810148417471152
+1251,maharashtra,solapur,wheat,87800.0,122900.0,1.4706666666666666
+1252,maharashtra,thane,Maize,100.0,300.0,4.0
+1253,maharashtra,thane,rice,2900.0,7500.0,3.1052631578947367
+1254,maharashtra,thane,wheat,200.0,200.0,2.0
+1255,maharashtra,wardha,Maize,1000.0,1000.0,2.0
+1256,maharashtra,wardha,jowar,5090.0,2600.0,1.0
+1257,maharashtra,wardha,wheat,29500.0,49000.0,1.7148014440433212
+1258,maharashtra,washim,Maize,500.0,900.0,1.8
+1259,maharashtra,washim,jowar,2200.0,2500.0,1.1428571428571428
+1260,maharashtra,washim,wheat,34752.0,70500.0,2.071895424836601
+1261,maharashtra,yavatmal,Maize,3400.0,3200.0,1.6842105263157894
+1262,maharashtra,yavatmal,jowar,33300.0,12800.0,1.1521739130434785
+1263,maharashtra,yavatmal,wheat,60200.0,82200.0,1.8026315789473684
+1264,manipur,bishnupur,Maize,710.0,1890.0,2.7794117647058822
+1265,manipur,bishnupur,wheat,2130.0,4860.0,2.6538461538461537
+1266,manipur,chandel,Maize,1390.0,2450.0,2.7564102564102564
+1267,manipur,chandel,wheat,20.0,50.0,2.5
+1268,manipur,churachandpur,Maize,3860.0,6320.0,2.75
+1269,manipur,churachandpur,wheat,2160.0,3980.0,2.613636363636364
+1270,manipur,imphal east,Maize,770.0,1870.0,2.8125
+1271,manipur,imphal east,wheat,2120.0,4560.0,2.8076923076923075
+1272,manipur,imphal west,Maize,730.0,1870.0,2.833333333333333
+1273,manipur,imphal west,wheat,1980.0,4090.0,2.84
+1274,manipur,senapati,Maize,3230.0,5510.0,2.739130434782609
+1275,manipur,senapati,wheat,1500.0,2690.0,2.6226415094339623
+1276,manipur,tamenglong,Maize,1670.0,3460.0,2.857142857142857
+1277,manipur,tamenglong,wheat,10.0,20.0,2.0
+1278,manipur,thoubal,Maize,670.0,1750.0,2.8225806451612905
+1279,manipur,thoubal,wheat,2110.0,4870.0,2.6052631578947367
+1280,manipur,ukhrul,Maize,1200.0,2190.0,2.816901408450704
+1281,manipur,ukhrul,wheat,10.0,20.0,2.0
+1282,meghalaya,east garo hills,rice,100.0,200.0,2.1125
+1283,meghalaya,east garo hills,wheat,72.0,114.0,1.5833333333333333
+1284,meghalaya,east jaintia hills,rice,52.0,103.0,3.0
+1285,meghalaya,east khasi hills,rice,172.0,293.0,2.142857142857143
+1286,meghalaya,north garo hills,rice,88.0,140.0,1.5909090909090908
+1287,meghalaya,north garo hills,wheat,43.0,57.0,1.3255813953488371
+1288,meghalaya,ri bhoi,rice,198.0,424.0,2.174358974358974
+1289,meghalaya,ri bhoi,wheat,5.0,5.0,1.0
+1290,meghalaya,south garo hills,rice,280.0,482.0,1.7966804979253113
+1291,meghalaya,south west garo hills,rice,4932.0,23708.0,4.806974858069749
+1292,meghalaya,south west garo hills,wheat,207.0,421.0,2.050251256281407
+1293,meghalaya,south west khasi hills,rice,40.0,107.0,2.675
+1294,meghalaya,west garo hills,rice,12552.0,55697.0,4.8415627386103335
+1295,meghalaya,west garo hills,wheat,4215.0,6884.0,2.0585106382978724
+1296,meghalaya,west jaintia hills,rice,82.0,190.0,2.320987654320988
+1297,meghalaya,west khasi hills,rice,52.0,119.0,2.333333333333333
+1298,meghalaya,west khasi hills,wheat,5.0,8.0,1.6
+1299,mizoram,aizawl,Maize,152.0,252.0,4.0
+1300,mizoram,aizawl,rice,1232.0,3712.0,3.012987012987013
+1301,mizoram,aizawl,wheat,52.0,44.0,0.8837209302325582
+1302,mizoram,champhai,Maize,1771.0,2721.0,5.0
+1303,mizoram,champhai,rice,13.0,126.0,9.692307692307692
+1304,mizoram,kolasib,Maize,155.0,238.0,2.293333333333333
+1305,mizoram,kolasib,rice,4749.0,11798.0,3.0
+1306,mizoram,kolasib,wheat,3.0,4.0,1.3333333333333333
+1307,mizoram,lawngtlai,Maize,301.0,615.0,2.98
+1308,mizoram,lawngtlai,rice,299.0,612.0,3.333333333333333
+1309,mizoram,lunglei,Maize,387.0,616.0,4.0
+1310,mizoram,lunglei,rice,357.0,812.0,2.9242424242424243
+1311,mizoram,mamit,Maize,107.0,425.0,5.051724137931035
+1312,mizoram,mamit,rice,13.0,25.0,2.0
+1313,mizoram,mamit,wheat,3.0,4.0,1.3333333333333333
+1314,mizoram,saiha,Maize,380.0,684.0,5.0
+1315,mizoram,saiha,rice,350.0,700.0,2.0
+1316,mizoram,serchhip,Maize,50.0,81.0,1.62
+1317,mizoram,serchhip,rice,44.0,120.0,2.727272727272727
+1318,nagaland,dimapur,Maize,1408.0,2797.0,1.9928057553956835
+1319,nagaland,dimapur,barley,1310.0,2230.0,2.0
+1320,nagaland,dimapur,rice,2930.0,8295.0,2.8310580204778155
+1321,nagaland,dimapur,wheat,2100.0,4310.0,2.574324324324324
+1322,nagaland,kiphire,Maize,332.0,655.0,1.9728915662650603
+1323,nagaland,kiphire,barley,30.0,40.0,2.0
+1324,nagaland,kohima,barley,520.0,910.0,2.0
+1325,nagaland,kohima,rice,150.0,180.0,1.2
+1326,nagaland,kohima,wheat,1240.0,3000.0,3.1818181818181817
+1327,nagaland,longleng,barley,30.0,50.0,1.6666666666666667
+1328,nagaland,mokokchung,Maize,855.0,1702.0,1.9906432748538008
+1329,nagaland,mokokchung,barley,720.0,1250.0,1.9672131147540983
+1330,nagaland,mokokchung,wheat,1300.0,2030.0,2.325
+1331,nagaland,mon,Maize,1056.0,2093.0,1.982007575757576
+1332,nagaland,mon,barley,760.0,1380.0,2.0535714285714284
+1333,nagaland,mon,rice,1660.0,4699.0,2.830722891566265
+1334,nagaland,mon,wheat,1940.0,3530.0,2.0
+1335,nagaland,peren,barley,60.0,70.0,1.5
+1336,nagaland,peren,rice,790.0,2235.0,2.833333333333333
+1337,nagaland,peren,wheat,381.0,692.0,1.827586206896552
+1338,nagaland,phek,Maize,744.0,1480.0,1.989247311827957
+1339,nagaland,phek,barley,700.0,1800.0,2.571428571428572
+1340,nagaland,phek,wheat,1320.0,2710.0,2.8229166666666665
+1341,nagaland,tuensang,barley,690.0,1110.0,1.875
+1342,nagaland,tuensang,wheat,1550.0,3280.0,2.1161290322580646
+1343,nagaland,wokha,Maize,995.0,1973.0,2.5
+1344,nagaland,wokha,barley,850.0,1280.0,1.9090909090909087
+1345,nagaland,wokha,rice,470.0,821.0,2.831034482758621
+1346,nagaland,wokha,wheat,1270.0,3260.0,2.716666666666667
+1347,nagaland,zunheboto,Maize,500.0,1010.0,2.380952380952381
+1348,nagaland,zunheboto,barley,780.0,1170.0,2.2857142857142856
+1349,nagaland,zunheboto,wheat,1280.0,2000.0,2.034482758620689
+1350,odisha,anugul,Maize,580.0,560.0,2.8307692307692305
+1351,odisha,anugul,rice,173000.0,8350.0,3.0434782608695654
+1352,odisha,anugul,wheat,750.0,910.0,1.9592592592592597
+1353,odisha,balangir,Maize,200.0,250.0,2.93
+1354,odisha,balangir,ragi,5.0,4.0,0.8
+1355,odisha,balangir,rice,623000.0,12000.0,3.107142857142857
+1356,odisha,balangir,wheat,1450.0,1600.0,5.0
+1357,odisha,baleshwar,Maize,150.0,200.0,5.4
+1358,odisha,baleshwar,rice,278000.0,149020.0,3.774193548387097
+1359,odisha,baleshwar,wheat,810.0,950.0,1.3083333333333331
+1360,odisha,bargarh,Maize,270.0,470.0,2.323076923076923
+1361,odisha,bargarh,rice,687000.0,329000.0,4.409343351845802
+1362,odisha,bargarh,wheat,630.0,1220.0,2.411111111111111
+1363,odisha,bhadrak,Maize,58.0,101.0,6.7
+1364,odisha,bhadrak,rice,350000.0,50410.0,2.9302325581395348
+1365,odisha,bhadrak,wheat,950.0,980.0,1.1666666666666667
+1366,odisha,boudh,Maize,20.0,30.0,2.8
+1367,odisha,boudh,ragi,9.0,2.8,0.9333333333333332
+1368,odisha,boudh,rice,173000.0,5180.0,3.519230769230769
+1369,odisha,boudh,wheat,130.0,200.0,2.2341463414634144
+1370,odisha,cuttack,Maize,320.0,550.0,2.65
+1371,odisha,cuttack,ragi,90.0,70.0,1.0
+1372,odisha,cuttack,rice,376000.0,45990.0,4.195121951219512
+1373,odisha,cuttack,wheat,730.0,1220.0,2.275
+1374,odisha,deogarh,Maize,280.0,400.0,2.42
+1375,odisha,deogarh,rice,111000.0,7000.0,2.5
+1376,odisha,deogarh,wheat,430.0,820.0,1.95
+1377,odisha,dhenkanal,Maize,350.0,370.0,3.038095238095238
+1378,odisha,dhenkanal,rice,225000.0,7000.0,4.0
+1379,odisha,dhenkanal,wheat,630.0,830.0,2.466666666666667
+1380,odisha,gajapati,Maize,120.0,180.0,2.1
+1381,odisha,gajapati,ragi,1070.0,1260.0,1.1775700934579438
+1382,odisha,gajapati,rice,67000.0,1960.0,2.2280701754385963
+1383,odisha,gajapati,wheat,521.0,563.0,2.0
+1384,odisha,ganjam,Maize,510.0,700.0,4.242857142857143
+1385,odisha,ganjam,ragi,4420.0,4800.0,1.1923076923076923
+1386,odisha,ganjam,rice,2000.0,3010.0,3.0
+1387,odisha,ganjam,wheat,180.0,350.0,2.1
+1388,odisha,jagatsinghapur,Maize,9.0,23.0,2.555555555555556
+1389,odisha,jagatsinghapur,ragi,6.0,2.0,1.1
+1390,odisha,jagatsinghapur,rice,210000.0,25250.0,4.0
+1391,odisha,jagatsinghapur,wheat,180.0,180.0,1.65
+1392,odisha,jajapur,Maize,70.0,140.0,2.0
+1393,odisha,jajapur,rice,213000.0,26020.0,3.0
+1394,odisha,jajapur,wheat,720.0,860.0,1.994117647058824
+1395,odisha,jharsuguda,Maize,80.0,130.0,7.05
+1396,odisha,jharsuguda,ragi,1.0,0.1,0.1
+1397,odisha,jharsuguda,rice,99000.0,4000.0,4.081967213114754
+1398,odisha,jharsuguda,wheat,890.0,1590.0,1.7865168539325842
+1399,odisha,kalahandi,Maize,630.0,1010.0,2.992857142857143
+1400,odisha,kalahandi,ragi,14.0,0.6,0.0428571428571428
+1401,odisha,kalahandi,rice,542000.0,129000.0,3.689090377303305
+1402,odisha,kalahandi,wheat,970.0,860.0,2.6
+1403,odisha,kandhamal,Maize,13760.0,18180.0,2.1
+1404,odisha,kandhamal,ragi,20.0,10.0,2.9
+1405,odisha,kandhamal,rice,71000.0,1169.0,2.361111111111111
+1406,odisha,kandhamal,wheat,451.0,457.0,1.9
+1407,odisha,kendrapara,Maize,90.0,110.0,1.2222222222222223
+1408,odisha,kendrapara,ragi,120.0,90.0,1.0
+1409,odisha,kendrapara,rice,259000.0,59190.0,3.4285714285714284
+1410,odisha,kendrapara,wheat,1320.0,1700.0,2.7
+1411,odisha,kendujhar,Maize,180.0,290.0,3.1333333333333333
+1412,odisha,kendujhar,ragi,1.0,0.4,0.4
+1413,odisha,kendujhar,rice,277000.0,9000.0,4.0
+1414,odisha,kendujhar,wheat,1610.0,1920.0,2.292
+1415,odisha,khordha,Maize,150.0,170.0,3.075
+1416,odisha,khordha,ragi,110.0,80.0,0.9
+1417,odisha,khordha,rice,202000.0,35240.0,6.0
+1418,odisha,khordha,wheat,110.0,170.0,1.95
+1419,odisha,koraput,Maize,2270.0,2152.5,2.3688311688311687
+1420,odisha,koraput,ragi,480.0,200.0,0.86
+1421,odisha,koraput,rice,208000.0,82890.0,2.9727965179542983
+1422,odisha,koraput,wheat,352.0,398.0,3.5
+1423,odisha,malkangiri,Maize,170.0,231.3,2.5461538461538464
+1424,odisha,malkangiri,ragi,1.0,1.2000000000000002,1.2000000000000002
+1425,odisha,malkangiri,rice,178000.0,7000.0,3.0
+1426,odisha,malkangiri,wheat,105.0,108.0,1.0285714285714285
+1427,odisha,mayurbhanj,Maize,230.0,300.1,2.695604395604396
+1428,odisha,mayurbhanj,ragi,12.0,6.6,1.075
+1429,odisha,mayurbhanj,rice,490000.0,26230.0,2.835675675675676
+1430,odisha,mayurbhanj,wheat,1332.0,1723.5,1.6666666666666667
+1431,odisha,nabarangpur,Maize,3364.0,10529.3,3.973983115886416
+1432,odisha,nabarangpur,ragi,57.0,21.9,1.0
+1433,odisha,nabarangpur,rice,327000.0,7310.0,3.0689655172413794
+1434,odisha,nabarangpur,wheat,2015.0,3487.0,3.266666666666667
+1435,odisha,nayagarh,Maize,47.0,74.4,3.5200000000000005
+1436,odisha,nayagarh,ragi,30.0,20.0,1.2
+1437,odisha,nayagarh,rice,1030.0,2120.0,2.058252427184466
+1438,odisha,nayagarh,wheat,170.0,270.0,2.44
+1439,odisha,nuapada,Maize,160.0,290.0,2.2
+1440,odisha,nuapada,rice,198000.0,28200.0,3.2302405498281788
+1441,odisha,nuapada,wheat,620.0,510.0,2.4
+1442,odisha,puri,Maize,70.0,60.0,3.1
+1443,odisha,puri,ragi,260.0,160.0,0.8083333333333332
+1444,odisha,puri,rice,245000.0,141000.0,3.375
+1445,odisha,puri,wheat,242.0,455.2,1.88099173553719
+1446,odisha,rayagada,Maize,560.0,560.0,1.9483333333333333
+1447,odisha,rayagada,ragi,238.0,202.3,1.19375
+1448,odisha,rayagada,rice,115000.0,15000.0,3.5528700906344413
+1449,odisha,rayagada,wheat,351.0,370.0,1.4166666666666667
+1450,odisha,sambalpur,Maize,160.0,250.0,2.32
+1451,odisha,sambalpur,rice,345000.0,95000.0,4.483348334833483
+1452,odisha,sambalpur,wheat,544.0,860.1,2.787179487179487
+1453,odisha,sonepur,Maize,130.0,140.0,2.6
+1454,odisha,sonepur,rice,448000.0,156670.0,4.340755355129651
+1455,odisha,sonepur,wheat,540.0,610.0,2.341463414634146
+1456,odisha,sundargarh,Maize,110.0,270.0,2.9000000000000004
+1457,odisha,sundargarh,ragi,2.0,1.0,0.5
+1458,odisha,sundargarh,rice,472000.0,7110.0,3.0
+1459,odisha,sundargarh,wheat,4003.0,6492.4,2.1596774193548387
+1460,puducherry,karaikal,rice,7703.0,14969.0,2.7645588602849287
+1461,puducherry,mahe,rice,1.0,2.0,2.0
+1462,puducherry,pondicherry,bajra,31.0,62.0,3.0
+1463,puducherry,pondicherry,jowar,4.0,7.0,3.0
+1464,puducherry,pondicherry,ragi,48.0,119.0,2.833333333333333
+1465,puducherry,pondicherry,rice,11645.0,35319.0,3.97367501456028
+1466,puducherry,yanam,rice,328.0,1909.0,6.745583038869258
+1467,punjab,amritsar,wheat,372000.0,1738000.0,4.973684210526316
+1468,punjab,barnala,barley,1000.0,4000.0,4.0
+1469,punjab,barnala,wheat,115000.0,641000.0,5.573913043478261
+1470,punjab,bathinda,barley,5000.0,14000.0,4.0
+1471,punjab,bathinda,wheat,258000.0,1428000.0,5.6
+1472,punjab,faridkot,barley,1000.0,4000.0,4.0
+1473,punjab,faridkot,wheat,118000.0,646000.0,5.568965517241379
+1474,punjab,fatehgarh sahib,barley,1000.0,4000.0,4.0
+1475,punjab,fatehgarh sahib,wheat,88000.0,454000.0,5.341176470588235
+1476,punjab,fazilka,barley,3000.0,12000.0,4.05
+1477,punjab,fazilka,wheat,211000.0,1052000.0,5.057692307692308
+1478,punjab,firozepur,barley,5000.0,18000.0,4.0
+1479,punjab,firozepur,wheat,422000.0,1969000.0,5.401069518716578
+1480,punjab,gurdaspur,wheat,231000.0,1098000.0,4.753246753246753
+1481,punjab,hoshiarpur,wheat,154000.0,694000.0,4.533783783783784
+1482,punjab,jalandhar,barley,100.0,400.0,4.0
+1483,punjab,jalandhar,wheat,173000.0,870000.0,5.064705882352941
+1484,punjab,kapurthala,barley,5000.0,17000.0,3.4
+1485,punjab,kapurthala,wheat,238000.0,990000.0,4.936936936936937
+1486,punjab,ludhiana,barley,4000.0,13000.0,4.357142857142857
+1487,punjab,ludhiana,wheat,413000.0,1823000.0,5.373540856031128
+1488,punjab,mansa,barley,4000.0,10000.0,3.6666666666666665
+1489,punjab,mansa,wheat,172000.0,932000.0,5.450292397660819
+1490,punjab,moga,barley,1000.0,4000.0,4.0
+1491,punjab,moga,wheat,177000.0,961000.0,7.461538461538462
+1492,punjab,muktsar,barley,7000.0,21000.0,4.0
+1493,punjab,muktsar,wheat,214000.0,1192000.0,5.570093457943925
+1494,punjab,pathankot,barley,1000.0,3000.0,3.0
+1495,punjab,pathankot,wheat,42000.0,173000.0,4.119047619047619
+1496,punjab,patiala,barley,6000.0,21000.0,5.4
+1497,punjab,patiala,wheat,393000.0,1749000.0,5.472573839662447
+1498,punjab,rupnagar,barley,1000.0,3000.0,4.0
+1499,punjab,rupnagar,wheat,110000.0,482000.0,4.865671641791045
+1500,punjab,sangrur,barley,8000.0,28000.0,4.5
+1501,punjab,sangrur,wheat,401000.0,1921000.0,5.8
+1502,punjab,sas nagar,barley,100.0,400.0,4.0
+1503,punjab,sas nagar,wheat,54000.0,249000.0,4.96
+1504,punjab,shahid bhagat singh nagar,barley,3000.0,10000.0,3.333333333333333
+1505,punjab,shahid bhagat singh nagar,wheat,257000.0,1161000.0,5.16
+1506,punjab,tarn taran,wheat,188000.0,931000.0,5.087431693989071
+1507,rajasthan,ajmer,barley,42326.0,95624.0,3.2413020813221607
+1508,rajasthan,ajmer,wheat,79300.0,274738.0,3.580954615364563
+1509,rajasthan,alwar,barley,20863.0,58074.0,4.16999191156646
+1510,rajasthan,alwar,wheat,219063.0,941457.0,4.592186842255702
+1511,rajasthan,banswara,barley,2200.0,4200.0,3.5977011494252875
+1512,rajasthan,banswara,wheat,110182.0,291466.0,2.645314116643372
+1513,rajasthan,baran,barley,800.0,1600.0,3.591549295774648
+1514,rajasthan,baran,wheat,181699.0,883589.0,4.967678276540198
+1515,rajasthan,barmer,barley,147.0,342.0,3.58974358974359
+1516,rajasthan,barmer,wheat,19334.0,49112.0,2.7930168502916395
+1517,rajasthan,bharatpur,barley,5800.0,14146.0,3.6888677450047576
+1518,rajasthan,bharatpur,wheat,171639.0,713881.0,4.733790619788966
+1519,rajasthan,bhilwara,barley,29884.0,87739.0,3.364612493768455
+1520,rajasthan,bhilwara,wheat,146052.0,597234.0,4.0891874127023256
+1521,rajasthan,bikaner,barley,8765.0,24522.0,2.797718197375927
+1522,rajasthan,bikaner,wheat,124394.0,355090.0,2.9503052209850487
+1523,rajasthan,bundi,barley,2816.0,9933.0,3.5972482801751093
+1524,rajasthan,bundi,wheat,174545.0,823931.0,4.720450313672692
+1525,rajasthan,chittorgarh,barley,9954.0,34503.0,3.601941747572816
+1526,rajasthan,chittorgarh,wheat,182665.0,854175.0,4.676183176853804
+1527,rajasthan,churu,barley,13468.0,29106.0,2.657456318569688
+1528,rajasthan,churu,wheat,42456.0,92912.0,2.8388799632774844
+1529,rajasthan,dausa,barley,8467.0,23870.0,3.788021390374332
+1530,rajasthan,dausa,wheat,103644.0,418634.0,4.32597670595642
+1531,rajasthan,dholpur,barley,1209.0,2888.0,3.596774193548387
+1532,rajasthan,dholpur,wheat,67979.0,300340.0,4.561387522021748
+1533,rajasthan,dungarpur,barley,1900.0,3637.0,3.5973715651135008
+1534,rajasthan,dungarpur,wheat,61184.0,145496.0,3.029395522705068
+1535,rajasthan,ganganagar,barley,79408.0,258590.0,4.659385813148789
+1536,rajasthan,ganganagar,wheat,285384.0,1329576.0,4.65890169035405
+1537,rajasthan,hanumangarh,barley,39152.0,151752.0,3.882171945701357
+1538,rajasthan,hanumangarh,wheat,263748.0,1233787.0,4.87536053328329
+1539,rajasthan,jaipur,barley,65146.0,241202.0,3.702483652104504
+1540,rajasthan,jaipur,wheat,195548.0,590946.0,3.8812455895172335
+1541,rajasthan,jaisalmer,barley,200.0,570.0,3.571428571428572
+1542,rajasthan,jaisalmer,wheat,16836.0,51937.0,3.433397236729028
+1543,rajasthan,jalore,barley,792.0,1565.0,3.596958174904943
+1544,rajasthan,jalore,wheat,52807.0,117562.0,2.3806276854100505
+1545,rajasthan,jhalawar,barley,461.0,1368.0,3.5984848484848486
+1546,rajasthan,jhalawar,wheat,156254.0,652482.0,4.175777900085758
+1547,rajasthan,jhunjhunu,barley,14500.0,39568.0,3.368062648961525
+1548,rajasthan,jhunjhunu,wheat,88802.0,358018.0,4.172722227241633
+1549,rajasthan,jodhpur,barley,718.0,1672.0,3.5987261146496814
+1550,rajasthan,jodhpur,wheat,77939.0,203217.0,2.7186665071579537
+1551,rajasthan,karauli,barley,1500.0,3139.0,3.598425196850393
+1552,rajasthan,karauli,wheat,89193.0,365854.0,4.445289417568019
+1553,rajasthan,kota,barley,1113.0,2052.0,3.596858638743456
+1554,rajasthan,kota,wheat,166763.0,725558.0,4.691279511495061
+1555,rajasthan,nagaur,barley,16898.0,44349.0,3.135348226018397
+1556,rajasthan,nagaur,wheat,91912.0,212344.0,2.839405971427459
+1557,rajasthan,pali,barley,6690.0,19334.0,2.889985052316891
+1558,rajasthan,pali,wheat,109600.0,276483.0,2.92586602775282
+1559,rajasthan,pratapgarh,barley,2264.0,5892.0,3.806941431670282
+1560,rajasthan,pratapgarh,wheat,88715.0,356002.0,4.069934845079239
+1561,rajasthan,rajsamand,barley,8498.0,23593.0,2.889727881464596
+1562,rajasthan,rajsamand,wheat,36704.0,116996.0,3.420610963535378
+1563,rajasthan,sawai madhopur,barley,2571.0,5115.0,3.597959183673469
+1564,rajasthan,sawai madhopur,wheat,87805.0,350076.0,4.373414126112479
+1565,rajasthan,sikar,barley,35743.0,111379.0,3.951280785967431
+1566,rajasthan,sikar,wheat,101345.0,347485.0,3.8610003842090097
+1567,rajasthan,sirohi,barley,1600.0,3951.0,3.596685082872928
+1568,rajasthan,sirohi,wheat,46191.0,114373.0,3.176538598363572
+1569,rajasthan,tonk,barley,16945.0,45660.0,3.286878565607172
+1570,rajasthan,tonk,wheat,111265.0,284497.0,3.82988015268448
+1571,rajasthan,udaipur,barley,11996.0,25258.0,2.7721811969580075
+1572,rajasthan,udaipur,wheat,88904.0,262499.0,3.303775566952975
+1573,sikkim,east district,barley,500.0,530.0,1.4705882352941178
+1574,sikkim,east district,wheat,2800.0,5100.0,1.965034965034965
+1575,sikkim,north district,barley,240.0,242.0,1.38
+1576,sikkim,north district,wheat,1050.0,1649.0,1.818918918918919
+1577,sikkim,south district,barley,430.0,429.0,1.6
+1578,sikkim,south district,wheat,2080.0,3150.0,1.575
+1579,sikkim,west district,barley,450.0,670.0,1.488888888888889
+1580,sikkim,west district,wheat,2880.0,4694.0,1.8053846153846156
+1581,tamil nadu,ariyalur,Maize,8061.0,56405.0,7.5
+1582,tamil nadu,ariyalur,bajra,95.0,198.0,3.142857142857143
+1583,tamil nadu,ariyalur,jowar,63.0,136.0,2.176470588235294
+1584,tamil nadu,ariyalur,ragi,27.0,98.0,4.5
+1585,tamil nadu,ariyalur,rice,732.0,3064.0,4.46875
+1586,tamil nadu,chengalpattu,Maize,2.0,11.0,5.5
+1587,tamil nadu,coimbatore,Maize,3085.0,21594.0,7.916986564299425
+1588,tamil nadu,coimbatore,bajra,216.0,184.0,3.0
+1589,tamil nadu,coimbatore,jowar,12723.0,11309.0,1.130547780887645
+1590,tamil nadu,coimbatore,ragi,10.0,41.0,4.1
+1591,tamil nadu,coimbatore,rice,177.0,742.0,4.307692307692308
+1592,tamil nadu,coimbatore,wheat,20.0,4.0,0.5
+1593,tamil nadu,cuddalore,Maize,2013.0,11310.0,7.5
+1594,tamil nadu,cuddalore,bajra,340.0,397.0,3.16
+1595,tamil nadu,cuddalore,jowar,11.0,19.0,2.111111111111111
+1596,tamil nadu,cuddalore,ragi,82.0,366.0,4.5
+1597,tamil nadu,cuddalore,rice,8077.0,33413.0,4.507960064759849
+1598,tamil nadu,dharmapuri,Maize,2157.0,16177.0,7.499768196569309
+1599,tamil nadu,dharmapuri,bajra,274.0,801.0,3.1481481481481484
+1600,tamil nadu,dharmapuri,jowar,2207.0,2460.0,2.2
+1601,tamil nadu,dharmapuri,ragi,8339.0,34782.0,4.882499112531061
+1602,tamil nadu,dharmapuri,rice,4961.0,24314.0,4.901028018544649
+1603,tamil nadu,dindigul,Maize,25230.0,218462.0,9.471990981616372
+1604,tamil nadu,dindigul,bajra,723.0,2064.0,3.323671497584541
+1605,tamil nadu,dindigul,jowar,45672.0,113130.0,3.185773840541949
+1606,tamil nadu,dindigul,ragi,15.0,59.0,4.444444444444445
+1607,tamil nadu,dindigul,rice,5570.0,21577.0,5.725945017182131
+1608,tamil nadu,dindigul,wheat,1.0,0.0,0.0
+1609,tamil nadu,erode,Maize,6573.0,43987.0,9.080550098231829
+1610,tamil nadu,erode,bajra,119.0,246.0,3.2
+1611,tamil nadu,erode,jowar,103.0,111.0,1.25
+1612,tamil nadu,erode,ragi,2346.0,8331.0,4.466666666666667
+1613,tamil nadu,erode,rice,8132.0,34057.0,4.46793760831889
+1614,tamil nadu,kanchipuram,Maize,4.0,22.0,12.0
+1615,tamil nadu,kanchipuram,bajra,33.0,60.0,3.1666666666666665
+1616,tamil nadu,kanchipuram,jowar,24.0,52.0,2.1875
+1617,tamil nadu,kanchipuram,ragi,294.0,1166.0,4.463917525773196
+1618,tamil nadu,kanchipuram,rice,46638.0,231225.0,4.957866975427763
+1619,tamil nadu,kanniyakumari,Maize,31.0,212.0,7.5
+1620,tamil nadu,kanniyakumari,rice,114.0,509.0,4.464912280701754
+1621,tamil nadu,karur,Maize,1671.0,11182.0,7.5
+1622,tamil nadu,karur,bajra,418.0,1222.0,3.1468531468531467
+1623,tamil nadu,karur,jowar,18423.0,9749.0,1.6619502216160928
+1624,tamil nadu,karur,ragi,51.0,185.0,4.454545454545454
+1625,tamil nadu,karur,rice,322.0,1350.0,4.467032967032967
+1626,tamil nadu,krishnagiri,Maize,942.0,7065.0,7.5
+1627,tamil nadu,krishnagiri,bajra,51.0,102.0,3.1578947368421053
+1628,tamil nadu,krishnagiri,jowar,457.0,509.0,2.1951219512195124
+1629,tamil nadu,krishnagiri,ragi,7203.0,26704.0,5.229925577751665
+1630,tamil nadu,krishnagiri,rice,8885.0,43981.0,5.006186811528595
+1631,tamil nadu,madurai,Maize,10409.0,69923.0,7.499778073679538
+1632,tamil nadu,madurai,bajra,1026.0,3169.0,4.26514131897712
+1633,tamil nadu,madurai,jowar,4598.0,8440.0,2.437086092715232
+1634,tamil nadu,madurai,ragi,45.0,141.0,4.5
+1635,tamil nadu,madurai,rice,9159.0,35957.0,3.925865269134185
+1636,tamil nadu,nagapattinam,Maize,29.0,217.0,7.482758620689655
+1637,tamil nadu,nagapattinam,bajra,6.0,19.0,3.1666666666666665
+1638,tamil nadu,nagapattinam,jowar,14.0,30.0,2.142857142857143
+1639,tamil nadu,nagapattinam,ragi,2.0,6.0,4.0
+1640,tamil nadu,nagapattinam,rice,545.0,2282.0,4.467105263157895
+1641,tamil nadu,namakkal,Maize,6006.0,54532.0,9.07958707958708
+1642,tamil nadu,namakkal,bajra,159.0,353.0,3.1517857142857144
+1643,tamil nadu,namakkal,jowar,38327.0,99516.0,3.085576088304601
+1644,tamil nadu,namakkal,ragi,130.0,580.0,4.461538461538462
+1645,tamil nadu,namakkal,rice,842.0,3623.0,4.46780303030303
+1646,tamil nadu,namakkal,wheat,250.0,13.0,0.052
+1647,tamil nadu,perambalur,Maize,6434.0,45022.0,7.499798630688683
+1648,tamil nadu,perambalur,bajra,121.0,175.0,3.142857142857143
+1649,tamil nadu,perambalur,jowar,265.0,474.0,2.204761904761905
+1650,tamil nadu,perambalur,ragi,8.0,25.0,4.0
+1651,tamil nadu,perambalur,rice,2392.0,10293.0,4.468312208138759
+1652,tamil nadu,pudukkottai,Maize,3308.0,16547.0,7.4997074312463425
+1653,tamil nadu,pudukkottai,bajra,7.0,13.0,2.0
+1654,tamil nadu,pudukkottai,jowar,149.0,248.0,2.210526315789474
+1655,tamil nadu,pudukkottai,ragi,16.0,58.0,4.5
+1656,tamil nadu,pudukkottai,rice,4841.0,12303.0,4.468190240889438
+1657,tamil nadu,ramanathapuram,Maize,1487.0,10407.0,7.499248120300752
+1658,tamil nadu,ramanathapuram,bajra,1604.0,4378.0,3.4445318646734853
+1659,tamil nadu,ramanathapuram,jowar,7277.0,16162.0,2.2209701800192385
+1660,tamil nadu,ramanathapuram,ragi,706.0,2837.0,4.462006079027356
+1661,tamil nadu,salem,Maize,14572.0,137687.0,9.64205337048548
+1662,tamil nadu,salem,bajra,162.0,474.0,3.1486486486486487
+1663,tamil nadu,salem,jowar,21512.0,27301.0,1.428636779505947
+1664,tamil nadu,salem,ragi,2907.0,14624.0,5.030615755073959
+1665,tamil nadu,salem,rice,4220.0,18268.0,4.328909952606635
+1666,tamil nadu,salem,wheat,25.0,12.0,0.48
+1667,tamil nadu,sivaganga,Maize,148.0,740.0,7.5
+1668,tamil nadu,sivaganga,bajra,7.0,18.0,3.2
+1669,tamil nadu,sivaganga,jowar,219.0,437.0,2.209090909090909
+1670,tamil nadu,sivaganga,ragi,423.0,1702.0,4.457142857142857
+1671,tamil nadu,sivaganga,rice,817.0,3512.0,4.469230769230769
+1672,tamil nadu,thanjavur,Maize,825.0,4127.0,7.5
+1673,tamil nadu,thanjavur,bajra,5.0,13.0,2.6
+1674,tamil nadu,thanjavur,jowar,28.0,45.0,1.6071428571428572
+1675,tamil nadu,thanjavur,ragi,3.0,12.0,4.0
+1676,tamil nadu,thanjavur,rice,20044.0,81310.0,4.369035308021864
+1677,tamil nadu,the nilgiris,wheat,430.0,44.0,0.4835164835164835
+1678,tamil nadu,theni,Maize,5412.0,41162.0,8.938505620454045
+1679,tamil nadu,theni,bajra,2578.0,4037.0,3.863157894736842
+1680,tamil nadu,theni,jowar,8025.0,44382.0,5.530467289719626
+1681,tamil nadu,theni,ragi,80.0,317.0,4.428571428571429
+1682,tamil nadu,theni,rice,3794.0,15887.0,4.469453376205788
+1683,tamil nadu,thiruvallur,Maize,415.0,3112.0,8.0
+1684,tamil nadu,thiruvallur,bajra,171.0,428.0,3.147058823529412
+1685,tamil nadu,thiruvallur,jowar,71.0,153.0,2.1666666666666665
+1686,tamil nadu,thiruvallur,ragi,1062.0,4458.0,4.4888059701492535
+1687,tamil nadu,thiruvallur,rice,26745.0,121916.0,4.558459525144887
+1688,tamil nadu,thiruvarur,Maize,13.0,87.0,7.0
+1689,tamil nadu,thiruvarur,jowar,1.0,2.0,2.0
+1690,tamil nadu,thiruvarur,ragi,2.0,7.0,3.5
+1691,tamil nadu,thiruvarur,rice,10043.0,42283.0,4.34206202505648
+1692,tamil nadu,tiruchirappalli,Maize,8591.0,60119.0,7.499663752521856
+1693,tamil nadu,tiruchirappalli,bajra,189.0,477.0,3.147368421052632
+1694,tamil nadu,tiruchirappalli,jowar,16654.0,23723.0,2.574952561669829
+1695,tamil nadu,tiruchirappalli,ragi,5.0,18.0,4.0
+1696,tamil nadu,tiruchirappalli,rice,2970.0,12032.0,4.467879688080208
+1697,tamil nadu,tirunelveli,Maize,13811.0,115769.0,10.075313249800054
+1698,tamil nadu,tirunelveli,bajra,151.0,435.0,3.152173913043478
+1699,tamil nadu,tirunelveli,jowar,348.0,562.0,2.203921568627451
+1700,tamil nadu,tirunelveli,ragi,90.0,378.0,4.458333333333333
+1701,tamil nadu,tirunelveli,rice,33776.0,131473.0,4.479003925611642
+1702,tamil nadu,tiruppur,Maize,21447.0,210611.0,9.820068074789017
+1703,tamil nadu,tiruppur,bajra,233.0,570.0,3.130434782608696
+1704,tamil nadu,tiruppur,jowar,32385.0,10056.0,0.7265420936307012
+1705,tamil nadu,tiruppur,rice,712.0,3181.0,4.467696629213483
+1706,tamil nadu,tiruvannamalai,Maize,1564.0,10466.0,7.5
+1707,tamil nadu,tiruvannamalai,bajra,1166.0,4600.0,4.883227176220807
+1708,tamil nadu,tiruvannamalai,jowar,380.0,774.0,2.2051282051282053
+1709,tamil nadu,tiruvannamalai,ragi,4398.0,15116.0,4.015057573073516
+1710,tamil nadu,tiruvannamalai,rice,62170.0,280996.0,4.624002369629252
+1711,tamil nadu,tuticorin,Maize,55472.0,387920.0,6.993077588693395
+1712,tamil nadu,tuticorin,bajra,12847.0,36519.0,3.262590829366073
+1713,tamil nadu,tuticorin,jowar,18107.0,62685.0,3.461920804108908
+1714,tamil nadu,tuticorin,ragi,181.0,718.0,4.48
+1715,tamil nadu,tuticorin,rice,10901.0,42942.0,4.468005410467173
+1716,tamil nadu,vellore,Maize,4135.0,31012.0,7.499879081015719
+1717,tamil nadu,vellore,bajra,133.0,266.0,3.1463414634146343
+1718,tamil nadu,vellore,jowar,1031.0,1149.0,2.189189189189189
+1719,tamil nadu,vellore,ragi,5631.0,25791.0,4.747655761617003
+1720,tamil nadu,vellore,rice,26397.0,122357.0,4.919016506189821
+1721,tamil nadu,villupuram,Maize,14130.0,87949.0,8.252697757342592
+1722,tamil nadu,villupuram,bajra,2360.0,6045.0,3.207473508087005
+1723,tamil nadu,villupuram,jowar,284.0,626.0,2.204225352112676
+1724,tamil nadu,villupuram,ragi,3533.0,15558.0,4.403622983300312
+1725,tamil nadu,villupuram,rice,43425.0,182245.0,4.553435013613174
+1726,tamil nadu,virudhunagar,Maize,32194.0,251351.0,8.285722935335432
+1727,tamil nadu,virudhunagar,bajra,3792.0,16496.0,4.350210970464135
+1728,tamil nadu,virudhunagar,jowar,13489.0,57295.0,4.247535028541774
+1729,tamil nadu,virudhunagar,ragi,140.0,588.0,4.468085106382978
+1730,tamil nadu,virudhunagar,rice,4586.0,17595.0,4.138270547945205
+1731,telangana,adilabad,Maize,13614.0,52050.0,10.982222222222225
+1732,telangana,adilabad,bajra,1644.0,1542.0,1.0
+1733,telangana,adilabad,jowar,10721.0,14950.0,2.2720364741641337
+1734,telangana,adilabad,ragi,8.0,9.0,1.125
+1735,telangana,adilabad,rice,25191.0,73608.0,3.793103448275862
+1736,telangana,adilabad,wheat,3170.0,13329.0,4.88599706744868
+1737,telangana,bhadradri,Maize,6434.0,37646.0,8.70688824662813
+1738,telangana,bhadradri,bajra,28.0,24.0,0.8571428571428571
+1739,telangana,bhadradri,jowar,202.0,430.0,2.128712871287129
+1740,telangana,bhadradri,rice,22711.0,74810.0,4.111007834284956
+1741,telangana,hanumakonda,Maize,16887.0,122469.0,7.56799531066823
+1742,telangana,hanumakonda,rice,30042.0,114100.0,4.238013887358095
+1743,telangana,jagitial,Maize,11270.0,76850.0,6.818988464951198
+1744,telangana,jagitial,bajra,9366.0,8148.0,1.2156224572823433
+1745,telangana,jagitial,jowar,705.0,839.0,2.125
+1746,telangana,jagitial,rice,102546.0,391623.0,3.818998303200515
+1747,telangana,jangoan,Maize,6790.0,40190.0,7.909194097616345
+1748,telangana,jangoan,jowar,94.0,177.0,2.132530120481928
+1749,telangana,jangoan,rice,46799.0,165949.0,3.607991612301957
+1750,telangana,jayashankar,Maize,6924.0,55433.0,9.749032711924023
+1751,telangana,jayashankar,bajra,4.0,4.0,1.0
+1752,telangana,jayashankar,jowar,7.0,8.0,1.5
+1753,telangana,jayashankar,rice,25912.0,93024.0,3.633019604619621
+1754,telangana,jogulamba,Maize,2193.0,8277.0,6.8049382716049385
+1755,telangana,jogulamba,bajra,49.0,74.0,1.510204081632653
+1756,telangana,jogulamba,jowar,2050.0,4781.0,3.018308080808081
+1757,telangana,jogulamba,rice,17810.0,56458.0,3.1700168444693992
+1758,telangana,jogulamba,wheat,4.0,7.0,1.75
+1759,telangana,kamareddy,Maize,19126.0,105188.0,7.035516018995385
+1760,telangana,kamareddy,jowar,6852.0,25688.0,3.748978400467017
+1761,telangana,kamareddy,rice,74463.0,309096.0,4.151001168365497
+1762,telangana,kamareddy,wheat,1016.0,2455.0,2.4163385826771653
+1763,telangana,karimnagar,Maize,54493.0,302104.0,8.354010102254527
+1764,telangana,karimnagar,bajra,1968.0,1854.0,0.9420731707317072
+1765,telangana,karimnagar,jowar,1271.0,1940.0,1.8846153846153848
+1766,telangana,karimnagar,rice,208458.0,768793.0,4.235001453817078
+1767,telangana,khammam,Maize,36149.0,271462.0,7.509530000829899
+1768,telangana,khammam,bajra,6.0,6.0,1.0
+1769,telangana,khammam,jowar,529.0,599.0,2.1286764705882355
+1770,telangana,khammam,rice,82093.0,318849.0,4.055994794208557
+1771,telangana,komaram bheem asifabad,Maize,854.0,5811.0,6.933977455716586
+1772,telangana,komaram bheem asifabad,jowar,3855.0,3454.0,1.1471095772217428
+1773,telangana,komaram bheem asifabad,rice,5026.0,15063.0,2.9970155192996417
+1774,telangana,komaram bheem asifabad,wheat,407.0,639.0,1.8774193548387097
+1775,telangana,mahabubabad,Maize,20686.0,115831.0,6.942905121746431
+1776,telangana,mahabubabad,bajra,3.0,3.0,1.0
+1777,telangana,mahabubabad,jowar,1428.0,1653.0,1.2280701754385963
+1778,telangana,mahabubabad,rice,46056.0,155301.0,3.495022434099832
+1779,telangana,mahbubnagar,Maize,6216.0,32242.0,6.926553672316384
+1780,telangana,mahbubnagar,jowar,6829.0,5792.0,2.117647058823529
+1781,telangana,mahbubnagar,ragi,244.0,286.0,1.6022727272727273
+1782,telangana,mahbubnagar,rice,64886.0,177139.0,3.3129931614939507
+1783,telangana,mahbubnagar,wheat,13.0,8.0,1.0
+1784,telangana,mancherial,Maize,1109.0,8330.0,7.51127141568981
+1785,telangana,mancherial,jowar,390.0,523.0,2.125683060109289
+1786,telangana,mancherial,rice,38616.0,164002.0,4.246996063807748
+1787,telangana,mancherial,wheat,3.0,6.0,2.0
+1788,telangana,medak,Maize,17990.0,74479.0,6.09559244419004
+1789,telangana,medak,bajra,9.0,9.0,1.2857142857142858
+1790,telangana,medak,jowar,7584.0,7705.0,2.895336787564766
+1791,telangana,medak,ragi,3.0,5.0,1.6666666666666667
+1792,telangana,medak,rice,62331.0,230500.0,4.12699982419128
+1793,telangana,medak,wheat,2118.0,1711.0,1.8725490196078431
+1794,telangana,medchal malkajgiri,Maize,127.0,876.0,6.897637795275591
+1795,telangana,medchal malkajgiri,jowar,8.0,15.0,2.142857142857143
+1796,telangana,medchal malkajgiri,rice,4552.0,17898.0,3.9318980667838312
+1797,telangana,medchal malkajgiri,wheat,1.0,1.0,1.0
+1798,telangana,mulugu,Maize,2631.0,28830.0,10.957810718358038
+1799,telangana,mulugu,jowar,4.0,7.0,1.75
+1800,telangana,mulugu,rice,16336.0,62502.0,3.826028403525955
+1801,telangana,nagarkurnool,Maize,2798.0,19388.0,6.929235167977127
+1802,telangana,nagarkurnool,bajra,2.0,2.0,1.0
+1803,telangana,nagarkurnool,jowar,887.0,1887.0,2.1273957158962795
+1804,telangana,nagarkurnool,ragi,17.0,17.0,1.5
+1805,telangana,nagarkurnool,rice,36066.0,124752.0,3.4589918482781568
+1806,telangana,nalgonda,Maize,977.0,5181.0,6.923076923076923
+1807,telangana,nalgonda,bajra,16.0,9.0,1.2857142857142858
+1808,telangana,nalgonda,jowar,1278.0,723.0,2.127659574468085
+1809,telangana,nalgonda,rice,201558.0,659095.0,3.5099952023028944
+1810,telangana,nalgonda,wheat,4.0,5.0,1.25
+1811,telangana,narayanapet,Maize,32.0,222.0,6.9375
+1812,telangana,narayanapet,jowar,744.0,806.0,1.251552795031056
+1813,telangana,narayanapet,ragi,21.0,33.0,1.5714285714285714
+1814,telangana,narayanapet,rice,26102.0,87885.0,3.366983372921615
+1815,telangana,nirmal,Maize,33025.0,290606.0,8.799576078728236
+1816,telangana,nirmal,bajra,1139.0,1204.0,1.0570676031606672
+1817,telangana,nirmal,jowar,2651.0,5904.0,2.574792847797645
+1818,telangana,nirmal,ragi,11.0,13.0,1.181818181818182
+1819,telangana,nirmal,rice,40684.0,157488.0,3.8710058008062136
+1820,telangana,nirmal,wheat,1249.0,1962.0,1.92570281124498
+1821,telangana,nizamabad,Maize,39813.0,233344.0,6.930042446156265
+1822,telangana,nizamabad,bajra,6755.0,7900.0,1.2159458211482224
+1823,telangana,nizamabad,jowar,7245.0,11063.0,2.128205128205128
+1824,telangana,nizamabad,ragi,2.0,2.0,1.0
+1825,telangana,nizamabad,rice,130653.0,526924.0,4.1600016145470695
+1826,telangana,nizamabad,wheat,1196.0,1971.0,2.321867321867322
+1827,telangana,peddapalli,Maize,4490.0,42547.0,9.713086808287438
+1828,telangana,peddapalli,bajra,2621.0,2278.0,0.8691339183517741
+1829,telangana,peddapalli,jowar,12.0,26.0,2.1666666666666665
+1830,telangana,peddapalli,rice,77967.0,318027.0,4.364999573996762
+1831,telangana,rajanna,Maize,1013.0,7380.0,7.285291214215202
+1832,telangana,rajanna,jowar,9.0,19.0,2.111111111111111
+1833,telangana,rajanna,rice,53823.0,212601.0,3.986011666159843
+1834,telangana,rajanna,wheat,47.0,87.0,1.851063829787234
+1835,telangana,rangareddi,Maize,2405.0,13038.0,5.452948557089084
+1836,telangana,rangareddi,bajra,14.0,17.0,1.2142857142857142
+1837,telangana,rangareddi,jowar,3640.0,3338.0,2.1271929824561404
+1838,telangana,rangareddi,ragi,327.0,508.0,2.208695652173913
+1839,telangana,rangareddi,rice,17986.0,44659.0,3.117034465658319
+1840,telangana,rangareddi,wheat,568.0,777.0,3.827586206896552
+1841,telangana,sangareddy,Maize,2051.0,8497.0,4.142857142857143
+1842,telangana,sangareddy,bajra,3.0,1.0,1.0
+1843,telangana,sangareddy,jowar,5543.0,7694.0,1.3880570088399784
+1844,telangana,sangareddy,ragi,1.0,1.0,1.0
+1845,telangana,sangareddy,rice,18317.0,81437.0,4.649973111051358
+1846,telangana,sangareddy,wheat,848.0,938.0,1.2545454545454546
+1847,telangana,siddipet,Maize,13340.0,61377.0,6.240036600244002
+1848,telangana,siddipet,rice,65196.0,247419.0,3.874005713933365
+1849,telangana,siddipet,wheat,8.0,13.0,1.8571428571428568
+1850,telangana,suryapet,Maize,153.0,1056.0,6.964705882352941
+1851,telangana,suryapet,jowar,452.0,549.0,2.1279620853080567
+1852,telangana,suryapet,rice,152048.0,551630.0,3.741001956590981
+1853,telangana,vikarabad,Maize,2436.0,16883.0,6.930623973727422
+1854,telangana,vikarabad,jowar,2183.0,2128.0,1.200225606316977
+1855,telangana,vikarabad,ragi,62.0,65.0,1.5853658536585369
+1856,telangana,vikarabad,rice,13303.0,47252.0,3.5519807562204013
+1857,telangana,vikarabad,wheat,147.0,184.0,1.880434782608696
+1858,telangana,wanaparthy,Maize,294.0,2001.0,6.947712418300654
+1859,telangana,wanaparthy,jowar,175.0,208.0,2.125
+1860,telangana,wanaparthy,ragi,8.0,13.0,1.625
+1861,telangana,wanaparthy,rice,46626.0,154845.0,3.321001158152104
+1862,telangana,warangal,Maize,48909.0,305842.0,10.355988593155894
+1863,telangana,warangal,bajra,77.0,72.0,1.0
+1864,telangana,warangal,jowar,2349.0,1602.0,2.128571428571429
+1865,telangana,warangal,rice,95542.0,299046.0,3.979993960440888
+1866,telangana,yadadri,Maize,44.0,304.0,6.909090909090909
+1867,telangana,yadadri,jowar,32.0,68.0,2.125
+1868,telangana,yadadri,rice,80400.0,285581.0,3.8380058214606176
+1869,telangana,yadadri,wheat,1.0,1.0,1.0
+1870,the dadra and nagar haveli and daman and diu,dadra and nagar haveli,Maize,20.0,20.0,1.0526315789473684
+1871,the dadra and nagar haveli and daman and diu,dadra and nagar haveli,rice,3350.0,8486.0,2.533134328358209
+1872,the dadra and nagar haveli and daman and diu,dadra and nagar haveli,wheat,50.0,120.0,2.4
+1873,tripura,dhalai,Maize,332.0,571.39,2.446428571428572
+1874,tripura,dhalai,jowar,75.0,61.0,0.8260869565217391
+1875,tripura,dhalai,rice,1863.0,5219.0,2.9277638190954773
+1876,tripura,dhalai,wheat,555.0,1147.0,2.45
+1877,tripura,gomati,Maize,361.0,703.98,2.371024734982332
+1878,tripura,gomati,jowar,128.0,102.95,0.8061224489795918
+1879,tripura,gomati,rice,16196.0,49479.0,3.1952084017065965
+1880,tripura,gomati,wheat,49.0,102.0,2.55
+1881,tripura,khowai,Maize,471.0,1121.0,2.3800424628450108
+1882,tripura,khowai,jowar,150.0,119.0,0.7969924812030075
+1883,tripura,khowai,rice,8269.0,25155.0,3.424636678200692
+1884,tripura,khowai,wheat,20.0,50.0,2.5
+1885,tripura,north tripura,Maize,294.0,375.0,2.2072072072072078
+1886,tripura,north tripura,jowar,3.0,2.45,1.0
+1887,tripura,north tripura,rice,1135.0,3222.0,2.9186046511627906
+1888,tripura,north tripura,wheat,259.0,490.0,2.390625
+1889,tripura,sepahijala,Maize,474.0,1061.65,2.5404255319148934
+1890,tripura,sepahijala,jowar,36.0,28.45,0.7902777777777777
+1891,tripura,sepahijala,rice,20461.0,67254.0,3.444330636074977
+1892,tripura,sepahijala,wheat,37.0,83.0,2.375
+1893,tripura,south tripura,Maize,451.0,811.0,2.465045592705167
+1894,tripura,south tripura,jowar,18.0,14.0,0.7777777777777778
+1895,tripura,south tripura,rice,17399.0,62974.0,3.6194034139893096
+1896,tripura,south tripura,wheat,407.0,721.0,2.3125
+1897,tripura,unakoti,Maize,197.0,326.0,2.4696969696969697
+1898,tripura,unakoti,jowar,25.0,20.0,0.8
+1899,tripura,unakoti,rice,1046.0,3618.0,3.458891013384321
+1900,tripura,unakoti,wheat,65.0,179.0,2.753846153846154
+1901,tripura,west tripura,Maize,479.0,935.37,2.4610986301369864
+1902,tripura,west tripura,jowar,18.0,14.594,0.8107777777777777
+1903,tripura,west tripura,rice,8990.0,31575.0,3.53781512605042
+1904,tripura,west tripura,wheat,633.0,1126.0,2.333333333333333
+1905,uttar pradesh,agra,Maize,768.0,1441.0,2.467625899280576
+1906,uttar pradesh,agra,barley,11435.0,37664.0,3.51319284575881
+1907,uttar pradesh,agra,rice,37.0,94.0,2.588235294117647
+1908,uttar pradesh,agra,wheat,138121.0,578320.0,4.368998783703133
+1909,uttar pradesh,aligarh,Maize,810.0,1513.0,2.46726862302483
+1910,uttar pradesh,aligarh,barley,26159.0,95194.0,4.278040288485451
+1911,uttar pradesh,aligarh,rice,935.0,2440.0,2.609625668449198
+1912,uttar pradesh,aligarh,wheat,225289.0,961295.0,4.299999552686787
+1913,uttar pradesh,allahabad,Maize,166.0,498.0,4.666666666666667
+1914,uttar pradesh,allahabad,barley,10571.0,19956.0,3.350237375917134
+1915,uttar pradesh,allahabad,wheat,234879.0,790673.0,3.761437644204467
+1916,uttar pradesh,almora,barley,4487.0,4946.0,1.1022955203922442
+1917,uttar pradesh,almora,ragi,36053.0,42444.0,1.1772668016531218
+1918,uttar pradesh,almora,wheat,56016.0,59699.0,1.0879971527715988
+1919,uttar pradesh,ambedkar nagar,Maize,345.0,813.0,4.666666666666667
+1920,uttar pradesh,ambedkar nagar,barley,1416.0,2698.0,3.2782503037667072
+1921,uttar pradesh,ambedkar nagar,wheat,120248.0,488740.0,4.110996044344091
+1922,uttar pradesh,amethi,Maize,263.0,673.0,2.55893536121673
+1923,uttar pradesh,amethi,barley,1789.0,4438.0,3.2158333333333333
+1924,uttar pradesh,amethi,rice,670.0,1832.0,2.734328358208955
+1925,uttar pradesh,amethi,wheat,129363.0,499225.0,3.876000590066693
+1926,uttar pradesh,amroha,Maize,564.0,1417.0,2.6192236598890943
+1927,uttar pradesh,amroha,barley,132.0,369.0,3.278688524590164
+1928,uttar pradesh,amroha,rice,22.0,50.0,2.6153846153846154
+1929,uttar pradesh,amroha,wheat,103684.0,348334.0,3.873002813017712
+1930,uttar pradesh,auraiya,Maize,1566.0,2893.0,2.46617915904936
+1931,uttar pradesh,auraiya,barley,4307.0,11459.0,3.4110019646365424
+1932,uttar pradesh,auraiya,rice,3.0,11.0,3.6666666666666665
+1933,uttar pradesh,auraiya,wheat,108461.0,417939.0,4.136003325119496
+1934,uttar pradesh,azamgarh,Maize,1038.0,1906.0,4.333333333333333
+1935,uttar pradesh,azamgarh,barley,4910.0,10110.0,3.1492268967997123
+1936,uttar pradesh,azamgarh,ragi,60.0,88.0,1.7
+1937,uttar pradesh,azamgarh,rice,243.0,602.0,2.477366255144033
+1938,uttar pradesh,azamgarh,wheat,243897.0,852201.0,3.6919947665754
+1939,uttar pradesh,bageshwar,barley,2384.0,3994.0,1.6753355704697988
+1940,uttar pradesh,bageshwar,ragi,7557.0,11139.0,1.4739976181024217
+1941,uttar pradesh,bageshwar,wheat,14623.0,23835.0,1.629966491144088
+1942,uttar pradesh,baghpat,Maize,17.0,28.0,2.0
+1943,uttar pradesh,baghpat,barley,279.0,904.0,4.2075471698113205
+1944,uttar pradesh,baghpat,ragi,1.0,2.0,2.0
+1945,uttar pradesh,baghpat,rice,4.0,12.0,3.0
+1946,uttar pradesh,baghpat,wheat,57709.0,255083.0,4.737005329718286
+1947,uttar pradesh,bahraich,Maize,9046.0,16856.0,4.638095238095239
+1948,uttar pradesh,bahraich,barley,1349.0,2833.0,3.268595041322314
+1949,uttar pradesh,bahraich,ragi,58.0,85.0,1.4655172413793105
+1950,uttar pradesh,bahraich,rice,9.0,17.0,1.8888888888888888
+1951,uttar pradesh,bahraich,wheat,183146.0,629399.0,3.792988147223955
+1952,uttar pradesh,ballia,Maize,5344.0,15680.0,4.237693389592124
+1953,uttar pradesh,ballia,barley,8666.0,12950.0,3.0045267489711933
+1954,uttar pradesh,ballia,ragi,167.0,245.0,1.75
+1955,uttar pradesh,ballia,rice,189.0,473.0,2.502645502645503
+1956,uttar pradesh,ballia,wheat,148282.0,542431.0,3.94022445792322
+1957,uttar pradesh,balrampur,Maize,694.0,1497.0,2.3028846153846154
+1958,uttar pradesh,balrampur,barley,655.0,1598.0,3.274193548387097
+1959,uttar pradesh,balrampur,rice,521.0,1444.0,2.7715930902111325
+1960,uttar pradesh,balrampur,wheat,100460.0,324641.0,3.683994916138989
+1961,uttar pradesh,banda,Maize,109.0,387.0,3.55045871559633
+1962,uttar pradesh,banda,barley,2473.0,4688.0,2.975521305530372
+1963,uttar pradesh,banda,ragi,1.0,1.0,1.0
+1964,uttar pradesh,banda,wheat,197157.0,489299.0,3.0625594612187674
+1965,uttar pradesh,barabanki,Maize,906.0,2331.0,2.5871254162042177
+1966,uttar pradesh,barabanki,barley,886.0,1934.0,3.084507042253521
+1967,uttar pradesh,barabanki,ragi,13.0,22.0,1.6923076923076923
+1968,uttar pradesh,barabanki,rice,15.0,30.0,2.5
+1969,uttar pradesh,barabanki,wheat,168346.0,677088.0,4.040999717492051
+1970,uttar pradesh,bareilly,Maize,541.0,1017.0,2.4752475247524752
+1971,uttar pradesh,bareilly,barley,405.0,816.0,3.282608695652174
+1972,uttar pradesh,bareilly,ragi,12.0,20.0,1.6666666666666667
+1973,uttar pradesh,bareilly,rice,1558.0,3208.0,2.675059952038369
+1974,uttar pradesh,bareilly,wheat,217227.0,782673.0,3.9090011634876425
+1975,uttar pradesh,basti,Maize,201.0,424.0,4.6
+1976,uttar pradesh,basti,barley,147.0,386.0,3.2857142857142856
+1977,uttar pradesh,basti,ragi,8.0,12.0,1.5
+1978,uttar pradesh,basti,rice,148.0,401.0,2.70945945945946
+1979,uttar pradesh,basti,wheat,120160.0,471766.0,3.944004146602461
+1980,uttar pradesh,bijnor,Maize,34.0,102.0,3.533333333333333
+1981,uttar pradesh,bijnor,barley,95.0,200.0,3.25
+1982,uttar pradesh,bijnor,rice,124.0,313.0,3.0
+1983,uttar pradesh,bijnor,wheat,157273.0,569328.0,3.751000827575071
+1984,uttar pradesh,budaun,Maize,9727.0,18273.0,2.467018469656992
+1985,uttar pradesh,budaun,barley,3640.0,7411.0,3.278061224489796
+1986,uttar pradesh,budaun,rice,105.0,209.0,2.515151515151515
+1987,uttar pradesh,budaun,wheat,311520.0,1080351.0,4.079998884199871
+1988,uttar pradesh,bulandshahr,Maize,3407.0,6300.0,2.4670684459750323
+1989,uttar pradesh,bulandshahr,barley,15626.0,51090.0,4.2126764794232505
+1990,uttar pradesh,bulandshahr,rice,11.0,32.0,3.0
+1991,uttar pradesh,bulandshahr,wheat,201066.0,910427.0,4.541000992633614
+1992,uttar pradesh,chamoli,barley,1658.0,2307.0,1.3914354644149578
+1993,uttar pradesh,chamoli,ragi,10888.0,17389.0,1.5970793534166057
+1994,uttar pradesh,chamoli,wheat,21847.0,28971.0,1.3379269806021814
+1995,uttar pradesh,champawat,barley,2152.0,3312.0,1.5390334572490707
+1996,uttar pradesh,champawat,ragi,8212.0,13074.0,1.5920603994154896
+1997,uttar pradesh,champawat,wheat,14456.0,22060.0,1.52600996126176
+1998,uttar pradesh,chandauli,Maize,84.0,236.0,3.5526315789473686
+1999,uttar pradesh,chandauli,barley,4204.0,6695.0,2.7610887096774195
+2000,uttar pradesh,chandauli,ragi,5.0,8.0,1.6666666666666667
+2001,uttar pradesh,chandauli,rice,6.0,20.0,3.333333333333333
+2002,uttar pradesh,chandauli,wheat,111873.0,381704.0,3.7480018067202137
+2003,uttar pradesh,chitrakoot,Maize,45.0,123.0,3.0
+2004,uttar pradesh,chitrakoot,barley,6777.0,16289.0,3.2942734868555124
+2005,uttar pradesh,chitrakoot,ragi,1.0,2.0,2.0
+2006,uttar pradesh,chitrakoot,wheat,59917.0,154137.0,3.0964262038208883
+2007,uttar pradesh,dehradun,Maize,15.0,15.0,1.5714285714285714
+2008,uttar pradesh,dehradun,barley,1644.0,2422.0,1.8251695553880931
+2009,uttar pradesh,dehradun,ragi,2822.0,4736.0,1.6782423812898652
+2010,uttar pradesh,dehradun,wheat,24191.0,49462.0,2.044644702575338
+2011,uttar pradesh,deoria,Maize,2715.0,8319.0,3.264092321349312
+2012,uttar pradesh,deoria,barley,2108.0,4102.0,3.4504504504504503
+2013,uttar pradesh,deoria,ragi,23.0,34.0,1.8
+2014,uttar pradesh,deoria,rice,87.0,187.0,2.4545454545454546
+2015,uttar pradesh,deoria,wheat,156721.0,513972.0,3.357999202921749
+2016,uttar pradesh,etah,Maize,6296.0,11641.0,2.509717314487633
+2017,uttar pradesh,etah,barley,16765.0,42983.0,4.181029429006918
+2018,uttar pradesh,etah,rice,337.0,981.0,2.9109792284866467
+2019,uttar pradesh,etah,wheat,228431.0,734406.0,4.1509999267452935
+2020,uttar pradesh,etawah,Maize,1153.0,2051.0,2.5080906148867315
+2021,uttar pradesh,etawah,barley,6313.0,16306.0,3.6710411198600177
+2022,uttar pradesh,etawah,rice,2.0,4.0,2.0
+2023,uttar pradesh,etawah,wheat,99202.0,419734.0,4.370999822966457
+2024,uttar pradesh,faizabad,Maize,1669.0,3249.0,4.635135135135135
+2025,uttar pradesh,faizabad,barley,448.0,823.0,3.2248995983935744
+2026,uttar pradesh,faizabad,ragi,4.0,6.0,1.5
+2027,uttar pradesh,faizabad,rice,32.0,95.0,2.96875
+2028,uttar pradesh,faizabad,wheat,110742.0,413104.0,3.888001054107726
+2029,uttar pradesh,farrukhabad,Maize,7486.0,13909.0,2.467573221757322
+2030,uttar pradesh,farrukhabad,barley,3001.0,6858.0,3.423778264040846
+2031,uttar pradesh,farrukhabad,rice,150.0,567.0,3.78
+2032,uttar pradesh,farrukhabad,wheat,94534.0,337876.0,4.497996458857515
+2033,uttar pradesh,fatehpur,Maize,82.0,151.0,5.0
+2034,uttar pradesh,fatehpur,barley,11390.0,17318.0,3.350264239577217
+2035,uttar pradesh,fatehpur,ragi,7.0,12.0,1.7142857142857142
+2036,uttar pradesh,fatehpur,wheat,185392.0,710602.0,3.9881286536141785
+2037,uttar pradesh,firozabad,Maize,1588.0,2941.0,2.4716981132075477
+2038,uttar pradesh,firozabad,barley,15462.0,47338.0,3.672187539813989
+2039,uttar pradesh,firozabad,ragi,6.0,9.0,1.5
+2040,uttar pradesh,firozabad,rice,1.0,3.0,3.0
+2041,uttar pradesh,firozabad,wheat,110573.0,412663.0,4.050003925725278
+2042,uttar pradesh,gautam buddha nagar,Maize,3.0,5.0,2.5
+2043,uttar pradesh,gautam buddha nagar,barley,6903.0,18179.0,4.212224108658743
+2044,uttar pradesh,gautam buddha nagar,rice,208.0,608.0,2.923076923076923
+2045,uttar pradesh,gautam buddha nagar,wheat,77919.0,268049.0,4.223003437346547
+2046,uttar pradesh,ghaziabad,Maize,249.0,406.0,5.0
+2047,uttar pradesh,ghaziabad,barley,1601.0,5021.0,4.21875
+2048,uttar pradesh,ghaziabad,ragi,1.0,1.0,1.0
+2049,uttar pradesh,ghaziabad,rice,12.0,27.0,2.25
+2050,uttar pradesh,ghaziabad,wheat,95923.0,339200.0,4.377014914797889
+2051,uttar pradesh,ghazipur,Maize,266.0,730.0,4.666666666666667
+2052,uttar pradesh,ghazipur,barley,11801.0,25631.0,2.810981098109811
+2053,uttar pradesh,ghazipur,ragi,15.0,22.0,1.4666666666666666
+2054,uttar pradesh,ghazipur,rice,33.0,86.0,2.606060606060606
+2055,uttar pradesh,ghazipur,wheat,193108.0,636359.0,3.445999805053448
+2056,uttar pradesh,gonda,Maize,3885.0,8110.0,4.636363636363637
+2057,uttar pradesh,gonda,barley,2796.0,6824.0,3.277955271565496
+2058,uttar pradesh,gonda,ragi,14.0,21.0,1.5
+2059,uttar pradesh,gonda,rice,15.0,32.0,2.555555555555556
+2060,uttar pradesh,gonda,wheat,163109.0,510148.0,3.282003113781701
+2061,uttar pradesh,gorakhpur,Maize,489.0,1452.0,4.666666666666667
+2062,uttar pradesh,gorakhpur,barley,3851.0,8975.0,3.4501864677677143
+2063,uttar pradesh,gorakhpur,ragi,38.0,56.0,1.4736842105263157
+2064,uttar pradesh,gorakhpur,rice,298.0,479.0,2.798816568047337
+2065,uttar pradesh,gorakhpur,wheat,192243.0,814341.0,4.2359981897910455
+2066,uttar pradesh,hamirpur,Maize,1499.0,4200.0,3.551948051948052
+2067,uttar pradesh,hamirpur,barley,4953.0,11024.0,2.974933155080214
+2068,uttar pradesh,hamirpur,wheat,135069.0,410133.0,3.2713873039796173
+2069,uttar pradesh,hapur,Maize,234.0,513.0,2.466666666666667
+2070,uttar pradesh,hapur,barley,635.0,2209.0,4.213197969543147
+2071,uttar pradesh,hapur,rice,249.0,715.0,2.8714859437751006
+2072,uttar pradesh,hapur,wheat,44552.0,207835.0,4.7589989008976
+2073,uttar pradesh,hardoi,Maize,2299.0,4251.0,2.6093432633716995
+2074,uttar pradesh,hardoi,barley,8045.0,13517.0,3.010619469026549
+2075,uttar pradesh,hardoi,rice,267.0,793.0,2.9700374531835205
+2076,uttar pradesh,hardoi,wheat,341765.0,1176241.0,3.718001340392305
+2077,uttar pradesh,haridwar,Maize,152.0,240.0,1.5789473684210529
+2078,uttar pradesh,haridwar,barley,111.0,265.0,2.5308641975308643
+2079,uttar pradesh,haridwar,wheat,47177.0,133030.0,2.8297030545392667
+2080,uttar pradesh,hathras,Maize,744.0,1835.0,5.0
+2081,uttar pradesh,hathras,barley,10337.0,33701.0,3.838170624450308
+2082,uttar pradesh,hathras,rice,106.0,270.0,2.547169811320755
+2083,uttar pradesh,hathras,wheat,99205.0,342160.0,4.14400335235466
+2084,uttar pradesh,jalaun,Maize,212.0,753.0,3.55188679245283
+2085,uttar pradesh,jalaun,barley,12762.0,25477.0,2.875128762733204
+2086,uttar pradesh,jalaun,ragi,4.0,6.0,1.5
+2087,uttar pradesh,jalaun,wheat,160362.0,581167.0,3.7330009461626728
+2088,uttar pradesh,jaunpur,Maize,1529.0,4209.0,2.752779594506213
+2089,uttar pradesh,jaunpur,barley,1143.0,2754.0,3.0634037819799778
+2090,uttar pradesh,jaunpur,ragi,7.0,10.0,1.4285714285714286
+2091,uttar pradesh,jaunpur,rice,205.0,575.0,2.804878048780488
+2092,uttar pradesh,jaunpur,wheat,219050.0,784260.0,3.710997757104867
+2093,uttar pradesh,jhansi,Maize,415.0,1475.0,3.5542168674698797
+2094,uttar pradesh,jhansi,barley,8532.0,21598.0,2.919437685861044
+2095,uttar pradesh,jhansi,ragi,4.0,6.0,1.5
+2096,uttar pradesh,jhansi,rice,2.0,4.0,2.0
+2097,uttar pradesh,jhansi,wheat,182907.0,595918.0,3.417169504508742
+2098,uttar pradesh,kannauj,Maize,19748.0,36301.0,2.467915049097968
+2099,uttar pradesh,kannauj,barley,1989.0,5385.0,3.285390713476784
+2100,uttar pradesh,kannauj,rice,10.0,40.0,4.0
+2101,uttar pradesh,kannauj,wheat,80792.0,358888.0,4.599712908848559
+2102,uttar pradesh,kanpur dehat,Maize,1557.0,3300.0,2.730188679245283
+2103,uttar pradesh,kanpur dehat,barley,8139.0,22813.0,3.5801509261376627
+2104,uttar pradesh,kanpur dehat,rice,101.0,352.0,3.485148514851485
+2105,uttar pradesh,kanpur dehat,wheat,127503.0,556044.0,4.587821782178218
+2106,uttar pradesh,kanpur nagar,Maize,3056.0,7578.0,2.535296085647374
+2107,uttar pradesh,kanpur nagar,barley,16861.0,36814.0,3.12375
+2108,uttar pradesh,kanpur nagar,rice,5.0,17.0,3.4
+2109,uttar pradesh,kanpur nagar,wheat,219787.0,723117.0,4.166454622561493
+2110,uttar pradesh,kasganj,Maize,7473.0,13818.0,2.466961498439126
+2111,uttar pradesh,kasganj,barley,3527.0,12058.0,4.180998613037448
+2112,uttar pradesh,kasganj,rice,38.0,79.0,3.2222222222222223
+2113,uttar pradesh,kasganj,wheat,98653.0,415053.0,4.263994904406251
+2114,uttar pradesh,kaushambi,Maize,552.0,1263.0,4.636363636363637
+2115,uttar pradesh,kaushambi,barley,6610.0,12327.0,3.350408719346049
+2116,uttar pradesh,kaushambi,wheat,77095.0,269358.0,3.4938452558531683
+2117,uttar pradesh,kheri,Maize,2801.0,5223.0,4.647058823529412
+2118,uttar pradesh,kheri,barley,1052.0,2126.0,3.1451612903225805
+2119,uttar pradesh,kheri,rice,3707.0,9001.0,3.383880348982136
+2120,uttar pradesh,kheri,wheat,204074.0,841915.0,4.251001004791695
+2121,uttar pradesh,kushi nagar,Maize,5592.0,17573.0,6.19987063389392
+2122,uttar pradesh,kushi nagar,barley,212.0,531.0,3.451923076923077
+2123,uttar pradesh,kushi nagar,ragi,39.0,57.0,1.6875
+2124,uttar pradesh,kushi nagar,rice,1003.0,2911.0,2.902293120638085
+2125,uttar pradesh,kushi nagar,wheat,120236.0,441528.0,3.696001205414319
+2126,uttar pradesh,lalitpur,Maize,1.0,2.0,2.0
+2127,uttar pradesh,lalitpur,barley,9798.0,32529.0,3.319963257807716
+2128,uttar pradesh,lalitpur,rice,3.0,2.0,1.0
+2129,uttar pradesh,lalitpur,wheat,188237.0,642076.0,3.4109978378320944
+2130,uttar pradesh,lucknow,Maize,175.0,339.0,4.5
+2131,uttar pradesh,lucknow,barley,1459.0,2282.0,2.8125
+2132,uttar pradesh,lucknow,ragi,2.0,3.0,1.5
+2133,uttar pradesh,lucknow,rice,7.0,12.0,2.0
+2134,uttar pradesh,lucknow,wheat,95132.0,284658.0,3.604999873356805
+2135,uttar pradesh,maharajganj,Maize,461.0,968.0,4.75
+2136,uttar pradesh,maharajganj,barley,273.0,683.0,3.4482758620689653
+2137,uttar pradesh,maharajganj,ragi,1.0,2.0,2.0
+2138,uttar pradesh,maharajganj,rice,214.0,588.0,2.75
+2139,uttar pradesh,maharajganj,wheat,154351.0,610212.0,4.130002504213169
+2140,uttar pradesh,mahoba,Maize,1392.0,4946.0,3.55316091954023
+2141,uttar pradesh,mahoba,barley,10701.0,24141.0,2.974960567823344
+2142,uttar pradesh,mahoba,wheat,84331.0,242804.0,2.879178475293783
+2143,uttar pradesh,mainpuri,Maize,1319.0,3491.0,2.646702047005307
+2144,uttar pradesh,mainpuri,barley,5596.0,18244.0,4.477885652642934
+2145,uttar pradesh,mainpuri,rice,216.0,570.0,3.272727272727273
+2146,uttar pradesh,mainpuri,wheat,161770.0,678878.0,4.44100061491764
+2147,uttar pradesh,mathura,Maize,56.0,100.0,2.189189189189189
+2148,uttar pradesh,mathura,barley,14635.0,47484.0,3.477917644548752
+2149,uttar pradesh,mathura,rice,7.0,12.0,1.7142857142857142
+2150,uttar pradesh,mathura,wheat,209170.0,850331.0,4.17399777146195
+2151,uttar pradesh,mau,Maize,292.0,546.0,4.235849056603773
+2152,uttar pradesh,mau,barley,3265.0,7477.0,3.19803250641574
+2153,uttar pradesh,mau,ragi,9.0,13.0,1.5
+2154,uttar pradesh,mau,wheat,95550.0,367772.0,3.8490005232862377
+2155,uttar pradesh,meerut,Maize,844.0,1289.0,2.57088122605364
+2156,uttar pradesh,meerut,barley,354.0,1133.0,4.2105263157894735
+2157,uttar pradesh,meerut,rice,187.0,544.0,2.962962962962963
+2158,uttar pradesh,meerut,wheat,87795.0,373423.0,4.663998001623681
+2159,uttar pradesh,mirzapur,Maize,396.0,1109.0,4.625
+2160,uttar pradesh,mirzapur,barley,13319.0,11748.0,2.7461430575035064
+2161,uttar pradesh,mirzapur,ragi,22.0,37.0,1.681818181818182
+2162,uttar pradesh,mirzapur,wheat,114486.0,303796.0,3.1460585725529184
+2163,uttar pradesh,moradabad,Maize,1911.0,3176.0,2.4782608695652173
+2164,uttar pradesh,moradabad,barley,334.0,786.0,3.0
+2165,uttar pradesh,moradabad,ragi,2.0,3.0,1.5
+2166,uttar pradesh,moradabad,rice,713.0,1556.0,2.759433962264151
+2167,uttar pradesh,moradabad,wheat,213188.0,653948.0,4.000998116597377
+2168,uttar pradesh,muzaffarnagar,Maize,161.0,254.0,4.666666666666667
+2169,uttar pradesh,muzaffarnagar,barley,1332.0,3036.0,3.276729559748428
+2170,uttar pradesh,muzaffarnagar,rice,109.0,263.0,3.0
+2171,uttar pradesh,muzaffarnagar,wheat,136640.0,525995.0,4.247005035013601
+2172,uttar pradesh,nainital,barley,1034.0,1339.0,1.2949709864603485
+2173,uttar pradesh,nainital,ragi,3500.0,4741.0,1.3545714285714283
+2174,uttar pradesh,nainital,rice,53.0,145.0,3.025
+2175,uttar pradesh,nainital,wheat,29374.0,78319.0,2.666269490025192
+2176,uttar pradesh,pauri garhwal,barley,7950.0,9328.0,1.1922480620155038
+2177,uttar pradesh,pauri garhwal,ragi,27096.0,38013.0,1.402900797165633
+2178,uttar pradesh,pauri garhwal,wheat,42361.0,47819.0,1.2992881208564286
+2179,uttar pradesh,pilibhit,Maize,2233.0,5510.0,2.467532467532468
+2180,uttar pradesh,pilibhit,barley,398.0,683.0,3.0
+2181,uttar pradesh,pilibhit,ragi,2.0,3.0,1.5
+2182,uttar pradesh,pilibhit,rice,11762.0,36333.0,3.2760257356818903
+2183,uttar pradesh,pilibhit,wheat,173247.0,658762.0,4.442000498978443
+2184,uttar pradesh,pithoragarh,barley,6801.0,8820.0,1.2968681076312307
+2185,uttar pradesh,pithoragarh,ragi,12889.0,19103.0,1.4821165334781596
+2186,uttar pradesh,pithoragarh,wheat,44041.0,65721.0,1.4922685679253422
+2187,uttar pradesh,pratapgarh,Maize,85.0,178.0,4.6
+2188,uttar pradesh,pratapgarh,barley,3301.0,6288.0,3.350837988826816
+2189,uttar pradesh,pratapgarh,ragi,14.0,24.0,1.7142857142857142
+2190,uttar pradesh,pratapgarh,wheat,169728.0,514761.0,3.43499939194941
+2191,uttar pradesh,rae bareli,Maize,139.0,337.0,4.621621621621622
+2192,uttar pradesh,rae bareli,barley,5352.0,10279.0,2.797536945812808
+2193,uttar pradesh,rae bareli,ragi,56.0,95.0,1.6964285714285714
+2194,uttar pradesh,rae bareli,rice,4.0,8.0,2.0
+2195,uttar pradesh,rae bareli,wheat,189172.0,477643.0,3.446003109025141
+2196,uttar pradesh,rampur,Maize,311.0,1085.0,3.4887459807073955
+2197,uttar pradesh,rampur,barley,3251.0,7192.0,3.0
+2198,uttar pradesh,rampur,rice,8614.0,21213.0,2.8749741254398677
+2199,uttar pradesh,rampur,wheat,149252.0,639706.0,4.298001854365149
+2200,uttar pradesh,rudra prayag,barley,1057.0,1379.0,1.4057084607543324
+2201,uttar pradesh,rudra prayag,ragi,5989.0,7814.0,1.304725329771247
+2202,uttar pradesh,rudra prayag,wheat,9802.0,12286.0,1.2575230296827022
+2203,uttar pradesh,saharanpur,Maize,192.0,277.0,2.782608695652174
+2204,uttar pradesh,saharanpur,barley,267.0,621.0,4.181818181818182
+2205,uttar pradesh,saharanpur,rice,1396.0,3162.0,2.7
+2206,uttar pradesh,saharanpur,wheat,139357.0,472283.0,4.217000758962453
+2207,uttar pradesh,sambhal,Maize,15236.0,28172.0,2.481316229782488
+2208,uttar pradesh,sambhal,barley,821.0,2295.0,3.277337559429477
+2209,uttar pradesh,sambhal,wheat,143456.0,572194.0,4.122999546047369
+2210,uttar pradesh,sant kabeer nagar,Maize,185.0,599.0,3.2378378378378376
+2211,uttar pradesh,sant kabeer nagar,barley,674.0,2189.0,3.2477744807121662
+2212,uttar pradesh,sant kabeer nagar,ragi,9.0,13.0,1.5
+2213,uttar pradesh,sant kabeer nagar,rice,284.0,893.0,3.1443661971830985
+2214,uttar pradesh,sant kabeer nagar,wheat,92660.0,355399.0,3.905998593221084
+2215,uttar pradesh,sant ravidas nagar,Maize,53.0,159.0,3.5
+2216,uttar pradesh,sant ravidas nagar,barley,1759.0,1848.0,3.233502538071066
+2217,uttar pradesh,sant ravidas nagar,ragi,2.0,3.0,1.5
+2218,uttar pradesh,sant ravidas nagar,rice,427.0,1313.0,3.0749414519906324
+2219,uttar pradesh,sant ravidas nagar,wheat,49437.0,186639.0,3.80600758595375
+2220,uttar pradesh,shahjahanpur,Maize,423.0,929.0,2.551839464882943
+2221,uttar pradesh,shahjahanpur,barley,3295.0,9004.0,3.2784313725490195
+2222,uttar pradesh,shahjahanpur,rice,9566.0,33816.0,3.53501986201129
+2223,uttar pradesh,shahjahanpur,wheat,272458.0,1216792.0,4.465980077663346
+2224,uttar pradesh,shamli,Maize,33.0,61.0,3.0
+2225,uttar pradesh,shamli,barley,175.0,503.0,3.2739726027397262
+2226,uttar pradesh,shamli,rice,650.0,1624.0,3.4148936170212765
+2227,uttar pradesh,shamli,wheat,53363.0,231711.0,4.75900100638748
+2228,uttar pradesh,shravasti,Maize,597.0,1678.0,4.571428571428571
+2229,uttar pradesh,shravasti,barley,406.0,974.0,3.272727272727273
+2230,uttar pradesh,shravasti,ragi,1.0,1.0,1.0
+2231,uttar pradesh,shravasti,rice,12.0,27.0,2.25
+2232,uttar pradesh,shravasti,wheat,93469.0,246948.0,3.420995760950877
+2233,uttar pradesh,siddharth nagar,Maize,524.0,1472.0,3.3461538461538463
+2234,uttar pradesh,siddharth nagar,barley,1224.0,3378.0,3.333333333333333
+2235,uttar pradesh,siddharth nagar,ragi,27.0,39.0,1.6923076923076923
+2236,uttar pradesh,siddharth nagar,rice,1681.0,4804.0,2.857822724568709
+2237,uttar pradesh,siddharth nagar,wheat,167255.0,689815.0,4.375
+2238,uttar pradesh,sitapur,Maize,1316.0,1800.0,5.0
+2239,uttar pradesh,sitapur,barley,6871.0,10747.0,3.137876386687797
+2240,uttar pradesh,sitapur,ragi,1.0,2.0,2.0
+2241,uttar pradesh,sitapur,rice,75.0,175.0,2.929824561403509
+2242,uttar pradesh,sitapur,wheat,223913.0,715562.0,3.479998442132526
+2243,uttar pradesh,sonbhadra,Maize,217.0,608.0,4.642857142857143
+2244,uttar pradesh,sonbhadra,barley,18614.0,22382.0,2.862919808087731
+2245,uttar pradesh,sonbhadra,ragi,156.0,239.0,1.6950354609929077
+2246,uttar pradesh,sonbhadra,wheat,68750.0,156734.0,2.703988682630598
+2247,uttar pradesh,sultanpur,Maize,565.0,1108.0,4.5
+2248,uttar pradesh,sultanpur,barley,2561.0,5904.0,3.1852836879432624
+2249,uttar pradesh,sultanpur,ragi,97.0,164.0,1.690721649484536
+2250,uttar pradesh,sultanpur,rice,18.0,38.0,2.235294117647059
+2251,uttar pradesh,sultanpur,wheat,169501.0,478331.0,4.173999866234796
+2252,uttar pradesh,tehri garhwal,barley,3483.0,4602.0,1.3212747631352282
+2253,uttar pradesh,tehri garhwal,ragi,16693.0,22846.0,1.368597615767088
+2254,uttar pradesh,tehri garhwal,wheat,34440.0,48905.0,1.4200058072009292
+2255,uttar pradesh,udam singh nagar,Maize,26.0,41.0,1.5769230769230769
+2256,uttar pradesh,udam singh nagar,barley,89.0,175.0,2.536231884057971
+2257,uttar pradesh,udam singh nagar,rice,3393.0,10433.0,3.0748600058944886
+2258,uttar pradesh,udam singh nagar,wheat,84045.0,274722.0,3.308747546038131
+2259,uttar pradesh,unnao,Maize,1982.0,3718.0,2.468864468864469
+2260,uttar pradesh,unnao,barley,6360.0,9948.0,2.949960906958561
+2261,uttar pradesh,unnao,ragi,8.0,12.0,1.6666666666666667
+2262,uttar pradesh,unnao,rice,11.0,22.0,2.0
+2263,uttar pradesh,unnao,wheat,244358.0,937039.0,3.873998982962556
+2264,uttar pradesh,uttar kashi,barley,395.0,522.0,1.3324022346368716
+2265,uttar pradesh,uttar kashi,ragi,5491.0,8658.0,1.576761974139501
+2266,uttar pradesh,uttar kashi,wheat,15206.0,20802.0,1.475742951485903
+2267,uttar pradesh,varanasi,Maize,435.0,1231.0,2.829885057471264
+2268,uttar pradesh,varanasi,barley,826.0,1442.0,2.4742014742014744
+2269,uttar pradesh,varanasi,ragi,3.0,4.0,1.3333333333333333
+2270,uttar pradesh,varanasi,wheat,76433.0,241128.0,3.495976686529512
+2271,uttarakhand,almora,barley,3698.0,4162.0,1.3646586345381526
+2272,uttarakhand,almora,wheat,45193.0,52461.0,1.4954789673699385
+2273,uttarakhand,bageshwar,barley,2867.0,4341.0,1.6561546286876907
+2274,uttarakhand,bageshwar,wheat,17565.0,27871.0,1.9116331096196868
+2275,uttarakhand,chamoli,barley,2030.0,2889.0,1.698125404007757
+2276,uttarakhand,chamoli,wheat,15295.0,25282.0,1.9863530545075057
+2277,uttarakhand,champawat,Maize,19.0,31.0,2.5
+2278,uttarakhand,champawat,barley,1555.0,2657.0,1.882147024504084
+2279,uttarakhand,champawat,rice,3.0,4.0,1.3333333333333333
+2280,uttarakhand,champawat,wheat,12969.0,19635.0,2.7560055588644032
+2281,uttarakhand,dehradun,Maize,7.0,13.0,2.5
+2282,uttarakhand,dehradun,barley,1301.0,1988.0,2.26867627785059
+2283,uttarakhand,dehradun,wheat,25386.0,51864.0,2.9768061102936025
+2284,uttarakhand,haridwar,Maize,102.0,163.0,2.4285714285714284
+2285,uttarakhand,haridwar,barley,72.0,85.0,2.0
+2286,uttarakhand,haridwar,rice,48.0,151.0,3.75
+2287,uttarakhand,haridwar,wheat,48301.0,175292.0,3.9770396587712136
+2288,uttarakhand,nainital,Maize,2.0,3.0,2.0
+2289,uttarakhand,nainital,barley,1149.0,1682.0,1.8342420937840784
+2290,uttarakhand,nainital,rice,196.0,692.0,3.844444444444445
+2291,uttarakhand,nainital,wheat,27861.0,83171.0,3.966568103777184
+2292,uttarakhand,pauri garhwal,barley,7233.0,7524.0,1.5801403130059364
+2293,uttarakhand,pauri garhwal,wheat,35720.0,41765.0,2.037609561752988
+2294,uttarakhand,pithoragarh,Maize,54.0,87.0,1.6111111111111112
+2295,uttarakhand,pithoragarh,barley,4389.0,6818.0,1.632817153067302
+2296,uttarakhand,pithoragarh,wheat,28203.0,46059.0,1.890855984740105
+2297,uttarakhand,rudra prayag,barley,1689.0,2205.0,1.62533215234721
+2298,uttarakhand,rudra prayag,wheat,11333.0,16347.0,1.6453822137173937
+2299,uttarakhand,tehri garhwal,barley,3282.0,3719.0,1.704217536071032
+2300,uttarakhand,tehri garhwal,wheat,31952.0,50045.0,2.111362258117868
+2301,uttarakhand,udam singh nagar,Maize,344.0,459.0,2.4705882352941178
+2302,uttarakhand,udam singh nagar,barley,77.0,91.0,2.0
+2303,uttarakhand,udam singh nagar,rice,17175.0,61220.0,4.778946178199909
+2304,uttarakhand,udam singh nagar,wheat,105961.0,471000.0,4.44503166259284
+2305,uttarakhand,uttar kashi,barley,357.0,529.0,2.0491803278688523
+2306,uttarakhand,uttar kashi,wheat,13565.0,21570.0,1.9012332775919727
+2307,west bengal,alipurduar,Maize,25295.0,137059.0,6.4119366626065775
+2308,west bengal,alipurduar,rice,4575.0,14016.0,3.106607713092606
+2309,west bengal,alipurduar,wheat,6913.0,15188.0,2.7064707721162864
+2310,west bengal,bankura,Maize,394.0,1296.0,3.2893401015228427
+2311,west bengal,bankura,barley,15.0,18.0,1.2
+2312,west bengal,bankura,rice,67600.0,192173.0,3.407332347040107
+2313,west bengal,bankura,wheat,10590.0,23979.0,2.6626336522228478
+2314,west bengal,birbhum,Maize,1150.0,2680.0,2.3304347826086955
+2315,west bengal,birbhum,barley,241.0,378.0,2.0
+2316,west bengal,birbhum,rice,88290.0,299182.0,3.819359262997179
+2317,west bengal,birbhum,wheat,35116.0,99698.0,3.0086720165674348
+2318,west bengal,coochbehar,Maize,39200.0,240825.0,6.834146341463415
+2319,west bengal,coochbehar,barley,10.0,19.0,2.0
+2320,west bengal,coochbehar,ragi,76.0,24.0,0.3157894736842105
+2321,west bengal,coochbehar,rice,67270.0,209273.0,3.810020572760209
+2322,west bengal,coochbehar,wheat,26145.0,49810.0,3.0114864864864863
+2323,west bengal,darjeeling,Maize,6550.0,15125.0,5.0
+2324,west bengal,darjeeling,barley,510.0,764.0,1.9130434782608696
+2325,west bengal,darjeeling,ragi,9529.0,10663.0,1.1190051421975025
+2326,west bengal,darjeeling,rice,2421.0,6506.0,3.5
+2327,west bengal,darjeeling,wheat,4360.0,6420.0,3.011627906976744
+2328,west bengal,dinajpur dakshin,Maize,3730.0,26670.0,7.150134048257373
+2329,west bengal,dinajpur dakshin,barley,54.0,50.0,1.2258064516129032
+2330,west bengal,dinajpur dakshin,rice,43306.0,137644.0,3.470750944843074
+2331,west bengal,dinajpur dakshin,wheat,43627.0,130132.0,3.972555289102052
+2332,west bengal,dinajpur uttar,Maize,95750.0,927475.0,9.686422976501303
+2333,west bengal,dinajpur uttar,barley,332.0,469.0,2.0
+2334,west bengal,dinajpur uttar,ragi,972.0,802.0,0.8251028806584362
+2335,west bengal,dinajpur uttar,rice,98592.0,338462.0,3.90729944702908
+2336,west bengal,dinajpur uttar,wheat,46687.0,112268.0,2.8961922030825025
+2337,west bengal,hooghly,Maize,335.0,856.0,2.607003891050584
+2338,west bengal,hooghly,rice,112009.0,325885.0,3.6840507054357943
+2339,west bengal,hooghly,wheat,1567.0,3690.0,3.1
+2340,west bengal,howrah,Maize,152.0,387.0,3.2521008403361344
+2341,west bengal,howrah,rice,58326.0,170270.0,3.7461307538358906
+2342,west bengal,howrah,wheat,994.0,2120.0,2.808080808080808
+2343,west bengal,jalpaiguri,Maize,10280.0,44007.0,5.015042735042735
+2344,west bengal,jalpaiguri,barley,833.0,812.0,1.9
+2345,west bengal,jalpaiguri,ragi,228.0,197.0,0.8640350877192983
+2346,west bengal,jalpaiguri,rice,23467.0,59187.0,2.9904158633985127
+2347,west bengal,jalpaiguri,wheat,26652.0,51873.0,3.850408217013432
+2348,west bengal,jhargram,Maize,1465.0,3360.0,2.2935153583617747
+2349,west bengal,jhargram,rice,14492.0,48755.0,3.631116407239145
+2350,west bengal,jhargram,wheat,1369.0,3165.0,2.81404958677686
+2351,west bengal,kalimpong,Maize,11560.0,33293.0,2.880017301038062
+2352,west bengal,kalimpong,barley,495.0,693.0,2.6
+2353,west bengal,kalimpong,wheat,216.0,650.0,3.009259259259259
+2354,west bengal,maldah,Maize,48204.0,425926.0,8.835905733963987
+2355,west bengal,maldah,barley,3004.0,3048.0,2.0442655935613683
+2356,west bengal,maldah,rice,72795.0,273642.0,4.479398909787359
+2357,west bengal,maldah,wheat,55094.0,145980.0,3.4966813125175285
+2358,west bengal,medinipur east,Maize,128.0,205.0,1.6083333333333334
+2359,west bengal,medinipur east,rice,168746.0,590050.0,4.043043511679745
+2360,west bengal,medinipur east,wheat,702.0,1830.0,2.7932489451476794
+2361,west bengal,medinipur west,Maize,1871.0,6470.0,3.458043826830572
+2362,west bengal,medinipur west,rice,198012.0,719225.0,3.78732865404893
+2363,west bengal,medinipur west,wheat,16395.0,33869.0,2.793732970027248
+2364,west bengal,murshidabad,Maize,50300.0,336096.0,6.68182902584493
+2365,west bengal,murshidabad,barley,1661.0,2340.0,1.9581749049429655
+2366,west bengal,murshidabad,rice,141921.0,513370.0,4.037330875333312
+2367,west bengal,murshidabad,wheat,137732.0,373460.0,3.048387096774193
+2368,west bengal,nadia,Maize,23466.0,103583.0,4.444787049527847
+2369,west bengal,nadia,barley,602.0,596.0,1.9580838323353291
+2370,west bengal,nadia,rice,158907.0,552776.0,4.126216462391537
+2371,west bengal,nadia,wheat,60417.0,149020.0,3.405823058023926
+2372,west bengal,paraganas north,Maize,418.0,1034.0,3.534482758620689
+2373,west bengal,paraganas north,rice,114251.0,425881.0,3.7692157187363606
+2374,west bengal,paraganas north,wheat,16621.0,34176.0,3.0864864864864865
+2375,west bengal,paraganas south,Maize,755.0,1486.0,2.6142131979695438
+2376,west bengal,paraganas south,barley,17.0,15.0,0.9285714285714286
+2377,west bengal,paraganas south,rice,84726.0,333165.0,3.9322640039657246
+2378,west bengal,paraganas south,wheat,3868.0,11375.0,3.0816326530612246
+2379,west bengal,paschim bardhaman,Maize,907.0,2041.0,2.3260869565217392
+2380,west bengal,paschim bardhaman,rice,522.0,1845.0,3.5825242718446604
+2381,west bengal,paschim bardhaman,wheat,1045.0,3946.0,4.247578040904198
+2382,west bengal,purba bardhaman,Maize,684.0,1470.0,2.6845238095238093
+2383,west bengal,purba bardhaman,barley,173.0,200.0,1.1944444444444444
+2384,west bengal,purba bardhaman,rice,249525.0,882289.0,3.8747911820514274
+2385,west bengal,purba bardhaman,wheat,6310.0,15280.0,3.411027568922306
+2386,west bengal,purulia,Maize,849.0,2458.0,6.273846153846153
+2387,west bengal,purulia,ragi,84.0,29.0,0.3452380952380952
+2388,west bengal,purulia,rice,3576.0,8650.0,3.1142857142857143
+2389,west bengal,purulia,wheat,4599.0,9944.0,2.559364133134625

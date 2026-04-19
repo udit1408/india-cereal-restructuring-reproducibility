@@ -1,0 +1,21 @@
+scenario,metric,center_pct_reduction,center_display_pct,bootstrap_mean_pct_reduction,bootstrap_p2_5_pct_reduction,bootstrap_p97_5_pct_reduction,bootstrap_mean_display_pct,display_interval_low,display_interval_high,lower_err_display,upper_err_display,n_optimal,n_total
+Nitrogen based,Nitrogen Emission,100.0,-100.0,,,,,,,,,0,100
+Water based,Nitrogen Emission,100.0,-100.0,,,,,,,,,0,100
+Nitrogen based,Nitrogen Leach,100.0,-100.0,,,,,,,,,0,100
+Water based,Nitrogen Leach,100.0,-100.0,,,,,,,,,0,100
+Nitrogen based,Greenhouse Gas emission,100.0,-100.0,,,,,,,,,0,100
+Water based,Greenhouse Gas emission,100.0,-100.0,,,,,,,,,0,100
+Nitrogen based,Profit,100.0,-100.0,,,,,,,,,0,100
+Water based,Profit,100.0,-100.0,,,,,,,,,0,100
+Nitrogen based,Calorie,100.0,-100.0,,,,,,,,,0,100
+Water based,Calorie,100.0,-100.0,,,,,,,,,0,100
+Nitrogen based,Phosphorus application,100.0,-100.0,,,,,,,,,0,100
+Water based,Phosphorus application,100.0,-100.0,,,,,,,,,0,100
+Nitrogen based,Nitrogen application,100.0,-100.0,,,,,,,,,0,100
+Water based,Nitrogen application,100.0,-100.0,,,,,,,,,0,100
+Nitrogen based,Phosphorus Surplus,100.0,-100.0,,,,,,,,,0,100
+Water based,Phosphorus Surplus,100.0,-100.0,,,,,,,,,0,100
+Nitrogen based,Nitrogen Surplus,100.0,-100.0,,,,,,,,,0,100
+Water based,Nitrogen Surplus,100.0,-100.0,,,,,,,,,0,100
+Nitrogen based,Water Demand,100.00000000000001,-100.00000000000001,,,,,,,,,0,100
+Water based,Water Demand,100.00000000000001,-100.00000000000001,,,,,,,,,0,100

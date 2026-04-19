@@ -1,0 +1,101 @@
+iteration,scenario,metric,metric_key,status,kharif_status,rabi_status,pct_reduction,display_pct_change
+0,Nitrogen based,Nitrogen Emission,N_emission,Optimal,Optimal,Optimal,19.616701577449568,-19.616701577449568
+0,Water based,Nitrogen Emission,N_emission,Optimal,Optimal,Optimal,5.200789045839259,-5.200789045839259
+0,Nitrogen based,Nitrogen Leach,N_leach,Optimal,Optimal,Optimal,21.453511774278162,-21.453511774278162
+0,Water based,Nitrogen Leach,N_leach,Optimal,Optimal,Optimal,8.184746937360101,-8.184746937360101
+0,Nitrogen based,Greenhouse Gas emission,AGHG,Optimal,Optimal,Optimal,21.81554279918476,-21.81554279918476
+0,Water based,Greenhouse Gas emission,AGHG,Optimal,Optimal,Optimal,28.188254178127636,-28.188254178127636
+0,Nitrogen based,Profit,profit,Optimal,Optimal,Optimal,-4.354110316061487,4.354110316061487
+0,Water based,Profit,profit,Optimal,Optimal,Optimal,-0.8681437657669855,0.8681437657669855
+0,Nitrogen based,Calorie,Calorie,Optimal,Optimal,Optimal,-4.461417497989908,4.461417497989908
+0,Water based,Calorie,Calorie,Optimal,Optimal,Optimal,-5.575455622121612,5.575455622121612
+0,Nitrogen based,Phosphorus application,P_applied,Optimal,Optimal,Optimal,10.638760580865286,-10.638760580865286
+0,Water based,Phosphorus application,P_applied,Optimal,Optimal,Optimal,3.046659024402043,-3.046659024402043
+0,Nitrogen based,Nitrogen application,N_applied,Optimal,Optimal,Optimal,11.05458367623079,-11.05458367623079
+0,Water based,Nitrogen application,N_applied,Optimal,Optimal,Optimal,1.4296903955824243,-1.4296903955824243
+0,Nitrogen based,Phosphorus Surplus,P_surplus,Optimal,Optimal,Optimal,15.493393390790079,-15.493393390790079
+0,Water based,Phosphorus Surplus,P_surplus,Optimal,Optimal,Optimal,6.3437083358234325,-6.3437083358234325
+0,Nitrogen based,Nitrogen Surplus,N_surplus,Optimal,Optimal,Optimal,19.293384444796125,-19.293384444796125
+0,Water based,Nitrogen Surplus,N_surplus,Optimal,Optimal,Optimal,5.339108890343171,-5.339108890343171
+0,Nitrogen based,Water Demand,water,Optimal,Optimal,Optimal,24.18711218343791,-24.18711218343791
+0,Water based,Water Demand,water,Optimal,Optimal,Optimal,41.79717786324895,-41.79717786324895
+1,Nitrogen based,Nitrogen Emission,N_emission,Optimal,Optimal,Optimal,20.88660764764933,-20.88660764764933
+1,Water based,Nitrogen Emission,N_emission,Optimal,Optimal,Optimal,6.488970738276164,-6.488970738276164
+1,Nitrogen based,Nitrogen Leach,N_leach,Optimal,Optimal,Optimal,23.01950721833766,-23.01950721833766
+1,Water based,Nitrogen Leach,N_leach,Optimal,Optimal,Optimal,9.717523429733806,-9.717523429733806
+1,Nitrogen based,Greenhouse Gas emission,AGHG,Optimal,Optimal,Optimal,22.032578597809504,-22.032578597809504
+1,Water based,Greenhouse Gas emission,AGHG,Optimal,Optimal,Optimal,27.545533483890974,-27.545533483890974
+1,Nitrogen based,Profit,profit,Optimal,Optimal,Optimal,-3.2368018505529137,3.2368018505529137
+1,Water based,Profit,profit,Optimal,Optimal,Optimal,-2.019465940939616,2.019465940939616
+1,Nitrogen based,Calorie,Calorie,Optimal,Optimal,Optimal,-4.696017630459511,4.696017630459511
+1,Water based,Calorie,Calorie,Optimal,Optimal,Optimal,-4.861326842960598,4.861326842960598
+1,Nitrogen based,Phosphorus application,P_applied,Optimal,Optimal,Optimal,9.004273982959543,-9.004273982959543
+1,Water based,Phosphorus application,P_applied,Optimal,Optimal,Optimal,2.342108506171818,-2.342108506171818
+1,Nitrogen based,Nitrogen application,N_applied,Optimal,Optimal,Optimal,11.942474109008737,-11.942474109008737
+1,Water based,Nitrogen application,N_applied,Optimal,Optimal,Optimal,2.4317078250662174,-2.4317078250662174
+1,Nitrogen based,Phosphorus Surplus,P_surplus,Optimal,Optimal,Optimal,13.476544750848015,-13.476544750848015
+1,Water based,Phosphorus Surplus,P_surplus,Optimal,Optimal,Optimal,5.2051268160474695,-5.2051268160474695
+1,Nitrogen based,Nitrogen Surplus,N_surplus,Optimal,Optimal,Optimal,20.5972642478023,-20.5972642478023
+1,Water based,Nitrogen Surplus,N_surplus,Optimal,Optimal,Optimal,6.654253977355606,-6.654253977355606
+1,Nitrogen based,Water Demand,water,Optimal,Optimal,Optimal,24.17432095337482,-24.17432095337482
+1,Water based,Water Demand,water,Optimal,Optimal,Optimal,40.739340567028044,-40.739340567028044
+2,Nitrogen based,Nitrogen Emission,N_emission,Optimal,Optimal,Optimal,21.46502140132329,-21.46502140132329
+2,Water based,Nitrogen Emission,N_emission,Optimal,Optimal,Optimal,7.206167014109614,-7.206167014109614
+2,Nitrogen based,Nitrogen Leach,N_leach,Optimal,Optimal,Optimal,24.13448388061919,-24.13448388061919
+2,Water based,Nitrogen Leach,N_leach,Optimal,Optimal,Optimal,10.272867252050093,-10.272867252050093
+2,Nitrogen based,Greenhouse Gas emission,AGHG,Optimal,Optimal,Optimal,22.943124784046713,-22.943124784046713
+2,Water based,Greenhouse Gas emission,AGHG,Optimal,Optimal,Optimal,27.21838782604197,-27.21838782604197
+2,Nitrogen based,Profit,profit,Optimal,Optimal,Optimal,-3.454970207517411,3.454970207517411
+2,Water based,Profit,profit,Optimal,Optimal,Optimal,-2.024389832651026,2.024389832651026
+2,Nitrogen based,Calorie,Calorie,Optimal,Optimal,Optimal,-4.742401324347026,4.742401324347026
+2,Water based,Calorie,Calorie,Optimal,Optimal,Optimal,-5.989097519216986,5.989097519216986
+2,Nitrogen based,Phosphorus application,P_applied,Optimal,Optimal,Optimal,10.141124236627192,-10.141124236627192
+2,Water based,Phosphorus application,P_applied,Optimal,Optimal,Optimal,2.884781697155462,-2.884781697155462
+2,Nitrogen based,Nitrogen application,N_applied,Optimal,Optimal,Optimal,12.23513842646307,-12.23513842646307
+2,Water based,Nitrogen application,N_applied,Optimal,Optimal,Optimal,2.7067390477266526,-2.7067390477266526
+2,Nitrogen based,Phosphorus Surplus,P_surplus,Optimal,Optimal,Optimal,14.995267778911016,-14.995267778911016
+2,Water based,Phosphorus Surplus,P_surplus,Optimal,Optimal,Optimal,6.238724175813543,-6.238724175813543
+2,Nitrogen based,Nitrogen Surplus,N_surplus,Optimal,Optimal,Optimal,21.191856923608285,-21.191856923608285
+2,Water based,Nitrogen Surplus,N_surplus,Optimal,Optimal,Optimal,7.3376886180412155,-7.3376886180412155
+2,Nitrogen based,Water Demand,water,Optimal,Optimal,Optimal,14.583066162073248,-14.583066162073248
+2,Water based,Water Demand,water,Optimal,Optimal,Optimal,39.854490052543945,-39.854490052543945
+3,Nitrogen based,Nitrogen Emission,N_emission,Optimal,Optimal,Optimal,20.454966706015394,-20.454966706015394
+3,Water based,Nitrogen Emission,N_emission,Optimal,Optimal,Optimal,4.7189948738071354,-4.7189948738071354
+3,Nitrogen based,Nitrogen Leach,N_leach,Optimal,Optimal,Optimal,22.741373763832108,-22.741373763832108
+3,Water based,Nitrogen Leach,N_leach,Optimal,Optimal,Optimal,8.272279034251193,-8.272279034251193
+3,Nitrogen based,Greenhouse Gas emission,AGHG,Optimal,Optimal,Optimal,22.779988864348194,-22.779988864348194
+3,Water based,Greenhouse Gas emission,AGHG,Optimal,Optimal,Optimal,27.326114306452613,-27.326114306452613
+3,Nitrogen based,Profit,profit,Optimal,Optimal,Optimal,-2.5510559830851527,2.5510559830851527
+3,Water based,Profit,profit,Optimal,Optimal,Optimal,-0.6648445188183489,0.6648445188183489
+3,Nitrogen based,Calorie,Calorie,Optimal,Optimal,Optimal,-4.62888947707746,4.62888947707746
+3,Water based,Calorie,Calorie,Optimal,Optimal,Optimal,-5.9499312798151855,5.9499312798151855
+3,Nitrogen based,Phosphorus application,P_applied,Optimal,Optimal,Optimal,9.706459551155847,-9.706459551155847
+3,Water based,Phosphorus application,P_applied,Optimal,Optimal,Optimal,2.246972854514808,-2.246972854514808
+3,Nitrogen based,Nitrogen application,N_applied,Optimal,Optimal,Optimal,11.540695173199703,-11.540695173199703
+3,Water based,Nitrogen application,N_applied,Optimal,Optimal,Optimal,0.9640114748269611,-0.9640114748269611
+3,Nitrogen based,Phosphorus Surplus,P_surplus,Optimal,Optimal,Optimal,14.374992515559734,-14.374992515559734
+3,Water based,Phosphorus Surplus,P_surplus,Optimal,Optimal,Optimal,5.3498040974837915,-5.3498040974837915
+3,Nitrogen based,Nitrogen Surplus,N_surplus,Optimal,Optimal,Optimal,20.099298809116092,-20.099298809116092
+3,Water based,Nitrogen Surplus,N_surplus,Optimal,Optimal,Optimal,4.79644346924248,-4.79644346924248
+3,Nitrogen based,Water Demand,water,Optimal,Optimal,Optimal,18.7734052657691,-18.7734052657691
+3,Water based,Water Demand,water,Optimal,Optimal,Optimal,41.002617868876044,-41.002617868876044
+4,Nitrogen based,Nitrogen Emission,N_emission,Optimal,Optimal,Optimal,21.381744576395462,-21.381744576395462
+4,Water based,Nitrogen Emission,N_emission,Optimal,Optimal,Optimal,5.936144662971593,-5.936144662971593
+4,Nitrogen based,Nitrogen Leach,N_leach,Optimal,Optimal,Optimal,24.19096483824578,-24.19096483824578
+4,Water based,Nitrogen Leach,N_leach,Optimal,Optimal,Optimal,9.713372243572092,-9.713372243572092
+4,Nitrogen based,Greenhouse Gas emission,AGHG,Optimal,Optimal,Optimal,21.869784911176215,-21.869784911176215
+4,Water based,Greenhouse Gas emission,AGHG,Optimal,Optimal,Optimal,27.560829685636154,-27.560829685636154
+4,Nitrogen based,Profit,profit,Optimal,Optimal,Optimal,-4.951358515960939,4.951358515960939
+4,Water based,Profit,profit,Optimal,Optimal,Optimal,-1.4597760497360412,1.4597760497360412
+4,Nitrogen based,Calorie,Calorie,Optimal,Optimal,Optimal,-4.21994764014192,4.21994764014192
+4,Water based,Calorie,Calorie,Optimal,Optimal,Optimal,-6.674633125200071,6.674633125200071
+4,Nitrogen based,Phosphorus application,P_applied,Optimal,Optimal,Optimal,11.127288062977003,-11.127288062977003
+4,Water based,Phosphorus application,P_applied,Optimal,Optimal,Optimal,3.2730182364685323,-3.2730182364685323
+4,Nitrogen based,Nitrogen application,N_applied,Optimal,Optimal,Optimal,12.366846247675037,-12.366846247675037
+4,Water based,Nitrogen application,N_applied,Optimal,Optimal,Optimal,1.6267150431497324,-1.6267150431497324
+4,Nitrogen based,Phosphorus Surplus,P_surplus,Optimal,Optimal,Optimal,16.031718070030593,-16.031718070030593
+4,Water based,Phosphorus Surplus,P_surplus,Optimal,Optimal,Optimal,6.872961130069228,-6.872961130069228
+4,Nitrogen based,Nitrogen Surplus,N_surplus,Optimal,Optimal,Optimal,21.066337610137463,-21.066337610137463
+4,Water based,Nitrogen Surplus,N_surplus,Optimal,Optimal,Optimal,6.049156351841186,-6.049156351841186
+4,Nitrogen based,Water Demand,water,Optimal,Optimal,Optimal,22.66289813803854,-22.66289813803854
+4,Water based,Water Demand,water,Optimal,Optimal,Optimal,40.8458845368139,-40.8458845368139

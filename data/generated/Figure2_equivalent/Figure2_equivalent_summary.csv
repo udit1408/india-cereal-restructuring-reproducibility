@@ -1,0 +1,35 @@
+panel,scenario_year,strategy,metric,value
+a,2017-18,Water based,Nitrogen surplus (Tg N),7.665127986838045
+a,2017-18,Water based,Water demand (BCM),300.6665250407807
+a,2017-18,Nitrogen based,Nitrogen surplus (Tg N),6.825365173746243
+a,2017-18,Nitrogen based,Water demand (BCM),348.22709800119424
+a,2017-18,kharif,Worst baseline income gap,-4.57763671875e-05
+a,2017-18,rabi,Worst baseline income gap,-3.0517578125e-05
+b,2017-18,Nitrogen based,Nitrogen Emission,17.80027045195203
+b,2017-18,Water based,Nitrogen Emission,7.390943854097443
+b,2017-18,Nitrogen based,Nitrogen Leach,19.797991969595266
+b,2017-18,Water based,Nitrogen Leach,9.972299528945326
+b,2017-18,Nitrogen based,Greenhouse Gas emission,24.671536782589822
+b,2017-18,Water based,Greenhouse Gas emission,31.116913031732363
+b,2017-18,Nitrogen based,Profit,-3.6253246862156048
+b,2017-18,Water based,Profit,-3.4119848287312577
+b,2017-18,Nitrogen based,Calorie,-5.182059554515627
+b,2017-18,Water based,Calorie,-8.442332927368074
+b,2017-18,Nitrogen based,Phosphorus application,8.414114480042619
+b,2017-18,Water based,Phosphorus application,1.8450989308150643
+b,2017-18,Nitrogen based,Nitrogen application,9.683500941808786
+b,2017-18,Water based,Nitrogen application,1.9052473824039167
+b,2017-18,Nitrogen based,Phosphorus Surplus,13.022729943731752
+b,2017-18,Water based,Phosphorus Surplus,5.681845077065391
+b,2017-18,Nitrogen based,Nitrogen Surplus,17.621137887895475
+b,2017-18,Water based,Nitrogen Surplus,7.485606230196606
+b,2017-18,Nitrogen based,Water Demand,25.526635101897405
+b,2017-18,Water based,Water Demand,35.69814672617745
+c,2017-18,Combined,Max nitrogen-surplus reduction (%),17.621137887895433
+c,2017-18,Combined,Max realized staple replacement (%),20.63533995218314
+d,2017-18,Optimized share,wheat optimized area (ha),28401319.152357418
+d,2017-18,Optimized share,rice optimized area (ha),32098541.0001887
+d,2017-18,Optimized share,bajra optimized area (ha),8924437.618511794
+d,2017-18,Optimized share,maize optimized area (ha),14180874.552813485
+d,2017-18,Optimized share,jowar optimized area (ha),13294450.988189695
+d,2017-18,Optimized share,ragi optimized area (ha),2815277.7579389066

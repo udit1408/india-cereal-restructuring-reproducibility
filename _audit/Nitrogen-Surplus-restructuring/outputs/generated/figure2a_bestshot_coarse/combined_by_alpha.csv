@@ -1,0 +1,6 @@
+Alpha,rows_kharif,objective_nitrogen_kharif,objective_water_kharif,solve_status_kharif,solve_status_code_kharif,objective_nitrogen_nunique_kharif,objective_water_nunique_kharif,solve_status_nunique_kharif,is_optimal_kharif,is_consistent_kharif,is_valid_kharif,rows_rabi,objective_nitrogen_rabi,objective_water_rabi,solve_status_rabi,solve_status_code_rabi,objective_nitrogen_nunique_rabi,objective_water_nunique_rabi,solve_status_nunique_rabi,is_optimal_rabi,is_consistent_rabi,is_valid_rabi,objective_nitrogen,objective_water,nitrogen_mt,water_bcm,is_valid,valid_reason
+0.0,3535,0.0,0.0,Infeasible,-1,1,1,1,False,True,False,4032,0.0,0.0,Infeasible,-1,1,1,1,False,True,False,0.0,0.0,0.0,0.0,False,rabi_not_optimal
+0.25,3535,0.0,0.0,Infeasible,-1,1,1,1,False,True,False,4032,0.0,0.0,Infeasible,-1,1,1,1,False,True,False,0.0,0.0,0.0,0.0,False,rabi_not_optimal
+0.5,3535,0.0,0.0,Infeasible,-1,1,1,1,False,True,False,4032,0.0,0.0,Infeasible,-1,1,1,1,False,True,False,0.0,0.0,0.0,0.0,False,rabi_not_optimal
+0.75,3535,0.0,0.0,Infeasible,-1,1,1,1,False,True,False,4032,0.0,0.0,Infeasible,-1,1,1,1,False,True,False,0.0,0.0,0.0,0.0,False,rabi_not_optimal
+1.0,3535,0.0,0.0,Infeasible,-1,1,1,1,False,True,False,4032,0.0,0.0,Infeasible,-1,1,1,1,False,True,False,0.0,0.0,0.0,0.0,False,rabi_not_optimal

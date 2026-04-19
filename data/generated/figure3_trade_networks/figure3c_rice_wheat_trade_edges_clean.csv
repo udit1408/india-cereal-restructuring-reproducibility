@@ -1,0 +1,1261 @@
+source_state,target_state,original_trade_kcal,optimized_trade_kcal,diff_trade_kcal
+andaman and nicobar,andhra pradesh,0.0,0.0,0.0
+andaman and nicobar,arunachal pradesh,0.0,0.0,0.0
+andaman and nicobar,assam,0.0,0.0,0.0
+andaman and nicobar,bihar,0.0,0.0,0.0
+andaman and nicobar,chandigarh,0.0,0.0,0.0
+andaman and nicobar,chhattisgarh,0.0,0.0,0.0
+andaman and nicobar,dadra and nagar haveli,0.0,0.0,0.0
+andaman and nicobar,daman and diu,0.0,0.0,0.0
+andaman and nicobar,delhi,0.0,0.0,0.0
+andaman and nicobar,goa,0.0,0.0,0.0
+andaman and nicobar,gujarat,0.0,0.0,0.0
+andaman and nicobar,haryana,0.0,0.0,0.0
+andaman and nicobar,himachal pradesh,0.0,0.0,0.0
+andaman and nicobar,jammu and kashmir,0.0,0.0,0.0
+andaman and nicobar,jharkhand,0.0,0.0,0.0
+andaman and nicobar,karnataka,0.0,0.0,0.0
+andaman and nicobar,kerala,0.0,0.0,0.0
+andaman and nicobar,lakshadeep,0.0,0.0,0.0
+andaman and nicobar,madhya pradesh,0.0,0.0,0.0
+andaman and nicobar,maharashtra,0.0,0.0,0.0
+andaman and nicobar,manipur,0.0,0.0,0.0
+andaman and nicobar,meghalaya,0.0,0.0,0.0
+andaman and nicobar,mizoram,0.0,0.0,0.0
+andaman and nicobar,nagaland,0.0,0.0,0.0
+andaman and nicobar,odisha,0.0,0.0,0.0
+andaman and nicobar,puducherry,0.0,0.0,0.0
+andaman and nicobar,punjab,0.0,0.0,0.0
+andaman and nicobar,rajasthan,0.0,0.0,0.0
+andaman and nicobar,sikkim,0.0,0.0,0.0
+andaman and nicobar,tamil nadu,0.0,0.0,0.0
+andaman and nicobar,telangana,0.0,0.0,0.0
+andaman and nicobar,tripura,0.0,0.0,0.0
+andaman and nicobar,uttar pradesh,0.0,0.0,0.0
+andaman and nicobar,uttarakhand,0.0,0.0,0.0
+andaman and nicobar,west bengal,0.0,0.0,0.0
+andhra pradesh,andaman and nicobar,0.0,0.0,0.0
+andhra pradesh,arunachal pradesh,560700000.0,369033909.25019085,-191666090.74980915
+andhra pradesh,assam,152979291000.0,91913889459.08488,-61065401540.91511
+andhra pradesh,bihar,69100255000.0,40178225171.55041,-28922029828.44959
+andhra pradesh,chandigarh,0.0,0.0,0.0
+andhra pradesh,chhattisgarh,9899035700.0,6045788812.3482895,-3853246887.6517105
+andhra pradesh,dadra and nagar haveli,0.0,0.0,0.0
+andhra pradesh,daman and diu,0.0,0.0,0.0
+andhra pradesh,delhi,4647283333.333333,3058685813.970497,-1588597519.362836
+andhra pradesh,goa,0.0,0.0,0.0
+andhra pradesh,gujarat,10495492316.666666,6861687639.613866,-3633804677.0528007
+andhra pradesh,haryana,78676000.0,51781900.9170109,-26894099.082989097
+andhra pradesh,himachal pradesh,0.0,0.0,0.0
+andhra pradesh,jammu and kashmir,374393333.3333334,246413118.24007455,-127980215.09325883
+andhra pradesh,jharkhand,28154200666.666664,18530149338.03162,-9624051328.635044
+andhra pradesh,karnataka,1624725706666.6667,1061295930718.9934,-563429775947.6735
+andhra pradesh,kerala,3191283202333.333,2098521439213.9082,-1092761763119.4248
+andhra pradesh,lakshadeep,0.0,0.0,0.0
+andhra pradesh,madhya pradesh,1027099500.0,0.0,-1027099500.0
+andhra pradesh,maharashtra,41063552766.666664,27026651337.94273,-14036901428.723934
+andhra pradesh,manipur,509080000.0,335059358.8747765,-174020641.12522352
+andhra pradesh,meghalaya,0.0,0.0,0.0
+andhra pradesh,mizoram,1511220000.0,994634250.6457524,-516585749.35424757
+andhra pradesh,nagaland,10773951333.333334,5217065568.596178,-5556885764.737156
+andhra pradesh,odisha,36437788333.33333,0.0,-36437788333.33333
+andhra pradesh,puducherry,0.0,0.0,0.0
+andhra pradesh,punjab,11375357000.0,7486877943.332484,-3888479056.6675158
+andhra pradesh,rajasthan,427795783.3333334,0.0,-427795783.3333334
+andhra pradesh,sikkim,0.0,0.0,0.0
+andhra pradesh,tamil nadu,6091538924333.334,4008775855888.6113,-2082763068444.7227
+andhra pradesh,telangana,0.0,0.0,0.0
+andhra pradesh,tripura,3569283333.3333335,1881877681.1393332,-1687405652.1940002
+andhra pradesh,uttar pradesh,1714793000.0,1035052250.2302973,-679740749.7697027
+andhra pradesh,uttarakhand,0.0,0.0,0.0
+andhra pradesh,west bengal,186752404000.0,115931963539.74013,-70820440460.25986
+arunachal pradesh,andaman and nicobar,0.0,0.0,0.0
+arunachal pradesh,andhra pradesh,0.0,0.0,0.0
+arunachal pradesh,assam,0.0,0.0,0.0
+arunachal pradesh,bihar,0.0,0.0,0.0
+arunachal pradesh,chandigarh,0.0,0.0,0.0
+arunachal pradesh,chhattisgarh,0.0,0.0,0.0
+arunachal pradesh,dadra and nagar haveli,0.0,0.0,0.0
+arunachal pradesh,daman and diu,0.0,0.0,0.0
+arunachal pradesh,delhi,0.0,0.0,0.0
+arunachal pradesh,goa,0.0,0.0,0.0
+arunachal pradesh,gujarat,0.0,0.0,0.0
+arunachal pradesh,haryana,92856666.66666666,30213873.960710056,-62642792.7059566
+arunachal pradesh,himachal pradesh,0.0,0.0,0.0
+arunachal pradesh,jammu and kashmir,0.0,0.0,0.0
+arunachal pradesh,jharkhand,0.0,0.0,0.0
+arunachal pradesh,karnataka,0.0,0.0,0.0
+arunachal pradesh,kerala,0.0,0.0,0.0
+arunachal pradesh,lakshadeep,0.0,0.0,0.0
+arunachal pradesh,madhya pradesh,0.0,0.0,0.0
+arunachal pradesh,maharashtra,0.0,0.0,0.0
+arunachal pradesh,manipur,0.0,0.0,0.0
+arunachal pradesh,meghalaya,0.0,0.0,0.0
+arunachal pradesh,mizoram,0.0,0.0,0.0
+arunachal pradesh,nagaland,0.0,0.0,0.0
+arunachal pradesh,odisha,0.0,0.0,0.0
+arunachal pradesh,puducherry,0.0,0.0,0.0
+arunachal pradesh,punjab,322428000.0,128915807.45242989,-193512192.5475701
+arunachal pradesh,rajasthan,0.0,0.0,0.0
+arunachal pradesh,sikkim,0.0,0.0,0.0
+arunachal pradesh,tamil nadu,0.0,0.0,0.0
+arunachal pradesh,telangana,0.0,0.0,0.0
+arunachal pradesh,tripura,0.0,0.0,0.0
+arunachal pradesh,uttar pradesh,0.0,0.0,0.0
+arunachal pradesh,uttarakhand,0.0,0.0,0.0
+arunachal pradesh,west bengal,0.0,0.0,0.0
+assam,andaman and nicobar,0.0,0.0,0.0
+assam,andhra pradesh,781328033.3333334,722836964.6235493,-58491068.70978403
+assam,arunachal pradesh,0.0,0.0,0.0
+assam,bihar,743833850.0,721923639.9551928,-21910210.044807196
+assam,chandigarh,78409000.0,72539216.74532844,-5869783.254671559
+assam,chhattisgarh,232690500.0,215271035.392351,-17419464.607649
+assam,dadra and nagar haveli,0.0,0.0,0.0
+assam,daman and diu,0.0,0.0,0.0
+assam,delhi,817815066.6666666,756592538.8479455,-61222527.818721175
+assam,goa,0.0,0.0,0.0
+assam,gujarat,0.0,0.0,0.0
+assam,haryana,15770318933.33333,14940444995.262142,-829873938.071188
+assam,himachal pradesh,0.0,0.0,0.0
+assam,jammu and kashmir,0.0,0.0,0.0
+assam,jharkhand,0.0,0.0,0.0
+assam,karnataka,74240833.33333331,68683083.58122754,-5557749.7521057725
+assam,kerala,0.0,0.0,0.0
+assam,lakshadeep,0.0,0.0,0.0
+assam,madhya pradesh,294184566.6666667,307403663.91164464,13219097.244977951
+assam,maharashtra,385334400.00000006,356487846.56137806,-28846553.438621998
+assam,manipur,100881675333.33333,94596887826.30165,-6284787507.031666
+assam,meghalaya,0.0,0.0,0.0
+assam,mizoram,9203119999.999998,8515257336.655881,-687862663.3441162
+assam,nagaland,21840470000.0,20927578495.549694,-912891504.4503069
+assam,odisha,0.0,0.0,0.0
+assam,puducherry,0.0,0.0,0.0
+assam,punjab,49715662366.666664,46513769070.98537,-3201893295.681302
+assam,rajasthan,0.0,0.0,0.0
+assam,sikkim,0.0,0.0,0.0
+assam,tamil nadu,0.0,0.0,0.0
+assam,telangana,157085000.0,145325445.5794605,-11759554.420539498
+assam,tripura,380846967500.0,355081783373.9887,-25765184126.011272
+assam,uttar pradesh,5752323000.0,5733619349.742365,-18703650.257635593
+assam,uttarakhand,314793000.0,291227252.6994628,-23565747.30053723
+assam,west bengal,1250366000.0,1214816478.9457245,-35549521.05427545
+bihar,andaman and nicobar,0.0,0.0,0.0
+bihar,andhra pradesh,1826398666.6666665,865127668.7633581,-961270997.9033084
+bihar,arunachal pradesh,0.0,0.0,0.0
+bihar,assam,14334178500.0,6137191124.986719,-8196987375.013283
+bihar,chandigarh,860413999.9999999,400948390.1480424,-459465609.85195744
+bihar,chhattisgarh,78854000.0,37351525.949792184,-41502474.050207816
+bihar,dadra and nagar haveli,0.0,0.0,0.0
+bihar,daman and diu,0.0,0.0,0.0
+bihar,delhi,0.0,0.0,0.0
+bihar,goa,0.0,0.0,0.0
+bihar,gujarat,0.0,0.0,0.0
+bihar,haryana,39017650833.33333,17114572598.499891,-21903078234.833443
+bihar,himachal pradesh,0.0,0.0,0.0
+bihar,jammu and kashmir,0.0,0.0,0.0
+bihar,jharkhand,0.0,0.0,0.0
+bihar,karnataka,654196666.6666667,261959448.8450074,-392237217.8216593
+bihar,kerala,0.0,0.0,0.0
+bihar,lakshadeep,0.0,0.0,0.0
+bihar,madhya pradesh,3436816016.666667,1376201493.1916912,-2060614523.4749758
+bihar,maharashtra,0.0,0.0,0.0
+bihar,manipur,0.0,0.0,0.0
+bihar,meghalaya,0.0,0.0,0.0
+bihar,mizoram,0.0,0.0,0.0
+bihar,nagaland,712425000.0,285275773.8652562,-427149226.1347438
+bihar,odisha,0.0,0.0,0.0
+bihar,puducherry,0.0,0.0,0.0
+bihar,punjab,93025034416.66666,41512385611.82795,-51512648804.838715
+bihar,rajasthan,270802000.0,108437028.6195166,-162364971.3804834
+bihar,sikkim,0.0,0.0,0.0
+bihar,tamil nadu,2221076833.333333,895662089.0229337,-1325414744.3103993
+bihar,telangana,690690000.0,276572445.17106193,-414117554.82893807
+bihar,tripura,3031043333.333333,1435743192.7352397,-1595300140.5980933
+bihar,uttar pradesh,2007200500.0,896302424.7172463,-1110898075.2827537
+bihar,uttarakhand,228192000.0,102900826.61851925,-125291173.38148075
+bihar,west bengal,7157098266.666667,3181429497.8437815,-3975668768.822886
+chandigarh,andaman and nicobar,0.0,0.0,0.0
+chandigarh,andhra pradesh,714840000.0,714840000.0,0.0
+chandigarh,arunachal pradesh,0.0,0.0,0.0
+chandigarh,assam,17212896666.666668,17212896666.666668,0.0
+chandigarh,bihar,37099128333.33332,37099128333.33332,0.0
+chandigarh,chhattisgarh,712425000.0,712425000.0,0.0
+chandigarh,dadra and nagar haveli,0.0,0.0,0.0
+chandigarh,daman and diu,0.0,0.0,0.0
+chandigarh,delhi,1573520000.0,1573520000.0,0.0
+chandigarh,goa,0.0,0.0,0.0
+chandigarh,gujarat,1431290000.0,1431290000.0,0.0
+chandigarh,haryana,0.0,0.0,0.0
+chandigarh,himachal pradesh,0.0,0.0,0.0
+chandigarh,jammu and kashmir,3858743333.333333,3858743333.333333,0.0
+chandigarh,jharkhand,0.0,0.0,0.0
+chandigarh,karnataka,16747723333.33333,16747723333.33333,0.0
+chandigarh,kerala,784090000.0,784090000.0,0.0
+chandigarh,lakshadeep,0.0,0.0,0.0
+chandigarh,madhya pradesh,0.0,0.0,0.0
+chandigarh,maharashtra,1497320000.0,1497320000.0,0.0
+chandigarh,manipur,0.0,0.0,0.0
+chandigarh,meghalaya,0.0,0.0,0.0
+chandigarh,mizoram,0.0,0.0,0.0
+chandigarh,nagaland,1570850000.0,1570850000.0,0.0
+chandigarh,odisha,710815000.0,710815000.0,0.0
+chandigarh,puducherry,0.0,0.0,0.0
+chandigarh,punjab,0.0,0.0,0.0
+chandigarh,rajasthan,0.0,0.0,0.0
+chandigarh,sikkim,0.0,0.0,0.0
+chandigarh,tamil nadu,3840138333.333333,3840138333.333333,0.0
+chandigarh,telangana,0.0,0.0,0.0
+chandigarh,tripura,0.0,0.0,0.0
+chandigarh,uttar pradesh,8250011666.666666,8250011666.666666,0.0
+chandigarh,uttarakhand,0.0,0.0,0.0
+chandigarh,west bengal,0.0,0.0,0.0
+chhattisgarh,andaman and nicobar,0.0,0.0,0.0
+chhattisgarh,andhra pradesh,2287248706333.3335,509147761844.198,-1778100944489.1355
+chhattisgarh,arunachal pradesh,0.0,0.0,0.0
+chhattisgarh,assam,120364015333.33334,26793356071.79759,-93570659261.53575
+chhattisgarh,bihar,1297505486666.6667,288828238349.26855,-1008677248317.3982
+chhattisgarh,chandigarh,1581530000.0,352052864.8938728,-1229477135.1061273
+chhattisgarh,dadra and nagar haveli,0.0,0.0,0.0
+chhattisgarh,daman and diu,0.0,0.0,0.0
+chhattisgarh,delhi,3140098000.0,698994326.3469679,-2441103673.6530323
+chhattisgarh,goa,30749262666.666664,6844869218.52523,-23904393448.141434
+chhattisgarh,gujarat,55856993333.33333,12433918121.918617,-43423075211.41471
+chhattisgarh,haryana,5857670833.333333,1359066809.7605314,-4498604023.572802
+chhattisgarh,himachal pradesh,3073763333.333333,684228049.7402769,-2389535283.593056
+chhattisgarh,jammu and kashmir,7728166666.666665,1720310847.9619932,-6007855818.704672
+chhattisgarh,jharkhand,2099494514000.0,467353169704.4439,-1632141344295.5562
+chhattisgarh,karnataka,408276612333.3334,90883480579.63812,-317393131753.69525
+chhattisgarh,kerala,224578862000.0,49991863424.47232,-174586998575.52768
+chhattisgarh,lakshadeep,0.0,0.0,0.0
+chhattisgarh,madhya pradesh,86881940166.66666,19617824980.945377,-67264115185.72128
+chhattisgarh,maharashtra,1197251792666.6665,266511494317.29083,-930740298349.3757
+chhattisgarh,manipur,766883333.3333333,170710308.71331105,-596173024.6200222
+chhattisgarh,meghalaya,0.0,0.0,0.0
+chhattisgarh,mizoram,783200000.0,174342442.94125384,-608857557.0587461
+chhattisgarh,nagaland,8574497333.333334,1908706348.4251788,-6665790984.908155
+chhattisgarh,odisha,8750480000.0,1947880567.043645,-6802599432.956355
+chhattisgarh,puducherry,0.0,0.0,0.0
+chhattisgarh,punjab,19452077333.33333,4330085141.184274,-15121992192.149055
+chhattisgarh,rajasthan,453900000.0,101039370.34095393,-352860629.65904605
+chhattisgarh,sikkim,0.0,0.0,0.0
+chhattisgarh,tamil nadu,1540633217333.3333,343082635245.3216,-1197550582088.0117
+chhattisgarh,telangana,0.0,0.0,0.0
+chhattisgarh,tripura,0.0,0.0,0.0
+chhattisgarh,uttar pradesh,2363543333.3333335,526131152.61854905,-1837412180.7147844
+chhattisgarh,uttarakhand,816130000.0,181672750.2012838,-634457249.7987162
+chhattisgarh,west bengal,451983652000.0,100612786081.70268,-351370865918.2973
+dadra and nagar haveli,andaman and nicobar,0.0,0.0,0.0
+dadra and nagar haveli,andhra pradesh,0.0,0.0,0.0
+dadra and nagar haveli,arunachal pradesh,0.0,0.0,0.0
+dadra and nagar haveli,assam,0.0,0.0,0.0
+dadra and nagar haveli,bihar,0.0,0.0,0.0
+dadra and nagar haveli,chandigarh,0.0,0.0,0.0
+dadra and nagar haveli,chhattisgarh,0.0,0.0,0.0
+dadra and nagar haveli,daman and diu,0.0,0.0,0.0
+dadra and nagar haveli,delhi,0.0,0.0,0.0
+dadra and nagar haveli,goa,0.0,0.0,0.0
+dadra and nagar haveli,gujarat,0.0,0.0,0.0
+dadra and nagar haveli,haryana,0.0,0.0,0.0
+dadra and nagar haveli,himachal pradesh,0.0,0.0,0.0
+dadra and nagar haveli,jammu and kashmir,0.0,0.0,0.0
+dadra and nagar haveli,jharkhand,0.0,0.0,0.0
+dadra and nagar haveli,karnataka,0.0,0.0,0.0
+dadra and nagar haveli,kerala,0.0,0.0,0.0
+dadra and nagar haveli,lakshadeep,0.0,0.0,0.0
+dadra and nagar haveli,madhya pradesh,0.0,0.0,0.0
+dadra and nagar haveli,maharashtra,0.0,0.0,0.0
+dadra and nagar haveli,manipur,0.0,0.0,0.0
+dadra and nagar haveli,meghalaya,0.0,0.0,0.0
+dadra and nagar haveli,mizoram,0.0,0.0,0.0
+dadra and nagar haveli,nagaland,0.0,0.0,0.0
+dadra and nagar haveli,odisha,0.0,0.0,0.0
+dadra and nagar haveli,puducherry,0.0,0.0,0.0
+dadra and nagar haveli,punjab,0.0,0.0,0.0
+dadra and nagar haveli,rajasthan,0.0,0.0,0.0
+dadra and nagar haveli,sikkim,0.0,0.0,0.0
+dadra and nagar haveli,tamil nadu,0.0,0.0,0.0
+dadra and nagar haveli,telangana,0.0,0.0,0.0
+dadra and nagar haveli,tripura,0.0,0.0,0.0
+dadra and nagar haveli,uttar pradesh,0.0,0.0,0.0
+dadra and nagar haveli,uttarakhand,0.0,0.0,0.0
+dadra and nagar haveli,west bengal,0.0,0.0,0.0
+daman and diu,andaman and nicobar,0.0,0.0,0.0
+daman and diu,andhra pradesh,0.0,0.0,0.0
+daman and diu,arunachal pradesh,0.0,0.0,0.0
+daman and diu,assam,0.0,0.0,0.0
+daman and diu,bihar,0.0,0.0,0.0
+daman and diu,chandigarh,0.0,0.0,0.0
+daman and diu,chhattisgarh,0.0,0.0,0.0
+daman and diu,dadra and nagar haveli,0.0,0.0,0.0
+daman and diu,delhi,0.0,0.0,0.0
+daman and diu,goa,0.0,0.0,0.0
+daman and diu,gujarat,0.0,0.0,0.0
+daman and diu,haryana,0.0,0.0,0.0
+daman and diu,himachal pradesh,0.0,0.0,0.0
+daman and diu,jammu and kashmir,0.0,0.0,0.0
+daman and diu,jharkhand,0.0,0.0,0.0
+daman and diu,karnataka,0.0,0.0,0.0
+daman and diu,kerala,0.0,0.0,0.0
+daman and diu,lakshadeep,0.0,0.0,0.0
+daman and diu,madhya pradesh,0.0,0.0,0.0
+daman and diu,maharashtra,0.0,0.0,0.0
+daman and diu,manipur,0.0,0.0,0.0
+daman and diu,meghalaya,0.0,0.0,0.0
+daman and diu,mizoram,0.0,0.0,0.0
+daman and diu,nagaland,0.0,0.0,0.0
+daman and diu,odisha,0.0,0.0,0.0
+daman and diu,puducherry,0.0,0.0,0.0
+daman and diu,punjab,0.0,0.0,0.0
+daman and diu,rajasthan,0.0,0.0,0.0
+daman and diu,sikkim,0.0,0.0,0.0
+daman and diu,tamil nadu,0.0,0.0,0.0
+daman and diu,telangana,0.0,0.0,0.0
+daman and diu,tripura,0.0,0.0,0.0
+daman and diu,uttar pradesh,0.0,0.0,0.0
+daman and diu,uttarakhand,0.0,0.0,0.0
+daman and diu,west bengal,0.0,0.0,0.0
+delhi,andaman and nicobar,0.0,0.0,0.0
+delhi,andhra pradesh,0.0,0.0,0.0
+delhi,arunachal pradesh,0.0,0.0,0.0
+delhi,assam,71016599666.66667,0.0,-71016599666.66667
+delhi,bihar,0.0,0.0,0.0
+delhi,chandigarh,19386808333.33333,0.0,-19386808333.33333
+delhi,chhattisgarh,0.0,0.0,0.0
+delhi,dadra and nagar haveli,0.0,0.0,0.0
+delhi,daman and diu,0.0,0.0,0.0
+delhi,goa,0.0,0.0,0.0
+delhi,gujarat,11479220000.0,0.0,-11479220000.0
+delhi,haryana,503554333.3333333,0.0,-503554333.3333333
+delhi,himachal pradesh,2383716666.6666665,0.0,-2383716666.6666665
+delhi,jammu and kashmir,0.0,0.0,0.0
+delhi,jharkhand,0.0,0.0,0.0
+delhi,karnataka,0.0,0.0,0.0
+delhi,kerala,0.0,0.0,0.0
+delhi,lakshadeep,0.0,0.0,0.0
+delhi,madhya pradesh,1130160966.6666667,0.0,-1130160966.6666667
+delhi,maharashtra,0.0,0.0,0.0
+delhi,manipur,0.0,0.0,0.0
+delhi,meghalaya,0.0,0.0,0.0
+delhi,mizoram,0.0,0.0,0.0
+delhi,nagaland,6399066666.666667,0.0,-6399066666.666667
+delhi,odisha,1428875000.0,0.0,-1428875000.0
+delhi,puducherry,0.0,0.0,0.0
+delhi,punjab,251938166.66666666,0.0,-251938166.66666666
+delhi,rajasthan,142466216.66666666,0.0,-142466216.66666666
+delhi,sikkim,0.0,0.0,0.0
+delhi,tamil nadu,0.0,0.0,0.0
+delhi,telangana,0.0,0.0,0.0
+delhi,tripura,3325633333.333333,0.0,-3325633333.333333
+delhi,uttar pradesh,2093000000.0,0.0,-2093000000.0
+delhi,uttarakhand,0.0,0.0,0.0
+delhi,west bengal,10646016666.666664,0.0,-10646016666.666664
+goa,andaman and nicobar,0.0,0.0,0.0
+goa,andhra pradesh,0.0,0.0,0.0
+goa,arunachal pradesh,0.0,0.0,0.0
+goa,assam,0.0,0.0,0.0
+goa,bihar,0.0,0.0,0.0
+goa,chandigarh,0.0,0.0,0.0
+goa,chhattisgarh,0.0,0.0,0.0
+goa,dadra and nagar haveli,0.0,0.0,0.0
+goa,daman and diu,0.0,0.0,0.0
+goa,delhi,0.0,0.0,0.0
+goa,gujarat,0.0,0.0,0.0
+goa,haryana,159497333.3333333,0.0,-159497333.3333333
+goa,himachal pradesh,0.0,0.0,0.0
+goa,jammu and kashmir,0.0,0.0,0.0
+goa,jharkhand,0.0,0.0,0.0
+goa,karnataka,0.0,0.0,0.0
+goa,kerala,1500160000.0,0.0,-1500160000.0
+goa,lakshadeep,0.0,0.0,0.0
+goa,madhya pradesh,0.0,0.0,0.0
+goa,maharashtra,2931976666.6666665,0.0,-2931976666.6666665
+goa,manipur,0.0,0.0,0.0
+goa,meghalaya,0.0,0.0,0.0
+goa,mizoram,0.0,0.0,0.0
+goa,nagaland,0.0,0.0,0.0
+goa,odisha,0.0,0.0,0.0
+goa,puducherry,0.0,0.0,0.0
+goa,punjab,2223018166.6666665,0.0,-2223018166.6666665
+goa,rajasthan,0.0,0.0,0.0
+goa,sikkim,0.0,0.0,0.0
+goa,tamil nadu,0.0,0.0,0.0
+goa,telangana,0.0,0.0,0.0
+goa,tripura,0.0,0.0,0.0
+goa,uttar pradesh,0.0,0.0,0.0
+goa,uttarakhand,0.0,0.0,0.0
+goa,west bengal,0.0,0.0,0.0
+gujarat,andaman and nicobar,0.0,0.0,0.0
+gujarat,andhra pradesh,3744296500.0,1750320574.5220094,-1993975925.4779906
+gujarat,arunachal pradesh,0.0,0.0,0.0
+gujarat,assam,706977833.3333333,330486073.2621803,-376491760.0711529
+gujarat,bihar,17533000.0,13490299.419736689,-4042700.580263311
+gujarat,chandigarh,0.0,0.0,0.0
+gujarat,chhattisgarh,0.0,0.0,0.0
+gujarat,dadra and nagar haveli,0.0,0.0,0.0
+gujarat,daman and diu,0.0,0.0,0.0
+gujarat,delhi,0.0,0.0,0.0
+gujarat,goa,0.0,0.0,0.0
+gujarat,haryana,14195890666.666666,7180756013.981209,-7015134652.685457
+gujarat,himachal pradesh,0.0,0.0,0.0
+gujarat,jammu and kashmir,2344052666.666667,1095758204.573235,-1248294462.093432
+gujarat,jharkhand,0.0,0.0,0.0
+gujarat,karnataka,8400255500.0,3926809757.958984,-4473445742.041016
+gujarat,kerala,1366353333.3333333,638719810.6239884,-727633522.7093449
+gujarat,lakshadeep,0.0,0.0,0.0
+gujarat,madhya pradesh,9188803983.333334,4295427102.869159,-4893376880.464175
+gujarat,maharashtra,5739113333.333333,2682823902.1260533,-3056289431.2072797
+gujarat,manipur,0.0,0.0,0.0
+gujarat,meghalaya,0.0,0.0,0.0
+gujarat,mizoram,0.0,0.0,0.0
+gujarat,nagaland,0.0,0.0,0.0
+gujarat,odisha,0.0,0.0,0.0
+gujarat,puducherry,0.0,0.0,0.0
+gujarat,punjab,39365513100.0,23450927347.98711,-15914585752.012886
+gujarat,rajasthan,1220353166.6666665,570470115.2271872,-649883051.4394794
+gujarat,sikkim,0.0,0.0,0.0
+gujarat,tamil nadu,4455701833.333334,2082876340.8076181,-2372825492.525716
+gujarat,telangana,709285500.0,331564822.3531792,-377720677.6468208
+gujarat,tripura,0.0,0.0,0.0
+gujarat,uttar pradesh,22269179500.0,10502181904.758005,-11766997595.241993
+gujarat,uttarakhand,0.0,0.0,0.0
+gujarat,west bengal,2139180166.6666667,999987863.7618811,-1139192302.9047856
+haryana,andaman and nicobar,0.0,0.0,0.0
+haryana,andhra pradesh,171691044000.0,171691044000.0,0.0
+haryana,arunachal pradesh,2985950000.0,1907418587.2132893,-1078531412.7867107
+haryana,assam,1283438020833.3333,868136239707.686,-415301781125.64734
+haryana,bihar,2261262849833.333,1844525191387.7595,-416737658445.5737
+haryana,chandigarh,145154048333.3333,104067627228.8791,-41086421104.45422
+haryana,chhattisgarh,121395717333.33333,121395717333.33333,0.0
+haryana,dadra and nagar haveli,0.0,0.0,0.0
+haryana,daman and diu,0.0,0.0,0.0
+haryana,delhi,399641263333.3334,389080549487.75146,-10560713845.581867
+haryana,goa,49421895000.0,37422496330.96315,-11999398669.03685
+haryana,gujarat,1476186841333.3333,1360640100967.1475,-115546740366.18585
+haryana,himachal pradesh,25767921666.666664,21835916533.949768,-3932005132.716894
+haryana,jammu and kashmir,85206365000.0,63956456517.58627,-21249908482.413734
+haryana,jharkhand,150320603333.33334,147385690579.7501,-2934912753.583232
+haryana,karnataka,1612243554333.3335,1124106430558.8906,-488137123774.44275
+haryana,kerala,332858211833.3334,290772662373.9041,-42085549459.429214
+haryana,lakshadeep,0.0,0.0,0.0
+haryana,madhya pradesh,139591127000.0,129103118923.27814,-10488008076.721878
+haryana,maharashtra,3156472269000.0,2643768374921.7275,-512703894078.27246
+haryana,manipur,21171023333.33333,13524005229.935612,-7647018103.3977165
+haryana,meghalaya,533406666.6666666,340739058.1032781,-192667608.56338853
+haryana,mizoram,18899150000.0,12072737317.279942,-6826412682.720058
+haryana,nagaland,106666760000.00002,70702104015.95973,-35964655984.04028
+haryana,odisha,500087620500.0,496323315482.63446,-3764305017.3655596
+haryana,puducherry,0.0,0.0,0.0
+haryana,punjab,6975056666.666667,6975056666.666667,0.0
+haryana,rajasthan,1116812068333.3333,1112155641564.9478,-4656426768.38538
+haryana,sikkim,0.0,0.0,0.0
+haryana,tamil nadu,699622303500.0,545985037617.22205,-153637265882.77798
+haryana,telangana,2799790000.0,2799790000.0,0.0
+haryana,tripura,125545491666.66667,82422666094.3934,-43122825572.27327
+haryana,uttar pradesh,3760395163333.3335,3326840858790.1973,-433554304543.136
+haryana,uttarakhand,69570691666.66666,69285869362.12746,-284822304.53920287
+haryana,west bengal,2265749988666.6665,2230642157041.955,-35107831624.71165
+himachal pradesh,andaman and nicobar,0.0,0.0,0.0
+himachal pradesh,andhra pradesh,0.0,0.0,0.0
+himachal pradesh,arunachal pradesh,0.0,0.0,0.0
+himachal pradesh,assam,0.0,0.0,0.0
+himachal pradesh,bihar,0.0,0.0,0.0
+himachal pradesh,chandigarh,0.0,0.0,0.0
+himachal pradesh,chhattisgarh,0.0,0.0,0.0
+himachal pradesh,dadra and nagar haveli,0.0,0.0,0.0
+himachal pradesh,daman and diu,0.0,0.0,0.0
+himachal pradesh,delhi,0.0,0.0,0.0
+himachal pradesh,goa,0.0,0.0,0.0
+himachal pradesh,gujarat,0.0,0.0,0.0
+himachal pradesh,haryana,0.0,0.0,0.0
+himachal pradesh,jammu and kashmir,0.0,0.0,0.0
+himachal pradesh,jharkhand,0.0,0.0,0.0
+himachal pradesh,karnataka,0.0,0.0,0.0
+himachal pradesh,kerala,0.0,0.0,0.0
+himachal pradesh,lakshadeep,0.0,0.0,0.0
+himachal pradesh,madhya pradesh,0.0,0.0,0.0
+himachal pradesh,maharashtra,0.0,0.0,0.0
+himachal pradesh,manipur,0.0,0.0,0.0
+himachal pradesh,meghalaya,0.0,0.0,0.0
+himachal pradesh,mizoram,0.0,0.0,0.0
+himachal pradesh,nagaland,0.0,0.0,0.0
+himachal pradesh,odisha,0.0,0.0,0.0
+himachal pradesh,puducherry,0.0,0.0,0.0
+himachal pradesh,punjab,0.0,0.0,0.0
+himachal pradesh,rajasthan,0.0,0.0,0.0
+himachal pradesh,sikkim,0.0,0.0,0.0
+himachal pradesh,tamil nadu,0.0,0.0,0.0
+himachal pradesh,telangana,0.0,0.0,0.0
+himachal pradesh,tripura,0.0,0.0,0.0
+himachal pradesh,uttar pradesh,0.0,0.0,0.0
+himachal pradesh,uttarakhand,0.0,0.0,0.0
+himachal pradesh,west bengal,1407676666.6666667,1407676666.6666667,0.0
+jammu and kashmir,andaman and nicobar,0.0,0.0,0.0
+jammu and kashmir,andhra pradesh,0.0,0.0,0.0
+jammu and kashmir,arunachal pradesh,0.0,0.0,0.0
+jammu and kashmir,assam,0.0,0.0,0.0
+jammu and kashmir,bihar,0.0,0.0,0.0
+jammu and kashmir,chandigarh,0.0,0.0,0.0
+jammu and kashmir,chhattisgarh,0.0,0.0,0.0
+jammu and kashmir,dadra and nagar haveli,0.0,0.0,0.0
+jammu and kashmir,daman and diu,0.0,0.0,0.0
+jammu and kashmir,delhi,0.0,0.0,0.0
+jammu and kashmir,goa,0.0,0.0,0.0
+jammu and kashmir,gujarat,0.0,0.0,0.0
+jammu and kashmir,haryana,598970166.6666666,587028265.6384289,-11941901.028237686
+jammu and kashmir,himachal pradesh,0.0,0.0,0.0
+jammu and kashmir,jharkhand,0.0,0.0,0.0
+jammu and kashmir,karnataka,0.0,0.0,0.0
+jammu and kashmir,kerala,0.0,0.0,0.0
+jammu and kashmir,lakshadeep,0.0,0.0,0.0
+jammu and kashmir,madhya pradesh,0.0,0.0,0.0
+jammu and kashmir,maharashtra,0.0,0.0,0.0
+jammu and kashmir,manipur,0.0,0.0,0.0
+jammu and kashmir,meghalaya,0.0,0.0,0.0
+jammu and kashmir,mizoram,0.0,0.0,0.0
+jammu and kashmir,nagaland,0.0,0.0,0.0
+jammu and kashmir,odisha,0.0,0.0,0.0
+jammu and kashmir,puducherry,0.0,0.0,0.0
+jammu and kashmir,punjab,17550509216.666668,17289955581.20236,-260553635.4643097
+jammu and kashmir,rajasthan,0.0,0.0,0.0
+jammu and kashmir,sikkim,0.0,0.0,0.0
+jammu and kashmir,tamil nadu,0.0,0.0,0.0
+jammu and kashmir,telangana,0.0,0.0,0.0
+jammu and kashmir,tripura,0.0,0.0,0.0
+jammu and kashmir,uttar pradesh,214130000.0,214145158.90898198,15158.908981978893
+jammu and kashmir,uttarakhand,0.0,0.0,0.0
+jammu and kashmir,west bengal,0.0,0.0,0.0
+jharkhand,andaman and nicobar,0.0,0.0,0.0
+jharkhand,andhra pradesh,18915644666.666668,21084107672.715794,2168463006.0491257
+jharkhand,arunachal pradesh,0.0,0.0,0.0
+jharkhand,assam,0.0,0.0,0.0
+jharkhand,bihar,1487011666.6666665,1577408787.2352433,90397120.56857657
+jharkhand,chandigarh,0.0,0.0,0.0
+jharkhand,chhattisgarh,15422353133.333334,17190350091.68138,1767996958.3480473
+jharkhand,dadra and nagar haveli,0.0,0.0,0.0
+jharkhand,daman and diu,0.0,0.0,0.0
+jharkhand,delhi,0.0,0.0,0.0
+jharkhand,goa,0.0,0.0,0.0
+jharkhand,gujarat,0.0,0.0,0.0
+jharkhand,haryana,1903337666.6666667,1912061089.8675256,8723423.200858831
+jharkhand,himachal pradesh,0.0,0.0,0.0
+jharkhand,jammu and kashmir,0.0,0.0,0.0
+jharkhand,karnataka,0.0,0.0,0.0
+jharkhand,kerala,0.0,0.0,0.0
+jharkhand,lakshadeep,0.0,0.0,0.0
+jharkhand,madhya pradesh,0.0,0.0,0.0
+jharkhand,maharashtra,0.0,0.0,0.0
+jharkhand,manipur,0.0,0.0,0.0
+jharkhand,meghalaya,0.0,0.0,0.0
+jharkhand,mizoram,0.0,0.0,0.0
+jharkhand,nagaland,0.0,0.0,0.0
+jharkhand,odisha,25689936033.333336,28634994311.69169,2945058278.3583527
+jharkhand,puducherry,0.0,0.0,0.0
+jharkhand,punjab,5102372266.666666,5136028016.818278,33655750.151611924
+jharkhand,rajasthan,0.0,0.0,0.0
+jharkhand,sikkim,0.0,0.0,0.0
+jharkhand,tamil nadu,0.0,0.0,0.0
+jharkhand,telangana,0.0,0.0,0.0
+jharkhand,tripura,0.0,0.0,0.0
+jharkhand,uttar pradesh,213888500.0,213888499.88303587,-0.11696413159370422
+jharkhand,uttarakhand,0.0,0.0,0.0
+jharkhand,west bengal,713498333.3333333,713498332.9431593,-0.39017391204833984
+karnataka,andaman and nicobar,0.0,0.0,0.0
+karnataka,andhra pradesh,21489573400.0,505536850.2389365,-20984036549.761063
+karnataka,arunachal pradesh,0.0,0.0,0.0
+karnataka,assam,770443333.3333333,10696564.883040352,-759746768.450293
+karnataka,bihar,71162000.0,22679647.321236175,-48482352.67876382
+karnataka,chandigarh,0.0,0.0,0.0
+karnataka,chhattisgarh,0.0,0.0,0.0
+karnataka,dadra and nagar haveli,0.0,0.0,0.0
+karnataka,daman and diu,0.0,0.0,0.0
+karnataka,delhi,0.0,0.0,0.0
+karnataka,goa,0.0,0.0,0.0
+karnataka,gujarat,561782666.6666667,179042645.6702114,-382740020.9964553
+karnataka,haryana,20553779500.0,782429265.2906775,-19771350234.70932
+karnataka,himachal pradesh,0.0,0.0,0.0
+karnataka,jammu and kashmir,0.0,0.0,0.0
+karnataka,jharkhand,0.0,0.0,0.0
+karnataka,kerala,15444016666.666664,4681984991.219813,-10762031675.44685
+karnataka,lakshadeep,0.0,0.0,0.0
+karnataka,madhya pradesh,10015308216.666666,3191923472.744988,-6823384743.921679
+karnataka,maharashtra,838603716.6666666,31063130.920435224,-807540585.7462313
+karnataka,manipur,0.0,0.0,0.0
+karnataka,meghalaya,0.0,0.0,0.0
+karnataka,mizoram,0.0,0.0,0.0
+karnataka,nagaland,0.0,0.0,0.0
+karnataka,odisha,1710215099.9999998,23744026.31528861,-1686471073.6847112
+karnataka,puducherry,35819816.66666667,11415935.599214999,-24403881.06745167
+karnataka,punjab,67115777133.33332,1156472705.6595192,-65959304427.6738
+karnataka,rajasthan,2623894816.6666665,836247000.5061641,-1787647816.1605024
+karnataka,sikkim,0.0,0.0,0.0
+karnataka,tamil nadu,6434235000.0,685033349.8647385,-5749201650.135262
+karnataka,telangana,1820702666.6666665,25277996.919597708,-1795424669.747069
+karnataka,tripura,0.0,0.0,0.0
+karnataka,uttar pradesh,7609235666.666667,2425097401.761775,-5184138264.904892
+karnataka,uttarakhand,0.0,0.0,0.0
+karnataka,west bengal,70281866.66666666,22399144.89584532,-47882721.77082133
+kerala,andaman and nicobar,0.0,0.0,0.0
+kerala,andhra pradesh,4583126200.0,4583126194.347524,-5.6524763107299805
+kerala,arunachal pradesh,0.0,0.0,0.0
+kerala,assam,0.0,0.0,0.0
+kerala,bihar,0.0,0.0,0.0
+kerala,chandigarh,0.0,0.0,0.0
+kerala,chhattisgarh,1091496000.0,1091495998.6538324,-1.3461675643920898
+kerala,dadra and nagar haveli,0.0,0.0,0.0
+kerala,daman and diu,0.0,0.0,0.0
+kerala,delhi,0.0,0.0,0.0
+kerala,goa,0.0,0.0,0.0
+kerala,gujarat,0.0,0.0,0.0
+kerala,haryana,2636652166.666667,1434116331.564604,-1202535835.1020627
+kerala,himachal pradesh,0.0,0.0,0.0
+kerala,jammu and kashmir,0.0,0.0,0.0
+kerala,jharkhand,0.0,0.0,0.0
+kerala,karnataka,1645304100.0,785869999.0307682,-859434100.9692318
+kerala,lakshadeep,0.0,0.0,0.0
+kerala,madhya pradesh,5266994250.0,0.0,-5266994250.0
+kerala,maharashtra,0.0,0.0,0.0
+kerala,manipur,0.0,0.0,0.0
+kerala,meghalaya,0.0,0.0,0.0
+kerala,mizoram,0.0,0.0,0.0
+kerala,nagaland,0.0,0.0,0.0
+kerala,odisha,0.0,0.0,0.0
+kerala,puducherry,0.0,0.0,0.0
+kerala,punjab,6912827066.666668,2737817996.6233854,-4175009070.043282
+kerala,rajasthan,2110841483.3333333,0.0,-2110841483.3333333
+kerala,sikkim,0.0,0.0,0.0
+kerala,tamil nadu,335377168333.3334,253872796353.55945,-81504371979.7739
+kerala,telangana,20709226066.666668,20709226041.125496,-25.54117202758789
+kerala,tripura,0.0,0.0,0.0
+kerala,uttar pradesh,284809000.0,0.0,-284809000.0
+kerala,uttarakhand,0.0,0.0,0.0
+kerala,west bengal,0.0,0.0,0.0
+lakshadeep,andaman and nicobar,0.0,0.0,0.0
+lakshadeep,andhra pradesh,0.0,0.0,0.0
+lakshadeep,arunachal pradesh,0.0,0.0,0.0
+lakshadeep,assam,0.0,0.0,0.0
+lakshadeep,bihar,0.0,0.0,0.0
+lakshadeep,chandigarh,0.0,0.0,0.0
+lakshadeep,chhattisgarh,0.0,0.0,0.0
+lakshadeep,dadra and nagar haveli,0.0,0.0,0.0
+lakshadeep,daman and diu,0.0,0.0,0.0
+lakshadeep,delhi,0.0,0.0,0.0
+lakshadeep,goa,0.0,0.0,0.0
+lakshadeep,gujarat,0.0,0.0,0.0
+lakshadeep,haryana,0.0,0.0,0.0
+lakshadeep,himachal pradesh,0.0,0.0,0.0
+lakshadeep,jammu and kashmir,0.0,0.0,0.0
+lakshadeep,jharkhand,0.0,0.0,0.0
+lakshadeep,karnataka,0.0,0.0,0.0
+lakshadeep,kerala,0.0,0.0,0.0
+lakshadeep,madhya pradesh,0.0,0.0,0.0
+lakshadeep,maharashtra,0.0,0.0,0.0
+lakshadeep,manipur,0.0,0.0,0.0
+lakshadeep,meghalaya,0.0,0.0,0.0
+lakshadeep,mizoram,0.0,0.0,0.0
+lakshadeep,nagaland,0.0,0.0,0.0
+lakshadeep,odisha,0.0,0.0,0.0
+lakshadeep,puducherry,0.0,0.0,0.0
+lakshadeep,punjab,0.0,0.0,0.0
+lakshadeep,rajasthan,0.0,0.0,0.0
+lakshadeep,sikkim,0.0,0.0,0.0
+lakshadeep,tamil nadu,0.0,0.0,0.0
+lakshadeep,telangana,0.0,0.0,0.0
+lakshadeep,tripura,0.0,0.0,0.0
+lakshadeep,uttar pradesh,0.0,0.0,0.0
+lakshadeep,uttarakhand,0.0,0.0,0.0
+lakshadeep,west bengal,0.0,0.0,0.0
+madhya pradesh,andaman and nicobar,0.0,0.0,0.0
+madhya pradesh,andhra pradesh,936689640833.3334,931353346863.9585,-5336293969.3748255
+madhya pradesh,arunachal pradesh,0.0,0.0,0.0
+madhya pradesh,assam,92565886666.66666,90827495293.24728,-1738391373.4193792
+madhya pradesh,bihar,356772803333.3333,353686323532.0879,-3086479801.2454233
+madhya pradesh,chandigarh,0.0,0.0,0.0
+madhya pradesh,chhattisgarh,183889335166.6667,183305633466.77722,-583701699.8894609
+madhya pradesh,dadra and nagar haveli,0.0,0.0,0.0
+madhya pradesh,daman and diu,0.0,0.0,0.0
+madhya pradesh,delhi,138018132333.33334,137374085777.80482,-644046555.528513
+madhya pradesh,goa,33779922000.0,33139731160.22588,-640190839.7741209
+madhya pradesh,gujarat,843233425166.6666,838153985959.4203,-5079439207.246436
+madhya pradesh,haryana,63427891833.33333,63142647305.98542,-285244527.3479099
+madhya pradesh,himachal pradesh,0.0,0.0,0.0
+madhya pradesh,jammu and kashmir,76590705333.33333,76378495738.12325,-212209595.210083
+madhya pradesh,jharkhand,69158596500.0,68966979022.33493,-191617477.66506958
+madhya pradesh,karnataka,1154185830333.3333,1141001240620.8115,-13184589712.521763
+madhya pradesh,kerala,553752655833.3333,547272384977.3548,-6480270855.978518
+madhya pradesh,lakshadeep,0.0,0.0,0.0
+madhya pradesh,maharashtra,4227194626333.3335,4156459314547.8574,-70735311785.47583
+madhya pradesh,manipur,0.0,0.0,0.0
+madhya pradesh,meghalaya,0.0,0.0,0.0
+madhya pradesh,mizoram,0.0,0.0,0.0
+madhya pradesh,nagaland,8648920000.0,8624956468.077732,-23963531.922267914
+madhya pradesh,odisha,382177184666.6667,381118287698.63806,-1058896968.0286255
+madhya pradesh,puducherry,0.0,0.0,0.0
+madhya pradesh,punjab,14626047166.666668,8358155769.06374,-6267891397.602927
+madhya pradesh,rajasthan,22219019666.666668,22157457507.800167,-61562158.866500854
+madhya pradesh,sikkim,0.0,0.0,0.0
+madhya pradesh,tamil nadu,1706483514333.3333,1698979875655.8435,-7503638677.489737
+madhya pradesh,telangana,66694840333.33333,66510049176.12776,-184791157.2055664
+madhya pradesh,tripura,0.0,0.0,0.0
+madhya pradesh,uttar pradesh,1253405075500.0,1029584996263.3412,-223820079236.6588
+madhya pradesh,uttarakhand,31120495000.0,31034269555.046265,-86225444.95373535
+madhya pradesh,west bengal,603775697666.6666,601531873334.8167,-2243824331.850012
+maharashtra,andaman and nicobar,0.0,0.0,0.0
+maharashtra,andhra pradesh,235333483666.66666,84173079333.41743,-151160404333.2492
+maharashtra,arunachal pradesh,0.0,0.0,0.0
+maharashtra,assam,40105601000.0,14318240349.761976,-25787360650.238026
+maharashtra,bihar,0.0,0.0,0.0
+maharashtra,chandigarh,1638570666.6666667,597190992.485031,-1041379674.1816359
+maharashtra,chhattisgarh,697666666.6666666,385692116.87511545,-311974549.7915512
+maharashtra,dadra and nagar haveli,0.0,0.0,0.0
+maharashtra,daman and diu,0.0,0.0,0.0
+maharashtra,delhi,0.0,0.0,0.0
+maharashtra,goa,10960860000.0,5016065108.702837,-5944794891.297163
+maharashtra,gujarat,14690698666.666668,6040366040.966293,-8650332625.700375
+maharashtra,haryana,42033187900.0,20395618105.242588,-21637569794.757412
+maharashtra,himachal pradesh,0.0,0.0,0.0
+maharashtra,jammu and kashmir,617166666.6666667,341189180.31260216,-275977486.3540646
+maharashtra,jharkhand,6174820000.0,2182651859.7207017,-3992168140.2792983
+maharashtra,karnataka,9433331666.666666,4708550236.995256,-4724781429.67141
+maharashtra,kerala,26942462166.666664,11967286624.871576,-14975175541.795088
+maharashtra,lakshadeep,0.0,0.0,0.0
+maharashtra,madhya pradesh,10919748933.333332,5882775322.300658,-5036973611.032674
+maharashtra,manipur,0.0,0.0,0.0
+maharashtra,meghalaya,0.0,0.0,0.0
+maharashtra,mizoram,0.0,0.0,0.0
+maharashtra,nagaland,389226666.6666666,137582359.94780248,-251644306.71886414
+maharashtra,odisha,0.0,0.0,0.0
+maharashtra,puducherry,0.0,0.0,0.0
+maharashtra,punjab,65384368366.666664,28497548109.614338,-36886820257.05232
+maharashtra,rajasthan,1626121466.6666667,898971186.0125191,-727150280.6541476
+maharashtra,sikkim,0.0,0.0,0.0
+maharashtra,tamil nadu,27925859166.666664,14923427622.059162,-13002431544.607504
+maharashtra,telangana,712103000.0,393672976.83199286,-318430023.16800714
+maharashtra,tripura,0.0,0.0,0.0
+maharashtra,uttar pradesh,2349723333.333333,1236866431.827198,-1112856901.5061352
+maharashtra,uttarakhand,0.0,0.0,0.0
+maharashtra,west bengal,10880843333.333334,3846119066.9249635,-7034724266.408371
+manipur,andaman and nicobar,0.0,0.0,0.0
+manipur,andhra pradesh,0.0,0.0,0.0
+manipur,arunachal pradesh,0.0,0.0,0.0
+manipur,assam,1048420000.0,897444949.8455642,-150975050.15443575
+manipur,bihar,0.0,0.0,0.0
+manipur,chandigarh,0.0,0.0,0.0
+manipur,chhattisgarh,0.0,0.0,0.0
+manipur,dadra and nagar haveli,0.0,0.0,0.0
+manipur,daman and diu,0.0,0.0,0.0
+manipur,delhi,0.0,0.0,0.0
+manipur,goa,0.0,0.0,0.0
+manipur,gujarat,0.0,0.0,0.0
+manipur,haryana,543226333.3333334,465000409.63843024,-78225923.69490314
+manipur,himachal pradesh,0.0,0.0,0.0
+manipur,jammu and kashmir,0.0,0.0,0.0
+manipur,jharkhand,0.0,0.0,0.0
+manipur,karnataka,0.0,0.0,0.0
+manipur,kerala,0.0,0.0,0.0
+manipur,lakshadeep,0.0,0.0,0.0
+manipur,madhya pradesh,0.0,0.0,0.0
+manipur,maharashtra,0.0,0.0,0.0
+manipur,meghalaya,0.0,0.0,0.0
+manipur,mizoram,0.0,0.0,0.0
+manipur,nagaland,0.0,0.0,0.0
+manipur,odisha,0.0,0.0,0.0
+manipur,puducherry,0.0,0.0,0.0
+manipur,punjab,2352121666.6666665,2013410380.5462806,-338711286.1203859
+manipur,rajasthan,0.0,0.0,0.0
+manipur,sikkim,0.0,0.0,0.0
+manipur,tamil nadu,0.0,0.0,0.0
+manipur,telangana,0.0,0.0,0.0
+manipur,tripura,0.0,0.0,0.0
+manipur,uttar pradesh,0.0,0.0,0.0
+manipur,uttarakhand,0.0,0.0,0.0
+manipur,west bengal,0.0,0.0,0.0
+meghalaya,andaman and nicobar,0.0,0.0,0.0
+meghalaya,andhra pradesh,0.0,0.0,0.0
+meghalaya,arunachal pradesh,0.0,0.0,0.0
+meghalaya,assam,0.0,0.0,0.0
+meghalaya,bihar,0.0,0.0,0.0
+meghalaya,chandigarh,0.0,0.0,0.0
+meghalaya,chhattisgarh,0.0,0.0,0.0
+meghalaya,dadra and nagar haveli,0.0,0.0,0.0
+meghalaya,daman and diu,0.0,0.0,0.0
+meghalaya,delhi,0.0,0.0,0.0
+meghalaya,goa,0.0,0.0,0.0
+meghalaya,gujarat,0.0,0.0,0.0
+meghalaya,haryana,0.0,0.0,0.0
+meghalaya,himachal pradesh,0.0,0.0,0.0
+meghalaya,jammu and kashmir,0.0,0.0,0.0
+meghalaya,jharkhand,0.0,0.0,0.0
+meghalaya,karnataka,0.0,0.0,0.0
+meghalaya,kerala,0.0,0.0,0.0
+meghalaya,lakshadeep,0.0,0.0,0.0
+meghalaya,madhya pradesh,0.0,0.0,0.0
+meghalaya,maharashtra,0.0,0.0,0.0
+meghalaya,manipur,0.0,0.0,0.0
+meghalaya,mizoram,0.0,0.0,0.0
+meghalaya,nagaland,0.0,0.0,0.0
+meghalaya,odisha,0.0,0.0,0.0
+meghalaya,puducherry,0.0,0.0,0.0
+meghalaya,punjab,0.0,0.0,0.0
+meghalaya,rajasthan,0.0,0.0,0.0
+meghalaya,sikkim,0.0,0.0,0.0
+meghalaya,tamil nadu,0.0,0.0,0.0
+meghalaya,telangana,0.0,0.0,0.0
+meghalaya,tripura,0.0,0.0,0.0
+meghalaya,uttar pradesh,0.0,0.0,0.0
+meghalaya,uttarakhand,0.0,0.0,0.0
+meghalaya,west bengal,0.0,0.0,0.0
+mizoram,andaman and nicobar,0.0,0.0,0.0
+mizoram,andhra pradesh,0.0,0.0,0.0
+mizoram,arunachal pradesh,0.0,0.0,0.0
+mizoram,assam,0.0,0.0,0.0
+mizoram,bihar,0.0,0.0,0.0
+mizoram,chandigarh,0.0,0.0,0.0
+mizoram,chhattisgarh,0.0,0.0,0.0
+mizoram,dadra and nagar haveli,0.0,0.0,0.0
+mizoram,daman and diu,0.0,0.0,0.0
+mizoram,delhi,0.0,0.0,0.0
+mizoram,goa,0.0,0.0,0.0
+mizoram,gujarat,0.0,0.0,0.0
+mizoram,haryana,438058000.0,51875438.69449774,-386182561.30550224
+mizoram,himachal pradesh,0.0,0.0,0.0
+mizoram,jammu and kashmir,0.0,0.0,0.0
+mizoram,jharkhand,0.0,0.0,0.0
+mizoram,karnataka,0.0,0.0,0.0
+mizoram,kerala,0.0,0.0,0.0
+mizoram,lakshadeep,0.0,0.0,0.0
+mizoram,madhya pradesh,0.0,0.0,0.0
+mizoram,maharashtra,0.0,0.0,0.0
+mizoram,manipur,0.0,0.0,0.0
+mizoram,meghalaya,0.0,0.0,0.0
+mizoram,nagaland,0.0,0.0,0.0
+mizoram,odisha,0.0,0.0,0.0
+mizoram,puducherry,0.0,0.0,0.0
+mizoram,punjab,2089885000.0000002,242847738.0304183,-1847037261.9695818
+mizoram,rajasthan,0.0,0.0,0.0
+mizoram,sikkim,0.0,0.0,0.0
+mizoram,tamil nadu,0.0,0.0,0.0
+mizoram,telangana,0.0,0.0,0.0
+mizoram,tripura,0.0,0.0,0.0
+mizoram,uttar pradesh,0.0,0.0,0.0
+mizoram,uttarakhand,0.0,0.0,0.0
+mizoram,west bengal,0.0,0.0,0.0
+nagaland,andaman and nicobar,0.0,0.0,0.0
+nagaland,andhra pradesh,389404666.6666666,415520244.99320257,26115578.32653594
+nagaland,arunachal pradesh,0.0,0.0,0.0
+nagaland,assam,15227217000.0,18251388522.98458,3024171522.984581
+nagaland,bihar,95119800583.33333,101565423009.46631,6445622426.13298
+nagaland,chandigarh,0.0,0.0,0.0
+nagaland,chhattisgarh,0.0,0.0,0.0
+nagaland,dadra and nagar haveli,0.0,0.0,0.0
+nagaland,daman and diu,0.0,0.0,0.0
+nagaland,delhi,128803766.66666664,137442042.33483067,8638275.66816403
+nagaland,goa,0.0,0.0,0.0
+nagaland,gujarat,0.0,0.0,0.0
+nagaland,haryana,2341297833.3333335,2649677212.1469407,308379378.81360745
+nagaland,himachal pradesh,3933147333.333333,4196925418.3078475,263778084.97451448
+nagaland,jammu and kashmir,0.0,0.0,0.0
+nagaland,jharkhand,140405569333.33334,149821924496.18842,9416355162.855072
+nagaland,karnataka,4592283000.0,5566408190.849835,974125190.8498356
+nagaland,kerala,0.0,0.0,0.0
+nagaland,lakshadeep,0.0,0.0,0.0
+nagaland,madhya pradesh,0.0,0.0,0.0
+nagaland,maharashtra,0.0,0.0,0.0
+nagaland,manipur,0.0,0.0,0.0
+nagaland,meghalaya,0.0,0.0,0.0
+nagaland,mizoram,0.0,0.0,0.0
+nagaland,odisha,58361426666.66666,116969004029.06403,58607577362.39737
+nagaland,puducherry,0.0,0.0,0.0
+nagaland,punjab,4120209966.666666,4662763923.461462,542553956.7947958
+nagaland,rajasthan,82472786666.66666,165293418390.87106,82820631724.2044
+nagaland,sikkim,0.0,0.0,0.0
+nagaland,tamil nadu,29218986666.666668,37342582622.92546,8123595956.258798
+nagaland,telangana,157174000.0,167714936.6123714,10540936.612371415
+nagaland,tripura,0.0,0.0,0.0
+nagaland,uttar pradesh,3404470666.6666665,6527957742.396739,3123487075.7300725
+nagaland,uttarakhand,158420000.0,169044500.0962747,10624500.096274704
+nagaland,west bengal,49095871666.66667,67820164695.650314,18724293028.983635
+odisha,andaman and nicobar,0.0,0.0,0.0
+odisha,andhra pradesh,1498550000.0,30617787248.43417,29119237248.43417
+odisha,arunachal pradesh,0.0,0.0,0.0
+odisha,assam,3432433333.333333,1842371380.2587996,-1590061953.0745335
+odisha,bihar,328449412666.6666,179133567274.08197,-149315845392.5847
+odisha,chandigarh,0.0,0.0,0.0
+odisha,chhattisgarh,0.0,0.0,0.0
+odisha,dadra and nagar haveli,0.0,0.0,0.0
+odisha,daman and diu,0.0,0.0,0.0
+odisha,delhi,71081500.0,3022876963.267891,2951795463.267891
+odisha,goa,0.0,0.0,0.0
+odisha,gujarat,713230000.0,30331472134.262188,29618242134.262188
+odisha,haryana,4145401166.6666665,176291126245.514,172145725078.84735
+odisha,himachal pradesh,6267676666.666666,3364198803.0015264,-2903477863.6651397
+odisha,jammu and kashmir,1581352000.0,848796577.8160334,-732555422.1839666
+odisha,jharkhand,1544094464000.0,828798456553.5581,-715296007446.4419
+odisha,karnataka,55545167000.0,29814075337.951366,-25731091662.048634
+odisha,kerala,7763766666.666665,4167230684.647604,-3596535982.019061
+odisha,lakshadeep,0.0,0.0,0.0
+odisha,madhya pradesh,3268804466.666667,139012172220.81488,135743367754.14821
+odisha,maharashtra,1372525000.0,58369255066.49778,56996730066.49778
+odisha,manipur,0.0,0.0,0.0
+odisha,meghalaya,0.0,0.0,0.0
+odisha,mizoram,0.0,0.0,0.0
+odisha,nagaland,0.0,0.0,0.0
+odisha,puducherry,0.0,0.0,0.0
+odisha,punjab,6493345100.0,243068388996.13623,236575043896.13623
+odisha,rajasthan,2306325000.0,98080889012.03294,95774564012.03294
+odisha,sikkim,0.0,0.0,0.0
+odisha,tamil nadu,533344168333.3333,1100622924216.0078,567278755882.6746
+odisha,telangana,0.0,0.0,0.0
+odisha,tripura,0.0,0.0,0.0
+odisha,uttar pradesh,23079054833.333332,981481020936.2466,958401966102.9132
+odisha,uttarakhand,0.0,0.0,0.0
+odisha,west bengal,402262787833.3333,1642671443841.3843,1240408656008.0508
+puducherry,andaman and nicobar,0.0,0.0,0.0
+puducherry,andhra pradesh,0.0,0.0,0.0
+puducherry,arunachal pradesh,0.0,0.0,0.0
+puducherry,assam,0.0,0.0,0.0
+puducherry,bihar,0.0,0.0,0.0
+puducherry,chandigarh,0.0,0.0,0.0
+puducherry,chhattisgarh,0.0,0.0,0.0
+puducherry,dadra and nagar haveli,0.0,0.0,0.0
+puducherry,daman and diu,0.0,0.0,0.0
+puducherry,delhi,0.0,0.0,0.0
+puducherry,goa,0.0,0.0,0.0
+puducherry,gujarat,0.0,0.0,0.0
+puducherry,haryana,0.0,0.0,0.0
+puducherry,himachal pradesh,0.0,0.0,0.0
+puducherry,jammu and kashmir,0.0,0.0,0.0
+puducherry,jharkhand,0.0,0.0,0.0
+puducherry,karnataka,0.0,0.0,0.0
+puducherry,kerala,0.0,0.0,0.0
+puducherry,lakshadeep,0.0,0.0,0.0
+puducherry,madhya pradesh,0.0,0.0,0.0
+puducherry,maharashtra,0.0,0.0,0.0
+puducherry,manipur,0.0,0.0,0.0
+puducherry,meghalaya,0.0,0.0,0.0
+puducherry,mizoram,0.0,0.0,0.0
+puducherry,nagaland,0.0,0.0,0.0
+puducherry,odisha,0.0,0.0,0.0
+puducherry,punjab,0.0,0.0,0.0
+puducherry,rajasthan,0.0,0.0,0.0
+puducherry,sikkim,0.0,0.0,0.0
+puducherry,tamil nadu,0.0,0.0,0.0
+puducherry,telangana,0.0,0.0,0.0
+puducherry,tripura,0.0,0.0,0.0
+puducherry,uttar pradesh,0.0,0.0,0.0
+puducherry,uttarakhand,0.0,0.0,0.0
+puducherry,west bengal,0.0,0.0,0.0
+punjab,andaman and nicobar,0.0,0.0,0.0
+punjab,andhra pradesh,262841473333.33334,262847350445.13852,5877111.805171728
+punjab,arunachal pradesh,6858340000.0,6909863348.772074,51523348.772073746
+punjab,assam,3956241275333.333,3980308688484.279,24067413150.9458
+punjab,bihar,5642451138833.334,5659756598762.76,17305459929.42578
+punjab,chandigarh,965668614999.9999,971380162525.8123,5711547525.812378
+punjab,chhattisgarh,112918691666.66667,112918691666.66667,0.0
+punjab,dadra and nagar haveli,0.0,0.0,0.0
+punjab,daman and diu,0.0,0.0,0.0
+punjab,delhi,529548713333.3334,530227552063.14514,678838729.8117676
+punjab,goa,107233746666.66667,107803385226.92288,569638560.2562103
+punjab,gujarat,3455314412666.6665,3462914673148.97,7600260482.303711
+punjab,haryana,12410646666.666668,12411466832.44001,820165.7733421177
+punjab,himachal pradesh,192545798333.3333,192663723907.78735,117925574.45401573
+punjab,jammu and kashmir,1200353430333.3333,1206006751438.1455,5653321104.812256
+punjab,jharkhand,296701683999.99994,296775984778.673,74300778.6730423
+punjab,karnataka,4497068729666.667,4524760745102.486,27692015435.819336
+punjab,kerala,705674227500.0,707764185958.6716,2089958458.6716309
+punjab,lakshadeep,0.0,0.0,0.0
+punjab,madhya pradesh,334338059333.3334,334731745590.67163,393686257.3382416
+punjab,maharashtra,5270107541833.333,5289689766794.32,19582224960.986816
+punjab,manipur,91698972333.33333,92384471121.24423,685498787.9109039
+punjab,meghalaya,0.0,0.0,0.0
+punjab,mizoram,91639025000.0,92308226781.97499,669201781.9749908
+punjab,nagaland,405965671666.6667,408537311478.18195,2571639811.515259
+punjab,odisha,702325752500.0,702417432769.707,91680269.7070694
+punjab,puducherry,0.0,0.0,0.0
+punjab,rajasthan,588509449333.3333,588594066371.0597,84617037.72642899
+punjab,sikkim,0.0,0.0,0.0
+punjab,tamil nadu,1133099463333.3335,1137096841660.005,3997378326.67157
+punjab,telangana,4296285000.0,4296285000.0,0.0
+punjab,tripura,239912092000.0,241502493280.7784,1590401280.7784119
+punjab,uttar pradesh,5537626229500.0,5549799815236.681,12173585736.680908
+punjab,uttarakhand,203862225000.0,204034818634.92767,172593634.92768478
+punjab,west bengal,4768365208833.333,4769140515104.812,775306271.4784546
+rajasthan,andaman and nicobar,0.0,0.0,0.0
+rajasthan,andhra pradesh,80976801500.0,80976801500.0,0.0
+rajasthan,arunachal pradesh,0.0,0.0,0.0
+rajasthan,assam,709805854000.0,27743466333.333332,-682062387666.6666
+rajasthan,bihar,550419231500.0,2144224833.3333333,-548275006666.6666
+rajasthan,chandigarh,2621346666.6666665,0.0,-2621346666.6666665
+rajasthan,chhattisgarh,542972500.0,542972500.0,0.0
+rajasthan,dadra and nagar haveli,0.0,0.0,0.0
+rajasthan,daman and diu,0.0,0.0,0.0
+rajasthan,delhi,55750611000.0,53104937666.666664,-2645673333.3333335
+rajasthan,goa,16742383333.33333,0.0,-16742383333.33333
+rajasthan,gujarat,297988206666.6666,79420226666.66666,-218567980000.0
+rajasthan,haryana,3265187333.3333335,3265187333.3333335,0.0
+rajasthan,himachal pradesh,0.0,0.0,0.0
+rajasthan,jammu and kashmir,105511602500.00002,7817489166.666667,-97694113333.33334
+rajasthan,jharkhand,6734544333.333333,2123751000.0,-4610793333.333333
+rajasthan,karnataka,802497760166.6667,341778876833.3333,-460718883333.3334
+rajasthan,kerala,330406807666.6667,315445314333.3334,-14961493333.33333
+rajasthan,lakshadeep,0.0,0.0,0.0
+rajasthan,madhya pradesh,17242604566.666668,12969714566.666668,-4272890000.0
+rajasthan,maharashtra,495643975166.6667,32015681833.33333,-463628293333.3334
+rajasthan,manipur,0.0,0.0,0.0
+rajasthan,meghalaya,0.0,0.0,0.0
+rajasthan,mizoram,0.0,0.0,0.0
+rajasthan,nagaland,68379282999.99999,3149106333.3333335,-65230176666.66666
+rajasthan,odisha,38802851500.0,38802851500.0,0.0
+rajasthan,puducherry,0.0,0.0,0.0
+rajasthan,punjab,7463316000.0,7463316000.0,0.0
+rajasthan,sikkim,0.0,0.0,0.0
+rajasthan,tamil nadu,1139410661666.6665,956460481666.6666,-182950180000.0
+rajasthan,telangana,17838880500.0,17838880500.0,0.0
+rajasthan,tripura,2550669333.333333,2550669333.333333,0.0
+rajasthan,uttar pradesh,659349841500.0,17645304833.333336,-641704536666.6666
+rajasthan,uttarakhand,4967467166.666666,4967467166.666666,0.0
+rajasthan,west bengal,46720616000.0,26304609333.333332,-20416006666.666668
+sikkim,andaman and nicobar,0.0,0.0,0.0
+sikkim,andhra pradesh,0.0,0.0,0.0
+sikkim,arunachal pradesh,0.0,0.0,0.0
+sikkim,assam,0.0,0.0,0.0
+sikkim,bihar,0.0,0.0,0.0
+sikkim,chandigarh,0.0,0.0,0.0
+sikkim,chhattisgarh,0.0,0.0,0.0
+sikkim,dadra and nagar haveli,0.0,0.0,0.0
+sikkim,daman and diu,0.0,0.0,0.0
+sikkim,delhi,0.0,0.0,0.0
+sikkim,goa,0.0,0.0,0.0
+sikkim,gujarat,0.0,0.0,0.0
+sikkim,haryana,0.0,0.0,0.0
+sikkim,himachal pradesh,0.0,0.0,0.0
+sikkim,jammu and kashmir,0.0,0.0,0.0
+sikkim,jharkhand,0.0,0.0,0.0
+sikkim,karnataka,0.0,0.0,0.0
+sikkim,kerala,0.0,0.0,0.0
+sikkim,lakshadeep,0.0,0.0,0.0
+sikkim,madhya pradesh,0.0,0.0,0.0
+sikkim,maharashtra,0.0,0.0,0.0
+sikkim,manipur,0.0,0.0,0.0
+sikkim,meghalaya,0.0,0.0,0.0
+sikkim,mizoram,0.0,0.0,0.0
+sikkim,nagaland,0.0,0.0,0.0
+sikkim,odisha,0.0,0.0,0.0
+sikkim,puducherry,0.0,0.0,0.0
+sikkim,punjab,0.0,0.0,0.0
+sikkim,rajasthan,0.0,0.0,0.0
+sikkim,tamil nadu,0.0,0.0,0.0
+sikkim,telangana,0.0,0.0,0.0
+sikkim,tripura,0.0,0.0,0.0
+sikkim,uttar pradesh,0.0,0.0,0.0
+sikkim,uttarakhand,0.0,0.0,0.0
+sikkim,west bengal,0.0,0.0,0.0
+tamil nadu,andaman and nicobar,0.0,0.0,0.0
+tamil nadu,andhra pradesh,12877008733.333332,492306968.0760366,-12384701765.257298
+tamil nadu,arunachal pradesh,0.0,0.0,0.0
+tamil nadu,assam,2845675000.0,0.0,-2845675000.0
+tamil nadu,bihar,0.0,0.0,0.0
+tamil nadu,chandigarh,0.0,0.0,0.0
+tamil nadu,chhattisgarh,27553732500.0,2606337692.8260226,-24947394807.173977
+tamil nadu,dadra and nagar haveli,0.0,0.0,0.0
+tamil nadu,daman and diu,0.0,0.0,0.0
+tamil nadu,delhi,0.0,0.0,0.0
+tamil nadu,goa,0.0,0.0,0.0
+tamil nadu,gujarat,0.0,0.0,0.0
+tamil nadu,haryana,8050345666.666666,496417212.7995385,-7553928453.867128
+tamil nadu,himachal pradesh,0.0,0.0,0.0
+tamil nadu,jammu and kashmir,0.0,0.0,0.0
+tamil nadu,jharkhand,0.0,0.0,0.0
+tamil nadu,karnataka,35202104999.99999,92211812.3945327,-35109893187.60546
+tamil nadu,kerala,4205361666.6666665,162422997.60789874,-4042938669.058768
+tamil nadu,lakshadeep,0.0,0.0,0.0
+tamil nadu,madhya pradesh,8776523233.333334,0.0,-8776523233.333334
+tamil nadu,maharashtra,0.0,0.0,0.0
+tamil nadu,manipur,0.0,0.0,0.0
+tamil nadu,meghalaya,0.0,0.0,0.0
+tamil nadu,mizoram,0.0,0.0,0.0
+tamil nadu,nagaland,0.0,0.0,0.0
+tamil nadu,odisha,5203094266.666667,492166377.33346313,-4710927889.333204
+tamil nadu,puducherry,70915133.33333331,0.0,-70915133.33333331
+tamil nadu,punjab,17014444500.0,1068758197.1329406,-15945686302.86706
+tamil nadu,rajasthan,8123598466.666666,0.0,-8123598466.666666
+tamil nadu,sikkim,0.0,0.0,0.0
+tamil nadu,telangana,34610038166.66666,3273801363.351792,-31336236803.314865
+tamil nadu,tripura,0.0,0.0,0.0
+tamil nadu,uttar pradesh,3079508933.3333325,3367442.935892856,-3076141490.3974395
+tamil nadu,uttarakhand,0.0,0.0,0.0
+tamil nadu,west bengal,0.0,0.0,0.0
+telangana,andaman and nicobar,0.0,0.0,0.0
+telangana,andhra pradesh,1632678300.0,0.0,-1632678300.0
+telangana,arunachal pradesh,0.0,0.0,0.0
+telangana,assam,398601333.3333334,0.0,-398601333.3333334
+telangana,bihar,15237393333.33333,0.0,-15237393333.33333
+telangana,chandigarh,0.0,0.0,0.0
+telangana,chhattisgarh,0.0,0.0,0.0
+telangana,dadra and nagar haveli,0.0,0.0,0.0
+telangana,daman and diu,0.0,0.0,0.0
+telangana,delhi,0.0,0.0,0.0
+telangana,goa,0.0,0.0,0.0
+telangana,gujarat,69495650.0,0.0,-69495650.0
+telangana,haryana,323341666.6666666,0.0,-323341666.6666666
+telangana,himachal pradesh,0.0,0.0,0.0
+telangana,jammu and kashmir,0.0,0.0,0.0
+telangana,jharkhand,7115550000.0,0.0,-7115550000.0
+telangana,karnataka,147574282000.0,0.0,-147574282000.0
+telangana,kerala,457648383333.3334,0.0,-457648383333.3334
+telangana,lakshadeep,0.0,0.0,0.0
+telangana,madhya pradesh,6750947350.0,0.0,-6750947350.0
+telangana,maharashtra,0.0,0.0,0.0
+telangana,manipur,0.0,0.0,0.0
+telangana,meghalaya,0.0,0.0,0.0
+telangana,mizoram,0.0,0.0,0.0
+telangana,nagaland,2322306666.6666665,0.0,-2322306666.6666665
+telangana,odisha,0.0,0.0,0.0
+telangana,puducherry,0.0,0.0,0.0
+telangana,punjab,0.0,0.0,0.0
+telangana,rajasthan,658256550.0,0.0,-658256550.0
+telangana,sikkim,0.0,0.0,0.0
+telangana,tamil nadu,1406869458000.0,0.0,-1406869458000.0
+telangana,tripura,0.0,0.0,0.0
+telangana,uttar pradesh,1189897333.3333335,0.0,-1189897333.3333335
+telangana,uttarakhand,0.0,0.0,0.0
+telangana,west bengal,157726512000.0,0.0,-157726512000.0
+tripura,andaman and nicobar,0.0,0.0,0.0
+tripura,andhra pradesh,3155050000.0,3195277179.1686263,40227179.16862631
+tripura,arunachal pradesh,0.0,0.0,0.0
+tripura,assam,26059793333.333336,26392058107.431168,332264774.0978317
+tripura,bihar,5500200000.0,5570328058.46604,70128058.46603966
+tripura,chandigarh,1659553333.3333335,1680712791.7507565,21159458.41742301
+tripura,chhattisgarh,747896666.6666665,757432418.3059808,9535751.639314294
+tripura,dadra and nagar haveli,0.0,0.0,0.0
+tripura,daman and diu,0.0,0.0,0.0
+tripura,delhi,0.0,0.0,0.0
+tripura,goa,0.0,0.0,0.0
+tripura,gujarat,0.0,0.0,0.0
+tripura,haryana,1924676166.6666665,1732600367.5704482,-192075799.09621835
+tripura,himachal pradesh,0.0,0.0,0.0
+tripura,jammu and kashmir,0.0,0.0,0.0
+tripura,jharkhand,0.0,0.0,0.0
+tripura,karnataka,0.0,0.0,0.0
+tripura,kerala,0.0,0.0,0.0
+tripura,lakshadeep,0.0,0.0,0.0
+tripura,madhya pradesh,0.0,0.0,0.0
+tripura,maharashtra,0.0,0.0,0.0
+tripura,manipur,0.0,0.0,0.0
+tripura,meghalaya,0.0,0.0,0.0
+tripura,mizoram,0.0,0.0,0.0
+tripura,nagaland,0.0,0.0,0.0
+tripura,odisha,0.0,0.0,0.0
+tripura,puducherry,0.0,0.0,0.0
+tripura,punjab,6602457533.333333,5616714409.541906,-985743123.7914263
+tripura,rajasthan,0.0,0.0,0.0
+tripura,sikkim,0.0,0.0,0.0
+tripura,tamil nadu,19527490000.0,19776467302.718994,248977302.71899414
+tripura,telangana,0.0,0.0,0.0
+tripura,uttar pradesh,670954500.0,318265831.30167615,-352688668.69832385
+tripura,uttarakhand,0.0,0.0,0.0
+tripura,west bengal,0.0,0.0,0.0
+uttar pradesh,andaman and nicobar,0.0,0.0,0.0
+uttar pradesh,andhra pradesh,324848942333.3333,314215883676.675,-10633058656.658329
+uttar pradesh,arunachal pradesh,714035000.0,712815204.8213732,-1219795.1786267757
+uttar pradesh,assam,716979169333.3333,650433584968.4718,-66545584364.86154
+uttar pradesh,bihar,215882350166.66666,160669574636.02637,-55212775530.64028
+uttar pradesh,chandigarh,9587900833.333334,9490331316.042046,-97569517.29128703
+uttar pradesh,chhattisgarh,4702463333.333333,3197978008.5585146,-1504485324.7748184
+uttar pradesh,dadra and nagar haveli,0.0,0.0,0.0
+uttar pradesh,daman and diu,0.0,0.0,0.0
+uttar pradesh,delhi,11554379666.666666,11534641171.201565,-19738495.465101242
+uttar pradesh,goa,22705830000.0,22667041338.434784,-38788661.565216064
+uttar pradesh,gujarat,602107122500.0,580900648035.4783,-21206474464.52169
+uttar pradesh,haryana,23211335050.0,19215907997.610413,-3995427052.3895874
+uttar pradesh,himachal pradesh,1406335000.0,1403932539.82293,-2402460.1770699024
+uttar pradesh,jammu and kashmir,73649986666.66666,73524169446.72375,-125817219.94290161
+uttar pradesh,jharkhand,3170358333.3333335,3164942369.3966646,-5415963.936668873
+uttar pradesh,karnataka,1032359621166.6666,1030026279149.752,-2333342016.9146805
+uttar pradesh,kerala,154236021666.66666,144352421984.1699,-9883599682.49678
+uttar pradesh,lakshadeep,0.0,0.0,0.0
+uttar pradesh,madhya pradesh,2622292866.6666665,2617813170.019153,-4479696.64751339
+uttar pradesh,maharashtra,75259866666.66666,73390898443.39948,-1868968223.267181
+uttar pradesh,manipur,4008560000.0,2726079039.2809696,-1282480960.7190304
+uttar pradesh,meghalaya,0.0,0.0,0.0
+uttar pradesh,mizoram,950520000.0,646414834.358809,-304105165.641191
+uttar pradesh,nagaland,98807243333.33334,87584095791.06259,-11223147542.27076
+uttar pradesh,odisha,417723078833.3334,416967749042.0212,-755329791.3121628
+uttar pradesh,puducherry,0.0,0.0,0.0
+uttar pradesh,punjab,169288934483.33334,162012903280.2895,-7276031203.04385
+uttar pradesh,rajasthan,2369141833.333333,2365094597.853584,-4047235.4797492027
+uttar pradesh,sikkim,0.0,0.0,0.0
+uttar pradesh,tamil nadu,595798516166.6666,594774947042.0848,-1023569124.5818139
+uttar pradesh,telangana,10684496666.666666,10666244203.524029,-18252463.142637253
+uttar pradesh,tripura,91436832333.33333,73931113333.99306,-17505718999.34027
+uttar pradesh,uttarakhand,714035000.0,712815204.8213732,-1219795.1786267757
+uttar pradesh,west bengal,408323278000.0,404687869524.65564,-3635408475.3443727
+uttarakhand,andaman and nicobar,0.0,0.0,0.0
+uttarakhand,andhra pradesh,787650000.0,542036231.0732803,-245613768.92671967
+uttarakhand,arunachal pradesh,0.0,0.0,0.0
+uttarakhand,assam,363653818333.3334,251709765402.2439,-111944052931.08946
+uttarakhand,bihar,198440960000.0,146340015462.3692,-52100944537.63078
+uttarakhand,chandigarh,18072636666.666668,12437026425.895731,-5635610240.770937
+uttarakhand,chhattisgarh,1535546666.6666665,1056715454.6272312,-478831212.03943527
+uttarakhand,dadra and nagar haveli,0.0,0.0,0.0
+uttarakhand,daman and diu,0.0,0.0,0.0
+uttarakhand,delhi,1577080000.0,1085297402.7817545,-491782597.2182455
+uttarakhand,goa,0.0,0.0,0.0
+uttarakhand,gujarat,34059410000.0,23438626584.116795,-10620783415.883205
+uttarakhand,haryana,3014206500.0,2630492789.280815,-383713710.7191844
+uttarakhand,himachal pradesh,2346930000.0,1615084227.5030963,-731845772.4969037
+uttarakhand,jammu and kashmir,1559873333.3333335,1073456309.9748807,-486417023.3584528
+uttarakhand,jharkhand,0.0,0.0,0.0
+uttarakhand,karnataka,27732103333.333336,19084370939.54771,-8647732393.785625
+uttarakhand,kerala,7848613333.333334,5401171574.114766,-2447441759.218568
+uttarakhand,lakshadeep,0.0,0.0,0.0
+uttarakhand,madhya pradesh,3275471333.333333,2307920855.8057256,-967550477.5276076
+uttarakhand,maharashtra,1570850000.0,1081010110.558576,-489839889.4414239
+uttarakhand,manipur,2598800000.0,1788413327.3830266,-810386672.6169734
+uttarakhand,meghalaya,0.0,0.0,0.0
+uttarakhand,mizoram,2087050000.0,1436242894.7647936,-650807105.2352064
+uttarakhand,nagaland,35747076666.66668,24761111730.491505,-10985964936.175173
+uttarakhand,odisha,0.0,0.0,0.0
+uttarakhand,puducherry,0.0,0.0,0.0
+uttarakhand,punjab,788540000.0,542648701.3908772,-245891298.60912275
+uttarakhand,rajasthan,2367993333.3333335,1629579358.3528905,-738413974.980443
+uttarakhand,sikkim,0.0,0.0,0.0
+uttarakhand,tamil nadu,16102693333.333332,12420180663.624086,-3682512669.709246
+uttarakhand,telangana,0.0,0.0,0.0
+uttarakhand,tripura,23782876666.666664,16366635983.597612,-7416240683.069052
+uttarakhand,uttar pradesh,3174926666.666667,2184885779.640771,-990040887.0258961
+uttarakhand,west bengal,1486265000.0,1283226173.193153,-203038826.8068471
+west bengal,andaman and nicobar,0.0,0.0,0.0
+west bengal,andhra pradesh,6875665333.333334,4853334721.083205,-2022330612.2501287
+west bengal,arunachal pradesh,785870000.0,554723066.4015727,-231146933.5984273
+west bengal,assam,70779969666.66666,97821134929.04333,27041165262.37668
+west bengal,bihar,127798630333.33333,94792258744.2735,-33006371589.05983
+west bengal,chandigarh,70759500.0,381134887.3395275,310375387.3395275
+west bengal,chhattisgarh,3457190166.666667,2440331263.9325814,-1016858902.7340856
+west bengal,dadra and nagar haveli,0.0,0.0,0.0
+west bengal,daman and diu,0.0,0.0,0.0
+west bengal,delhi,0.0,0.0,0.0
+west bengal,goa,0.0,0.0,0.0
+west bengal,gujarat,0.0,0.0,0.0
+west bengal,haryana,15521207500.0,82489899477.35262,66968691977.35262
+west bengal,himachal pradesh,0.0,0.0,0.0
+west bengal,jammu and kashmir,0.0,0.0,0.0
+west bengal,jharkhand,26462205666.666664,22017163442.283546,-4445042224.383118
+west bengal,karnataka,0.0,0.0,0.0
+west bengal,kerala,0.0,0.0,0.0
+west bengal,lakshadeep,0.0,0.0,0.0
+west bengal,madhya pradesh,4233940500.0,17251293845.07123,13017353345.071232
+west bengal,maharashtra,0.0,0.0,0.0
+west bengal,manipur,0.0,0.0,0.0
+west bengal,meghalaya,0.0,0.0,0.0
+west bengal,mizoram,0.0,0.0,0.0
+west bengal,nagaland,1558775666.6666665,1100294982.1796086,-458480684.4870579
+west bengal,odisha,0.0,0.0,0.0
+west bengal,puducherry,0.0,0.0,0.0
+west bengal,punjab,65141610800.0,347890069293.7739,282748458493.7739
+west bengal,rajasthan,0.0,0.0,0.0
+west bengal,sikkim,0.0,0.0,0.0
+west bengal,tamil nadu,10967286333.333334,37519255936.274475,26551969602.941143
+west bengal,telangana,0.0,0.0,0.0
+west bengal,tripura,10932607666.666668,17661438947.408092,6728831280.741424
+west bengal,uttar pradesh,1494711333.3333333,4361676799.8836,2866965466.550267
+west bengal,uttarakhand,0.0,0.0,0.0
