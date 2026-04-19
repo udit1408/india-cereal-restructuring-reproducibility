@@ -17,7 +17,7 @@ from .io import ensure_directory, read_generated_csv, read_repo_csv, strip_unnam
 matplotlib.use("Agg")
 
 
-BOUNDARY_RELATIVE = Path("external/indian-district-boundaries/topojson/india-districts-2019-734.json")
+BOUNDARY_RELATIVE = Path("external/indian-district-boundaries/shapefile/india-districts-2019-734.shp")
 
 CROP_ORDER = ["maize", "bajra", "jowar", "ragi", "rice", "wheat"]
 CROP_COLORS = {

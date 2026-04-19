@@ -9,7 +9,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 AUDIT_ROOT = ROOT / "_audit" / "Nitrogen-Surplus-restructuring"
-BOUNDARY_FILE = ROOT / "_audit" / "external" / "indian-district-boundaries" / "topojson" / "india-districts-2019-734.json"
+BOUNDARY_FILE = ROOT / "_audit" / "external" / "indian-district-boundaries" / "shapefile" / "india-districts-2019-734.shp"
 DEFAULT_PYTHON = ROOT / ".venv" / "bin" / "python"
 AUDIT_DEFAULT_PYTHON = AUDIT_ROOT / ".venv" / "bin" / "python"
 

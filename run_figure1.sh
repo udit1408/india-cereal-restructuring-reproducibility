@@ -11,7 +11,7 @@ if [[ -z "$PYTHON_BIN" ]]; then
     PYTHON_BIN="python3"
   fi
 fi
-BOUNDARY_FILE="$ROOT/_audit/external/indian-district-boundaries/topojson/india-districts-2019-734.json"
+BOUNDARY_FILE="$ROOT/_audit/external/indian-district-boundaries/shapefile/india-districts-2019-734.shp"
 
 export MPLBACKEND=Agg
 

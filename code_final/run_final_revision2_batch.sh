@@ -42,7 +42,7 @@ LATEST_LOG="$LOG_DIR/latest_run.log"
 exec > >(tee "$LOG_FILE") 2>&1
 ln -sf "$(basename "$LOG_FILE")" "$LATEST_LOG"
 
-BOUNDARY_FILE="$ROOT/_audit/external/indian-district-boundaries/topojson/india-districts-2019-734.json"
+BOUNDARY_FILE="$ROOT/_audit/external/indian-district-boundaries/shapefile/india-districts-2019-734.shp"
 RUN_CONTEXT="$OUT_DIR/run_context.json"
 
 run_step() {
