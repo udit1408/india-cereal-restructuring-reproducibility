@@ -152,7 +152,3 @@ After a full run, the main checkpoints are:
 - `submission_assets/source_data/Source Data.xlsx`
 - `figures/working_variants/Figure2_equivalent.png`
 - `figures/working_variants/Figure3_equivalent.png`
-
-## Scope Boundary
-
-This repository is the cleaned reproducibility package only. It does not include the manuscript LaTeX submission package, track-change PDFs, or internal response-to-reviewer drafting files.
