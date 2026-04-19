@@ -28,6 +28,12 @@ CROP_COLORS = {
     "rice": "#7cd34d",
     "wheat": "#ffe31a",
 }
+HISTORICAL_STATE_SPLITS = (
+    ("andhra pradesh", "telangana"),
+    ("madhya pradesh", "chhattisgarh"),
+    ("bihar", "jharkhand"),
+    ("uttar pradesh", "uttarakhand"),
+)
 STATE_ABBREVIATIONS = [
     ("andaman and nicobar", "AN"),
     ("andhra pradesh", "AP"),
@@ -247,11 +253,25 @@ def load_panel_d_state_area(layout: RepoLayout) -> pd.DataFrame:
     rabi = strip_unnamed_columns(read_repo_csv("rabi_df.csv", layout=layout))
     combined = pd.concat([kharif, rabi], ignore_index=True)
     combined["state"] = combined["state"].astype(str).str.lower().str.strip()
+    combined["district"] = combined["district"].astype(str).str.lower().str.strip()
     combined["crop"] = combined["crop"].astype(str).str.lower().str.strip()
     combined = combined[combined["crop"].isin(CROP_ORDER)].copy()
     combined["Area (Hectare)"] = pd.to_numeric(combined["Area (Hectare)"], errors="coerce").fillna(0)
+    combined["state_panel_d"] = combined["state"]
 
-    state_crop = combined.groupby(["state", "crop"], as_index=False)["Area (Hectare)"].sum()
+    # The raw historical repo keeps pre-bifurcation districts under their former parent state.
+    # For the published Figure 1d state panel, aggregate those districts to their current states.
+    for parent_state, child_state in HISTORICAL_STATE_SPLITS:
+        parent_districts = set(combined.loc[combined["state"] == parent_state, "district"])
+        child_districts = set(combined.loc[combined["state"] == child_state, "district"])
+        moved_districts = parent_districts & child_districts
+        combined.loc[
+            (combined["state"] == parent_state) & (combined["district"].isin(moved_districts)),
+            "state_panel_d",
+        ] = child_state
+
+    state_crop = combined.groupby(["state_panel_d", "crop"], as_index=False)["Area (Hectare)"].sum()
+    state_crop = state_crop.rename(columns={"state_panel_d": "state"})
     state_crop["area_plot_units"] = state_crop["Area (Hectare)"] / 1e6
 
     order = pd.DataFrame(STATE_ABBREVIATIONS, columns=["state", "state_abbrev"])
@@ -459,7 +479,7 @@ def write_summary(output_dir: Path, boundary_file: Path, coverage: pd.DataFrame)
         f"- District-key coverage for panels a-c: {matched}/{total}\n"
         "- Panels a-c use 2017 baseline metrics from the generated optimization exports, filtered to observed baseline area.\n"
         "- Panel d uses the all-years sum of raw crop areas from `kharif_df.csv` and `rabi_df.csv`, scaled by `1e6`, so the plotted values are in million hectares.\n"
-        "- The remaining interpretation issue in panel d is temporal aggregation: the figure behaves like a cumulative study-period area panel rather than a single-year baseline area panel.\n"
+        "- Panel d reassigns districts affected by historical state bifurcations to their current states before aggregation (Andhra Pradesh/Telangana, Madhya Pradesh/Chhattisgarh, Bihar/Jharkhand, Uttar Pradesh/Uttarakhand).\n"
     )
     if unresolved_lines:
         summary += "\n## Unresolved district names\n\n" + unresolved_lines + "\n"
