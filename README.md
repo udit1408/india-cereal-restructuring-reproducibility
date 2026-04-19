@@ -1,6 +1,6 @@
 # Nitrogen Crop Restructuring Reproducibility Package
 
-This repository is a cleaned, reviewer-facing reproducibility package for the revised Nature Communications submission:
+This repository contains the reproducibility package for:
 
 _Quantifying Environmental Co-Benefits of Nitrogen-Based Crop Restructuring and Its Implications on India's Interstate Trade Network_
 
