@@ -50,6 +50,47 @@ Run individual figure blocks:
 ./run_supplementary.sh
 ```
 
+## Docker Reproducibility
+
+Users who want the cleanest rerun path can use Docker instead of a local Python environment.
+
+What to do:
+
+1. Install Docker Desktop or another recent Docker runtime and make sure the Docker daemon is running.
+2. Clone this repository and move into its root directory.
+3. Run a lightweight container check:
+
+```bash
+./run_docker.sh --report-only
+```
+
+4. Run the full containerized workflow:
+
+```bash
+./run_docker.sh
+```
+
+What this does:
+
+- builds the container image from the pinned dependency set;
+- mounts the repository into the container at `/workspace`;
+- runs the same audited batch used by the local entry point;
+- writes outputs back into the repository working tree on the host machine.
+
+Where to look after the run:
+
+- `submission_assets/audited_html_report/index.html`
+- `submission_assets/audited_html_report/repro_manifest.json`
+- `submission_assets/source_data/Source Data.xlsx`
+- `figures/working_variants/Figure2_equivalent.png`
+- `figures/working_variants/Figure3_equivalent.png`
+
+Notes:
+
+- no separate local Python installation is required for the Docker path;
+- the first Docker run will take longer because the image must be built;
+- rerunning the workflow updates the generated outputs in place.
+
 ## Notebook Walkthrough
 
 The `notebooks/` folder provides a figure-wise walkthrough:
