@@ -15,7 +15,7 @@ from matplotlib.lines import Line2D
 
 ROOT = Path(__file__).resolve().parents[1]
 AUDIT_ROOT = ROOT / "_audit" / "Nitrogen-Surplus-restructuring"
-FIG_DIR = ROOT / "figures" / "manuscript_final"
+FIG_DIR = ROOT / "figures" / "supporting_analysis"
 DATA_DIR = ROOT / "data" / "generated"
 OUT_DIR = DATA_DIR / "si_revenue_profit_sensitivity"
 INPUT_DIR = ROOT / "data" / "input"

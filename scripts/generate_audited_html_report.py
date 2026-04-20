@@ -90,20 +90,18 @@ def build_manifest() -> dict[str, object]:
         path_record("Figure 1 reproduced PDF", ROOT / "_audit" / "Nitrogen-Surplus-restructuring" / "outputs" / "generated" / "figure1" / "figure1_reproduced.pdf", "main_figures", "pdf"),
         path_record("Figure 2 primary realized-price composite PDF", ROOT / "figures" / "manuscript_final" / "fig2_main_revision2.pdf", "main_figures", "pdf"),
         path_record("Figure 2 primary realized-price composite PNG", ROOT / "figures" / "manuscript_final" / "fig2_main_revision2.png", "main_figures", "png", preview_name="fig2_main_revision2.png"),
-        path_record("Figure 2a realized-price panel PDF", ROOT / "figures" / "working_variants" / "figure2_main_panel_a.pdf", "main_figures", "pdf"),
-        path_record("Figure 2b realized-price panel PDF", ROOT / "figures" / "working_variants" / "figure2_main_panel_b.pdf", "main_figures", "pdf"),
-        path_record("Figure 2c realized-price panel PDF", ROOT / "figures" / "working_variants" / "figure2_main_panel_c.pdf", "main_figures", "pdf"),
-        path_record("Figure 2d realized-price panel PDF", ROOT / "figures" / "working_variants" / "figure2_main_panel_d.pdf", "main_figures", "pdf"),
-        path_record("Figure 3a realized-price panel PDF", ROOT / "figures" / "working_variants" / "figure3_main_panel_a.pdf", "main_figures", "pdf"),
-        path_record("Figure 3b realized-price panel PDF", ROOT / "figures" / "working_variants" / "figure3_main_panel_b.pdf", "main_figures", "pdf"),
-        path_record("Figure 3c realized-price panel PDF", ROOT / "figures" / "working_variants" / "figure3_main_panel_c.pdf", "main_figures", "pdf"),
         path_record("Figure 3 primary realized-price composite PDF", ROOT / "figures" / "manuscript_final" / "fig3_main_revision2.pdf", "main_figures", "pdf"),
     ]
 
     si_outputs = [
+        path_record("SI seasonal Pareto PDF", ROOT / "figures" / "manuscript_final" / "si_s2_seasonal_pareto.pdf", "si_figures", "pdf"),
+        path_record("SI seasonal trade-offs PDF", ROOT / "figures" / "manuscript_final" / "si_s3_seasonal_tradeoffs.pdf", "si_figures", "pdf"),
+        path_record("SI cultural-retention PDF", ROOT / "figures" / "manuscript_final" / "si_s4_cultural_retention.pdf", "si_figures", "pdf"),
+        path_record("SI observed trade network PDF", ROOT / "figures" / "manuscript_final" / "si_s5_original_trade_network_clean.pdf", "si_figures", "pdf"),
         path_record("SI revenue robustness PDF", ROOT / "figures" / "manuscript_final" / "si_revenue_benchmark_robustness.pdf", "si_figures", "pdf", preview_name="si_revenue_benchmark_robustness.png"),
         path_record("SI revenue endpoint sensitivity PDF", ROOT / "figures" / "manuscript_final" / "si_revenue_benchmark_endpoint_sensitivity.pdf", "si_figures", "pdf"),
-        path_record("SI revenue-profit sensitivity PDF", ROOT / "figures" / "manuscript_final" / "si_revenue_profit_sensitivity.pdf", "si_figures", "pdf"),
+        path_record("SI MSP comparison Figure 2 PDF", ROOT / "figures" / "manuscript_final" / "si_msp_benchmark_figure2.pdf", "si_figures", "pdf"),
+        path_record("SI MSP comparison Figure 3 PDF", ROOT / "figures" / "manuscript_final" / "si_msp_benchmark_figure3.pdf", "si_figures", "pdf"),
         path_record("SI Figure 2a frontier bootstrap PDF", ROOT / "figures" / "manuscript_final" / "si_figure2a_frontier_bootstrap.pdf", "si_figures", "pdf", preview_name="si_figure2a_frontier_bootstrap.png"),
         path_record("SI seasonal substitution audit PDF", ROOT / "figures" / "manuscript_final" / "si_s21_seasonal_substitution_audit.pdf", "si_figures", "pdf"),
     ]
@@ -116,8 +114,6 @@ def build_manifest() -> dict[str, object]:
 
     audits = [
         path_record("Figure 1 reproduction summary", ROOT / "_audit" / "Nitrogen-Surplus-restructuring" / "outputs" / "generated" / "figure1" / "figure1_reproduction_summary.md", "audit_notes", "md"),
-        path_record("Figure 2 cap-variant audit", ROOT / "data" / "generated" / "figure2_cap_variant_audit.md", "audit_notes", "md"),
-        path_record("Figure 2 legacy-faithful audit", ROOT / "data" / "generated" / "figure2_legacy_faithful_audit.md", "audit_notes", "md"),
         path_record("Release-figure verification report (Markdown)", ROOT / "data" / "generated" / "release_figure_sync" / "release_figure_sync_report.md", "audit_notes", "md"),
         path_record("Release-figure verification report (JSON)", ROOT / "data" / "generated" / "release_figure_sync" / "release_figure_sync_report.json", "audit_notes", "json"),
     ]
@@ -305,7 +301,7 @@ def build_html(manifest: dict[str, object]) -> str:
   <main>
     <section class="band">
       <h1>Audited Reproducibility Report</h1>
-      <p>This HTML report tracks the current audited workflow, generated figure assets, the source-data package, and the containerized rerun path.</p>
+      <p>This HTML report tracks the canonical manuscript figures, cited supplementary figures, the source-data package, and the containerized rerun path.</p>
       <p class="mono">Generated UTC: {html.escape(str(manifest['generated_utc']))}</p>
       <p class="mono">Runner: {html.escape(str(run_context.get('runner', 'unknown')))}</p>
       <p class="mono">Run mode: {html.escape(str(run_context.get('mode', 'unknown')))}</p>
@@ -322,7 +318,7 @@ def build_html(manifest: dict[str, object]) -> str:
     </section>
 
     <section class="band">
-      <h2>Main Outputs</h2>
+      <h2>Canonical Main Outputs</h2>
       <table>
         <thead><tr><th>Artifact</th><th>Status</th><th>File</th><th>Type</th><th>Size</th><th>SHA-256</th></tr></thead>
         <tbody>{table_rows(sections['main_outputs'])}</tbody>
@@ -330,7 +326,7 @@ def build_html(manifest: dict[str, object]) -> str:
     </section>
 
     <section class="band">
-      <h2>Supplementary Outputs</h2>
+      <h2>Cited Supplementary Outputs</h2>
       <table>
         <thead><tr><th>Artifact</th><th>Status</th><th>File</th><th>Type</th><th>Size</th><th>SHA-256</th></tr></thead>
         <tbody>{table_rows(sections['si_outputs'])}</tbody>

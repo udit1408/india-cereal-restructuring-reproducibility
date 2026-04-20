@@ -1,8 +1,6 @@
 # Source Data package
 
-This folder contains the Nature-style source-data package prepared for revision 2 of
-"Quantifying Environmental Co-Benefits of Nitrogen-Based Crop Restructuring and Its
-Implications on India's Interstate Trade Network."
+This folder contains the source-data package for the reproducibility release.
 
 Primary artifact:
 
@@ -16,7 +14,7 @@ Supporting artifacts:
 Workbook coverage:
 
 - Main manuscript Figures 1 to 3.
-- Supplementary Figures S2 to S5 and S16 to S21 introduced or revised during the current revision round.
+- Supplementary Figures S2 to S5 and S16 to S21 included in the current release.
 - Supplementary Table S10 summarizing the primary realized-price revenue benchmark.
 
 Sheet manifest:
@@ -62,4 +60,4 @@ Sheet manifest:
 | `FigS21_sum` | Supplementary Figure S21 primary realized-price seasonal transition summary | 24 | 5 | `csv/FigS21_sum.csv` | `data/generated/seasonal_substitution_audit_primary_revenue/seasonal_top_non_diagonal_transitions.csv` |
 | `FigS21_flags` | Supplementary Figure S21 primary realized-price district-season flags | 129 | 9 | `csv/FigS21_flags.csv` | `data/generated/seasonal_substitution_audit_primary_revenue/district_season_rice_wheat_flags.csv` |
 
-The broader public input datasets and repository-level reproducibility workflow are described separately in the manuscript Data Availability and Code Availability statements.
+The broader public input datasets and repository-level reproducibility workflow are described separately in the repository documentation and accompanying article text.

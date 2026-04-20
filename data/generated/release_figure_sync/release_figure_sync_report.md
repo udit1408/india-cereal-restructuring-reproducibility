@@ -4,7 +4,7 @@ The reproducibility workflow copies canonical regenerated figure outputs into th
 public release figure targets bundled in the repository and verifies exact byte-level equality
 by SHA-256 and file size.
 
-Generated UTC: `2026-04-20T07:13:39.268515+00:00`
+Generated UTC: `2026-04-20T07:25:00.691385+00:00`
 
 ## Figure 1
 

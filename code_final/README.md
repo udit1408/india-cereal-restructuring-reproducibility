@@ -29,7 +29,7 @@ The final workflow runs only the audited code path listed in `FINAL_CODE_MANIFES
 - Figure 1 audited reproduction from the repository checkout;
 - Figure 2 primary realized-price rebuild, including the no-hard-cap Pareto frontier and panel-b bootstrap intervals;
 - Figure 3 rebuild from the Figure 2 nitrogen-focused optimized district-area table;
-- supplementary revenue, endpoint, frontier-envelope, and seasonal substitution robustness figures;
+- supplementary cited figures plus the supporting realized-price sensitivity analyses used by the audited workflow;
 - Source Data workbook and zip package;
 - exact SHA-256 synchronization of figure targets;
 - HTML reproducibility report and manifest.
@@ -40,6 +40,8 @@ The following locations are provenance or diagnostics, not final-code entry poin
 
 - `_audit/`: audited repository checkouts, notebook provenance, and old reconstruction notes;
 - `figures/working_variants/`: intermediate figure files produced during the final run;
+- `figures/archive_nonmanuscript/`: archived comparison or superseded figure exports not cited in the final manuscript package;
+- `figures/supporting_analysis/`: generated support figures that are not manuscript display items;
 - `scripts/run_figure2_rebuilds.sh`, `scripts/run_all.sh`, and `scripts/sync_approved_figure2.sh`: older or narrower utilities retained for traceability;
 - scripts beginning with `audit_`, `probe_`, or older `generate_figure2*` variants unless they are explicitly listed in `FINAL_CODE_MANIFEST.md`.
 

@@ -504,9 +504,7 @@ def write_readme(manifest_rows: list[dict[str, object]]) -> None:
     lines = [
         "# Source Data package",
         "",
-        "This folder contains the Nature-style source-data package prepared for revision 2 of",
-        "\"Quantifying Environmental Co-Benefits of Nitrogen-Based Crop Restructuring and Its",
-        "Implications on India's Interstate Trade Network.\"",
+        "This folder contains the source-data package for the reproducibility release.",
         "",
         "Primary artifact:",
         "",
@@ -520,7 +518,7 @@ def write_readme(manifest_rows: list[dict[str, object]]) -> None:
         "Workbook coverage:",
         "",
         "- Main manuscript Figures 1 to 3.",
-        "- Supplementary Figures S2 to S5 and S16 to S21 introduced or revised during the current revision round.",
+        "- Supplementary Figures S2 to S5 and S16 to S21 included in the current release.",
         "- Supplementary Table S10 summarizing the primary realized-price revenue benchmark.",
         "",
         "Sheet manifest:",
@@ -536,7 +534,7 @@ def write_readme(manifest_rows: list[dict[str, object]]) -> None:
     lines.append("")
     lines.append(
         "The broader public input datasets and repository-level reproducibility workflow are described "
-        "separately in the manuscript Data Availability and Code Availability statements."
+        "separately in the repository documentation and accompanying article text."
     )
     README_PATH.write_text("\n".join(lines) + "\n")
 
@@ -553,8 +551,8 @@ def add_readme_sheet(wb: Workbook) -> None:
     ws.title = "README"
     rows = [
         ["Source Data package", ""],
-        ["Manuscript", "Quantifying Environmental Co-Benefits of Nitrogen-Based Crop Restructuring and Its Implications on India's Interstate Trade Network"],
-        ["Revision", "Nature Communications revision 2"],
+        ["Study", "Quantifying Environmental Co-Benefits of Nitrogen-Based Crop Restructuring and Its Implications on India's Interstate Trade Network"],
+        ["Release", "Public reproducibility package"],
         ["Contents", "Source data workbook for Figs. 1-3, Supplementary Figs. S2-S5 and S16-S21, and Supplementary Table S10"],
         ["Notes", "Each figure sheet contains the table used directly to construct the corresponding display item. See the Manifest sheet for file provenance and row counts."],
     ]

@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-20T07:13:39.322155+00:00",
+  "generated_utc": "2026-04-20T07:26:02.349139+00:00",
   "root": ".",
   "run_context": {
     "timestamp_utc": "2026-04-20T07:08:33Z",
@@ -80,76 +80,6 @@
         "preview_name": "fig2_main_revision2.png"
       },
       {
-        "label": "Figure 2a realized-price panel PDF",
-        "category": "main_figures",
-        "kind": "pdf",
-        "path": "figures/working_variants/figure2_main_panel_a.pdf",
-        "exists": true,
-        "size_bytes": 46988,
-        "modified_utc": "2026-04-20T07:08:49.476977+00:00",
-        "sha256": "2d47ab540bd52d037943667b8a193d7bf7b063f7b67557c2b93c2c6a30d1cc13"
-      },
-      {
-        "label": "Figure 2b realized-price panel PDF",
-        "category": "main_figures",
-        "kind": "pdf",
-        "path": "figures/working_variants/figure2_main_panel_b.pdf",
-        "exists": true,
-        "size_bytes": 20842,
-        "modified_utc": "2026-04-20T07:10:11.471807+00:00",
-        "sha256": "fd91e566debd158406b784cbf29f04ab8bbf2070fe7a3f29aac71dcbd5c2d307"
-      },
-      {
-        "label": "Figure 2c realized-price panel PDF",
-        "category": "main_figures",
-        "kind": "pdf",
-        "path": "figures/working_variants/figure2_main_panel_c.pdf",
-        "exists": true,
-        "size_bytes": 19508,
-        "modified_utc": "2026-04-20T07:10:14.120369+00:00",
-        "sha256": "6cf2bda8385b67202819da0831fa4d7f23b48da5484677b6e7e55a3869d743fc"
-      },
-      {
-        "label": "Figure 2d realized-price panel PDF",
-        "category": "main_figures",
-        "kind": "pdf",
-        "path": "figures/working_variants/figure2_main_panel_d.pdf",
-        "exists": true,
-        "size_bytes": 49968,
-        "modified_utc": "2026-04-20T07:10:16.811937+00:00",
-        "sha256": "287ca0c0430820e47bad36591987f6b9087e4a670cada61f6f4fcc6d54ca6ee1"
-      },
-      {
-        "label": "Figure 3a realized-price panel PDF",
-        "category": "main_figures",
-        "kind": "pdf",
-        "path": "figures/working_variants/figure3_main_panel_a.pdf",
-        "exists": true,
-        "size_bytes": 24325,
-        "modified_utc": "2026-04-20T07:10:22.239887+00:00",
-        "sha256": "197571f8fdbf5e8934be9f7653166ed6a9dd6f1d23320140fb3205d0522b2dc2"
-      },
-      {
-        "label": "Figure 3b realized-price panel PDF",
-        "category": "main_figures",
-        "kind": "pdf",
-        "path": "figures/working_variants/figure3_main_panel_b.pdf",
-        "exists": true,
-        "size_bytes": 43386,
-        "modified_utc": "2026-04-20T07:10:23.560396+00:00",
-        "sha256": "c8e418a3c496409cc9da5898ac906b68229ea7fd0aa730ae9eaa50d05e2d4293"
-      },
-      {
-        "label": "Figure 3c realized-price panel PDF",
-        "category": "main_figures",
-        "kind": "pdf",
-        "path": "figures/working_variants/figure3_main_panel_c.pdf",
-        "exists": true,
-        "size_bytes": 59221,
-        "modified_utc": "2026-04-20T07:10:23.977064+00:00",
-        "sha256": "8739d0a987d69f8a6a4ad3b4da84c7ae33cb3dd83a04ce85d14bee14cc9d5f1e"
-      },
-      {
         "label": "Figure 3 primary realized-price composite PDF",
         "category": "main_figures",
         "kind": "pdf",
@@ -161,6 +91,46 @@
       }
     ],
     "si_outputs": [
+      {
+        "label": "SI seasonal Pareto PDF",
+        "category": "si_figures",
+        "kind": "pdf",
+        "path": "figures/manuscript_final/si_s2_seasonal_pareto.pdf",
+        "exists": true,
+        "size_bytes": 21819,
+        "modified_utc": "2026-04-20T07:10:19.534705+00:00",
+        "sha256": "8c6783d7ce5118bd6a0fb1dc6ba088a9164a76d423c7b0816d448ec585ae8319"
+      },
+      {
+        "label": "SI seasonal trade-offs PDF",
+        "category": "si_figures",
+        "kind": "pdf",
+        "path": "figures/manuscript_final/si_s3_seasonal_tradeoffs.pdf",
+        "exists": true,
+        "size_bytes": 22056,
+        "modified_utc": "2026-04-20T07:10:20.982716+00:00",
+        "sha256": "31c3628848004ff1e8d0e473cc42e47153b28db3b478b7e918465d8858c917a4"
+      },
+      {
+        "label": "SI cultural-retention PDF",
+        "category": "si_figures",
+        "kind": "pdf",
+        "path": "figures/manuscript_final/si_s4_cultural_retention.pdf",
+        "exists": true,
+        "size_bytes": 21552,
+        "modified_utc": "2026-04-20T07:10:21.281294+00:00",
+        "sha256": "456854215decae14fe397e04da39216b9f8d815eb915e5d16701eb37b25f9006"
+      },
+      {
+        "label": "SI observed trade network PDF",
+        "category": "si_figures",
+        "kind": "pdf",
+        "path": "figures/manuscript_final/si_s5_original_trade_network_clean.pdf",
+        "exists": true,
+        "size_bytes": 4161291,
+        "modified_utc": "2026-04-19T17:13:56.688058+00:00",
+        "sha256": "668b172ed26624fa733c8b8d804eba4dd12c70344fb3b98289c8824f59480df9"
+      },
       {
         "label": "SI revenue robustness PDF",
         "category": "si_figures",
@@ -183,14 +153,24 @@
         "sha256": "33efabad3c84f9a305d95d71d290d2fcbf6921e4e713b53c90bd6ce14cf4a6b9"
       },
       {
-        "label": "SI revenue-profit sensitivity PDF",
+        "label": "SI MSP comparison Figure 2 PDF",
         "category": "si_figures",
         "kind": "pdf",
-        "path": "figures/manuscript_final/si_revenue_profit_sensitivity.pdf",
+        "path": "figures/manuscript_final/si_msp_benchmark_figure2.pdf",
         "exists": true,
-        "size_bytes": 32955,
-        "modified_utc": "2026-04-20T07:13:35.980273+00:00",
-        "sha256": "694152de9a6fbabcc47ebce04265ac49844a888d9f2095dcf329c4927ddc1032"
+        "size_bytes": 977651,
+        "modified_utc": "2026-04-19T12:09:17.636454+00:00",
+        "sha256": "22ea05d482b4e9e2e147da8592fabd1bc1eb7f9ce2991c4af95a50ddc6cef171"
+      },
+      {
+        "label": "SI MSP comparison Figure 3 PDF",
+        "category": "si_figures",
+        "kind": "pdf",
+        "path": "figures/manuscript_final/si_msp_benchmark_figure3.pdf",
+        "exists": true,
+        "size_bytes": 2720942,
+        "modified_utc": "2026-04-19T17:13:56.699306+00:00",
+        "sha256": "aaf99a573c47d62c8f58900098a1135b81e131301f479b36199d1e59e26c7646"
       },
       {
         "label": "SI Figure 2a frontier bootstrap PDF",
@@ -210,8 +190,8 @@
         "path": "figures/manuscript_final/si_s21_seasonal_substitution_audit.pdf",
         "exists": true,
         "size_bytes": 668838,
-        "modified_utc": "2026-04-20T07:10:28.432126+00:00",
-        "sha256": "b6a4888494963e64eece5e6c64320f3ced12b925ae5bf7ac76175d63aa05857d"
+        "modified_utc": "2026-04-20T07:14:54.534599+00:00",
+        "sha256": "a73b5c83bb363ab96c05afe0166fa2690841c9f17f8d5c31079eec60277d9f07"
       }
     ],
     "source_data": [
@@ -221,9 +201,9 @@
         "kind": "xlsx",
         "path": "submission_assets/source_data/Source Data.xlsx",
         "exists": true,
-        "size_bytes": 637445,
-        "modified_utc": "2026-04-20T07:11:17.412081+00:00",
-        "sha256": "a23b7a0c90d56b53b7517edbe01d5e0c4d030ed437bee470093900592f4301a9"
+        "size_bytes": 637444,
+        "modified_utc": "2026-04-20T07:25:01.687516+00:00",
+        "sha256": "4f7981eb8ffc485756c63ff6c0b589880669de647f22e26992115bc40725d632"
       },
       {
         "label": "Source Data zip",
@@ -231,9 +211,9 @@
         "kind": "zip",
         "path": "submission_assets/source_data/Source_Data_package.zip",
         "exists": true,
-        "size_bytes": 862844,
-        "modified_utc": "2026-04-20T07:11:17.443721+00:00",
-        "sha256": "43668d3f0eb040f8df0cacdfffa6c60f25a1617d81269e44cee3d0f1f6a58f11"
+        "size_bytes": 862610,
+        "modified_utc": "2026-04-20T07:25:01.718235+00:00",
+        "sha256": "d782a967c98a52bf6a3287c2e3a3884bf9c9fc31d8120957c59995ae8bd764d4"
       },
       {
         "label": "Source Data README",
@@ -241,9 +221,9 @@
         "kind": "md",
         "path": "submission_assets/source_data/README.md",
         "exists": true,
-        "size_bytes": 8373,
-        "modified_utc": "2026-04-20T07:11:17.412386+00:00",
-        "sha256": "6217e6722734383e8359a15429edfc65c8b04bd56c81d630b045c1db06d701b6"
+        "size_bytes": 8200,
+        "modified_utc": "2026-04-20T07:25:01.687677+00:00",
+        "sha256": "b85b6fb056dfe4571f808742b33702357a66fd3f2ae8dcc57c2fc20c89f44f03"
       }
     ],
     "audits": [
@@ -258,34 +238,14 @@
         "sha256": "4b76f222b6496c374a0495e095867f6bd2ca81ea332470c6ad10d404805b8853"
       },
       {
-        "label": "Figure 2 cap-variant audit",
-        "category": "audit_notes",
-        "kind": "md",
-        "path": "data/generated/figure2_cap_variant_audit.md",
-        "exists": true,
-        "size_bytes": 7076,
-        "modified_utc": "2026-04-19T18:08:44.167183+00:00",
-        "sha256": "e5f7c940c9f7ce1fe35352c2c379d1157702dd9d290193e1cc5976a10ff4e62a"
-      },
-      {
-        "label": "Figure 2 legacy-faithful audit",
-        "category": "audit_notes",
-        "kind": "md",
-        "path": "data/generated/figure2_legacy_faithful_audit.md",
-        "exists": true,
-        "size_bytes": 6883,
-        "modified_utc": "2026-04-18T00:07:13+00:00",
-        "sha256": "fcd74079beafe6e976302797252a67eee16e66f06020bfaee4edde500f12db50"
-      },
-      {
         "label": "Release-figure verification report (Markdown)",
         "category": "audit_notes",
         "kind": "md",
         "path": "data/generated/release_figure_sync/release_figure_sync_report.md",
         "exists": true,
         "size_bytes": 2685,
-        "modified_utc": "2026-04-20T07:13:39.268909+00:00",
-        "sha256": "e93e5e314a4a072931ee6942ce51ba9c9905f1e7b73712e668e9cacdbcb61652"
+        "modified_utc": "2026-04-20T07:25:00.691844+00:00",
+        "sha256": "cfdc3f773bfcab0dd85474868ba058e35aa4dbb31683e7a5888fc815f10ff1be"
       },
       {
         "label": "Release-figure verification report (JSON)",
@@ -294,8 +254,8 @@
         "path": "data/generated/release_figure_sync/release_figure_sync_report.json",
         "exists": true,
         "size_bytes": 3087,
-        "modified_utc": "2026-04-20T07:13:39.268800+00:00",
-        "sha256": "51ea281c634739d12137aa4a9533d6e1605714587e8548d8324af6913780144e"
+        "modified_utc": "2026-04-20T07:25:00.691724+00:00",
+        "sha256": "a2d1b8bbfc6c9c29183c27e3dcc15dd36bb638d0e07af01a675ecc625a436013"
       }
     ],
     "workflow_files": [
@@ -335,9 +295,9 @@
         "kind": "md",
         "path": "code_final/README.md",
         "exists": true,
-        "size_bytes": 3052,
-        "modified_utc": "2026-04-19T18:07:40.490649+00:00",
-        "sha256": "8c69c1cd8bbe028f0ec16225b0795fdff12c472de26e64b733b52a20e1bdc05c"
+        "size_bytes": 3295,
+        "modified_utc": "2026-04-20T07:24:34.395071+00:00",
+        "sha256": "ce4c1e01144fdabe4ce87463d2d380877e0e050fd785ef99b4ca6bef546a4ff1"
       },
       {
         "label": "Final code manifest",
@@ -345,9 +305,9 @@
         "kind": "md",
         "path": "code_final/FINAL_CODE_MANIFEST.md",
         "exists": true,
-        "size_bytes": 4238,
-        "modified_utc": "2026-04-20T07:07:48.030224+00:00",
-        "sha256": "96bc5fc45f898681470d5da993a7e505649133609dc8f08789f9744aa9d3fe87"
+        "size_bytes": 4324,
+        "modified_utc": "2026-04-20T07:24:34.395200+00:00",
+        "sha256": "c1c5578dfa876a28ca0e54f8613c5a1fed3835b646710a433d143aa9af08ecf3"
       },
       {
         "label": "Method notation map",
@@ -405,9 +365,9 @@
         "kind": "txt",
         "path": "scripts/generate_audited_html_report.py",
         "exists": true,
-        "size_bytes": 16100,
-        "modified_utc": "2026-04-20T07:13:19.045435+00:00",
-        "sha256": "85f09e0624777da82e022b5dc68695b491c9716c74c0db29a713a8268e9d53ed"
+        "size_bytes": 15519,
+        "modified_utc": "2026-04-20T07:25:59.090129+00:00",
+        "sha256": "b37ae0c80e4c38a341ecd68438a05ee1415d0172878236d648982b37c52f4a87"
       },
       {
         "label": "Release-figure verifier",

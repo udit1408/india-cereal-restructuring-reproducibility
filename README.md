@@ -8,7 +8,7 @@ It is a reproducibility workflow, not a general-purpose Python library. The repo
 
 - scripted reruns for the main figure blocks and supplementary robustness outputs;
 - shareable public-source inputs and benchmark tables in `data/input/`;
-- regenerated outputs in `data/generated/` and `figures/manuscript_final/`;
+- regenerated outputs in `data/generated/`, `figures/manuscript_final/`, and `figures/supporting_analysis/`;
 - source-data exports in `submission_assets/source_data/`;
 - an HTML reproducibility report in `submission_assets/audited_html_report/`;
 - notebook walkthroughs that call the same scripted workflow;
@@ -72,11 +72,31 @@ Run the main blocks independently:
 
 The root entry points delegate to the audited batch runners in [code_final](code_final/) and the implementation scripts in [scripts](scripts/).
 
+## Canonical Manuscript Outputs
+
+The manuscript-aligned figure files live in `figures/manuscript_final/`. The canonical main-display assets are:
+
+- `figures/manuscript_final/fig2_main_revision2.pdf`
+- `figures/manuscript_final/fig3_main_revision2.pdf`
+- `figures/manuscript_final/si_s2_seasonal_pareto.pdf`
+- `figures/manuscript_final/si_s3_seasonal_tradeoffs.pdf`
+- `figures/manuscript_final/si_s4_cultural_retention.pdf`
+- `figures/manuscript_final/si_s5_original_trade_network_clean.pdf`
+- `figures/manuscript_final/si_revenue_benchmark_robustness.pdf`
+- `figures/manuscript_final/si_revenue_benchmark_endpoint_sensitivity.pdf`
+- `figures/manuscript_final/si_msp_benchmark_figure2.pdf`
+- `figures/manuscript_final/si_msp_benchmark_figure3.pdf`
+- `figures/manuscript_final/si_figure2a_frontier_bootstrap.pdf`
+- `figures/manuscript_final/si_s21_seasonal_substitution_audit.pdf`
+
+Auxiliary or non-manuscript figure exports are kept separately in `figures/supporting_analysis/`, `figures/archive_nonmanuscript/`, or `figures/working_variants/`.
+
 ## Expected Outputs
 
 After a full rerun, the main checkpoints are:
 
 - `figures/manuscript_final/`
+- `figures/supporting_analysis/`
 - `data/generated/`
 - `submission_assets/source_data/Source Data.xlsx`
 - `submission_assets/source_data/csv/`
@@ -96,7 +116,11 @@ After a full rerun, the main checkpoints are:
 - `data/generated/`
   - regenerated tables, bootstrap summaries, audits, and figure-ready intermediates.
 - `figures/manuscript_final/`
-  - public-facing figure exports used by the reproducibility package.
+  - canonical manuscript and cited supplementary figure exports.
+- `figures/supporting_analysis/`
+  - generated support analyses that are useful for auditing the price benchmark but are not manuscript display items.
+- `figures/archive_nonmanuscript/`
+  - archived non-canonical comparison exports retained for provenance.
 - `submission_assets/source_data/`
   - workbook and CSV exports aligned with the generated figures.
 - `submission_assets/audited_html_report/`
