@@ -14,11 +14,6 @@ It is a reproducibility workflow, not a general-purpose Python library. The repo
 - notebook walkthroughs that call the same scripted workflow;
 - a Docker build path for containerized reruns.
 
-## What Is Not Included
-
-- article text and editorial documents;
-- non-shareable private datasets.
-
 ## System Requirements
 
 The workflow is intended for macOS and Linux and is pinned to Python 3.11 in the containerized path. A standard workstation is sufficient for the scripted reruns.
