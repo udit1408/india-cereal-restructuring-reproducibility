@@ -2,7 +2,7 @@
 
 This standalone Figure 3 rebuild is generated from the primary official price-and-cost
 nitrogen-focused optimized area table exported by the final figure2_main workflow.
-Input optimized area table: /Users/udit/Documents/Shekhar_Nature/revision_2/github_release/data/generated/figure2_main/figure2_main_panel_d_optimized_areas.csv
+Input optimized area table: data/generated/figure2_main/figure2_main_panel_d_optimized_areas.csv
 
 Figure 3(a) keeps the manuscript display-state set and order for panel comparability,
 but the stacked original-versus-optimized totals are recomputed from the primary benchmark

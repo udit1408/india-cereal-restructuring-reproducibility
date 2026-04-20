@@ -14,8 +14,7 @@ import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_PRICE_CSV = (
-    Path("/Users/udit/Documents/Shekhar_Nature/downloaded_new_crop_price")
-    / "msp_vs_statewise_rupee_per_kg.csv"
+    ROOT / "data" / "input" / "statewise_realized_price_vs_msp_2014_15_to_2018_19.csv"
 )
 DEFAULT_SCENARIO_YEAR = "2017-18"
 DEFAULT_SANDBOX_NAME = "figure2_stateprice_csv_sandbox_2017_18"

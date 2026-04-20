@@ -34,6 +34,13 @@ OPTIMIZED_AREA_PATH = (
 )
 
 
+def _relpath(path: Path) -> str:
+    try:
+        return path.relative_to(ROOT).as_posix()
+    except ValueError:
+        return str(path)
+
+
 def _ensure_geopandas_stub() -> None:
     if "geopandas" not in sys.modules:
         sys.modules["geopandas"] = types.ModuleType("geopandas")
@@ -638,7 +645,7 @@ def write_audit(
         "",
         "This standalone Figure 3 rebuild is generated from the primary official price-and-cost",
         "nitrogen-focused optimized area table exported by the final figure2_main workflow.",
-        f"Input optimized area table: {OPTIMIZED_AREA_PATH}",
+        f"Input optimized area table: {_relpath(OPTIMIZED_AREA_PATH)}",
         "",
         "Figure 3(a) keeps the manuscript display-state set and order for panel comparability,",
         "but the stacked original-versus-optimized totals are recomputed from the primary benchmark",
@@ -663,30 +670,30 @@ def write_manifest() -> None:
         "# figure3_main manifest",
         "",
         "Composite outputs:",
-        f"- {COMPOSITE_PNG}",
-        f"- {COMPOSITE_PDF}",
+        f"- {_relpath(COMPOSITE_PNG)}",
+        f"- {_relpath(COMPOSITE_PDF)}",
         "",
         "Panel outputs:",
-        f"- {PANEL_A_PNG}",
-        f"- {PANEL_A_PDF}",
-        f"- {PANEL_B_PNG}",
-        f"- {PANEL_B_PDF}",
-        f"- {PANEL_C_PNG}",
-        f"- {PANEL_C_PDF}",
+        f"- {_relpath(PANEL_A_PNG)}",
+        f"- {_relpath(PANEL_A_PDF)}",
+        f"- {_relpath(PANEL_B_PNG)}",
+        f"- {_relpath(PANEL_B_PDF)}",
+        f"- {_relpath(PANEL_C_PNG)}",
+        f"- {_relpath(PANEL_C_PDF)}",
         "",
         "Tabular outputs:",
-        f"- {OUT_DIR / 'figure3_main_panel_a_all_states.csv'}",
-        f"- {OUT_DIR / 'figure3_main_panel_a_display_states.csv'}",
-        f"- {OUT_DIR / 'figure3_main_state_crop_production.csv'}",
-        f"- {OUT_DIR / 'figure3_main_panel_b_alt_trade_edges.csv'}",
-        f"- {OUT_DIR / 'figure3_main_panel_b_alt_node_flows.csv'}",
-        f"- {OUT_DIR / 'figure3_main_panel_c_rw_trade_edges.csv'}",
-        f"- {OUT_DIR / 'figure3_main_panel_c_rw_node_flows.csv'}",
-        f"- {OUT_DIR / 'figure3_main_panel_b_fromto.csv'}",
-        f"- {OUT_DIR / 'figure3_main_panel_c_fromto.csv'}",
+        f"- {_relpath(OUT_DIR / 'figure3_main_panel_a_all_states.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure3_main_panel_a_display_states.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure3_main_state_crop_production.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure3_main_panel_b_alt_trade_edges.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure3_main_panel_b_alt_node_flows.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure3_main_panel_c_rw_trade_edges.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure3_main_panel_c_rw_node_flows.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure3_main_panel_b_fromto.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure3_main_panel_c_fromto.csv')}",
         "",
         "Notes:",
-        f"- {AUDIT_MD}",
+        f"- {_relpath(AUDIT_MD)}",
     ]
     MANIFEST_MD.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 

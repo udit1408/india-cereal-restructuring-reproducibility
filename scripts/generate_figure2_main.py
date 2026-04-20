@@ -27,6 +27,13 @@ OUT_DIR = ROOT / "data" / "generated" / "figure2_main"
 DEFAULT_SCENARIO_YEAR = "2017-18"
 
 
+def _relpath(path: Path) -> str:
+    try:
+        return path.relative_to(ROOT).as_posix()
+    except ValueError:
+        return str(path)
+
+
 def _ensure_geopandas_stub() -> None:
     if "geopandas" not in sys.modules:
         sys.modules["geopandas"] = types.ModuleType("geopandas")
@@ -969,56 +976,56 @@ def _write_manifest() -> None:
         "# figure2_main manifest",
         "",
         "Composite outputs:",
-        f"- {COMPOSITE_PNG}",
-        f"- {COMPOSITE_PDF}",
+        f"- {_relpath(COMPOSITE_PNG)}",
+        f"- {_relpath(COMPOSITE_PDF)}",
         "",
         "Panel outputs:",
-        f"- {FIG_DIR / 'figure2_main_panel_a.png'}",
-        f"- {FIG_DIR / 'figure2_main_panel_a.pdf'}",
-        f"- {FIG_DIR / 'figure2_main_panel_a_pct_2017_baseline.png'}",
-        f"- {FIG_DIR / 'figure2_main_panel_a_pct_2017_baseline.pdf'}",
-        f"- {FIG_DIR / 'figure2_main_panel_b.png'}",
-        f"- {FIG_DIR / 'figure2_main_panel_b.pdf'}",
-        f"- {FIG_DIR / 'figure2_main_panel_c.png'}",
-        f"- {FIG_DIR / 'figure2_main_panel_c.pdf'}",
-        f"- {FIG_DIR / 'figure2_main_panel_d.png'}",
-        f"- {FIG_DIR / 'figure2_main_panel_d.pdf'}",
+        f"- {_relpath(FIG_DIR / 'figure2_main_panel_a.png')}",
+        f"- {_relpath(FIG_DIR / 'figure2_main_panel_a.pdf')}",
+        f"- {_relpath(FIG_DIR / 'figure2_main_panel_a_pct_2017_baseline.png')}",
+        f"- {_relpath(FIG_DIR / 'figure2_main_panel_a_pct_2017_baseline.pdf')}",
+        f"- {_relpath(FIG_DIR / 'figure2_main_panel_b.png')}",
+        f"- {_relpath(FIG_DIR / 'figure2_main_panel_b.pdf')}",
+        f"- {_relpath(FIG_DIR / 'figure2_main_panel_c.png')}",
+        f"- {_relpath(FIG_DIR / 'figure2_main_panel_c.pdf')}",
+        f"- {_relpath(FIG_DIR / 'figure2_main_panel_d.png')}",
+        f"- {_relpath(FIG_DIR / 'figure2_main_panel_d.pdf')}",
         "",
         "Tabular outputs:",
-        f"- {OUT_DIR / 'figure2_main_panel_a_kharif_by_alpha.csv'}",
-        f"- {OUT_DIR / 'figure2_main_panel_a_rabi_by_alpha.csv'}",
-        f"- {OUT_DIR / 'figure2_main_panel_a_combined_by_alpha.csv'}",
-        f"- {OUT_DIR / 'figure2_main_panel_b_values.csv'}",
-        f"- {OUT_DIR / 'figure2_main_panel_b_values.tex'}",
-        f"- {OUT_DIR / 'figure2_main_panel_c_kharif.csv'}",
-        f"- {OUT_DIR / 'figure2_main_panel_c_rabi.csv'}",
-        f"- {OUT_DIR / 'figure2_main_panel_c_combined.csv'}",
-        f"- {OUT_DIR / 'figure2_main_panel_d_optimized_areas.csv'}",
-        f"- {OUT_DIR / 'figure2_main_panel_d_state_constraint_audit.csv'}",
-        f"- {OUT_DIR / 'figure2_main_panel_d_district_area_audit.csv'}",
-        f"- {OUT_DIR / 'figure2_main_panel_d_crop_summary.csv'}",
-        f"- {OUT_DIR / 'figure2_main_panel_d_transition_long.csv'}",
-        f"- {OUT_DIR / 'figure2_main_panel_d_transition_matrix.csv'}",
-        f"- {SUMMARY_CSV}",
-        f"- {COVERAGE_CSV}",
+        f"- {_relpath(OUT_DIR / 'figure2_main_panel_a_kharif_by_alpha.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure2_main_panel_a_rabi_by_alpha.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure2_main_panel_a_combined_by_alpha.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure2_main_panel_b_values.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure2_main_panel_b_values.tex')}",
+        f"- {_relpath(OUT_DIR / 'figure2_main_panel_c_kharif.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure2_main_panel_c_rabi.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure2_main_panel_c_combined.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure2_main_panel_d_optimized_areas.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure2_main_panel_d_state_constraint_audit.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure2_main_panel_d_district_area_audit.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure2_main_panel_d_crop_summary.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure2_main_panel_d_transition_long.csv')}",
+        f"- {_relpath(OUT_DIR / 'figure2_main_panel_d_transition_matrix.csv')}",
+        f"- {_relpath(SUMMARY_CSV)}",
+        f"- {_relpath(COVERAGE_CSV)}",
     ]
     if PANEL_B_BOOTSTRAP_DIR.exists():
         lines.extend(
             [
-                f"- {PANEL_B_BOOTSTRAP_DIR / 'figure2_main_panel_b_deterministic_reproduction_check.csv'}",
-                f"- {PANEL_B_BOOTSTRAP_DIR / 'figure2_main_panel_b_bootstrap_iterations.csv'}",
-                f"- {PANEL_B_BOOTSTRAP_DIR / 'figure2_main_panel_b_bootstrap_summary.csv'}",
+                f"- {_relpath(PANEL_B_BOOTSTRAP_DIR / 'figure2_main_panel_b_deterministic_reproduction_check.csv')}",
+                f"- {_relpath(PANEL_B_BOOTSTRAP_DIR / 'figure2_main_panel_b_bootstrap_iterations.csv')}",
+                f"- {_relpath(PANEL_B_BOOTSTRAP_DIR / 'figure2_main_panel_b_bootstrap_summary.csv')}",
             ]
         )
     lines.extend(
         [
             "",
             "Notes:",
-            f"- {AUDIT_MD}",
+            f"- {_relpath(AUDIT_MD)}",
         ]
     )
     if PANEL_B_BOOTSTRAP_DIR.exists():
-        lines.append(f"- {PANEL_B_BOOTSTRAP_DIR / 'figure2_main_panel_b_bootstrap_audit.md'}")
+        lines.append(f"- {_relpath(PANEL_B_BOOTSTRAP_DIR / 'figure2_main_panel_b_bootstrap_audit.md')}")
     MANIFEST_MD.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
 

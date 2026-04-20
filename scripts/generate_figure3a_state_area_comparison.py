@@ -25,6 +25,13 @@ OUT_DISPLAY = DATA_DIR / "figure3a_state_area_comparison_display_states.csv"
 OUT_AUDIT = DATA_DIR / "figure3a_state_area_comparison_audit.md"
 
 
+def _relpath(path: Path) -> str:
+    try:
+        return path.relative_to(ROOT).as_posix()
+    except ValueError:
+        return str(path)
+
+
 CROP_ORDER = ["bajra", "jowar", "maize", "ragi", "rice", "wheat"]
 CROP_COLORS = {
     "bajra": "#d9655d",
@@ -222,7 +229,7 @@ def build_audit_text(display: pd.DataFrame, totals: pd.DataFrame) -> str:
         "historically observed cereals, and the shared state calorie and MSP-benchmarked",
         "income floors.",
         "",
-        f"Input table: `{INPUT_CSV}`",
+        f"Input table: `{_relpath(INPUT_CSV)}`",
         "",
         "The displayed panel follows the state subset and order shown in the current manuscript",
         "Figure 3(a): WB, UP, TN, RJ, PN, OD, MP, MH, KA, HR, GJ, CH, BR, AS, AP.",

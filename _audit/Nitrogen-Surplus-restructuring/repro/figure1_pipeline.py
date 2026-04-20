@@ -469,13 +469,18 @@ def build_figure(map_frame: gpd.GeoDataFrame, state_crop: pd.DataFrame) -> plt.F
 
 
 def write_summary(output_dir: Path, boundary_file: Path, coverage: pd.DataFrame) -> Path:
+    repo_root = Path(__file__).resolve().parents[3]
+    try:
+        boundary_display = boundary_file.relative_to(repo_root).as_posix()
+    except ValueError:
+        boundary_display = str(boundary_file)
     matched = int(coverage["matched"].sum())
     total = int(len(coverage))
     unresolved = coverage[~coverage["matched"]][["State", "District"]].drop_duplicates()
     unresolved_lines = "\n".join(f"- {row.State} / {row.District}" for row in unresolved.itertuples())
     summary = (
         "# Figure 1 reproduction audit\n\n"
-        f"- Boundary source: `{boundary_file}`\n"
+        f"- Boundary source: `{boundary_display}`\n"
         f"- District-key coverage for panels a-c: {matched}/{total}\n"
         "- Panels a-c use 2017 baseline metrics from the generated optimization exports, filtered to observed baseline area.\n"
         "- Panel d uses the all-years sum of raw crop areas from `kharif_df.csv` and `rabi_df.csv`, scaled by `1e6`, so the plotted values are in million hectares.\n"

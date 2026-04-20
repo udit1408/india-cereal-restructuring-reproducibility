@@ -5,11 +5,11 @@ from pathlib import Path
 import pandas as pd
 
 
-ROOT = Path("/Users/udit/Documents/Shekhar_Nature")
-AUDIT_ROOT = ROOT / "revision_2" / "_audit" / "Nitrogen-Surplus-restructuring"
+ROOT = Path(__file__).resolve().parents[1]
+AUDIT_ROOT = ROOT / "_audit" / "Nitrogen-Surplus-restructuring"
 CODE_DATA = AUDIT_ROOT / "code_data"
 GENERATED = AUDIT_ROOT / "generated"
-OUTPUT = ROOT / "revision_2" / "_audit" / "figure2d_reproducibility"
+OUTPUT = ROOT / "_audit" / "figure2d_reproducibility"
 
 SOURCE_FILES = {
     "kharif": CODE_DATA / "kharif_waterdemand.csv",

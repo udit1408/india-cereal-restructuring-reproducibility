@@ -5,7 +5,7 @@ used for the revised Figure 2(d): fixed district cropped area, substitution amon
 historically observed cereals, and the shared state calorie and MSP-benchmarked
 income floors.
 
-Input table: `/Users/udit/Documents/Shekhar_Nature/revision_2/data/generated/figure2d_no_historical_cap_core/figure2d_no_historical_cap_core_optimized_areas.csv`
+Input table: `data/generated/figure2d_no_historical_cap_core/figure2d_no_historical_cap_core_optimized_areas.csv`
 
 The displayed panel follows the state subset and order shown in the current manuscript
 Figure 3(a): WB, UP, TN, RJ, PN, OD, MP, MH, KA, HR, GJ, CH, BR, AS, AP.
