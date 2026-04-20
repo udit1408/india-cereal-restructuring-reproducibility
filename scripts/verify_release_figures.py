@@ -61,31 +61,31 @@ def build_report() -> dict[str, object]:
         (
             "Figure 1",
             ROOT / "_audit" / "Nitrogen-Surplus-restructuring" / "outputs" / "generated" / "figure1" / "figure1_reproduced.pdf",
-            [],
+            [ROOT / "figures" / "manuscript_final" / "figure1_main_revision2.pdf"],
         ),
         (
             "Figure 2",
             ROOT / "figures" / "working_variants" / "figure2_main.pdf",
             [
-                ROOT / "figures" / "manuscript_final" / "fig2_main_revision2.pdf",
+                ROOT / "figures" / "manuscript_final" / "figure2_main_revision2.pdf",
             ],
         ),
         (
             "Figure 2 PNG",
             ROOT / "figures" / "working_variants" / "figure2_main.png",
-            [ROOT / "figures" / "manuscript_final" / "fig2_main_revision2.png"],
+            [ROOT / "figures" / "manuscript_final" / "figure2_main_revision2.png"],
         ),
         (
             "Figure 3",
             ROOT / "figures" / "working_variants" / "figure3_main.pdf",
             [
-                ROOT / "figures" / "manuscript_final" / "fig3_main_revision2.pdf",
+                ROOT / "figures" / "manuscript_final" / "figure3_main_revision2.pdf",
             ],
         ),
         (
             "Figure 3 PNG",
             ROOT / "figures" / "working_variants" / "figure3_main.png",
-            [ROOT / "figures" / "manuscript_final" / "fig3_main_revision2.png"],
+            [ROOT / "figures" / "manuscript_final" / "figure3_main_revision2.png"],
         ),
     ]
 

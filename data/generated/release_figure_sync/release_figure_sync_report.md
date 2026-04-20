@@ -1,53 +1,144 @@
-# Release Figure Verification
+# Release Figure Inventory
 
-The reproducibility workflow copies canonical regenerated figure outputs into the
-public release figure targets bundled in the repository and verifies exact byte-level equality
-by SHA-256 and file size.
+Generated UTC: `2026-04-20T08:10:51.005342+00:00`
 
-Generated UTC: `2026-04-20T07:25:00.691385+00:00`
+Canonical manuscript-aligned figure assets bundled in `figures/manuscript_final/`:
 
-## Figure 1
-
-- Canonical source: `/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduced.pdf`
-- Canonical SHA-256: `9aeb85099fc0f43638dc0df0e633ac44654ecb23c334c09b7132098642ac65c6`
-- Canonical size (bytes): `8180623`
-
-## Figure 2
-
-- Canonical source: `/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/working_variants/figure2_main.pdf`
-- Canonical SHA-256: `aef5bf44101972f50c62c58a671e264bda94cfac79cc148ad5ef9d89d3810f63`
-- Canonical size (bytes): `974475`
-- Target: `/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/fig2_main_revision2.pdf`
-  - SHA-256: `aef5bf44101972f50c62c58a671e264bda94cfac79cc148ad5ef9d89d3810f63`
-  - Size (bytes): `974475`
-  - Exact match: `True`
-
-## Figure 2 PNG
-
-- Canonical source: `/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/working_variants/figure2_main.png`
-- Canonical SHA-256: `44cc452ed4b6b140e2a71e0e811241d9de7c32473130f33e5e36c6dee78f2552`
-- Canonical size (bytes): `1057322`
-- Target: `/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/fig2_main_revision2.png`
-  - SHA-256: `44cc452ed4b6b140e2a71e0e811241d9de7c32473130f33e5e36c6dee78f2552`
-  - Size (bytes): `1057322`
-  - Exact match: `True`
-
-## Figure 3
-
-- Canonical source: `/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/working_variants/figure3_main.pdf`
-- Canonical SHA-256: `09f2cbda67f6a8a70fb573c9080d05f9ed5f499ff04c4aaf2e06ac2829e543af`
-- Canonical size (bytes): `2666675`
-- Target: `/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/fig3_main_revision2.pdf`
-  - SHA-256: `09f2cbda67f6a8a70fb573c9080d05f9ed5f499ff04c4aaf2e06ac2829e543af`
-  - Size (bytes): `2666675`
-  - Exact match: `True`
-
-## Figure 3 PNG
-
-- Canonical source: `/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/working_variants/figure3_main.png`
-- Canonical SHA-256: `0b64f427102799901bbfc5e227b11a5e0d2fc806c18d2518f3a4fcfc1949b7c2`
-- Canonical size (bytes): `2995170`
-- Target: `/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/fig3_main_revision2.png`
-  - SHA-256: `0b64f427102799901bbfc5e227b11a5e0d2fc806c18d2518f3a4fcfc1949b7c2`
-  - Size (bytes): `2995170`
-  - Exact match: `True`
+- `figures/manuscript_final/fig2_main_revision2.pdf`
+  - SHA-256: `3e77a2b44405ffe9b31f56fda3adfdc5ca3717615d024255e697bc19f3d8cd18`
+  - Size (bytes): `960636`
+- `figures/manuscript_final/fig2_main_revision2.png`
+  - SHA-256: `f41047f8026aad6da13cf773735dff091eaed3845d98cd13cab53f96a1d52c32`
+  - Size (bytes): `1041218`
+- `figures/manuscript_final/figure1_main_revision2.pdf`
+  - SHA-256: `3c1ad2839a4ce55d08e8a8b7cfe031dbed84d997e0812aa5c91f110fa73fffff`
+  - Size (bytes): `8180623`
+- `figures/manuscript_final/figure1_main_revision2.png`
+  - SHA-256: `4011c26e84d7c70a1b12e52bb551ad278067ddc091821245644b8667d244b668`
+  - Size (bytes): `498866`
+- `figures/manuscript_final/figure2_main_revision2.pdf`
+  - SHA-256: `3e77a2b44405ffe9b31f56fda3adfdc5ca3717615d024255e697bc19f3d8cd18`
+  - Size (bytes): `960636`
+- `figures/manuscript_final/figure2_main_revision2.png`
+  - SHA-256: `f41047f8026aad6da13cf773735dff091eaed3845d98cd13cab53f96a1d52c32`
+  - Size (bytes): `1041218`
+- `figures/manuscript_final/figure2c_cap_sensitivity_audit.pdf`
+  - SHA-256: `87fc617f753854fad1a05ff40d80f6085b75aa8ac94889026acfb368e64b4c68`
+  - Size (bytes): `16670`
+- `figures/manuscript_final/figure2c_cap_sensitivity_audit.png`
+  - SHA-256: `22c251b857eecbc859279db0c8cf955876b0489900fb543a32106423d2305cf7`
+  - Size (bytes): `163783`
+- `figures/manuscript_final/figure2c_regenerated_district_retention.pdf`
+  - SHA-256: `6e0d0ca9219fe82f5ce7f085f7e48913ebeb943fed2834a034cd671ee7247d77`
+  - Size (bytes): `18485`
+- `figures/manuscript_final/figure2c_regenerated_district_retention.png`
+  - SHA-256: `a1ff14c51e3f5bd36658f0d0f2bf7044393c6b97ea03263d34d8917425bd0128`
+  - Size (bytes): `187382`
+- `figures/manuscript_final/figure2c_regenerated_method_consistent.pdf`
+  - SHA-256: `207abbd632fea4ef40ddad68fb698f6fc65591f62b2c0a7fa12019bfe3cfe113`
+  - Size (bytes): `20104`
+- `figures/manuscript_final/figure2c_regenerated_method_consistent.png`
+  - SHA-256: `30c9fccff4d481c6d6c82ca31ef6c1949e65728caed5023946b27cb7f7f34ad1`
+  - Size (bytes): `172555`
+- `figures/manuscript_final/figure2c_regenerated_realized_replacement.pdf`
+  - SHA-256: `8552eb173bbe3ba9dfe192688ad8eac8a6b90b357e6b2193df9f0fce1fc52831`
+  - Size (bytes): `17438`
+- `figures/manuscript_final/figure2c_regenerated_realized_replacement.png`
+  - SHA-256: `84dea7de03a40f969e656cbcac9f1f054299c92aa94986a5f0523da9e01b36a0`
+  - Size (bytes): `145270`
+- `figures/manuscript_final/figure2c_regenerated_state_retention.pdf`
+  - SHA-256: `e884a68a99cd7af4df3394ed108cd5637201ffedaf2b7fc7aa3327ab2edabe7c`
+  - Size (bytes): `18418`
+- `figures/manuscript_final/figure2c_regenerated_state_retention.png`
+  - SHA-256: `3b12a128817e2bf688a970b6feb2145619675f723b9775a65f9e02faafe9b5e5`
+  - Size (bytes): `177258`
+- `figures/manuscript_final/figure3_clean_preview.pdf`
+  - SHA-256: `69f2043aa398d8212fda9cf0e8a9adde6b6028d56674751b313d1bbfdb4f471a`
+  - Size (bytes): `2577080`
+- `figures/manuscript_final/figure3_clean_preview.png`
+  - SHA-256: `c6a2f0668f1f9e769a475997e677de3eb730018dee6b2249573450a0bc2f46f8`
+  - Size (bytes): `2906569`
+- `figures/manuscript_final/figure3_main_revision2.pdf`
+  - SHA-256: `69f2043aa398d8212fda9cf0e8a9adde6b6028d56674751b313d1bbfdb4f471a`
+  - Size (bytes): `2577080`
+- `figures/manuscript_final/figure3_main_revision2.png`
+  - SHA-256: `c6a2f0668f1f9e769a475997e677de3eb730018dee6b2249573450a0bc2f46f8`
+  - Size (bytes): `2906569`
+- `figures/manuscript_final/si_figure2a_frontier_bootstrap.pdf`
+  - SHA-256: `29a9be496cb3bbed9b379edd3887ce4d55c9336fb3ca57085c080ba2a94c0ded`
+  - Size (bytes): `548396`
+- `figures/manuscript_final/si_figure2a_frontier_bootstrap.png`
+  - SHA-256: `c90ed75d081a41023d0794793301156581bff0775dc3b4e02b726661a3409535`
+  - Size (bytes): `985882`
+- `figures/manuscript_final/si_msp_benchmark_figure2.pdf`
+  - SHA-256: `103f599fa3132bf054ceb77d3a56d7a02d21b26ea758218f99a5a0ed108a77cc`
+  - Size (bytes): `977844`
+- `figures/manuscript_final/si_msp_benchmark_figure3.pdf`
+  - SHA-256: `aaf99a573c47d62c8f58900098a1135b81e131301f479b36199d1e59e26c7646`
+  - Size (bytes): `2720942`
+- `figures/manuscript_final/si_revenue_benchmark_robustness.pdf`
+  - SHA-256: `cf086ec8c373d74f3ac5707fa298de5ca4b36f089fe96bf984758e67caee7dad`
+  - Size (bytes): `34418`
+- `figures/manuscript_final/si_revenue_benchmark_robustness.png`
+  - SHA-256: `4bc6aa6892517f90cb0e33967b51195a42cb4032c2a62b0ec07285e767cd473e`
+  - Size (bytes): `299178`
+- `figures/manuscript_final/si_s10_kharif_n_component_sensitivity.png`
+  - SHA-256: `09275ce140b2cacdbb743d3f27f55049a8e86943d61e96da23eb80c45dda497a`
+  - Size (bytes): `223900`
+- `figures/manuscript_final/si_s11_rabi_n_component_sensitivity.png`
+  - SHA-256: `d6db5c5cd552b98e8cbc9217ef66b0bc3dc7676805da68dafbcab533167a7f77`
+  - Size (bytes): `227501`
+- `figures/manuscript_final/si_s12_n_strategy_ghg_components.jpg`
+  - SHA-256: `0834fd61a7dec97db1ff8cc5e8341e4ffcc1fac4709ff2a81faf26759627b760`
+  - Size (bytes): `484934`
+- `figures/manuscript_final/si_s13_water_strategy_ghg_components.jpg`
+  - SHA-256: `130f2beb0bb2827054b06b0028a1898c5c033615b2b260f3ffe63584f105b513`
+  - Size (bytes): `460332`
+- `figures/manuscript_final/si_s14_spatial_n_application.png`
+  - SHA-256: `a75aae7aa680a939bfbbdefb85413356b2f7131420d3965745c464eb83c82439`
+  - Size (bytes): `1457419`
+- `figures/manuscript_final/si_s15_image_gnm_partition.png`
+  - SHA-256: `00d01a4cc483c8fdcd69086bfe0148b2b6ab90a8dd79f5e1df60633b3ff21a21`
+  - Size (bytes): `3447785`
+- `figures/manuscript_final/si_s1_methodological_framework.png`
+  - SHA-256: `2bd32827cb70a04c374fc92025627eb4c3e6a169d98e01c7be3bd15cff8eda41`
+  - Size (bytes): `376913`
+- `figures/manuscript_final/si_s21_seasonal_substitution_audit.pdf`
+  - SHA-256: `40e93e9650cd0b2af4f44d475865c92e65496374e261bc3459805b51eb97e24a`
+  - Size (bytes): `621358`
+- `figures/manuscript_final/si_s2_seasonal_pareto.pdf`
+  - SHA-256: `d4ea591eafc2bf5e5f6772f321965567c7ec49d7a17bc1155ec8817939873a0f`
+  - Size (bytes): `21923`
+- `figures/manuscript_final/si_s2_seasonal_pareto.png`
+  - SHA-256: `360252be847c9ec7555f10b7d61ea73ab0022f3f70ee73fba0ca00c8113e8146`
+  - Size (bytes): `390044`
+- `figures/manuscript_final/si_s3_seasonal_tradeoffs.pdf`
+  - SHA-256: `57acff353fe6b5c3126a04da76468a35bd81d4951d1b978b2423d519794fbf09`
+  - Size (bytes): `21068`
+- `figures/manuscript_final/si_s3_seasonal_tradeoffs.png`
+  - SHA-256: `49f50c96320d665c871d97367409625135a52bf50442565958cade9e1331f7a6`
+  - Size (bytes): `263862`
+- `figures/manuscript_final/si_s4_cultural_retention.pdf`
+  - SHA-256: `f8dbdcfbe4d0bb1e84e87f23fc9373fb17d3b6bb235f4e682b289ffbcfef6192`
+  - Size (bytes): `21968`
+- `figures/manuscript_final/si_s4_cultural_retention.png`
+  - SHA-256: `0d99bd5003a8c33311d9d2727d76566365a7b3966f4ee3ac6d77fd1f73495cdc`
+  - Size (bytes): `232417`
+- `figures/manuscript_final/si_s5_original_trade_network_clean.pdf`
+  - SHA-256: `668b172ed26624fa733c8b8d804eba4dd12c70344fb3b98289c8824f59480df9`
+  - Size (bytes): `4161291`
+- `figures/manuscript_final/si_s6_state_boundaries.pdf`
+  - SHA-256: `e7ccd5094598ff2cbee52111bd987f8957e7fc39aad55b9e1ad716c3156594ec`
+  - Size (bytes): `172632`
+- `figures/manuscript_final/si_s6_state_boundaries.png`
+  - SHA-256: `237e3526b3ecad16f4bc365c312e1380ed90c84c8b5f35ca9be73f2652cd3540`
+  - Size (bytes): `193014`
+- `figures/manuscript_final/si_s7_parametric_uncertainty.pdf`
+  - SHA-256: `a66289ee0350a9a2de80fe19be69621c5fdb1822a0fc209bf4c86c4818e527c0`
+  - Size (bytes): `126761`
+- `figures/manuscript_final/si_s8_kharif_bootstrap_uncertainty.png`
+  - SHA-256: `815c626c9e110abac0a4c0ee13efc005a07c87c181cc79d3eb7f9aeb8ef51cac`
+  - Size (bytes): `194901`
+- `figures/manuscript_final/si_s9_rabi_bootstrap_uncertainty.png`
+  - SHA-256: `470f169f6838392d09872c260516f61f7a8dc985ec1d532fe43786ee689ecd70`
+  - Size (bytes): `194613`

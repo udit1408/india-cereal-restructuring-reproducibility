@@ -74,16 +74,27 @@ The root entry points delegate to the audited batch runners in [code_final](code
 
 ## Canonical Manuscript Outputs
 
-The manuscript-aligned figure files live in `figures/manuscript_final/`. The canonical main-display assets are:
+The manuscript-aligned figure files live in `figures/manuscript_final/`. The canonical article and cited supplementary assets are:
 
-- `figures/manuscript_final/fig2_main_revision2.pdf`
-- `figures/manuscript_final/fig3_main_revision2.pdf`
+- `figures/manuscript_final/figure1_main_revision2.pdf`
+- `figures/manuscript_final/figure2_main_revision2.pdf`
+- `figures/manuscript_final/figure3_main_revision2.pdf`
+- `figures/manuscript_final/si_s1_methodological_framework.png`
 - `figures/manuscript_final/si_s2_seasonal_pareto.pdf`
 - `figures/manuscript_final/si_s3_seasonal_tradeoffs.pdf`
 - `figures/manuscript_final/si_s4_cultural_retention.pdf`
 - `figures/manuscript_final/si_s5_original_trade_network_clean.pdf`
+- `figures/manuscript_final/si_s6_state_boundaries.pdf`
+- `figures/manuscript_final/si_s7_parametric_uncertainty.pdf`
+- `figures/manuscript_final/si_s8_kharif_bootstrap_uncertainty.png`
+- `figures/manuscript_final/si_s9_rabi_bootstrap_uncertainty.png`
+- `figures/manuscript_final/si_s10_kharif_n_component_sensitivity.png`
+- `figures/manuscript_final/si_s11_rabi_n_component_sensitivity.png`
+- `figures/manuscript_final/si_s12_n_strategy_ghg_components.jpg`
+- `figures/manuscript_final/si_s13_water_strategy_ghg_components.jpg`
+- `figures/manuscript_final/si_s14_spatial_n_application.png`
+- `figures/manuscript_final/si_s15_image_gnm_partition.png`
 - `figures/manuscript_final/si_revenue_benchmark_robustness.pdf`
-- `figures/manuscript_final/si_revenue_benchmark_endpoint_sensitivity.pdf`
 - `figures/manuscript_final/si_msp_benchmark_figure2.pdf`
 - `figures/manuscript_final/si_msp_benchmark_figure3.pdf`
 - `figures/manuscript_final/si_figure2a_frontier_bootstrap.pdf`

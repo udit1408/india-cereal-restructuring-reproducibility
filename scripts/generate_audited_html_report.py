@@ -74,10 +74,15 @@ def load_run_context() -> dict[str, object]:
 
 
 def build_manifest() -> dict[str, object]:
+    ASSET_DIR.mkdir(parents=True, exist_ok=True)
+    for child in ASSET_DIR.iterdir():
+        if child.is_file() or child.is_symlink():
+            child.unlink()
+
     preview_specs = [
-        ("Figure 1 reproduced render", ROOT / "_audit" / "Nitrogen-Surplus-restructuring" / "outputs" / "generated" / "figure1" / "figure1_reproduced.png", "main_figures", "png", "figure1_reproduced.png"),
-        ("Figure 2 primary realized-price composite", ROOT / "figures" / "manuscript_final" / "fig2_main_revision2.png", "main_figures", "png", "fig2_main_revision2.png"),
-        ("Figure 3 primary realized-price composite", ROOT / "figures" / "manuscript_final" / "fig3_main_revision2.png", "main_figures", "png", "fig3_main_revision2.png"),
+        ("Figure 1 manuscript render", ROOT / "figures" / "manuscript_final" / "figure1_main_revision2.png", "main_figures", "png", "figure1_main_revision2.png"),
+        ("Figure 2 manuscript render", ROOT / "figures" / "manuscript_final" / "figure2_main_revision2.png", "main_figures", "png", "figure2_main_revision2.png"),
+        ("Figure 3 manuscript render", ROOT / "figures" / "manuscript_final" / "figure3_main_revision2.png", "main_figures", "png", "figure3_main_revision2.png"),
         ("SI revenue robustness", ROOT / "figures" / "manuscript_final" / "si_revenue_benchmark_robustness.png", "si_figures", "png", "si_revenue_benchmark_robustness.png"),
         ("SI Figure 2a frontier envelope", ROOT / "figures" / "manuscript_final" / "si_figure2a_frontier_bootstrap.png", "si_figures", "png", "si_figure2a_frontier_bootstrap.png"),
     ]
@@ -87,19 +92,31 @@ def build_manifest() -> dict[str, object]:
             copied_previews[str(src)] = str(copy_preview(src, preview_name))
 
     main_outputs = [
-        path_record("Figure 1 reproduced PDF", ROOT / "_audit" / "Nitrogen-Surplus-restructuring" / "outputs" / "generated" / "figure1" / "figure1_reproduced.pdf", "main_figures", "pdf"),
-        path_record("Figure 2 primary realized-price composite PDF", ROOT / "figures" / "manuscript_final" / "fig2_main_revision2.pdf", "main_figures", "pdf"),
-        path_record("Figure 2 primary realized-price composite PNG", ROOT / "figures" / "manuscript_final" / "fig2_main_revision2.png", "main_figures", "png", preview_name="fig2_main_revision2.png"),
-        path_record("Figure 3 primary realized-price composite PDF", ROOT / "figures" / "manuscript_final" / "fig3_main_revision2.pdf", "main_figures", "pdf"),
+        path_record("Figure 1 manuscript PDF", ROOT / "figures" / "manuscript_final" / "figure1_main_revision2.pdf", "main_figures", "pdf"),
+        path_record("Figure 1 manuscript PNG", ROOT / "figures" / "manuscript_final" / "figure1_main_revision2.png", "main_figures", "png", preview_name="figure1_main_revision2.png"),
+        path_record("Figure 2 manuscript PDF", ROOT / "figures" / "manuscript_final" / "figure2_main_revision2.pdf", "main_figures", "pdf"),
+        path_record("Figure 2 manuscript PNG", ROOT / "figures" / "manuscript_final" / "figure2_main_revision2.png", "main_figures", "png", preview_name="figure2_main_revision2.png"),
+        path_record("Figure 3 manuscript PDF", ROOT / "figures" / "manuscript_final" / "figure3_main_revision2.pdf", "main_figures", "pdf"),
+        path_record("Figure 3 manuscript PNG", ROOT / "figures" / "manuscript_final" / "figure3_main_revision2.png", "main_figures", "png", preview_name="figure3_main_revision2.png"),
     ]
 
     si_outputs = [
+        path_record("SI Figure S1", ROOT / "figures" / "manuscript_final" / "si_s1_methodological_framework.png", "si_figures", "png"),
         path_record("SI seasonal Pareto PDF", ROOT / "figures" / "manuscript_final" / "si_s2_seasonal_pareto.pdf", "si_figures", "pdf"),
         path_record("SI seasonal trade-offs PDF", ROOT / "figures" / "manuscript_final" / "si_s3_seasonal_tradeoffs.pdf", "si_figures", "pdf"),
         path_record("SI cultural-retention PDF", ROOT / "figures" / "manuscript_final" / "si_s4_cultural_retention.pdf", "si_figures", "pdf"),
         path_record("SI observed trade network PDF", ROOT / "figures" / "manuscript_final" / "si_s5_original_trade_network_clean.pdf", "si_figures", "pdf"),
+        path_record("SI Figure S6", ROOT / "figures" / "manuscript_final" / "si_s6_state_boundaries.pdf", "si_figures", "pdf"),
+        path_record("SI Figure S7", ROOT / "figures" / "manuscript_final" / "si_s7_parametric_uncertainty.pdf", "si_figures", "pdf"),
+        path_record("SI Figure S8", ROOT / "figures" / "manuscript_final" / "si_s8_kharif_bootstrap_uncertainty.png", "si_figures", "png"),
+        path_record("SI Figure S9", ROOT / "figures" / "manuscript_final" / "si_s9_rabi_bootstrap_uncertainty.png", "si_figures", "png"),
+        path_record("SI Figure S10", ROOT / "figures" / "manuscript_final" / "si_s10_kharif_n_component_sensitivity.png", "si_figures", "png"),
+        path_record("SI Figure S11", ROOT / "figures" / "manuscript_final" / "si_s11_rabi_n_component_sensitivity.png", "si_figures", "png"),
+        path_record("SI Figure S12", ROOT / "figures" / "manuscript_final" / "si_s12_n_strategy_ghg_components.jpg", "si_figures", "jpg"),
+        path_record("SI Figure S13", ROOT / "figures" / "manuscript_final" / "si_s13_water_strategy_ghg_components.jpg", "si_figures", "jpg"),
+        path_record("SI Figure S14", ROOT / "figures" / "manuscript_final" / "si_s14_spatial_n_application.png", "si_figures", "png"),
+        path_record("SI Figure S15", ROOT / "figures" / "manuscript_final" / "si_s15_image_gnm_partition.png", "si_figures", "png"),
         path_record("SI revenue robustness PDF", ROOT / "figures" / "manuscript_final" / "si_revenue_benchmark_robustness.pdf", "si_figures", "pdf", preview_name="si_revenue_benchmark_robustness.png"),
-        path_record("SI revenue endpoint sensitivity PDF", ROOT / "figures" / "manuscript_final" / "si_revenue_benchmark_endpoint_sensitivity.pdf", "si_figures", "pdf"),
         path_record("SI MSP comparison Figure 2 PDF", ROOT / "figures" / "manuscript_final" / "si_msp_benchmark_figure2.pdf", "si_figures", "pdf"),
         path_record("SI MSP comparison Figure 3 PDF", ROOT / "figures" / "manuscript_final" / "si_msp_benchmark_figure3.pdf", "si_figures", "pdf"),
         path_record("SI Figure 2a frontier bootstrap PDF", ROOT / "figures" / "manuscript_final" / "si_figure2a_frontier_bootstrap.pdf", "si_figures", "pdf", preview_name="si_figure2a_frontier_bootstrap.png"),
