@@ -23,12 +23,12 @@ ROOT = Path(__file__).resolve().parents[1]
 AUDIT_ROOT = ROOT / "_audit" / "Nitrogen-Surplus-restructuring"
 FIG_DIR = ROOT / "figures" / "manuscript_final"
 DATA_DIR = ROOT / "data" / "generated"
-OUT_DIR = DATA_DIR / "Figure2_equivalent_frontier_bootstrap"
-CENTERS_CSV = DATA_DIR / "Figure2_equivalent" / "Figure2_equivalent_panel_a_combined_by_alpha.csv"
-OUT_ITERATIONS = OUT_DIR / "Figure2_equivalent_frontier_bootstrap_iterations.csv"
-OUT_SUMMARY = OUT_DIR / "Figure2_equivalent_frontier_bootstrap_summary.csv"
-OUT_AUDIT = OUT_DIR / "Figure2_equivalent_frontier_bootstrap_audit.md"
-OUT_COVERAGE = OUT_DIR / "Figure2_equivalent_frontier_bootstrap_price_coverage.csv"
+OUT_DIR = DATA_DIR / "figure2_main_frontier_bootstrap"
+CENTERS_CSV = DATA_DIR / "figure2_main" / "figure2_main_panel_a_combined_by_alpha.csv"
+OUT_ITERATIONS = OUT_DIR / "figure2_main_frontier_bootstrap_iterations.csv"
+OUT_SUMMARY = OUT_DIR / "figure2_main_frontier_bootstrap_summary.csv"
+OUT_AUDIT = OUT_DIR / "figure2_main_frontier_bootstrap_audit.md"
+OUT_COVERAGE = OUT_DIR / "figure2_main_frontier_bootstrap_price_coverage.csv"
 OUT_PNG = FIG_DIR / "si_figure2a_frontier_bootstrap.png"
 OUT_PDF = FIG_DIR / "si_figure2a_frontier_bootstrap.pdf"
 PRIMARY_SCENARIO_YEAR = "2017-18"
@@ -48,8 +48,8 @@ from repro.figure2a_clean_rebuild import (  # noqa: E402
     _sanitize,
     _solver,
 )
-import generate_Figure2_equivalent as figure2eq  # noqa: E402
-from generate_si_hybrid_revenue_profit_sensitivity import (  # noqa: E402
+import generate_figure2_main as figure2eq  # noqa: E402
+from generate_si_revenue_profit_sensitivity import (  # noqa: E402
     load_national_price_lookup,
     load_ratio_scenarios,
     load_state_price_lookup,

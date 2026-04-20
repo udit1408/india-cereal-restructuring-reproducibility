@@ -82,13 +82,13 @@ if [[ "$MODE" == "full" ]]; then
     bash -lc "cd '$ROOT/_audit/Nitrogen-Surplus-restructuring' && '$PYTHON_BIN' -m repro figure1 --boundary-file '$BOUNDARY_FILE'"
 
   run_step "Figure 2 primary realized-price rebuild" \
-    "$PYTHON_BIN" "$ROOT/scripts/generate_Figure2_equivalent.py" --scenario-year 2017-18 --bootstrap-iterations 500 --bootstrap-seed 42
+    "$PYTHON_BIN" "$ROOT/scripts/generate_figure2_main.py" --scenario-year 2017-18 --bootstrap-iterations 500 --bootstrap-seed 42
 
   run_step "Supplementary Figure 2 supporting block" \
     "$PYTHON_BIN" "$ROOT/scripts/generate_si_figure2_supporting_block.py"
 
   run_step "Figure 3 primary realized-price rebuild" \
-    "$PYTHON_BIN" "$ROOT/scripts/generate_Figure3_equivalent.py"
+    "$PYTHON_BIN" "$ROOT/scripts/generate_figure3_main.py"
 
   run_step "Seasonal substitution audit" \
     "$PYTHON_BIN" "$ROOT/scripts/generate_seasonal_substitution_audit.py"
@@ -99,8 +99,8 @@ if [[ "$MODE" == "full" ]]; then
   run_step "Revenue endpoint sensitivity SI figure" \
     "$PYTHON_BIN" "$ROOT/scripts/generate_si_revenue_benchmark_endpoint_sensitivity.py"
 
-  run_step "Hybrid revenue-profit SI figure" \
-    "$PYTHON_BIN" "$ROOT/scripts/generate_si_hybrid_revenue_profit_sensitivity.py"
+  run_step "Revenue-profit SI figure" \
+    "$PYTHON_BIN" "$ROOT/scripts/generate_si_revenue_profit_sensitivity.py"
 
   run_step "Figure 2(a) envelope SI figure" \
     "$PYTHON_BIN" "$ROOT/scripts/generate_si_figure2a_frontier_bootstrap.py"
@@ -108,8 +108,8 @@ if [[ "$MODE" == "full" ]]; then
   run_step "Source Data package rebuild" \
     "$PYTHON_BIN" "$ROOT/scripts/build_source_data_package.py"
 
-  run_step "Figure sync and exact-match verification" \
-    "$PYTHON_BIN" "$ROOT/scripts/sync_verify_final_paper_figures.py"
+  run_step "Release-figure exact-match verification" \
+    "$PYTHON_BIN" "$ROOT/scripts/verify_release_figures.py"
 fi
 
 run_step "HTML reproducibility report" \

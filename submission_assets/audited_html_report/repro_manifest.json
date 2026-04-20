@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-04-19T18:09:46.354891+00:00",
+  "generated_utc": "2026-04-20T07:13:39.322155+00:00",
   "root": ".",
   "run_context": {
-    "timestamp_utc": "2026-04-19T18:09:46Z",
-    "mode": "report-only",
+    "timestamp_utc": "2026-04-20T07:08:33Z",
+    "mode": "full",
     "runner": "code_final/run_final_revision2_batch.sh",
     "manifest": "code_final/FINAL_CODE_MANIFEST.md",
     "method_notation_map": "code_final/METHOD_NOTATION_MAP.md",
-    "log_file": "logs/public_repro_batch_20260419T180946Z.log"
+    "log_file": "logs/public_repro_batch_20260420T070833Z.log"
   },
   "previews": [
     {
@@ -26,8 +26,8 @@
     },
     {
       "label": "Figure 3 primary realized-price composite",
-      "source_path": "figures/manuscript_final/figure3_clean_preview.png",
-      "copied_preview": "submission_assets/audited_html_report/assets/figure3_clean_preview.png",
+      "source_path": "figures/manuscript_final/fig3_main_revision2.png",
+      "copied_preview": "submission_assets/audited_html_report/assets/fig3_main_revision2.png",
       "category": "main_figures",
       "kind": "png"
     },
@@ -55,8 +55,8 @@
         "path": "_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduced.pdf",
         "exists": true,
         "size_bytes": 8180623,
-        "modified_utc": "2026-04-19T11:05:35.376889+00:00",
-        "sha256": "3c1ad2839a4ce55d08e8a8b7cfe031dbed84d997e0812aa5c91f110fa73fffff"
+        "modified_utc": "2026-04-20T07:08:39.685085+00:00",
+        "sha256": "9aeb85099fc0f43638dc0df0e633ac44654ecb23c334c09b7132098642ac65c6"
       },
       {
         "label": "Figure 2 primary realized-price composite PDF",
@@ -64,9 +64,9 @@
         "kind": "pdf",
         "path": "figures/manuscript_final/fig2_main_revision2.pdf",
         "exists": true,
-        "size_bytes": 972923,
-        "modified_utc": "2026-04-19T12:09:17.632288+00:00",
-        "sha256": "2d8368aab4e808ebb2f9916f927db32729de4ed25fcdefdfc9d0b10a0dcccc51"
+        "size_bytes": 974475,
+        "modified_utc": "2026-04-20T07:10:18.446645+00:00",
+        "sha256": "aef5bf44101972f50c62c58a671e264bda94cfac79cc148ad5ef9d89d3810f63"
       },
       {
         "label": "Figure 2 primary realized-price composite PNG",
@@ -74,90 +74,90 @@
         "kind": "png",
         "path": "figures/manuscript_final/fig2_main_revision2.png",
         "exists": true,
-        "size_bytes": 1055271,
-        "modified_utc": "2026-04-19T12:09:17.629671+00:00",
-        "sha256": "953ff5e9c51c8f594ec149f6bc5f5d3b058b2acd30b4fe11f9ebf5df52a9cac3",
+        "size_bytes": 1057322,
+        "modified_utc": "2026-04-20T07:10:17.911738+00:00",
+        "sha256": "44cc452ed4b6b140e2a71e0e811241d9de7c32473130f33e5e36c6dee78f2552",
         "preview_name": "fig2_main_revision2.png"
       },
       {
         "label": "Figure 2a realized-price panel PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "figures/working_variants/Figure2_equivalent_panel_a.pdf",
+        "path": "figures/working_variants/figure2_main_panel_a.pdf",
         "exists": true,
         "size_bytes": 46988,
-        "modified_utc": "2026-04-19T06:45:58.057995+00:00",
-        "sha256": "0777fbd61a423d5eb4dd3380779706319859d08c48dcd9668c9ff988d4dfc3b7"
+        "modified_utc": "2026-04-20T07:08:49.476977+00:00",
+        "sha256": "2d47ab540bd52d037943667b8a193d7bf7b063f7b67557c2b93c2c6a30d1cc13"
       },
       {
         "label": "Figure 2b realized-price panel PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "figures/working_variants/Figure2_equivalent_panel_b.pdf",
+        "path": "figures/working_variants/figure2_main_panel_b.pdf",
         "exists": true,
-        "size_bytes": 20813,
-        "modified_utc": "2026-04-19T06:46:02.141279+00:00",
-        "sha256": "671efe1b6a98319ab9916b5d689239db6f0d566e47068749a4b85d44d58b5f96"
+        "size_bytes": 20842,
+        "modified_utc": "2026-04-20T07:10:11.471807+00:00",
+        "sha256": "fd91e566debd158406b784cbf29f04ab8bbf2070fe7a3f29aac71dcbd5c2d307"
       },
       {
         "label": "Figure 2c realized-price panel PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "figures/working_variants/Figure2_equivalent_panel_c.pdf",
+        "path": "figures/working_variants/figure2_main_panel_c.pdf",
         "exists": true,
         "size_bytes": 19508,
-        "modified_utc": "2026-04-19T06:46:04.830953+00:00",
-        "sha256": "ff2beca5a8f5f117af637b6d03ce81b35d83d9d83deef08f533011815867ba7f"
+        "modified_utc": "2026-04-20T07:10:14.120369+00:00",
+        "sha256": "6cf2bda8385b67202819da0831fa4d7f23b48da5484677b6e7e55a3869d743fc"
       },
       {
         "label": "Figure 2d realized-price panel PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "figures/working_variants/Figure2_equivalent_panel_d.pdf",
+        "path": "figures/working_variants/figure2_main_panel_d.pdf",
         "exists": true,
         "size_bytes": 49968,
-        "modified_utc": "2026-04-19T06:46:07.623353+00:00",
-        "sha256": "a816212b30e8081330160c84e15911b1c65af4d9fc2709bca6f8d30515b6970a"
+        "modified_utc": "2026-04-20T07:10:16.811937+00:00",
+        "sha256": "287ca0c0430820e47bad36591987f6b9087e4a670cada61f6f4fcc6d54ca6ee1"
       },
       {
         "label": "Figure 3a realized-price panel PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "figures/working_variants/Figure3_equivalent_panel_a.pdf",
+        "path": "figures/working_variants/figure3_main_panel_a.pdf",
         "exists": true,
         "size_bytes": 24325,
-        "modified_utc": "2026-04-19T06:46:10.612797+00:00",
-        "sha256": "05050dc6af66e90841276354f0799fb0706f4687a443a1532b48b605e9513f0e"
+        "modified_utc": "2026-04-20T07:10:22.239887+00:00",
+        "sha256": "197571f8fdbf5e8934be9f7653166ed6a9dd6f1d23320140fb3205d0522b2dc2"
       },
       {
         "label": "Figure 3b realized-price panel PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "figures/working_variants/Figure3_equivalent_panel_b.pdf",
+        "path": "figures/working_variants/figure3_main_panel_b.pdf",
         "exists": true,
-        "size_bytes": 43419,
-        "modified_utc": "2026-04-19T06:46:11.951187+00:00",
-        "sha256": "eee638abd8c3ce61ff211a05bb274ade93fc2ea1a2059acf4614bf03e5f729c3"
+        "size_bytes": 43386,
+        "modified_utc": "2026-04-20T07:10:23.560396+00:00",
+        "sha256": "c8e418a3c496409cc9da5898ac906b68229ea7fd0aa730ae9eaa50d05e2d4293"
       },
       {
         "label": "Figure 3c realized-price panel PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "figures/working_variants/Figure3_equivalent_panel_c.pdf",
+        "path": "figures/working_variants/figure3_main_panel_c.pdf",
         "exists": true,
-        "size_bytes": 59261,
-        "modified_utc": "2026-04-19T06:46:12.371809+00:00",
-        "sha256": "e8f0119526a75b9d6d26e63d53923aa6cf8d2b381faf46ed39540d42890c3ed7"
+        "size_bytes": 59221,
+        "modified_utc": "2026-04-20T07:10:23.977064+00:00",
+        "sha256": "8739d0a987d69f8a6a4ad3b4da84c7ae33cb3dd83a04ce85d14bee14cc9d5f1e"
       },
       {
         "label": "Figure 3 primary realized-price composite PDF",
         "category": "main_figures",
         "kind": "pdf",
-        "path": "figures/manuscript_final/figure3_clean_preview.pdf",
+        "path": "figures/manuscript_final/fig3_main_revision2.pdf",
         "exists": true,
-        "size_bytes": 2577080,
-        "modified_utc": "2026-04-19T17:13:56.677765+00:00",
-        "sha256": "69f2043aa398d8212fda9cf0e8a9adde6b6028d56674751b313d1bbfdb4f471a"
+        "size_bytes": 2666675,
+        "modified_utc": "2026-04-20T07:10:26.273432+00:00",
+        "sha256": "09f2cbda67f6a8a70fb573c9080d05f9ed5f499ff04c4aaf2e06ac2829e543af"
       }
     ],
     "si_outputs": [
@@ -167,9 +167,9 @@
         "kind": "pdf",
         "path": "figures/manuscript_final/si_revenue_benchmark_robustness.pdf",
         "exists": true,
-        "size_bytes": 33884,
-        "modified_utc": "2026-04-19T06:47:44.746432+00:00",
-        "sha256": "53389b2b6fcd6617bb3cc874fda1a11b993127b761b47157b8a684e6bf1ffd7b",
+        "size_bytes": 32940,
+        "modified_utc": "2026-04-20T07:10:29.942609+00:00",
+        "sha256": "85eadadc5388b86ed563ac51ad69ed715b72daf278d4f69e14b2a37426b2a850",
         "preview_name": "si_revenue_benchmark_robustness.png"
       },
       {
@@ -179,18 +179,18 @@
         "path": "figures/manuscript_final/si_revenue_benchmark_endpoint_sensitivity.pdf",
         "exists": true,
         "size_bytes": 26160,
-        "modified_utc": "2026-04-19T06:47:47.537259+00:00",
-        "sha256": "f74aa61f6db0126b8b843469fe0293975f9fdf2e52163cf1e9088bfa75e80d21"
+        "modified_utc": "2026-04-20T07:10:32.724695+00:00",
+        "sha256": "33efabad3c84f9a305d95d71d290d2fcbf6921e4e713b53c90bd6ce14cf4a6b9"
       },
       {
-        "label": "SI hybrid revenue-profit sensitivity PDF",
+        "label": "SI revenue-profit sensitivity PDF",
         "category": "si_figures",
         "kind": "pdf",
-        "path": "figures/manuscript_final/si_hybrid_revenue_profit_sensitivity.pdf",
+        "path": "figures/manuscript_final/si_revenue_profit_sensitivity.pdf",
         "exists": true,
-        "size_bytes": 33152,
-        "modified_utc": "2026-04-19T06:47:50.628290+00:00",
-        "sha256": "76ff067f48622d66d3176bec82d23a191afcb0c68b0abed2cfe3637e55aae8a0"
+        "size_bytes": 32955,
+        "modified_utc": "2026-04-20T07:13:35.980273+00:00",
+        "sha256": "694152de9a6fbabcc47ebce04265ac49844a888d9f2095dcf329c4927ddc1032"
       },
       {
         "label": "SI Figure 2a frontier bootstrap PDF",
@@ -198,9 +198,9 @@
         "kind": "pdf",
         "path": "figures/manuscript_final/si_figure2a_frontier_bootstrap.pdf",
         "exists": true,
-        "size_bytes": 537612,
-        "modified_utc": "2026-04-19T06:48:32.354603+00:00",
-        "sha256": "8bd02f386dd11e79e4ce5c2aaab31a32f34befb38e9bc2fdfd0c61cc7c683a91",
+        "size_bytes": 546486,
+        "modified_utc": "2026-04-20T07:11:16.363727+00:00",
+        "sha256": "0ea236b5982b0dcc7d8459ac1439e972afbb8f761f4b350060b9c666ff6d08cd",
         "preview_name": "si_figure2a_frontier_bootstrap.png"
       },
       {
@@ -210,8 +210,8 @@
         "path": "figures/manuscript_final/si_s21_seasonal_substitution_audit.pdf",
         "exists": true,
         "size_bytes": 668838,
-        "modified_utc": "2026-04-19T06:47:43.247264+00:00",
-        "sha256": "25bed9200df2f46953aa0a7faba847929792d6bfcef5b411850ae5df02451404"
+        "modified_utc": "2026-04-20T07:10:28.432126+00:00",
+        "sha256": "b6a4888494963e64eece5e6c64320f3ced12b925ae5bf7ac76175d63aa05857d"
       }
     ],
     "source_data": [
@@ -221,9 +221,9 @@
         "kind": "xlsx",
         "path": "submission_assets/source_data/Source Data.xlsx",
         "exists": true,
-        "size_bytes": 636886,
-        "modified_utc": "2026-04-19T18:09:09.806750+00:00",
-        "sha256": "d31dc60073248e9815ccfadb08f5ddd4b78c5afa4cef5d3ac0bd953f41a92335"
+        "size_bytes": 637445,
+        "modified_utc": "2026-04-20T07:11:17.412081+00:00",
+        "sha256": "a23b7a0c90d56b53b7517edbe01d5e0c4d030ed437bee470093900592f4301a9"
       },
       {
         "label": "Source Data zip",
@@ -231,9 +231,9 @@
         "kind": "zip",
         "path": "submission_assets/source_data/Source_Data_package.zip",
         "exists": true,
-        "size_bytes": 861570,
-        "modified_utc": "2026-04-19T18:09:09.837270+00:00",
-        "sha256": "1b85709dc3b7de7f65a8e015d761edd344729510f0c935533d8028bef822e744"
+        "size_bytes": 862844,
+        "modified_utc": "2026-04-20T07:11:17.443721+00:00",
+        "sha256": "43668d3f0eb040f8df0cacdfffa6c60f25a1617d81269e44cee3d0f1f6a58f11"
       },
       {
         "label": "Source Data README",
@@ -241,9 +241,9 @@
         "kind": "md",
         "path": "submission_assets/source_data/README.md",
         "exists": true,
-        "size_bytes": 8430,
-        "modified_utc": "2026-04-19T18:09:09.806932+00:00",
-        "sha256": "513c895f8763a9d377a37e7c69804eb0117ec46a9f5a48e7d8e176ac3ca43e9b"
+        "size_bytes": 8373,
+        "modified_utc": "2026-04-20T07:11:17.412386+00:00",
+        "sha256": "6217e6722734383e8359a15429edfc65c8b04bd56c81d630b045c1db06d701b6"
       }
     ],
     "audits": [
@@ -253,9 +253,9 @@
         "kind": "md",
         "path": "_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduction_summary.md",
         "exists": true,
-        "size_bytes": 727,
-        "modified_utc": "2026-04-19T18:08:11.283177+00:00",
-        "sha256": "91825e73860ed0731f46778d3e75b2ac22f5920d61403ee0c49aae0e4c5810b3"
+        "size_bytes": 790,
+        "modified_utc": "2026-04-20T07:08:39.697393+00:00",
+        "sha256": "4b76f222b6496c374a0495e095867f6bd2ca81ea332470c6ad10d404805b8853"
       },
       {
         "label": "Figure 2 cap-variant audit",
@@ -278,24 +278,24 @@
         "sha256": "fcd74079beafe6e976302797252a67eee16e66f06020bfaee4edde500f12db50"
       },
       {
-        "label": "Figure sync report (Markdown)",
+        "label": "Release-figure verification report (Markdown)",
         "category": "audit_notes",
         "kind": "md",
-        "path": "data/generated/final_paper_figure_sync/final_paper_figure_sync_report.md",
+        "path": "data/generated/release_figure_sync/release_figure_sync_report.md",
         "exists": true,
-        "size_bytes": 3694,
-        "modified_utc": "2026-04-19T18:09:39.604314+00:00",
-        "sha256": "e42d6c6612a85d9121061d26e67fa309ac877c6bacb892da8b6fd4336ea62c31"
+        "size_bytes": 2685,
+        "modified_utc": "2026-04-20T07:13:39.268909+00:00",
+        "sha256": "e93e5e314a4a072931ee6942ce51ba9c9905f1e7b73712e668e9cacdbcb61652"
       },
       {
-        "label": "Figure sync report (JSON)",
+        "label": "Release-figure verification report (JSON)",
         "category": "audit_notes",
         "kind": "json",
-        "path": "data/generated/final_paper_figure_sync/final_paper_figure_sync_report.json",
+        "path": "data/generated/release_figure_sync/release_figure_sync_report.json",
         "exists": true,
-        "size_bytes": 4542,
-        "modified_utc": "2026-04-19T04:41:10+00:00",
-        "sha256": "9e1479650740b26ca2e2bc6a95bc0e62c28f9e89689b682edf9ddab61210d342"
+        "size_bytes": 3087,
+        "modified_utc": "2026-04-20T07:13:39.268800+00:00",
+        "sha256": "51ea281c634739d12137aa4a9533d6e1605714587e8548d8324af6913780144e"
       }
     ],
     "workflow_files": [
@@ -345,9 +345,9 @@
         "kind": "md",
         "path": "code_final/FINAL_CODE_MANIFEST.md",
         "exists": true,
-        "size_bytes": 4301,
-        "modified_utc": "2026-04-19T18:07:40.490874+00:00",
-        "sha256": "1bcd69deec9139a1bd3b61e0a0882ec7d119c18aee6a1ac2cdd0fcc4422694da"
+        "size_bytes": 4238,
+        "modified_utc": "2026-04-20T07:07:48.030224+00:00",
+        "sha256": "96bc5fc45f898681470d5da993a7e505649133609dc8f08789f9744aa9d3fe87"
       },
       {
         "label": "Method notation map",
@@ -355,9 +355,9 @@
         "kind": "md",
         "path": "code_final/METHOD_NOTATION_MAP.md",
         "exists": true,
-        "size_bytes": 6729,
-        "modified_utc": "2026-04-19T18:08:34.197089+00:00",
-        "sha256": "2178fad12f1adc81c35c5fc423b0d899e2f77c6b6eca903f3f0d96b8479aaf8d"
+        "size_bytes": 6680,
+        "modified_utc": "2026-04-20T07:05:30.397210+00:00",
+        "sha256": "7d49d29bc0ea62f114ad3328917fc62e849958bd8b3d35dc3f752ff4f706e2a6"
       },
       {
         "label": "Final batch runner",
@@ -365,9 +365,9 @@
         "kind": "txt",
         "path": "code_final/run_final_revision2_batch.sh",
         "exists": true,
-        "size_bytes": 3763,
-        "modified_utc": "2026-04-19T18:07:40.490375+00:00",
-        "sha256": "9b05bf321a1abf4990831fc69248af079ad2d33ed1b11f97ee6f3de645463bdd"
+        "size_bytes": 3727,
+        "modified_utc": "2026-04-20T07:13:19.044582+00:00",
+        "sha256": "9328df9409bd55bea7b156dc47bfbe4ea7ce3438d828f4d20a850926f17717a8"
       },
       {
         "label": "Final Docker runner",
@@ -395,9 +395,9 @@
         "kind": "txt",
         "path": "scripts/run_audited_revision2_batch.sh",
         "exists": true,
-        "size_bytes": 3484,
-        "modified_utc": "2026-04-19T18:09:32.604633+00:00",
-        "sha256": "0924220251c8245b94287b075ca9d2294950b0484d710679ad2f9d0a5e1888f0"
+        "size_bytes": 3458,
+        "modified_utc": "2026-04-20T07:08:04.624754+00:00",
+        "sha256": "5be33bfb931fd5c306dcf8dffb4d87847e79c7036a7156f1db71ca89a8df9f0d"
       },
       {
         "label": "HTML report generator",
@@ -405,19 +405,19 @@
         "kind": "txt",
         "path": "scripts/generate_audited_html_report.py",
         "exists": true,
-        "size_bytes": 16152,
-        "modified_utc": "2026-04-19T18:09:32.604429+00:00",
-        "sha256": "3ac805ffabcbe59162bb949d8ebf39aa4f27fa07b8cd7ed92b18ef8ecf4581db"
+        "size_bytes": 16100,
+        "modified_utc": "2026-04-20T07:13:19.045435+00:00",
+        "sha256": "85f09e0624777da82e022b5dc68695b491c9716c74c0db29a713a8268e9d53ed"
       },
       {
-        "label": "Figure sync verifier",
+        "label": "Release-figure verifier",
         "category": "workflow",
         "kind": "txt",
-        "path": "scripts/sync_verify_final_paper_figures.py",
+        "path": "scripts/verify_release_figures.py",
         "exists": true,
-        "size_bytes": 5277,
-        "modified_utc": "2026-04-19T18:09:32.604911+00:00",
-        "sha256": "755b272a5addc8c9b3c3a8981e25f0b43ca01f9dd0b449bcf8ee99fc32307077"
+        "size_bytes": 4757,
+        "modified_utc": "2026-04-20T07:13:08.268340+00:00",
+        "sha256": "9d6698b8479bd2b35af7ec59436bd6bdd0c3724fbaef0a31ee3379bdfa51265e"
       }
     ]
   }

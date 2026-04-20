@@ -9,6 +9,7 @@ from pathlib import Path
 
 
 FOCUS_YEARS = ["2013-14", "2014-15", "2015-16", "2016-17", "2017-18"]
+STATE_MEDIAN_MSP_YEARS = ["2014-15", "2015-16", "2016-17", "2017-18", "2018-19"]
 CROPS = ["Rice", "Wheat", "Jowar", "Bajra", "Maize", "Ragi"]
 ALT_CROPS = ["Jowar", "Bajra", "Maize", "Ragi"]
 
@@ -80,10 +81,11 @@ def main():
     output_dir = Path(sys.argv[2]).resolve()
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    unit_state = read_csv(input_dir / "reviewer_unit_price_state_year_inputs_2011_12_to_2017_18.csv")
-    join_audit = read_csv(input_dir / "reviewer_unit_price_join_audit_2011_12_to_2017_18.csv")
-    unit_all_india = read_csv(input_dir / "reviewer_unit_price_all_india_year_inputs_2011_12_to_2017_18.csv")
+    unit_state = read_csv(input_dir / "state_realized_price_state_year_inputs_2011_12_to_2017_18.csv")
+    join_audit = read_csv(input_dir / "state_realized_price_join_audit_2011_12_to_2017_18.csv")
+    unit_all_india = read_csv(input_dir / "all_india_realized_price_year_inputs_2011_12_to_2017_18.csv")
     msp_rows = read_csv(input_dir / "des_msp_selected_crops_2013_14_to_2017_18.csv")
+    statewise_realized_vs_msp = read_csv(input_dir / "statewise_realized_price_vs_msp_2014_15_to_2018_19.csv")
 
     # Coverage summary
     coverage_rows = []
@@ -187,6 +189,47 @@ def main():
             for r in msp_ratio_rows
         ],
         notes="Values greater than 1 indicate that the derived all-India realized unit price exceeds the corresponding national MSP in the downloaded DES table.",
+    )
+
+    # State-median realized-price/MSP comparison used in Supplementary Fig. S16a
+    state_year_ratios = defaultdict(list)
+    for row in statewise_realized_vs_msp:
+        crop = row["Crop"].strip()
+        year = row["Year"].strip()
+        if crop not in CROPS or year not in STATE_MEDIAN_MSP_YEARS:
+            continue
+        realized = row.get("rupee_per_kg", "")
+        msp = row.get("MSP_rs_per_kg", "")
+        if not realized or not msp:
+            continue
+        realized_value = float(realized)
+        msp_value = float(msp)
+        if msp_value <= 0:
+            continue
+        state_year_ratios[(crop, year)].append(realized_value / msp_value)
+
+    state_median_ratio_rows = []
+    for crop in CROPS:
+        out = {"crop_name": crop}
+        for year in STATE_MEDIAN_MSP_YEARS:
+            ratios = state_year_ratios.get((crop, year), [])
+            out[year] = statistics.median(ratios) if ratios else None
+        state_median_ratio_rows.append(out)
+
+    write_csv(
+        output_dir / "state_median_unit_price_to_msp_ratio_2014_15_to_2018_19.csv",
+        ["crop_name"] + STATE_MEDIAN_MSP_YEARS,
+        state_median_ratio_rows,
+    )
+    tex_table(
+        output_dir / "state_median_unit_price_to_msp_ratio_2014_15_to_2018_19.tex",
+        "l" + "r" * len(STATE_MEDIAN_MSP_YEARS),
+        ["Crop"] + STATE_MEDIAN_MSP_YEARS,
+        [
+            [latex_escape(r["crop_name"])] + [fmt_num(r[y], 2) for y in STATE_MEDIAN_MSP_YEARS]
+            for r in state_median_ratio_rows
+        ],
+        notes="Values report the median across matched state-level realized-price to MSP ratios for each crop-year in the official MoSPI-DES assembled series.",
     )
 
     # Terms of trade summary

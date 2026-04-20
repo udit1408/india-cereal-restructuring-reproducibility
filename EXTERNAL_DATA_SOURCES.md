@@ -12,12 +12,12 @@ The following shareable inputs are already bundled in `data/input/`:
   - DES cost concept definitions used for the Methods and Supplementary clarification.
 - `des_msp_selected_crops_2013_14_to_2017_18.csv`
   - MSP reference table used for benchmark fallback and comparison analyses.
-- `reviewer_unit_price_state_year_inputs_2011_12_to_2017_18.csv`
+- `state_realized_price_state_year_inputs_2011_12_to_2017_18.csv`
   - state-year realized unit-price inputs assembled from official value-of-output and production sources.
   - the filename retains its historical compatibility label, but this is the primary state-level realized-price input table bundled with the package.
-- `reviewer_unit_price_all_india_year_inputs_2011_12_to_2017_18.csv`
+- `all_india_realized_price_year_inputs_2011_12_to_2017_18.csv`
   - all-India realized price series used for crop-wise fallback scaling.
-- `reviewer_unit_price_join_audit_2011_12_to_2017_18.csv`
+- `state_realized_price_join_audit_2011_12_to_2017_18.csv`
   - join audit showing matched and fallback benchmark coverage.
 - `upag_public_snapshot_2026_04_19/*.json`
   - public UPAg endpoint snapshots captured during revision to verify current public-route availability and its lack of historical benchmark depth.

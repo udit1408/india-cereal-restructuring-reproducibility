@@ -15,4 +15,4 @@ fi
 export MPLBACKEND=Agg
 export PYTHONPATH="$ROOT/_audit/Nitrogen-Surplus-restructuring${PYTHONPATH:+:$PYTHONPATH}"
 
-"$PYTHON_BIN" "$ROOT/scripts/generate_Figure3_equivalent.py" "$@"
+"$PYTHON_BIN" "$ROOT/scripts/generate_figure3_main.py" "$@"

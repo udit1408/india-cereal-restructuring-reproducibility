@@ -18,7 +18,7 @@ MIRROR_OUT_PDF = MANUSCRIPT_FIG_DIR / "si_revenue_benchmark_robustness.pdf"
 
 
 def load_data():
-    ratio = pd.read_csv(DATA_DIR / "all_india_unit_price_to_msp_ratio_2013_14_to_2017_18.csv")
+    ratio = pd.read_csv(DATA_DIR / "state_median_unit_price_to_msp_ratio_2014_15_to_2018_19.csv")
     terms = pd.read_csv(DATA_DIR / "terms_of_trade_summary_2013_14_to_2017_18.csv")
     return ratio, terms
 
@@ -55,7 +55,7 @@ def build_figure(ratio: pd.DataFrame, terms: pd.DataFrame):
     ax1 = fig.add_subplot(gs[0, 0])
     ax2 = fig.add_subplot(gs[0, 1])
 
-    norm = TwoSlopeNorm(vmin=0.85, vcenter=1.0, vmax=1.90)
+    norm = TwoSlopeNorm(vmin=0.50, vcenter=1.0, vmax=1.05)
     im = ax1.imshow(heatmap, cmap="RdBu_r", norm=norm, aspect="auto")
     ax1.set_xticks(np.arange(len(years)))
     ax1.set_xticklabels([format_year_label(y) for y in years], rotation=30, ha="right")
@@ -72,9 +72,13 @@ def build_figure(ratio: pd.DataFrame, terms: pd.DataFrame):
                 f"{heatmap[i, j]:.2f}",
                 ha="center",
                 va="center",
-                color="white" if abs(heatmap[i, j] - 1.0) >= 0.28 else "black",
+                color=(
+                    "white"
+                    if (0.2126 * im.cmap(norm(heatmap[i, j]))[0] + 0.7152 * im.cmap(norm(heatmap[i, j]))[1] + 0.0722 * im.cmap(norm(heatmap[i, j]))[2]) < 0.52
+                    else "black"
+                ),
                 fontsize=8.4,
-                fontweight="bold" if abs(heatmap[i, j] - 1.0) >= 0.20 else "normal",
+                fontweight="bold",
             )
     cbar = fig.colorbar(im, ax=ax1, fraction=0.046, pad=0.04)
     cbar.set_label("Realized price / MSP")

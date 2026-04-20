@@ -65,8 +65,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "Figure2_equivalent"
-        / "Figure2_equivalent_panel_a_combined_by_alpha.csv",
+        / "figure2_main"
+        / "figure2_main_panel_a_combined_by_alpha.csv",
     ),
     SourceItem(
         sheet="Fig2b_values",
@@ -78,8 +78,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "Figure2_equivalent"
-        / "Figure2_equivalent_panel_b_values.csv",
+        / "figure2_main"
+        / "figure2_main_panel_b_values.csv",
     ),
     SourceItem(
         sheet="Fig2b_whiskers",
@@ -91,9 +91,9 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "Figure2_equivalent"
+        / "figure2_main"
         / "panel_b_bootstrap"
-        / "Figure2_equivalent_panel_b_bootstrap_summary.csv",
+        / "figure2_main_panel_b_bootstrap_summary.csv",
     ),
     SourceItem(
         sheet="Fig2c_retention",
@@ -105,8 +105,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "Figure2_equivalent"
-        / "Figure2_equivalent_panel_c_combined.csv",
+        / "figure2_main"
+        / "figure2_main_panel_c_combined.csv",
     ),
     SourceItem(
         sheet="Fig2d_flows",
@@ -118,8 +118,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "Figure2_equivalent"
-        / "Figure2_equivalent_panel_d_transition_long.csv",
+        / "figure2_main"
+        / "figure2_main_panel_d_transition_long.csv",
     ),
     SourceItem(
         sheet="Fig2d_areas",
@@ -131,8 +131,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "Figure2_equivalent"
-        / "Figure2_equivalent_panel_d_optimized_areas.csv",
+        / "figure2_main"
+        / "figure2_main_panel_d_optimized_areas.csv",
     ),
     SourceItem(
         sheet="FigS2_seasonal",
@@ -234,8 +234,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "Figure3_equivalent"
-        / "Figure3_equivalent_panel_a_display_states.csv",
+        / "figure3_main"
+        / "figure3_main_panel_a_display_states.csv",
     ),
     SourceItem(
         sheet="Fig3b_edges",
@@ -247,8 +247,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "Figure3_equivalent"
-        / "Figure3_equivalent_panel_b_alt_trade_edges.csv",
+        / "figure3_main"
+        / "figure3_main_panel_b_alt_trade_edges.csv",
     ),
     SourceItem(
         sheet="Fig3b_nodes",
@@ -257,8 +257,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "Figure3_equivalent"
-        / "Figure3_equivalent_panel_b_alt_node_flows.csv",
+        / "figure3_main"
+        / "figure3_main_panel_b_alt_node_flows.csv",
     ),
     SourceItem(
         sheet="Fig3c_edges",
@@ -269,8 +269,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "Figure3_equivalent"
-        / "Figure3_equivalent_panel_c_rw_trade_edges.csv",
+        / "figure3_main"
+        / "figure3_main_panel_c_rw_trade_edges.csv",
     ),
     SourceItem(
         sheet="Fig3c_nodes",
@@ -279,17 +279,17 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "Figure3_equivalent"
-        / "Figure3_equivalent_panel_c_rw_node_flows.csv",
+        / "figure3_main"
+        / "figure3_main_panel_c_rw_node_flows.csv",
     ),
     SourceItem(
         sheet="FigS16a_ratio",
         label="Supplementary Figure S16a realized price / MSP ratios",
         description=(
-            "All-India realized-price to MSP ratios for the six focal cereals across 2013-14 to "
-            "2017-18."
+            "Median state-level realized-price to MSP ratios for the six focal cereals across "
+            "2014-15 to 2018-19."
         ),
-        path=ROOT / "data" / "generated" / "all_india_unit_price_to_msp_ratio_2013_14_to_2017_18.csv",
+        path=ROOT / "data" / "generated" / "state_median_unit_price_to_msp_ratio_2014_15_to_2018_19.csv",
     ),
     SourceItem(
         sheet="FigS16b_trade",
@@ -455,8 +455,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "Figure2_equivalent_frontier_bootstrap"
-        / "Figure2_equivalent_frontier_bootstrap_summary.csv",
+        / "figure2_main_frontier_bootstrap"
+        / "figure2_main_frontier_bootstrap_summary.csv",
     ),
     SourceItem(
         sheet="FigS21_sum",
@@ -504,7 +504,7 @@ def write_readme(manifest_rows: list[dict[str, object]]) -> None:
     lines = [
         "# Source Data package",
         "",
-        "This folder contains the source-data package for",
+        "This folder contains the Nature-style source-data package prepared for revision 2 of",
         "\"Quantifying Environmental Co-Benefits of Nitrogen-Based Crop Restructuring and Its",
         "Implications on India's Interstate Trade Network.\"",
         "",
@@ -519,7 +519,7 @@ def write_readme(manifest_rows: list[dict[str, object]]) -> None:
         "",
         "Workbook coverage:",
         "",
-        "- Main figures 1 to 3.",
+        "- Main manuscript Figures 1 to 3.",
         "- Supplementary Figures S2 to S5 and S16 to S21 introduced or revised during the current revision round.",
         "- Supplementary Table S10 summarizing the primary realized-price revenue benchmark.",
         "",
@@ -536,7 +536,7 @@ def write_readme(manifest_rows: list[dict[str, object]]) -> None:
     lines.append("")
     lines.append(
         "The broader public input datasets and repository-level reproducibility workflow are described "
-        "separately in the repository documentation."
+        "separately in the manuscript Data Availability and Code Availability statements."
     )
     README_PATH.write_text("\n".join(lines) + "\n")
 
@@ -553,8 +553,8 @@ def add_readme_sheet(wb: Workbook) -> None:
     ws.title = "README"
     rows = [
         ["Source Data package", ""],
-        ["Project", "Quantifying Environmental Co-Benefits of Nitrogen-Based Crop Restructuring and Its Implications on India's Interstate Trade Network"],
-        ["Release", "Public reproducibility package"],
+        ["Manuscript", "Quantifying Environmental Co-Benefits of Nitrogen-Based Crop Restructuring and Its Implications on India's Interstate Trade Network"],
+        ["Revision", "Nature Communications revision 2"],
         ["Contents", "Source data workbook for Figs. 1-3, Supplementary Figs. S2-S5 and S16-S21, and Supplementary Table S10"],
         ["Notes", "Each figure sheet contains the table used directly to construct the corresponding display item. See the Manifest sheet for file provenance and row counts."],
     ]

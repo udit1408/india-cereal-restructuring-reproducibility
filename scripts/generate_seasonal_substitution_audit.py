@@ -19,17 +19,18 @@ AREA_CSV = (
     ROOT
     / "data"
     / "generated"
-    / "Figure2_equivalent"
-    / "Figure2_equivalent_panel_d_optimized_areas.csv"
+    / "figure2_main"
+    / "figure2_main_panel_d_optimized_areas.csv"
 )
 OUT_DIR = ROOT / "data" / "generated" / "seasonal_substitution_audit_primary_revenue"
 FIG_DIR = ROOT / "figures" / "manuscript_final"
+WORKING_FIG_DIR = ROOT / "figures" / "working_variants"
 HELPER_PATH = ROOT / "scripts" / "generate_figure2d_clean.py"
 
 
 def load_helper():
     helper = SourceFileLoader("figure2d_clean_helper", str(HELPER_PATH)).load_module()
-    helper.FIG_DIR = FIG_DIR
+    helper.FIG_DIR = WORKING_FIG_DIR
     return helper
 
 
@@ -130,7 +131,7 @@ def write_summary(
         "# Seasonal Substitution Audit",
         "",
         "This audit uses the primary nitrogen-focused optimized area table generated under the",
-        "hybrid 2017-18 realized-price revenue benchmark. The optimization itself is seasonal:",
+        "2017-18 realized-price revenue benchmark with MSP fallback for unmatched state-crop pairs. The optimization itself is seasonal:",
         "kharif and rabi are solved",
         "independently, and the annual Figure 2(d) is an aggregation of those two seasonal outputs.",
         "",
@@ -308,6 +309,7 @@ def assemble_candidate_figure(
 if __name__ == "__main__":
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     FIG_DIR.mkdir(parents=True, exist_ok=True)
+    WORKING_FIG_DIR.mkdir(parents=True, exist_ok=True)
 
     helper = load_helper()
     area = pd.read_csv(AREA_CSV)

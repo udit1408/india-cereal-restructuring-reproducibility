@@ -77,7 +77,7 @@ def build_manifest() -> dict[str, object]:
     preview_specs = [
         ("Figure 1 reproduced render", ROOT / "_audit" / "Nitrogen-Surplus-restructuring" / "outputs" / "generated" / "figure1" / "figure1_reproduced.png", "main_figures", "png", "figure1_reproduced.png"),
         ("Figure 2 primary realized-price composite", ROOT / "figures" / "manuscript_final" / "fig2_main_revision2.png", "main_figures", "png", "fig2_main_revision2.png"),
-        ("Figure 3 primary realized-price composite", ROOT / "figures" / "manuscript_final" / "figure3_clean_preview.png", "main_figures", "png", "figure3_clean_preview.png"),
+        ("Figure 3 primary realized-price composite", ROOT / "figures" / "manuscript_final" / "fig3_main_revision2.png", "main_figures", "png", "fig3_main_revision2.png"),
         ("SI revenue robustness", ROOT / "figures" / "manuscript_final" / "si_revenue_benchmark_robustness.png", "si_figures", "png", "si_revenue_benchmark_robustness.png"),
         ("SI Figure 2a frontier envelope", ROOT / "figures" / "manuscript_final" / "si_figure2a_frontier_bootstrap.png", "si_figures", "png", "si_figure2a_frontier_bootstrap.png"),
     ]
@@ -90,20 +90,20 @@ def build_manifest() -> dict[str, object]:
         path_record("Figure 1 reproduced PDF", ROOT / "_audit" / "Nitrogen-Surplus-restructuring" / "outputs" / "generated" / "figure1" / "figure1_reproduced.pdf", "main_figures", "pdf"),
         path_record("Figure 2 primary realized-price composite PDF", ROOT / "figures" / "manuscript_final" / "fig2_main_revision2.pdf", "main_figures", "pdf"),
         path_record("Figure 2 primary realized-price composite PNG", ROOT / "figures" / "manuscript_final" / "fig2_main_revision2.png", "main_figures", "png", preview_name="fig2_main_revision2.png"),
-        path_record("Figure 2a realized-price panel PDF", ROOT / "figures" / "working_variants" / "Figure2_equivalent_panel_a.pdf", "main_figures", "pdf"),
-        path_record("Figure 2b realized-price panel PDF", ROOT / "figures" / "working_variants" / "Figure2_equivalent_panel_b.pdf", "main_figures", "pdf"),
-        path_record("Figure 2c realized-price panel PDF", ROOT / "figures" / "working_variants" / "Figure2_equivalent_panel_c.pdf", "main_figures", "pdf"),
-        path_record("Figure 2d realized-price panel PDF", ROOT / "figures" / "working_variants" / "Figure2_equivalent_panel_d.pdf", "main_figures", "pdf"),
-        path_record("Figure 3a realized-price panel PDF", ROOT / "figures" / "working_variants" / "Figure3_equivalent_panel_a.pdf", "main_figures", "pdf"),
-        path_record("Figure 3b realized-price panel PDF", ROOT / "figures" / "working_variants" / "Figure3_equivalent_panel_b.pdf", "main_figures", "pdf"),
-        path_record("Figure 3c realized-price panel PDF", ROOT / "figures" / "working_variants" / "Figure3_equivalent_panel_c.pdf", "main_figures", "pdf"),
-        path_record("Figure 3 primary realized-price composite PDF", ROOT / "figures" / "manuscript_final" / "figure3_clean_preview.pdf", "main_figures", "pdf"),
+        path_record("Figure 2a realized-price panel PDF", ROOT / "figures" / "working_variants" / "figure2_main_panel_a.pdf", "main_figures", "pdf"),
+        path_record("Figure 2b realized-price panel PDF", ROOT / "figures" / "working_variants" / "figure2_main_panel_b.pdf", "main_figures", "pdf"),
+        path_record("Figure 2c realized-price panel PDF", ROOT / "figures" / "working_variants" / "figure2_main_panel_c.pdf", "main_figures", "pdf"),
+        path_record("Figure 2d realized-price panel PDF", ROOT / "figures" / "working_variants" / "figure2_main_panel_d.pdf", "main_figures", "pdf"),
+        path_record("Figure 3a realized-price panel PDF", ROOT / "figures" / "working_variants" / "figure3_main_panel_a.pdf", "main_figures", "pdf"),
+        path_record("Figure 3b realized-price panel PDF", ROOT / "figures" / "working_variants" / "figure3_main_panel_b.pdf", "main_figures", "pdf"),
+        path_record("Figure 3c realized-price panel PDF", ROOT / "figures" / "working_variants" / "figure3_main_panel_c.pdf", "main_figures", "pdf"),
+        path_record("Figure 3 primary realized-price composite PDF", ROOT / "figures" / "manuscript_final" / "fig3_main_revision2.pdf", "main_figures", "pdf"),
     ]
 
     si_outputs = [
         path_record("SI revenue robustness PDF", ROOT / "figures" / "manuscript_final" / "si_revenue_benchmark_robustness.pdf", "si_figures", "pdf", preview_name="si_revenue_benchmark_robustness.png"),
         path_record("SI revenue endpoint sensitivity PDF", ROOT / "figures" / "manuscript_final" / "si_revenue_benchmark_endpoint_sensitivity.pdf", "si_figures", "pdf"),
-        path_record("SI hybrid revenue-profit sensitivity PDF", ROOT / "figures" / "manuscript_final" / "si_hybrid_revenue_profit_sensitivity.pdf", "si_figures", "pdf"),
+        path_record("SI revenue-profit sensitivity PDF", ROOT / "figures" / "manuscript_final" / "si_revenue_profit_sensitivity.pdf", "si_figures", "pdf"),
         path_record("SI Figure 2a frontier bootstrap PDF", ROOT / "figures" / "manuscript_final" / "si_figure2a_frontier_bootstrap.pdf", "si_figures", "pdf", preview_name="si_figure2a_frontier_bootstrap.png"),
         path_record("SI seasonal substitution audit PDF", ROOT / "figures" / "manuscript_final" / "si_s21_seasonal_substitution_audit.pdf", "si_figures", "pdf"),
     ]
@@ -118,8 +118,8 @@ def build_manifest() -> dict[str, object]:
         path_record("Figure 1 reproduction summary", ROOT / "_audit" / "Nitrogen-Surplus-restructuring" / "outputs" / "generated" / "figure1" / "figure1_reproduction_summary.md", "audit_notes", "md"),
         path_record("Figure 2 cap-variant audit", ROOT / "data" / "generated" / "figure2_cap_variant_audit.md", "audit_notes", "md"),
         path_record("Figure 2 legacy-faithful audit", ROOT / "data" / "generated" / "figure2_legacy_faithful_audit.md", "audit_notes", "md"),
-        path_record("Figure sync report (Markdown)", ROOT / "data" / "generated" / "final_paper_figure_sync" / "final_paper_figure_sync_report.md", "audit_notes", "md"),
-        path_record("Figure sync report (JSON)", ROOT / "data" / "generated" / "final_paper_figure_sync" / "final_paper_figure_sync_report.json", "audit_notes", "json"),
+        path_record("Release-figure verification report (Markdown)", ROOT / "data" / "generated" / "release_figure_sync" / "release_figure_sync_report.md", "audit_notes", "md"),
+        path_record("Release-figure verification report (JSON)", ROOT / "data" / "generated" / "release_figure_sync" / "release_figure_sync_report.json", "audit_notes", "json"),
     ]
 
     workflow_files = [
@@ -134,7 +134,7 @@ def build_manifest() -> dict[str, object]:
         path_record("Docker runner wrapper", ROOT / "scripts" / "docker_run_audited_revision2.sh", "workflow", "txt"),
         path_record("Audited batch runner", ROOT / "scripts" / "run_audited_revision2_batch.sh", "workflow", "txt"),
         path_record("HTML report generator", ROOT / "scripts" / "generate_audited_html_report.py", "workflow", "txt"),
-        path_record("Figure sync verifier", ROOT / "scripts" / "sync_verify_final_paper_figures.py", "workflow", "txt"),
+        path_record("Release-figure verifier", ROOT / "scripts" / "verify_release_figures.py", "workflow", "txt"),
     ]
 
     run_context = load_run_context()

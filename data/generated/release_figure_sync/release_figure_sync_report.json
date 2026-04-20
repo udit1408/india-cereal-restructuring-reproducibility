@@ -1,0 +1,68 @@
+{
+  "generated_utc": "2026-04-20T07:13:39.268515+00:00",
+  "records": [
+    {
+      "figure": "Figure 1",
+      "canonical_source": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/_audit/Nitrogen-Surplus-restructuring/outputs/generated/figure1/figure1_reproduced.pdf",
+      "canonical_sha256": "9aeb85099fc0f43638dc0df0e633ac44654ecb23c334c09b7132098642ac65c6",
+      "canonical_size_bytes": 8180623,
+      "targets": []
+    },
+    {
+      "figure": "Figure 2",
+      "canonical_source": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/working_variants/figure2_main.pdf",
+      "canonical_sha256": "aef5bf44101972f50c62c58a671e264bda94cfac79cc148ad5ef9d89d3810f63",
+      "canonical_size_bytes": 974475,
+      "targets": [
+        {
+          "target": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/fig2_main_revision2.pdf",
+          "target_sha256": "aef5bf44101972f50c62c58a671e264bda94cfac79cc148ad5ef9d89d3810f63",
+          "target_size_bytes": 974475,
+          "matches_source": true
+        }
+      ]
+    },
+    {
+      "figure": "Figure 2 PNG",
+      "canonical_source": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/working_variants/figure2_main.png",
+      "canonical_sha256": "44cc452ed4b6b140e2a71e0e811241d9de7c32473130f33e5e36c6dee78f2552",
+      "canonical_size_bytes": 1057322,
+      "targets": [
+        {
+          "target": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/fig2_main_revision2.png",
+          "target_sha256": "44cc452ed4b6b140e2a71e0e811241d9de7c32473130f33e5e36c6dee78f2552",
+          "target_size_bytes": 1057322,
+          "matches_source": true
+        }
+      ]
+    },
+    {
+      "figure": "Figure 3",
+      "canonical_source": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/working_variants/figure3_main.pdf",
+      "canonical_sha256": "09f2cbda67f6a8a70fb573c9080d05f9ed5f499ff04c4aaf2e06ac2829e543af",
+      "canonical_size_bytes": 2666675,
+      "targets": [
+        {
+          "target": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/fig3_main_revision2.pdf",
+          "target_sha256": "09f2cbda67f6a8a70fb573c9080d05f9ed5f499ff04c4aaf2e06ac2829e543af",
+          "target_size_bytes": 2666675,
+          "matches_source": true
+        }
+      ]
+    },
+    {
+      "figure": "Figure 3 PNG",
+      "canonical_source": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/working_variants/figure3_main.png",
+      "canonical_sha256": "0b64f427102799901bbfc5e227b11a5e0d2fc806c18d2518f3a4fcfc1949b7c2",
+      "canonical_size_bytes": 2995170,
+      "targets": [
+        {
+          "target": "/Users/udit/Documents/Shekhar_Nature/revision_2/github_release/figures/manuscript_final/fig3_main_revision2.png",
+          "target_sha256": "0b64f427102799901bbfc5e227b11a5e0d2fc806c18d2518f3a4fcfc1949b7c2",
+          "target_size_bytes": 2995170,
+          "matches_source": true
+        }
+      ]
+    }
+  ]
+}

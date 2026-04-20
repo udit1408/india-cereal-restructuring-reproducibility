@@ -43,7 +43,7 @@ def format_number(value: float, decimals: int | None = 0) -> str:
 def build_summary() -> pd.DataFrame:
     configure_imports()
     from generate_figure2b_clean import SEASON_NOTEBOOKS, build_context
-    from generate_si_hybrid_revenue_profit_sensitivity import (
+    from generate_si_revenue_profit_sensitivity import (
         canon,
         load_national_price_lookup,
         load_ratio_scenarios,

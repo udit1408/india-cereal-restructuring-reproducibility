@@ -6,7 +6,7 @@ The key point is narrow but important: the main workflow does not take direct cr
 
 ## Authoritative Input Files
 
-- `reviewer_unit_price_state_year_inputs_2011_12_to_2017_18.csv`
+- `state_realized_price_state_year_inputs_2011_12_to_2017_18.csv`
   - state-year-crop realized-price table assembled from official value-of-output and production sources.
   - this is the direct price source for the primary benchmark.
   - the filename retains its historical compatibility label.
@@ -14,14 +14,14 @@ The key point is narrow but important: the main workflow does not take direct cr
     - MoSPI publications portal: `https://www.mospi.gov.in/publications-reports/innerpage/431`
     - UPAg public portal: `https://upag.gov.in/`
 
-- `reviewer_unit_price_all_india_year_inputs_2011_12_to_2017_18.csv`
+- `all_india_realized_price_year_inputs_2011_12_to_2017_18.csv`
   - all-India crop-year realized-price table derived from the same official value and production sources.
   - this is used to compute crop-year national mean prices and crop-year realized-price/MSP ratios.
   - official source routes:
     - MoSPI publications portal: `https://www.mospi.gov.in/publications-reports/innerpage/431`
     - UPAg public portal: `https://upag.gov.in/`
 
-- `reviewer_unit_price_join_audit_2011_12_to_2017_18.csv`
+- `state_realized_price_join_audit_2011_12_to_2017_18.csv`
   - join audit showing which state-year-crop rows were matched directly and which required fallback handling.
 
 - `des_apy_selected_crops_state_year_season_production_2011_12_to_2017_18.csv`
@@ -31,7 +31,7 @@ The key point is narrow but important: the main workflow does not take direct cr
 - `des_msp_selected_crops_2013_14_to_2017_18.csv`
   - MSP reference table.
   - in the revised main benchmark this is not used as a direct realized-price source.
-  - it is used only in the explicit hybrid fallback for unmatched state-crop pairs and in MSP comparison analyses retained for Supplementary Information.
+  - it is used only in the explicit realized-price/MSP fallback for unmatched state-crop pairs and in MSP comparison analyses retained for Supplementary Information.
 
 - `des_cost_concepts.csv`
   - DES cost-concept reference used only for Methods/SI clarification of production-cost terminology.
@@ -40,16 +40,16 @@ The key point is narrow but important: the main workflow does not take direct cr
 
 The primary public-price benchmark is implemented through:
 
-- `scripts/generate_si_hybrid_revenue_profit_sensitivity.py`
+- `scripts/generate_si_revenue_profit_sensitivity.py`
   - `load_state_price_bundle()`
-- `scripts/generate_Figure2_equivalent.py`
+- `scripts/generate_figure2_main.py`
   - `_apply_hybrid_price_to_dict_context()`
   - `_apply_hybrid_price_to_season_context()`
 - `scripts/generate_primary_revenue_price_summary_table.py`
 
 The rule is:
 
-1. Read `reviewer_unit_price_state_year_inputs_2011_12_to_2017_18.csv`.
+1. Read `state_realized_price_state_year_inputs_2011_12_to_2017_18.csv`.
 2. Keep only matched state-crop-year rows with finite and strictly positive realized prices.
 3. If a matched official row exists but its realized price is zero or unusable, replace it with the crop-year national realized-price mean computed from aggregated official value and production.
 4. If no matched official state-crop row exists, use the explicit crop-year realized-price/MSP fallback.
@@ -107,7 +107,7 @@ A run is not the primary benchmark if it:
 
 The generated audit outputs to inspect are:
 
-- `../generated/Figure2_equivalent/Figure2_equivalent_price_coverage.csv`
+- `../generated/figure2_main/figure2_main_price_coverage.csv`
 - `../generated/primary_revenue_price_summary/primary_revenue_price_summary.csv`
 
 ## Explicitly Repaired Bad Direct-Price Cases

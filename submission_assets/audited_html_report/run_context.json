@@ -1,8 +1,8 @@
 {
-  "timestamp_utc": "2026-04-19T18:09:46Z",
-  "mode": "report-only",
+  "timestamp_utc": "2026-04-20T07:08:33Z",
+  "mode": "full",
   "runner": "code_final/run_final_revision2_batch.sh",
   "manifest": "code_final/FINAL_CODE_MANIFEST.md",
   "method_notation_map": "code_final/METHOD_NOTATION_MAP.md",
-  "log_file": "logs/public_repro_batch_20260419T180946Z.log"
+  "log_file": "logs/public_repro_batch_20260420T070833Z.log"
 }

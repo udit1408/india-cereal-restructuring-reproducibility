@@ -1,0 +1,41 @@
+scenario_key,scenario_label,strategy,metric,baseline_total,optimized_total,pct_reduction,display_pct_change,solver_status,metric_key
+2017-18,Realized-price 2017-18,Nitrogen based,Nitrogen Emission,287739236.80885214,236520874.46049374,17.80027045195203,-17.80027045195203,kharif:Optimal;rabi:Optimal,N_emission
+MSP,MSP baseline,Nitrogen based,Nitrogen Emission,287739236.80885214,229643749.3183698,20.190325148139497,-20.190325148139497,kharif:Optimal;rabi:Optimal,N_emission
+2017-18,Realized-price 2017-18,Nitrogen based,Nitrogen Leach,2391590187.444786,1918103354.188839,19.797991969595266,-19.797991969595266,kharif:Optimal;rabi:Optimal,N_leach
+MSP,MSP baseline,Nitrogen based,Nitrogen Leach,2391590187.444786,1852849788.3417373,22.526451309730778,-22.526451309730778,kharif:Optimal;rabi:Optimal,N_leach
+2017-18,Realized-price 2017-18,Nitrogen based,Greenhouse Gas emission,398546513.153932,300218963.56543046,24.671536782589822,-24.671536782589822,kharif:Optimal;rabi:Optimal,AGHG
+MSP,MSP baseline,Nitrogen based,Greenhouse Gas emission,398546513.153932,240279871.505502,39.71095880276893,-39.71095880276893,kharif:Optimal;rabi:Optimal,AGHG
+2017-18,Realized-price 2017-18,Nitrogen based,Profit,1215665645847.929,1259737472608.6965,-3.6253246862156248,3.6253246862156248,kharif:Optimal;rabi:Optimal,profit
+MSP,MSP baseline,Nitrogen based,Profit,550112782949.4415,648636912810.0697,-17.909805573393317,17.909805573393317,kharif:Optimal;rabi:Optimal,profit
+2017-18,Realized-price 2017-18,Nitrogen based,Calorie,955924593799921.0,1005461175546894.5,-5.182059554515627,5.182059554515627,kharif:Optimal;rabi:Optimal,Calorie
+MSP,MSP baseline,Nitrogen based,Calorie,955924593799921.0,1013802155162894.0,-6.054615786471439,6.054615786471439,kharif:Optimal;rabi:Optimal,Calorie
+2017-18,Realized-price 2017-18,Nitrogen based,Phosphorus application,4580861940.3896265,4195422972.5525417,8.414114480042619,-8.414114480042619,kharif:Optimal;rabi:Optimal,P_applied
+MSP,MSP baseline,Nitrogen based,Phosphorus application,4580861940.3896265,4071253831.419732,11.124720971759947,-11.124720971759947,kharif:Optimal;rabi:Optimal,P_applied
+2017-18,Realized-price 2017-18,Nitrogen based,Nitrogen application,12891996042.564434,11643599484.364754,9.6835009418088,-9.6835009418088,kharif:Optimal;rabi:Optimal,N_applied
+MSP,MSP baseline,Nitrogen based,Nitrogen application,12891996042.564434,11498738207.654829,10.807153758887306,-10.807153758887306,kharif:Optimal;rabi:Optimal,N_applied
+2017-18,Realized-price 2017-18,Nitrogen based,Phosphorus Surplus,3589737437.875405,3122255625.6518555,13.022729943731752,-13.022729943731752,kharif:Optimal;rabi:Optimal,P_surplus
+MSP,MSP baseline,Nitrogen based,Phosphorus Surplus,3589737437.875405,2970597741.3388777,17.247492532572704,-17.247492532572704,kharif:Optimal;rabi:Optimal,P_surplus
+2017-18,Realized-price 2017-18,Nitrogen based,Nitrogen Surplus,8285335580.939312,6825365173.74713,17.621137887895475,-17.621137887895475,kharif:Optimal;rabi:Optimal,N_surplus
+MSP,MSP baseline,Nitrogen based,Nitrogen Surplus,8285335580.939312,6624987861.425215,20.039595298152822,-20.039595298152822,kharif:Optimal;rabi:Optimal,N_surplus
+2017-18,Realized-price 2017-18,Nitrogen based,Water Demand,467586094005.25684,348227098001.31995,25.526635101897405,-25.526635101897405,kharif:Optimal;rabi:Optimal,water
+MSP,MSP baseline,Nitrogen based,Water Demand,467586094005.25684,318394096594.1964,31.906850807539872,-31.906850807539872,kharif:Optimal;rabi:Optimal,water
+2017-18,Realized-price 2017-18,Water based,Nitrogen Emission,287739236.80885214,266472591.3701014,7.390943854097443,-7.390943854097443,kharif:Optimal;rabi:Optimal,N_emission
+MSP,MSP baseline,Water based,Nitrogen Emission,287739236.80885214,261303334.62501252,9.187451276031998,-9.187451276031998,kharif:Optimal;rabi:Optimal,N_emission
+2017-18,Realized-price 2017-18,Water based,Nitrogen Leach,2391590187.444786,2153093650.447927,9.972299528945326,-9.972299528945326,kharif:Optimal;rabi:Optimal,N_leach
+MSP,MSP baseline,Water based,Nitrogen Leach,2391590187.444786,2129099835.0255003,10.975557342444809,-10.975557342444809,kharif:Optimal;rabi:Optimal,N_leach
+2017-18,Realized-price 2017-18,Water based,Greenhouse Gas emission,398546513.153932,274531141.26482123,31.11691303173235,-31.11691303173235,kharif:Optimal;rabi:Optimal,AGHG
+MSP,MSP baseline,Water based,Greenhouse Gas emission,398546513.153932,183263897.793722,54.01693610528732,-54.01693610528732,kharif:Optimal;rabi:Optimal,AGHG
+2017-18,Realized-price 2017-18,Water based,Profit,1215665645847.929,1257143973252.3584,-3.411984828731278,3.411984828731278,kharif:Optimal;rabi:Optimal,profit
+MSP,MSP baseline,Water based,Profit,550112782949.4415,639375126431.2944,-16.226189655741308,16.226189655741308,kharif:Optimal;rabi:Optimal,profit
+2017-18,Realized-price 2017-18,Water based,Calorie,955924593799921.0,1036626930543101.2,-8.442332927368074,8.442332927368074,kharif:Optimal;rabi:Optimal,Calorie
+MSP,MSP baseline,Water based,Calorie,955924593799921.0,1033381986844842.5,-8.102876895029825,8.102876895029825,kharif:Optimal;rabi:Optimal,Calorie
+2017-18,Realized-price 2017-18,Water based,Phosphorus application,4580861940.3896265,4496340505.705383,1.8450989308150643,-1.8450989308150643,kharif:Optimal;rabi:Optimal,P_applied
+MSP,MSP baseline,Water based,Phosphorus application,4580861940.3896265,4346610288.210073,5.113702513366484,-5.113702513366484,kharif:Optimal;rabi:Optimal,P_applied
+2017-18,Realized-price 2017-18,Water based,Nitrogen application,12891996042.564434,12646371625.423859,1.9052473824039167,-1.9052473824039167,kharif:Optimal;rabi:Optimal,N_applied
+MSP,MSP baseline,Water based,Nitrogen application,12891996042.564434,12497126504.289253,3.0629045880209147,-3.0629045880209147,kharif:Optimal;rabi:Optimal,N_applied
+2017-18,Realized-price 2017-18,Water based,Phosphorus Surplus,3589737437.875405,3385774117.981908,5.681845077065391,-5.681845077065391,kharif:Optimal;rabi:Optimal,P_surplus
+MSP,MSP baseline,Water based,Phosphorus Surplus,3589737437.875405,3213484984.361794,10.481336310108986,-10.481336310108986,kharif:Optimal;rabi:Optimal,P_surplus
+2017-18,Realized-price 2017-18,Water based,Nitrogen Surplus,8285335580.939312,7665127984.499823,7.485606230196606,-7.485606230196606,kharif:Optimal;rabi:Optimal,N_surplus
+MSP,MSP baseline,Water based,Nitrogen Surplus,8285335580.939312,7519054562.570043,9.248641903318005,-9.248641903318005,kharif:Optimal;rabi:Optimal,N_surplus
+2017-18,Realized-price 2017-18,Water based,Water Demand,467586094005.25684,300666524096.0582,35.69814672617745,-35.69814672617745,kharif:Optimal;rabi:Optimal,water
+MSP,MSP baseline,Water based,Water Demand,467586094005.25684,267036816407.03088,42.890342584904005,-42.890342584904005,kharif:Optimal;rabi:Optimal,water

@@ -1,7 +1,7 @@
 # Seasonal Substitution Audit
 
 This audit uses the primary nitrogen-focused optimized area table generated under the
-hybrid 2017-18 realized-price revenue benchmark. The optimization itself is seasonal:
+2017-18 realized-price revenue benchmark with MSP fallback for unmatched state-crop pairs. The optimization itself is seasonal:
 kharif and rabi are solved
 independently, and the annual Figure 2(d) is an aggregation of those two seasonal outputs.
 

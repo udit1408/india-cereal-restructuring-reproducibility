@@ -19,7 +19,7 @@ export PYTHONPATH="$ROOT/_audit/Nitrogen-Surplus-restructuring${PYTHONPATH:+:$PY
 "$PYTHON_BIN" "$ROOT/scripts/generate_seasonal_substitution_audit.py"
 "$PYTHON_BIN" "$ROOT/scripts/generate_si_revenue_robustness_figure.py"
 "$PYTHON_BIN" "$ROOT/scripts/generate_si_revenue_benchmark_endpoint_sensitivity.py"
-"$PYTHON_BIN" "$ROOT/scripts/generate_si_hybrid_revenue_profit_sensitivity.py"
+"$PYTHON_BIN" "$ROOT/scripts/generate_si_revenue_profit_sensitivity.py"
 "$PYTHON_BIN" "$ROOT/scripts/generate_si_figure2a_frontier_bootstrap.py"
 "$PYTHON_BIN" "$ROOT/scripts/build_source_data_package.py"
 "$PYTHON_BIN" "$ROOT/scripts/generate_audited_html_report.py"
