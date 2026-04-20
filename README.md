@@ -16,7 +16,7 @@ It is a reproducibility workflow, not a general-purpose Python library. The repo
 
 ## System Requirements
 
-The workflow is intended for macOS and Linux and is pinned to Python 3.11 in the containerized path. A standard workstation is sufficient for the scripted reruns.
+The workflow is tested on macOS and Linux and is pinned to Python 3.11 in the containerized path. Windows users should run the workflow through Docker Desktop or WSL2. A standard workstation is sufficient for the scripted reruns.
 
 Core Python dependencies are listed in [requirements.txt](requirements.txt) and include `numpy`, `pandas`, `matplotlib`, `PuLP`, `highspy`, `geopandas`, `pyogrio`, `pyproj`, `shapely`, `openpyxl`, and `pycirclize`.
 
