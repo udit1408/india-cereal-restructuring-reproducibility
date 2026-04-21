@@ -1,14 +1,24 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the software release."
+message: "If you use this repository, please cite the archived software release."
 title: "India Cereal Restructuring Reproducibility"
 type: software
+license: "Apache-2.0"
+abstract: "Audited computational workflow, shareable inputs, figure-generation scripts, and source-data exports for reproducing a district-level cereal crop restructuring analysis in India."
+repository-code: "https://github.com/udit1408/india-cereal-restructuring-reproducibility"
+url: "https://github.com/udit1408/india-cereal-restructuring-reproducibility"
+keywords:
+  - "India"
+  - "cereal restructuring"
+  - "nitrogen surplus"
+  - "water demand"
+  - "interstate trade"
 authors:
   - family-names: "Goyal"
     given-names: "Shekhar Sharan"
+    affiliation: "Indian Institute of Technology Gandhinagar; Helmholtz Centre for Environmental Research (UFZ)"
   - family-names: "Kumar"
     given-names: "Rohini"
+    affiliation: "Helmholtz Centre for Environmental Research (UFZ)"
   - family-names: "Bhatia"
     given-names: "Udit"
-repository-code: "https://github.com/udit1408/india-cereal-restructuring-reproducibility"
-license: "Apache-2.0"
-abstract: "Audited computational workflow, shareable inputs, figure-generation scripts, and source-data exports for reproducing a district-level cereal crop restructuring analysis in India."
+    affiliation: "Indian Institute of Technology Gandhinagar"

@@ -1,0 +1,28 @@
+{
+  "title": "India Cereal Restructuring Reproducibility",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "apache-2.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Goyal, Shekhar Sharan",
+      "affiliation": "Indian Institute of Technology Gandhinagar; Helmholtz Centre for Environmental Research (UFZ)"
+    },
+    {
+      "name": "Kumar, Rohini",
+      "affiliation": "Helmholtz Centre for Environmental Research (UFZ)"
+    },
+    {
+      "name": "Bhatia, Udit",
+      "affiliation": "Indian Institute of Technology Gandhinagar"
+    }
+  ],
+  "keywords": [
+    "India",
+    "cereal restructuring",
+    "nitrogen surplus",
+    "water demand",
+    "interstate trade"
+  ]
+}

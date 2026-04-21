@@ -150,4 +150,4 @@ This repository is released under the Apache 2.0 License. See [LICENSE](LICENSE)
 
 ## Citation
 
-Software citation metadata is provided in [CITATION.cff](CITATION.cff).
+Software citation metadata for GitHub is provided in [CITATION.cff](CITATION.cff). Zenodo-specific release metadata is provided in [.zenodo.json](.zenodo.json). The archival release workflow is summarized in [ZENODO_RELEASE.md](ZENODO_RELEASE.md).
