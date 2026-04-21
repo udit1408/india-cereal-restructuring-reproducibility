@@ -387,10 +387,10 @@ SOURCE_ITEMS = [
         / "figure2d_no_historical_cap_core_optimized_areas.csv",
     ),
     SourceItem(
-        sheet="FigS19a_state_cmp",
-        label="Supplementary Figure S19a MSP comparison state areas",
+        sheet="FigS18a_state_cmp",
+        label="Supplementary Figure S18a MSP comparison state areas",
         description=(
-            "State-level original and optimized crop areas for the district-MSP comparison Figure S19a."
+            "State-level original and optimized crop areas for the district-MSP comparison Figure S18a."
         ),
         path=ROOT
         / "data"
@@ -399,10 +399,10 @@ SOURCE_ITEMS = [
         / "figure3a_state_area_comparison_display_states.csv",
     ),
     SourceItem(
-        sheet="FigS19b_edges_cmp",
-        label="Supplementary Figure S19b MSP comparison alt-cereal edges",
+        sheet="FigS18b_edges_cmp",
+        label="Supplementary Figure S18b MSP comparison alt-cereal edges",
         description=(
-            "Alternative-cereal trade edges for the district-MSP comparison Figure S19b."
+            "Alternative-cereal trade edges for the district-MSP comparison Figure S18b, including newly introduced links where optimized staple-calorie deficits are reassigned to alternative cereals."
         ),
         path=ROOT
         / "data"
@@ -411,10 +411,10 @@ SOURCE_ITEMS = [
         / "figure3b_alt_trade_edges_clean.csv",
     ),
     SourceItem(
-        sheet="FigS19b_nodes_cmp",
-        label="Supplementary Figure S19b MSP comparison alt-cereal nodes",
+        sheet="FigS18b_nodes_cmp",
+        label="Supplementary Figure S18b MSP comparison alt-cereal nodes",
         description=(
-            "Alternative-cereal node-flow summaries for the district-MSP comparison Figure S19b."
+            "Alternative-cereal node-flow summaries for the district-MSP comparison Figure S18b."
         ),
         path=ROOT
         / "data"
@@ -423,10 +423,10 @@ SOURCE_ITEMS = [
         / "figure3b_alt_node_flows_clean.csv",
     ),
     SourceItem(
-        sheet="FigS19c_edges_cmp",
-        label="Supplementary Figure S19c MSP comparison rice-wheat edges",
+        sheet="FigS18c_edges_cmp",
+        label="Supplementary Figure S18c MSP comparison rice-wheat edges",
         description=(
-            "Rice-wheat trade edges for the district-MSP comparison Figure S19c."
+            "Rice-wheat trade edges for the district-MSP comparison Figure S18c."
         ),
         path=ROOT
         / "data"
@@ -435,10 +435,10 @@ SOURCE_ITEMS = [
         / "figure3c_rice_wheat_trade_edges_clean.csv",
     ),
     SourceItem(
-        sheet="FigS19c_nodes_cmp",
-        label="Supplementary Figure S19c MSP comparison rice-wheat nodes",
+        sheet="FigS18c_nodes_cmp",
+        label="Supplementary Figure S18c MSP comparison rice-wheat nodes",
         description=(
-            "Rice-wheat node-flow summaries for the district-MSP comparison Figure S19c."
+            "Rice-wheat node-flow summaries for the district-MSP comparison Figure S18c."
         ),
         path=ROOT
         / "data"

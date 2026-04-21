@@ -28,14 +28,14 @@ from generate_si_s5_original_trade_network import (  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE_DIR = ROOT / "submission_assets" / "source_data" / "csv"
-OUT_DIR = ROOT / "data" / "generated" / "si_s19_msp_benchmark_figure3_clean"
+OUT_DIR = ROOT / "data" / "generated" / "si_s18_msp_benchmark_figure3_clean"
 
-PANEL_A_PNG = FIG_DIR / "si_s19_msp_benchmark_figure3a_clean.png"
-PANEL_A_PDF = FIG_DIR / "si_s19_msp_benchmark_figure3a_clean.pdf"
-PANEL_B_PNG = FIG_DIR / "si_s19_msp_benchmark_figure3b_clean.png"
-PANEL_B_PDF = FIG_DIR / "si_s19_msp_benchmark_figure3b_clean.pdf"
-PANEL_C_PNG = FIG_DIR / "si_s19_msp_benchmark_figure3c_clean.png"
-PANEL_C_PDF = FIG_DIR / "si_s19_msp_benchmark_figure3c_clean.pdf"
+PANEL_A_PNG = FIG_DIR / "si_s18_msp_benchmark_figure3a_clean.png"
+PANEL_A_PDF = FIG_DIR / "si_s18_msp_benchmark_figure3a_clean.pdf"
+PANEL_B_PNG = FIG_DIR / "si_s18_msp_benchmark_figure3b_clean.png"
+PANEL_B_PDF = FIG_DIR / "si_s18_msp_benchmark_figure3b_clean.pdf"
+PANEL_C_PNG = FIG_DIR / "si_s18_msp_benchmark_figure3c_clean.png"
+PANEL_C_PDF = FIG_DIR / "si_s18_msp_benchmark_figure3c_clean.pdf"
 COMPOSITE_PNG = FIG_DIR / "si_msp_benchmark_figure3.png"
 COMPOSITE_PDF = FIG_DIR / "si_msp_benchmark_figure3.pdf"
 
@@ -119,7 +119,7 @@ def plot_panel_a(display: pd.DataFrame) -> None:
 
 
 def load_display_panel_a() -> pd.DataFrame:
-    df = pd.read_csv(SOURCE_DIR / "FigS19a_state_cmp.csv")
+    df = pd.read_csv(SOURCE_DIR / "FigS18a_state_cmp.csv")
     return df.loc[df["State"].isin(STATE_ABBREV)].copy()
 
 
@@ -182,8 +182,8 @@ def main() -> None:
     display = load_display_panel_a()
     plot_panel_a(display)
 
-    alt_edges = load_edges("FigS19b_edges_cmp.csv", "optimized_trade_kcal")
-    rw_edges = load_edges("FigS19c_edges_cmp.csv", "optimized_trade_kcal")
+    alt_edges = load_edges("FigS18b_edges_cmp.csv", "optimized_trade_kcal")
+    rw_edges = load_edges("FigS18c_edges_cmp.csv", "optimized_trade_kcal")
     alt_states = select_states(alt_edges, max_states=18)
     rw_states = select_states(rw_edges, max_states=20)
     alt_fromto, alt_matrix = build_matrix(alt_edges, alt_states)
@@ -192,13 +192,13 @@ def main() -> None:
     draw_chord_panel(rw_matrix, states=rw_states, out_png=PANEL_C_PNG, out_pdf=PANEL_C_PDF)
     assemble_composite()
 
-    display.to_csv(OUT_DIR / "si_s19_msp_panel_a_state_area.csv", index=False)
-    alt_fromto.to_csv(OUT_DIR / "si_s19_msp_panel_b_fromto_displayed.csv", index=False)
-    rw_fromto.to_csv(OUT_DIR / "si_s19_msp_panel_c_fromto_displayed.csv", index=False)
-    (OUT_DIR / "si_s19_msp_benchmark_figure3_manifest.md").write_text(
+    display.to_csv(OUT_DIR / "si_s18_msp_panel_a_state_area.csv", index=False)
+    alt_fromto.to_csv(OUT_DIR / "si_s18_msp_panel_b_fromto_displayed.csv", index=False)
+    rw_fromto.to_csv(OUT_DIR / "si_s18_msp_panel_c_fromto_displayed.csv", index=False)
+    (OUT_DIR / "si_s18_msp_benchmark_figure3_manifest.md").write_text(
         "\n".join(
             [
-                "# Supplementary Figure S19 clean rebuild",
+                "# Supplementary Figure S18 clean rebuild",
                 "",
                 "Rebuilt from the submitted source-data CSVs for the district-MSP comparison.",
                 "Chord panels use the same directional-link styling as the revised Figure 3 panels.",
