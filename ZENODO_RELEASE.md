@@ -28,7 +28,9 @@ This repository is prepared for archiving through the Zenodo GitHub integration.
 2. Create a new release with a semantic tag such as:
    - `v1.0.0`
 3. Use the release title to match the tag or the intended public software version.
-4. Publish the release.
+4. Use the prepared release-note template in:
+   - `RELEASE_v1.0.0.md`
+5. Publish the release.
 
 Zenodo will ingest the GitHub release automatically after the repository has been enabled.
 
@@ -47,4 +49,3 @@ Use the version DOI for exact reproducibility citations. Use the concept DOI whe
 - Each new GitHub release creates a new Zenodo version DOI.
 - The concept DOI remains stable across versions.
 - Metadata-only edits on Zenodo do not change the DOI.
-
