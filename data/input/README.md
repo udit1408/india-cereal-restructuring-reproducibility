@@ -36,6 +36,10 @@ The key point is narrow but important: the main workflow does not take direct cr
 - `des_cost_concepts.csv`
   - DES cost-concept reference used only for Methods/SI clarification of production-cost terminology.
 
+- `costofproductiondataandcode.zip`
+  - bundled cost-of-cultivation input archive used by the public rerun scripts for the `prod_cost_c2rev` benchmark.
+  - the release scripts read `cost_of_cultivation_data_raw.csv` from this archive.
+
 ## Benchmark Rule
 
 The primary public-price benchmark is implemented through:

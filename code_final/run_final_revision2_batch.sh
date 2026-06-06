@@ -96,6 +96,12 @@ if [[ "$MODE" == "full" ]]; then
   run_step "Revenue robustness SI figure" \
     "$PYTHON_BIN" "$ROOT/scripts/generate_si_revenue_robustness_figure.py"
 
+  run_step "Supplementary seasonal uncertainty block" \
+    "$PYTHON_BIN" "$ROOT/scripts/generate_si_uncertainty_primary_revenue.py" \
+    --scenario-year 2017-18 \
+    --bootstrap-iterations 500 \
+    --bootstrap-seed 42
+
   run_step "Revenue endpoint sensitivity SI figure" \
     "$PYTHON_BIN" "$ROOT/scripts/generate_si_revenue_benchmark_endpoint_sensitivity.py"
 

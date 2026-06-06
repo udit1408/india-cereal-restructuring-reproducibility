@@ -81,9 +81,9 @@ def main():
     output_dir = Path(sys.argv[2]).resolve()
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    unit_state = read_csv(input_dir / "state_realized_price_state_year_inputs_2011_12_to_2017_18.csv")
-    join_audit = read_csv(input_dir / "state_realized_price_join_audit_2011_12_to_2017_18.csv")
-    unit_all_india = read_csv(input_dir / "all_india_realized_price_year_inputs_2011_12_to_2017_18.csv")
+    unit_state = read_csv(input_dir / "reviewer_unit_price_state_year_inputs_2011_12_to_2017_18.csv")
+    join_audit = read_csv(input_dir / "reviewer_unit_price_join_audit_2011_12_to_2017_18.csv")
+    unit_all_india = read_csv(input_dir / "reviewer_unit_price_all_india_year_inputs_2011_12_to_2017_18.csv")
     msp_rows = read_csv(input_dir / "des_msp_selected_crops_2013_14_to_2017_18.csv")
     statewise_realized_vs_msp = read_csv(input_dir / "statewise_realized_price_vs_msp_2014_15_to_2018_19.csv")
 

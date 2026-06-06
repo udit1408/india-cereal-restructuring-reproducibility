@@ -23,6 +23,7 @@ This manifest defines the final audited code path. Files listed here are the onl
 | Figure 3 primary realized-price rebuild | `scripts/generate_figure3_main.py` | `figures/working_variants/figure3_main.*`; `data/generated/figure3_main/` |
 | Seasonal substitution audit | `scripts/generate_seasonal_substitution_audit.py` | `data/generated/seasonal_substitution_audit_primary_revenue/`; `figures/manuscript_final/si_s21_seasonal_substitution_audit.*` |
 | Revenue robustness SI figure | `scripts/generate_si_revenue_robustness_figure.py` | `figures/manuscript_final/si_revenue_benchmark_robustness.*` |
+| Supplementary seasonal uncertainty figures | `scripts/generate_si_uncertainty_primary_revenue.py` | `figures/manuscript_final/si_s8_*.png`, `si_s9_*.png`, `si_s10_*.png`, `si_s11_*.png`; `data/generated/si_uncertainty_primary_revenue/` |
 | Revenue endpoint sensitivity SI figure | `scripts/generate_si_revenue_benchmark_endpoint_sensitivity.py` | `figures/manuscript_final/si_revenue_benchmark_endpoint_sensitivity.*` |
 | Revenue-price support analysis | `scripts/generate_si_revenue_profit_sensitivity.py` | `figures/supporting_analysis/si_revenue_profit_sensitivity.*` |
 | Figure 2(a) frontier-envelope SI figure | `scripts/generate_si_figure2a_frontier_bootstrap.py` | `figures/manuscript_final/si_figure2a_frontier_bootstrap.*` |

@@ -394,10 +394,14 @@ def build_summary(iterations: pd.DataFrame, centers: pd.DataFrame) -> pd.DataFra
 
         p2_5 = float(valid.quantile(0.025))
         p97_5 = float(valid.quantile(0.975))
+        display_values = valid.map(lambda value: signed_display_change(metric, value, original_total))
+        display_mean = float(display_values.mean())
         display_p2_5 = signed_display_change(metric, p2_5, original_total)
         display_p97_5 = signed_display_change(metric, p97_5, original_total)
-        display_low = min(display_p2_5, display_p97_5)
-        display_high = max(display_p2_5, display_p97_5)
+        raw_display_low = min(display_p2_5, display_p97_5)
+        raw_display_high = max(display_p2_5, display_p97_5)
+        display_low = center_display + (raw_display_low - display_mean)
+        display_high = center_display + (raw_display_high - display_mean)
 
         rows.append(
             {
@@ -408,9 +412,9 @@ def build_summary(iterations: pd.DataFrame, centers: pd.DataFrame) -> pd.DataFra
                 "bootstrap_mean_pct_reduction": float(valid.mean()),
                 "bootstrap_p2_5_pct_reduction": p2_5,
                 "bootstrap_p97_5_pct_reduction": p97_5,
-                "bootstrap_mean_display_pct": float(
-                    valid.map(lambda value: signed_display_change(metric, value, original_total)).mean()
-                ),
+                "bootstrap_mean_display_pct": display_mean,
+                "raw_display_interval_low": raw_display_low,
+                "raw_display_interval_high": raw_display_high,
                 "display_interval_low": display_low,
                 "display_interval_high": display_high,
                 "lower_err_display": max(center_display - display_low, 0.0),
@@ -535,7 +539,7 @@ def write_audit(
     lines = [
         "# Figure 2(b) approved core whisker audit",
         "",
-        "This rebuild adds whiskers to the approved Figure 2(b) branch used in the current release.",
+        "This rebuild adds whiskers to the approved Figure 2(b) branch used in the revised manuscript.",
         "The deterministic bar centers come directly from `figure2b_no_historical_cap_core_values.csv` and therefore",
         "remain aligned with the current state calorie and state profit floors in both seasons.",
         "",

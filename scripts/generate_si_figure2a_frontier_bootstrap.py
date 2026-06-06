@@ -23,12 +23,13 @@ ROOT = Path(__file__).resolve().parents[1]
 AUDIT_ROOT = ROOT / "_audit" / "Nitrogen-Surplus-restructuring"
 FIG_DIR = ROOT / "figures" / "manuscript_final"
 DATA_DIR = ROOT / "data" / "generated"
-OUT_DIR = DATA_DIR / "figure2_main_frontier_bootstrap"
-CENTERS_CSV = DATA_DIR / "figure2_main" / "figure2_main_panel_a_combined_by_alpha.csv"
-OUT_ITERATIONS = OUT_DIR / "figure2_main_frontier_bootstrap_iterations.csv"
-OUT_SUMMARY = OUT_DIR / "figure2_main_frontier_bootstrap_summary.csv"
-OUT_AUDIT = OUT_DIR / "figure2_main_frontier_bootstrap_audit.md"
-OUT_COVERAGE = OUT_DIR / "figure2_main_frontier_bootstrap_price_coverage.csv"
+OUT_DIR = DATA_DIR / "Figure2_equivalent_frontier_bootstrap"
+CENTERS_CSV = DATA_DIR / "Figure2_equivalent" / "Figure2_equivalent_panel_a_combined_by_alpha.csv"
+OUT_ITERATIONS = OUT_DIR / "Figure2_equivalent_frontier_bootstrap_iterations.csv"
+OUT_SUMMARY = OUT_DIR / "Figure2_equivalent_frontier_bootstrap_summary.csv"
+OUT_ENDPOINTS = OUT_DIR / "Figure2_equivalent_frontier_bootstrap_endpoints.csv"
+OUT_AUDIT = OUT_DIR / "Figure2_equivalent_frontier_bootstrap_audit.md"
+OUT_COVERAGE = OUT_DIR / "Figure2_equivalent_frontier_bootstrap_price_coverage.csv"
 OUT_PNG = FIG_DIR / "si_figure2a_frontier_bootstrap.png"
 OUT_PDF = FIG_DIR / "si_figure2a_frontier_bootstrap.pdf"
 PRIMARY_SCENARIO_YEAR = "2017-18"
@@ -48,33 +49,33 @@ from repro.figure2a_clean_rebuild import (  # noqa: E402
     _sanitize,
     _solver,
 )
-import generate_figure2_main as figure2eq  # noqa: E402
-from generate_si_revenue_profit_sensitivity import (  # noqa: E402
+import generate_Figure2_equivalent as figure2eq  # noqa: E402
+from official_price_benchmark import (  # noqa: E402
+    load_national_cost_lookup,
     load_national_price_lookup,
-    load_ratio_scenarios,
+    load_state_cost_lookup,
     load_state_price_lookup,
-    load_unusable_direct_price_keys,
 )
 
 
 def build_contexts(layout) -> tuple[dict[str, dict[str, object]], pd.DataFrame]:
     contexts: dict[str, dict[str, object]] = {}
     coverage_rows: list[dict[str, object]] = []
-    crop_ratios = load_ratio_scenarios()[PRIMARY_SCENARIO_YEAR]
     state_price_lookup = load_state_price_lookup()
     national_price_lookup = load_national_price_lookup()
-    unusable_direct_keys = load_unusable_direct_price_keys()
+    state_cost_lookup = load_state_cost_lookup()
+    national_cost_lookup = load_national_cost_lookup()
     for season, notebook_name in SEASON_NOTEBOOKS.items():
         buffer = io.StringIO()
         with contextlib.redirect_stdout(buffer), contextlib.redirect_stderr(buffer):
             base_context = _build_season_context(layout, season, notebook_name)
-        contexts[season], coverage = figure2eq._apply_hybrid_price_to_dict_context(
+        contexts[season], coverage = figure2eq._apply_official_benchmark_to_dict_context(
             base_context,
             scenario_year=PRIMARY_SCENARIO_YEAR,
-            crop_ratios=crop_ratios,
             state_price_lookup=state_price_lookup,
             national_price_lookup=national_price_lookup,
-            unusable_direct_keys=unusable_direct_keys,
+            state_cost_lookup=state_cost_lookup,
+            national_cost_lookup=national_cost_lookup,
             panel_key="s20_frontier_bootstrap",
         )
         coverage_rows.append(coverage)
@@ -451,6 +452,89 @@ def build_summary(iterations: pd.DataFrame, centers: pd.DataFrame) -> pd.DataFra
     return pd.DataFrame(rows).sort_values("Alpha").reset_index(drop=True)
 
 
+def build_endpoint_table(iterations: pd.DataFrame, centers: pd.DataFrame) -> pd.DataFrame:
+    rows: list[dict[str, object]] = []
+    endpoint_specs = [
+        (0.0, "Water-based"),
+        (1.0, "Nitrogen-based"),
+    ]
+    centers_map = centers.set_index("Alpha")
+    for alpha, endpoint_name in endpoint_specs:
+        frame = iterations.loc[np.isclose(iterations["Alpha"], alpha)].copy()
+        frame = frame.sort_values("iteration").reset_index(drop=True)
+        center_row = centers_map.loc[alpha]
+        for metric, units in (("nitrogen_mt", "Tg N"), ("water_bcm", "BCM")):
+            rows.append(
+                {
+                    "endpoint": endpoint_name,
+                    "Alpha": float(alpha),
+                    "metric": metric,
+                    "units": units,
+                    "deterministic_value": float(center_row[metric]),
+                    "mean_value": float(frame[metric].mean()),
+                    "median_value": float(frame[metric].median()),
+                    "p2_5_value": float(frame[metric].quantile(0.025)),
+                    "p25_value": float(frame[metric].quantile(0.25)),
+                    "p75_value": float(frame[metric].quantile(0.75)),
+                    "p97_5_value": float(frame[metric].quantile(0.975)),
+                    "min_value": float(frame[metric].min()),
+                    "max_value": float(frame[metric].max()),
+                    "n_bootstrap": int(frame.shape[0]),
+                }
+            )
+    return pd.DataFrame(rows)
+
+
+def _draw_endpoint_axis(
+    ax: plt.Axes,
+    data_by_endpoint: dict[str, np.ndarray],
+    deterministic_by_endpoint: dict[str, float],
+    xlabel: str,
+    colors: dict[str, str],
+) -> None:
+    endpoint_order = ["Water-based", "Nitrogen-based"]
+    positions = [1, 0]
+    datasets = [data_by_endpoint[name] for name in endpoint_order]
+    violin = ax.violinplot(
+        datasets,
+        positions=positions,
+        vert=False,
+        widths=0.72,
+        showextrema=False,
+        showmeans=False,
+        showmedians=False,
+    )
+    for body, name in zip(violin["bodies"], endpoint_order):
+        body.set_facecolor(colors[name])
+        body.set_edgecolor(colors[name])
+        body.set_alpha(0.24)
+        body.set_linewidth(0.8)
+
+    for ypos, name in zip(positions, endpoint_order):
+        series = data_by_endpoint[name]
+        q2_5, q25, q50, q75, q97_5 = np.quantile(series, [0.025, 0.25, 0.5, 0.75, 0.975])
+        ax.hlines(ypos, q2_5, q97_5, color=colors[name], lw=1.0, zorder=3)
+        ax.hlines(ypos, q25, q75, color=colors[name], lw=3.2, zorder=4)
+        ax.plot(q50, ypos, marker="o", ms=3.8, color=colors[name], zorder=5)
+        ax.plot(
+            deterministic_by_endpoint[name],
+            ypos,
+            marker="D",
+            ms=4.4,
+            markerfacecolor="white",
+            markeredgewidth=1.0,
+            markeredgecolor="#253243",
+            zorder=6,
+        )
+
+    ax.set_yticks(positions)
+    ax.set_yticklabels(endpoint_order)
+    ax.set_xlabel(xlabel)
+    ax.grid(True, axis="x", linestyle="-", linewidth=0.5, color="#d7d7d7", alpha=0.85)
+    ax.spines["top"].set_visible(False)
+    ax.spines["right"].set_visible(False)
+
+
 def build_figure(centers: pd.DataFrame, iterations: pd.DataFrame, summary: pd.DataFrame) -> None:
     plt.rcParams.update(
         {
@@ -462,11 +546,14 @@ def build_figure(centers: pd.DataFrame, iterations: pd.DataFrame, summary: pd.Da
         }
     )
 
-    fig = plt.figure(figsize=(12.6, 4.2), facecolor="white")
-    grid = fig.add_gridspec(1, 3, width_ratios=[1.4, 1.0, 1.0], wspace=0.32)
+    fig = plt.figure(figsize=(17.2, 4.55), facecolor="white")
+    grid = fig.add_gridspec(1, 4, width_ratios=[1.45, 1.0, 1.0, 1.18], wspace=0.44)
     ax_frontier = fig.add_subplot(grid[0, 0])
     ax_n = fig.add_subplot(grid[0, 1])
     ax_w = fig.add_subplot(grid[0, 2])
+    d_grid = grid[0, 3].subgridspec(2, 1, hspace=0.42)
+    ax_d_n = fig.add_subplot(d_grid[0, 0])
+    ax_d_w = fig.add_subplot(d_grid[1, 0])
 
     for _iteration, group in iterations.groupby("iteration", sort=True):
         valid = group[group["status"].isin(["Optimal", "Evaluated"])].sort_values("Alpha")
@@ -577,8 +664,32 @@ def build_figure(centers: pd.DataFrame, iterations: pd.DataFrame, summary: pd.Da
     ax_w.spines["right"].set_visible(False)
     ax_w.text(-0.16, 1.03, "c", transform=ax_w.transAxes, fontsize=12, fontweight="bold")
 
-    fig.savefig(OUT_PNG, dpi=400, bbox_inches="tight", facecolor="white")
-    fig.savefig(OUT_PDF, bbox_inches="tight", facecolor="white")
+    endpoint_colors = {"Water-based": "#5b2a86", "Nitrogen-based": "#d89216"}
+    endpoint_frames = {
+        "Water-based": iterations.loc[np.isclose(iterations["Alpha"], 0.0)],
+        "Nitrogen-based": iterations.loc[np.isclose(iterations["Alpha"], 1.0)],
+    }
+    n_data = {name: frame["nitrogen_mt"].to_numpy() for name, frame in endpoint_frames.items()}
+    w_data = {name: frame["water_bcm"].to_numpy() for name, frame in endpoint_frames.items()}
+    n_det = {
+        "Water-based": float(water_endpoint["nitrogen_mt"]),
+        "Nitrogen-based": float(nitrogen_endpoint["nitrogen_mt"]),
+    }
+    w_det = {
+        "Water-based": float(water_endpoint["water_bcm"]),
+        "Nitrogen-based": float(nitrogen_endpoint["water_bcm"]),
+    }
+    _draw_endpoint_axis(ax_d_n, n_data, n_det, "Nitrogen surplus (Tg N)", endpoint_colors)
+    _draw_endpoint_axis(ax_d_w, w_data, w_det, "Consumptive water demand (BCM)", endpoint_colors)
+    ax_d_n.text(-0.34, 1.16, "d", transform=ax_d_n.transAxes, fontsize=12, fontweight="bold")
+    ax_d_n.set_title("Endpoint bootstrap summary", pad=4)
+    ax_d_n.plot([], [], marker="D", ms=4.4, markerfacecolor="white", markeredgecolor="#253243", lw=0, label="Deterministic")
+    ax_d_n.plot([], [], marker="o", ms=3.8, color="#253243", lw=0, label="Bootstrap median")
+    ax_d_n.legend(loc="lower right", fontsize=7.5, frameon=True, framealpha=0.92)
+
+    fig.subplots_adjust(left=0.055, right=0.992, bottom=0.17, top=0.93)
+    fig.savefig(OUT_PNG, dpi=400, bbox_inches="tight", pad_inches=0.08, facecolor="white")
+    fig.savefig(OUT_PDF, bbox_inches="tight", pad_inches=0.08, facecolor="white")
     plt.close(fig)
 
 
@@ -641,11 +752,11 @@ def write_audit(
     lines.extend(
         [
             "",
-            "The alpha-wise shaded bands in panels b-c are plotted as envelopes spanning the deterministic",
-            "frontier and the fixed-allocation bootstrap ensemble.",
-            "",
-            "## Endpoint envelopes",
-            "",
+        "The alpha-wise shaded bands in panels b-c are plotted as envelopes spanning the deterministic",
+        "frontier and the fixed-allocation bootstrap ensemble.",
+        "",
+        "## Endpoint envelopes",
+        "",
         ]
     )
     for row in endpoint_rows.itertuples(index=False):
@@ -657,6 +768,13 @@ def write_audit(
             f"(envelope {row.envelope_low_water_bcm:.3f} to {row.envelope_high_water_bcm:.3f}), "
             f"optimal {row.n_optimal}/{row.n_total}"
         )
+    lines.extend(
+        [
+            "",
+            "Panel d reports the fixed-allocation bootstrap distributions at the two frontier endpoints,",
+            "with deterministic values shown explicitly against the bootstrap median and central spread.",
+        ]
+    )
 
     lines.extend(["", "## Mid-frontier check", ""])
     mid = summary.iloc[len(summary) // 2]
@@ -708,9 +826,11 @@ def main() -> None:
     elapsed = time.time() - start
 
     summary = build_summary(iterations, centers)
+    endpoints = build_endpoint_table(iterations, centers)
 
     iterations.to_csv(OUT_ITERATIONS, index=False)
     summary.to_csv(OUT_SUMMARY, index=False)
+    endpoints.to_csv(OUT_ENDPOINTS, index=False)
     coverage.to_csv(OUT_COVERAGE, index=False)
     build_figure(centers, iterations, summary)
     write_audit(
@@ -725,6 +845,7 @@ def main() -> None:
     print(f"figure_png: {OUT_PNG}")
     print(f"figure_pdf: {OUT_PDF}")
     print(f"summary_csv: {OUT_SUMMARY}")
+    print(f"endpoints_csv: {OUT_ENDPOINTS}")
     print(f"audit_md: {OUT_AUDIT}")
 
 

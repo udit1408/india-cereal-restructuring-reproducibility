@@ -43,20 +43,14 @@ def format_number(value: float, decimals: int | None = 0) -> str:
 def build_summary() -> pd.DataFrame:
     configure_imports()
     from generate_figure2b_clean import SEASON_NOTEBOOKS, build_context
-    from generate_si_revenue_profit_sensitivity import (
+    from official_price_benchmark import (
         canon,
-        load_national_price_lookup,
-        load_ratio_scenarios,
-        load_state_price_lookup,
-        load_unusable_direct_price_keys,
+        load_price_bundle,
     )
     from repro.config import default_layout
 
     layout = default_layout(AUDIT_ROOT)
-    crop_ratios = load_ratio_scenarios()[SCENARIO_YEAR]
-    state_price_lookup = load_state_price_lookup()
-    national_price_lookup = load_national_price_lookup()
-    unusable_direct_keys = load_unusable_direct_price_keys()
+    price_df, _, state_price_lookup, national_price_lookup, _ = load_price_bundle()
 
     records: list[dict[str, object]] = []
     for season, notebook_name in SEASON_NOTEBOOKS.items():
@@ -71,12 +65,7 @@ def build_summary() -> pd.DataFrame:
 
             lookup_key = (SCENARIO_YEAR, canon(state), crop_key)
             direct_price = state_price_lookup.get(lookup_key)
-            national_price = (
-                national_price_lookup.get((SCENARIO_YEAR, crop_key))
-                if lookup_key in unusable_direct_keys
-                else None
-            )
-            fallback_price = float(msp_value) * float(crop_ratios.get(crop_key, 1.0))
+            national_price = national_price_lookup.get((SCENARIO_YEAR, crop_key))
             if direct_price is not None:
                 benchmark_price = float(direct_price)
                 price_source = "direct_state_year"
@@ -84,8 +73,9 @@ def build_summary() -> pd.DataFrame:
                 benchmark_price = float(national_price)
                 price_source = "national_mean_fill"
             else:
-                benchmark_price = fallback_price
-                price_source = "ratio_fallback"
+                raise KeyError(
+                    f"Missing official realized-price benchmark for year={SCENARIO_YEAR}, state={state}, crop={crop}"
+                )
 
             records.append(
                 {
@@ -95,11 +85,12 @@ def build_summary() -> pd.DataFrame:
                     "crop": crop_key,
                     "baseline_area_ha": float(current_area.get(key, 0.0)),
                     "msp_reference_rs_per_quintal": float(msp_value),
-                    "fallback_multiplier": float(crop_ratios.get(crop_key, 1.0)),
-                    "fallback_price_rs_per_quintal": fallback_price,
+                    "national_mean_price_rs_per_quintal": float(national_price)
+                    if national_price is not None
+                    else float("nan"),
                     "benchmark_price_rs_per_quintal": benchmark_price,
                     "direct_realized_price_used": direct_price is not None,
-                    "national_mean_fill_used": national_price is not None,
+                    "national_mean_fill_used": direct_price is None and national_price is not None,
                     "price_source": price_source,
                 }
             )
@@ -141,12 +132,16 @@ def build_summary() -> pd.DataFrame:
                 "msp_reference_rs_per_quintal": crop_df[
                     "msp_reference_rs_per_quintal"
                 ].median(),
-                "fallback_multiplier": crop_df["fallback_multiplier"].median(),
-                "fallback_price_rs_per_quintal": crop_df[
-                    "fallback_price_rs_per_quintal"
+                "national_mean_price_rs_per_quintal": crop_df[
+                    "national_mean_price_rs_per_quintal"
                 ].median(),
                 "matched_states_in_model": f"{direct_states}/{total_states}",
                 "direct_area_coverage_percent": 100.0 * direct_area / total_area
+                if total_area > 0
+                else float("nan"),
+                "national_fill_area_percent": 100.0
+                * float(crop_df.loc[crop_df["national_mean_fill_used"], "baseline_area_ha"].sum())
+                / total_area
                 if total_area > 0
                 else float("nan"),
                 "area_weighted_benchmark_price_rs_per_quintal": price_weighted,
@@ -162,14 +157,14 @@ def write_latex_table(summary: pd.DataFrame) -> None:
         r"\toprule",
         (
             r"\textbf{Crop} & \textbf{MSP reference} & "
-            r"\textbf{Fallback multiplier} & \textbf{Fallback price} & "
+            r"\textbf{National mean price} & "
             r"\textbf{Matched states} & \textbf{Direct area} & "
-            r"\textbf{Area-weighted price} \\"
+            r"\textbf{National fill area} & \textbf{Area-weighted price} \\"
         ),
         (
-            r" & \textbf{(Rs qtl$^{-1}$)} & \textbf{(-)} & "
-            r"\textbf{(Rs qtl$^{-1}$)} & \textbf{(n/n)} & "
-            r"\textbf{(\%)} & \textbf{(Rs qtl$^{-1}$)} \\"
+            r" & \textbf{(Rs qtl$^{-1}$)} & \textbf{(Rs qtl$^{-1}$)} & "
+            r"\textbf{(n/n)} & \textbf{(\%)} & \textbf{(\%)} & "
+            r"\textbf{(Rs qtl$^{-1}$)} \\"
         ),
         r"\midrule",
     ]
@@ -179,10 +174,10 @@ def write_latex_table(summary: pd.DataFrame) -> None:
                 [
                     str(row.crop),
                     format_number(row.msp_reference_rs_per_quintal, None),
-                    format_number(row.fallback_multiplier, 3),
-                    format_number(row.fallback_price_rs_per_quintal, 0),
+                    format_number(row.national_mean_price_rs_per_quintal, 0),
                     str(row.matched_states_in_model),
                     format_number(row.direct_area_coverage_percent, 1),
+                    format_number(row.national_fill_area_percent, 3),
                     format_number(row.area_weighted_benchmark_price_rs_per_quintal, 0),
                 ]
             )
@@ -199,11 +194,12 @@ def write_audit(summary: pd.DataFrame) -> None:
         "",
         f"Scenario year: `{SCENARIO_YEAR}`.",
         "",
-        "This table summarizes the implemented price benchmark used in the revised main optimization.",
-        "Matched state-crop combinations use direct state-year realized prices derived from MoSPI",
-        "value of output divided by DES APY production. Unmatched state-crop combinations use the",
-        "submitted model's MSP reference multiplied by the crop-specific all-India realized-price/MSP",
-        "ratio for 2017-18.",
+        "This table summarizes the 2017-18 official price benchmark used in the revised main optimization.",
+        "Matched state-crop combinations use direct state-year realized prices derived from official",
+        "value-of-output divided by production. Remaining state-crop combinations use the corresponding",
+        "national crop-level realized price for 2017-18. The MSP reference is retained here only as a",
+        "comparison column against the benchmarked realized prices; it is not used as a residual fallback",
+        "in the primary benchmarked optimization branch.",
         "",
         "Output files:",
         f"- `{OUT_CSV.relative_to(ROOT)}`",

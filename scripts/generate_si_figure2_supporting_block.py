@@ -17,16 +17,18 @@ ROOT = Path(__file__).resolve().parents[1]
 AUDIT_ROOT = ROOT / "_audit" / "Nitrogen-Surplus-restructuring"
 FIG_DIR = ROOT / "figures" / "manuscript_final"
 DATA_DIR = ROOT / "data" / "generated" / "si_figure2_block"
-PRIMARY_EQ_DIR = ROOT / "data" / "generated" / "figure2_main"
+PRIMARY_EQ_DIR = ROOT / "data" / "generated" / "Figure2_equivalent"
 PRIMARY_SCENARIO_YEAR = "2017-18"
 
 sys.path.insert(0, str(ROOT / "scripts"))
 
 import generate_figure2b_clean as figure2b  # noqa: E402
-import generate_figure2_main as figure2eq  # noqa: E402
-from generate_si_revenue_profit_sensitivity import (  # noqa: E402
-    load_ratio_scenarios,
+import generate_Figure2_equivalent as figure2eq  # noqa: E402
+from official_price_benchmark import (  # noqa: E402
+    load_national_price_lookup,
+    load_national_cost_lookup,
     load_state_price_lookup,
+    load_state_cost_lookup,
 )
 
 
@@ -47,7 +49,7 @@ def save_figure(fig: plt.Figure, stem: str) -> tuple[Path, Path]:
 def load_seasonal_frontiers() -> dict[str, pd.DataFrame]:
     frames: dict[str, pd.DataFrame] = {}
     for season in ("rabi", "kharif"):
-        frame = pd.read_csv(PRIMARY_EQ_DIR / f"figure2_main_panel_a_{season}_by_alpha.csv").rename(
+        frame = pd.read_csv(PRIMARY_EQ_DIR / f"Figure2_equivalent_panel_a_{season}_by_alpha.csv").rename(
             columns={"Alpha": "alpha"}
         )
         frames[season] = frame.sort_values("alpha").reset_index(drop=True)
@@ -139,14 +141,18 @@ def build_s2(frontiers: dict[str, pd.DataFrame]) -> pd.DataFrame:
 
 def build_contexts() -> dict[str, dict[str, object]]:
     layout = figure2b.default_layout(figure2b.AUDIT_ROOT)
-    crop_ratios = load_ratio_scenarios()[PRIMARY_SCENARIO_YEAR]
     state_price_lookup = load_state_price_lookup()
+    national_price_lookup = load_national_price_lookup()
+    state_cost_lookup = load_state_cost_lookup()
+    national_cost_lookup = load_national_cost_lookup()
     return {
-        season: figure2eq._apply_hybrid_price_to_dict_context(
+        season: figure2eq._apply_official_benchmark_to_dict_context(
             figure2b.build_context(layout, season, notebook_name),
             scenario_year=PRIMARY_SCENARIO_YEAR,
-            crop_ratios=crop_ratios,
             state_price_lookup=state_price_lookup,
+            national_price_lookup=national_price_lookup,
+            state_cost_lookup=state_cost_lookup,
+            national_cost_lookup=national_cost_lookup,
             panel_key="s3",
         )[0]
         for season, notebook_name in figure2b.SEASON_NOTEBOOKS.items()
@@ -184,7 +190,8 @@ def build_s3(contexts: dict[str, dict[str, object]]) -> pd.DataFrame:
         ordered=True,
     )
     table = table.sort_values(["season", "scenario", "metric"]).reset_index(drop=True)
-    table.to_csv(DATA_DIR / "si_s3_seasonal_tradeoffs.csv", index=False)
+    plot_table = table[table["metric"].astype(str) != "Net return"].reset_index(drop=True)
+    plot_table.to_csv(DATA_DIR / "si_s3_seasonal_tradeoffs.csv", index=False)
 
     plt.rcParams.update(
         {
@@ -200,7 +207,7 @@ def build_s3(contexts: dict[str, dict[str, object]]) -> pd.DataFrame:
         "Nitrogen Emission": "N emission",
         "Nitrogen Leach": "N leach",
         "Greenhouse Gas emission": "AGHG",
-        "Profit": "Profit",
+        "Net return": "Net return",
         "Calorie": "Calorie",
         "Phosphorus application": "P applied",
         "Nitrogen application": "N applied",
@@ -216,7 +223,7 @@ def build_s3(contexts: dict[str, dict[str, object]]) -> pd.DataFrame:
         ("rabi", "water", "d", "Rabi water-focused endpoint"),
     ]
     for ax, (season, scenario, panel, title) in zip(axes.flat, panel_specs, strict=True):
-        subset = table[(table["season"] == season) & (table["scenario"] == scenario)].copy()
+        subset = plot_table[(plot_table["season"] == season) & (plot_table["scenario"] == scenario)].copy()
         subset = subset.sort_values("metric")
         values = subset["pct_change"].to_numpy()
         y = np.arange(len(subset))
@@ -235,12 +242,12 @@ def build_s3(contexts: dict[str, dict[str, object]]) -> pd.DataFrame:
         ax.text(-0.16, 1.04, panel, transform=ax.transAxes, fontsize=18, fontweight="bold", va="top")
 
     save_figure(fig, "si_s3_seasonal_tradeoffs")
-    return table
+    return plot_table
 
 
 def build_s4() -> pd.DataFrame:
-    kharif = pd.read_csv(PRIMARY_EQ_DIR / "figure2_main_panel_c_kharif.csv")
-    rabi = pd.read_csv(PRIMARY_EQ_DIR / "figure2_main_panel_c_rabi.csv")
+    kharif = pd.read_csv(PRIMARY_EQ_DIR / "Figure2_equivalent_panel_c_kharif.csv")
+    rabi = pd.read_csv(PRIMARY_EQ_DIR / "Figure2_equivalent_panel_c_rabi.csv")
     for frame, season in ((kharif, "kharif"), (rabi, "rabi")):
         frame["season"] = season
     table = pd.concat([kharif, rabi], ignore_index=True)
@@ -294,16 +301,18 @@ def write_audit(
     lines = [
         "# SI figure-2 supporting block regeneration audit",
         "",
-        "This audit documents the rebuilt assets for Supplementary Figures S2, S3, and S4.",
-        f"All three figures are now generated from the primary {PRIMARY_SCENARIO_YEAR} realized-price benchmark",
+        "This audit documents the rebuilt revision-2 assets for Supplementary Figures S2, S3, and S4.",
+        f"All three figures are now generated from the primary {PRIMARY_SCENARIO_YEAR} official price-and-cost benchmark",
         "used in the revised main text, rather than from the older district-MSP figure branch.",
-        "Archived district-MSP seasonal comparison renders are retained separately under",
-        "`figures/archive_nonmanuscript/`, while the cited MSP comparison block remains documented",
-        "later in Supplementary Figures S18-S19.",
+        "Archived district-MSP versions of these seasonal figures have been preserved separately in",
+        "`figures/manuscript_final/si_msp_s2_seasonal_pareto.*`,",
+        "`figures/manuscript_final/si_msp_s3_seasonal_tradeoffs.*`, and",
+        "`figures/manuscript_final/si_msp_s4_cultural_retention.*`, while the main MSP comparison block",
+        "remains documented later in Supplementary Figures S18-S19.",
         "",
         "## Figure S2",
-        "- Source files: `data/generated/figure2_main/figure2_main_panel_a_rabi_by_alpha.csv` and",
-        "  `data/generated/figure2_main/figure2_main_panel_a_kharif_by_alpha.csv`.",
+        "- Source files: `data/generated/Figure2_equivalent/Figure2_equivalent_panel_a_rabi_by_alpha.csv` and",
+        "  `data/generated/Figure2_equivalent/Figure2_equivalent_panel_a_kharif_by_alpha.csv`.",
         "- Plot content: decile alpha points from the primary kharif and rabi Pareto frontiers, with water-focused",
         "  and nitrogen-focused endpoints highlighted explicitly.",
     ]
@@ -320,8 +329,8 @@ def write_audit(
             "## Figure S3",
             "- Source logic: season-specific endpoint solves from `generate_figure2b_clean.py` with",
             "  fixed district cropped area, substitution among historically observed cereals, no district-crop",
-            f"  historical area caps, and the primary {PRIMARY_SCENARIO_YEAR} realized-price benchmark",
-            "  applied to the state price term before solving.",
+            f"  historical area caps, and the primary {PRIMARY_SCENARIO_YEAR} official price-and-cost benchmark",
+            "  applied to the revenue and production-cost terms before solving.",
             "- Values below are changes relative to the baseline cereal allocation.",
         ]
     )
@@ -330,7 +339,7 @@ def write_audit(
             subset = seasonal_tradeoffs[
                 (seasonal_tradeoffs["season"] == season) & (seasonal_tradeoffs["scenario"] == scenario)
             ]
-            key_metrics = subset[subset["metric"].isin(["Water Demand", "Nitrogen Surplus", "Profit", "Calorie"])]
+            key_metrics = subset[subset["metric"].isin(["Water Demand", "Nitrogen Surplus", "Net return", "Calorie"])]
             lines.append(f"- {season} {scenario}:")
             for row in key_metrics.itertuples(index=False):
                 lines.append(f"  - {row.metric}: {row.pct_change:+.3f}%")
@@ -339,8 +348,8 @@ def write_audit(
         [
             "",
             "## Figure S4",
-            "- Source files: `data/generated/figure2_main/figure2_main_panel_c_kharif.csv` and",
-            "  `data/generated/figure2_main/figure2_main_panel_c_rabi.csv`.",
+            "- Source files: `data/generated/Figure2_equivalent/Figure2_equivalent_panel_c_kharif.csv` and",
+            "  `data/generated/Figure2_equivalent/Figure2_equivalent_panel_c_rabi.csv`.",
             "- Plot content: nitrogen-surplus reduction as the state-level retained rice or wheat floor is relaxed.",
         ]
     )

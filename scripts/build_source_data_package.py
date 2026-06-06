@@ -65,8 +65,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "figure2_main"
-        / "figure2_main_panel_a_combined_by_alpha.csv",
+        / "Figure2_equivalent"
+        / "Figure2_equivalent_panel_a_combined_by_alpha.csv",
     ),
     SourceItem(
         sheet="Fig2b_values",
@@ -78,8 +78,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "figure2_main"
-        / "figure2_main_panel_b_values.csv",
+        / "Figure2_equivalent"
+        / "Figure2_equivalent_panel_b_values.csv",
     ),
     SourceItem(
         sheet="Fig2b_whiskers",
@@ -91,9 +91,9 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "figure2_main"
+        / "Figure2_equivalent"
         / "panel_b_bootstrap"
-        / "figure2_main_panel_b_bootstrap_summary.csv",
+        / "Figure2_equivalent_panel_b_bootstrap_summary.csv",
     ),
     SourceItem(
         sheet="Fig2c_retention",
@@ -105,8 +105,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "figure2_main"
-        / "figure2_main_panel_c_combined.csv",
+        / "Figure2_equivalent"
+        / "Figure2_equivalent_panel_c_combined.csv",
     ),
     SourceItem(
         sheet="Fig2d_flows",
@@ -118,8 +118,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "figure2_main"
-        / "figure2_main_panel_d_transition_long.csv",
+        / "Figure2_equivalent"
+        / "Figure2_equivalent_panel_d_transition_long.csv",
     ),
     SourceItem(
         sheet="Fig2d_areas",
@@ -131,8 +131,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "figure2_main"
-        / "figure2_main_panel_d_optimized_areas.csv",
+        / "Figure2_equivalent"
+        / "Figure2_equivalent_panel_d_optimized_areas.csv",
     ),
     SourceItem(
         sheet="FigS2_seasonal",
@@ -234,8 +234,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "figure3_main"
-        / "figure3_main_panel_a_display_states.csv",
+        / "Figure3_equivalent"
+        / "Figure3_equivalent_panel_a_display_states.csv",
     ),
     SourceItem(
         sheet="Fig3b_edges",
@@ -247,8 +247,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "figure3_main"
-        / "figure3_main_panel_b_alt_trade_edges.csv",
+        / "Figure3_equivalent"
+        / "Figure3_equivalent_panel_b_alt_trade_edges.csv",
     ),
     SourceItem(
         sheet="Fig3b_nodes",
@@ -257,8 +257,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "figure3_main"
-        / "figure3_main_panel_b_alt_node_flows.csv",
+        / "Figure3_equivalent"
+        / "Figure3_equivalent_panel_b_alt_node_flows.csv",
     ),
     SourceItem(
         sheet="Fig3c_edges",
@@ -269,8 +269,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "figure3_main"
-        / "figure3_main_panel_c_rw_trade_edges.csv",
+        / "Figure3_equivalent"
+        / "Figure3_equivalent_panel_c_rw_trade_edges.csv",
     ),
     SourceItem(
         sheet="Fig3c_nodes",
@@ -279,8 +279,8 @@ SOURCE_ITEMS = [
         path=ROOT
         / "data"
         / "generated"
-        / "figure3_main"
-        / "figure3_main_panel_c_rw_node_flows.csv",
+        / "Figure3_equivalent"
+        / "Figure3_equivalent_panel_c_rw_node_flows.csv",
     ),
     SourceItem(
         sheet="FigS16a_ratio",
@@ -301,52 +301,26 @@ SOURCE_ITEMS = [
         path=ROOT / "data" / "generated" / "terms_of_trade_summary_2013_14_to_2017_18.csv",
     ),
     SourceItem(
-        sheet="TableS10_prices",
-        label="Supplementary Table S10 primary revenue price summary",
+        sheet="FigS17a_pareto_cmp",
+        label="Supplementary Figure S17a MSP comparison Pareto points",
         description=(
-            "Crop-level summary of the 2017-18 primary revenue-benchmark prices used in the "
-            "revised optimization."
-        ),
-        path=ROOT
-        / "data"
-        / "generated"
-        / "primary_revenue_price_summary"
-        / "primary_revenue_price_summary.csv",
-    ),
-    SourceItem(
-        sheet="FigS17_values",
-        label="Supplementary Figure S17 endpoint sensitivity",
-        description=(
-            "Scenario-wise endpoint results for the MSP benchmark and all-India realized-price/MSP "
-            "ratio sensitivity runs."
-        ),
-        path=ROOT
-        / "data"
-        / "generated"
-        / "si_revenue_benchmark_endpoint_sensitivity"
-        / "si_revenue_benchmark_endpoint_sensitivity_values.csv",
-    ),
-    SourceItem(
-        sheet="FigS18a_pareto_cmp",
-        label="Supplementary Figure S18a MSP comparison Pareto points",
-        description=(
-            "Combined rabi+kharif Pareto points for the district-MSP comparison Figure S18a."
+            "Combined rabi+kharif Pareto points for the district-MSP comparison Figure S17a."
         ),
         path=ROOT / "data" / "generated" / "figure2a_no_historical_cap_core_combined_by_alpha.csv",
     ),
     SourceItem(
-        sheet="FigS18b_values_cmp",
-        label="Supplementary Figure S18b MSP comparison endpoint values",
+        sheet="FigS17b_values_cmp",
+        label="Supplementary Figure S17b MSP comparison endpoint values",
         description=(
-            "District-MSP comparison endpoint values shown as colored bars in Supplementary Figure S18b."
+            "District-MSP comparison endpoint values shown as colored bars in Supplementary Figure S17b."
         ),
         path=ROOT / "data" / "generated" / "figure2b_no_historical_cap_core_values.csv",
     ),
     SourceItem(
-        sheet="FigS18b_whisk_cmp",
-        label="Supplementary Figure S18b MSP comparison whiskers",
+        sheet="FigS17b_whisk_cmp",
+        label="Supplementary Figure S17b MSP comparison whiskers",
         description=(
-            "Bootstrap-derived 95% intervals for the district-MSP comparison Figure S18b."
+            "Bootstrap-derived 95% intervals for the district-MSP comparison Figure S17b."
         ),
         path=ROOT
         / "data"
@@ -355,18 +329,18 @@ SOURCE_ITEMS = [
         / "figure2b_no_historical_cap_core_whiskers_summary.csv",
     ),
     SourceItem(
-        sheet="FigS18c_retent_cmp",
-        label="Supplementary Figure S18c MSP comparison retention sweep",
+        sheet="FigS17c_retent_cmp",
+        label="Supplementary Figure S17c MSP comparison retention sweep",
         description=(
             "Combined-system response to retained staple-area constraints for the district-MSP comparison figure."
         ),
         path=ROOT / "data" / "generated" / "figure2c" / "combined_no_historical_caps.csv",
     ),
     SourceItem(
-        sheet="FigS18d_flows_cmp",
-        label="Supplementary Figure S18d MSP comparison transition flows",
+        sheet="FigS17d_flows_cmp",
+        label="Supplementary Figure S17d MSP comparison transition flows",
         description=(
-            "Long-format source-to-target crop-area flows underlying the district-MSP comparison Figure S18d."
+            "Long-format source-to-target crop-area flows underlying the district-MSP comparison Figure S17d."
         ),
         path=ROOT
         / "data"
@@ -375,10 +349,10 @@ SOURCE_ITEMS = [
         / "figure2d_no_historical_cap_core_transition_long.csv",
     ),
     SourceItem(
-        sheet="FigS18d_areas_cmp",
-        label="Supplementary Figure S18d MSP comparison optimized areas",
+        sheet="FigS17d_areas_cmp",
+        label="Supplementary Figure S17d MSP comparison optimized areas",
         description=(
-            "District-season crop areas used to construct the district-MSP comparison Figure S18d."
+            "District-season crop areas used to construct the district-MSP comparison Figure S17d."
         ),
         path=ROOT
         / "data"
@@ -447,20 +421,33 @@ SOURCE_ITEMS = [
         / "figure3c_rice_wheat_node_flows_clean.csv",
     ),
     SourceItem(
-        sheet="FigS20_frontier",
-        label="Supplementary Figure S20 realized-price frontier envelope summary",
+        sheet="FigS19_frontier",
+        label="Supplementary Figure S19 realized-price frontier envelope summary",
         description=(
             "Bootstrap summary for the primary revenue-benchmark Pareto frontier envelope."
         ),
         path=ROOT
         / "data"
         / "generated"
-        / "figure2_main_frontier_bootstrap"
-        / "figure2_main_frontier_bootstrap_summary.csv",
+        / "Figure2_equivalent_frontier_bootstrap"
+        / "Figure2_equivalent_frontier_bootstrap_summary.csv",
     ),
     SourceItem(
-        sheet="FigS21_sum",
-        label="Supplementary Figure S21 primary realized-price seasonal transition summary",
+        sheet="FigS19_endpoints",
+        label="Supplementary Figure S19 endpoint bootstrap summary",
+        description=(
+            "Bootstrap distribution summary for nitrogen surplus and consumptive water demand "
+            "at the water-based and nitrogen-based endpoints shown in Supplementary Figure S19d."
+        ),
+        path=ROOT
+        / "data"
+        / "generated"
+        / "Figure2_equivalent_frontier_bootstrap"
+        / "Figure2_equivalent_frontier_bootstrap_endpoints.csv",
+    ),
+    SourceItem(
+        sheet="FigS20_sum",
+        label="Supplementary Figure S20 primary realized-price seasonal transition summary",
         description=(
             "Top seasonal transition flows used to interpret the seasonally disaggregated "
             "primary realized-price crop-substitution audit."
@@ -472,8 +459,8 @@ SOURCE_ITEMS = [
         / "seasonal_top_non_diagonal_transitions.csv",
     ),
     SourceItem(
-        sheet="FigS21_flags",
-        label="Supplementary Figure S21 primary realized-price district-season flags",
+        sheet="FigS20_flags",
+        label="Supplementary Figure S20 primary realized-price district-season flags",
         description=(
             "District-season audit table identifying rice-loss / wheat-gain or wheat-loss / "
             "rice-gain co-adjustments under the primary realized-price benchmark."
@@ -504,11 +491,13 @@ def write_readme(manifest_rows: list[dict[str, object]]) -> None:
     lines = [
         "# Source Data package",
         "",
-        "This folder contains the source-data package for the reproducibility release.",
+        "This folder contains the Nature-style source-data package prepared for revision 2 of",
+        "\"Quantifying Environmental Co-Benefits of Nitrogen-Based Crop Restructuring and Its",
+        "Implications on India's Interstate Trade Network.\"",
         "",
         "Primary artifact:",
         "",
-        "- `Source Data.xlsx`: workbook containing figure-ready source data tables and the primary revenue-price summary table.",
+        "- `Source Data.xlsx`: workbook containing figure-ready source data tables.",
         "",
         "Supporting artifacts:",
         "",
@@ -518,8 +507,7 @@ def write_readme(manifest_rows: list[dict[str, object]]) -> None:
         "Workbook coverage:",
         "",
         "- Main manuscript Figures 1 to 3.",
-        "- Supplementary Figures S2 to S5 and S16 to S21 included in the current release.",
-        "- Supplementary Table S10 summarizing the primary realized-price revenue benchmark.",
+        "- Supplementary Figures S2 to S5 and S16 to S20 introduced or revised during the current revision round.",
         "",
         "Sheet manifest:",
         "",
@@ -534,7 +522,7 @@ def write_readme(manifest_rows: list[dict[str, object]]) -> None:
     lines.append("")
     lines.append(
         "The broader public input datasets and repository-level reproducibility workflow are described "
-        "separately in the repository documentation and accompanying article text."
+        "separately in the manuscript Data Availability and Code Availability statements."
     )
     README_PATH.write_text("\n".join(lines) + "\n")
 
@@ -551,9 +539,9 @@ def add_readme_sheet(wb: Workbook) -> None:
     ws.title = "README"
     rows = [
         ["Source Data package", ""],
-        ["Study", "Quantifying Environmental Co-Benefits of Nitrogen-Based Crop Restructuring and Its Implications on India's Interstate Trade Network"],
-        ["Release", "Public reproducibility package"],
-        ["Contents", "Source data workbook for Figs. 1-3, Supplementary Figs. S2-S5 and S16-S21, and Supplementary Table S10"],
+        ["Manuscript", "Quantifying Environmental Co-Benefits of Nitrogen-Based Crop Restructuring and Its Implications on India's Interstate Trade Network"],
+        ["Revision", "Nature Communications revision 2"],
+        ["Contents", "Source data workbook for Figs. 1-3, Supplementary Figs. S2-S5 and S16-S20"],
         ["Notes", "Each figure sheet contains the table used directly to construct the corresponding display item. See the Manifest sheet for file provenance and row counts."],
     ]
     for r_idx, row in enumerate(rows, start=1):

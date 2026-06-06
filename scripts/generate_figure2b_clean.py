@@ -42,7 +42,7 @@ METRICS = [
     ("Nitrogen Emission", "N_emission"),
     ("Nitrogen Leach", "N_leach"),
     ("Greenhouse Gas emission", "AGHG"),
-    ("Profit", "profit"),
+    ("Net return", "profit"),
     ("Calorie", "Calorie"),
     ("Phosphorus application", "P_applied"),
     ("Nitrogen application", "N_applied"),
@@ -70,6 +70,19 @@ def signed_display_change(metric: str, pct_reduction: float, original_total: flo
     if float(original_total) < 0:
         return pct
     return -pct
+
+
+def _metric_display_labels(table: pd.DataFrame) -> tuple[list[str], list[str]]:
+    metric_order = [metric for metric, _ in METRICS]
+    if "display_metric" not in table.columns:
+        return metric_order, metric_order
+    base = (
+        table.drop_duplicates(subset=["metric"])
+        .set_index("metric")["display_metric"]
+        .to_dict()
+    )
+    display_order = [str(base.get(metric, metric)) for metric in metric_order]
+    return metric_order, display_order
 
 
 def float_triplet_map(mapping: object) -> dict[tuple[str, str, str], float]:
@@ -519,17 +532,17 @@ def build_metric_table(
 
 
 def write_latex_table(table: pd.DataFrame, out_tex: Path) -> None:
-    pivot = table.pivot(index="metric", columns="scenario", values="pct_reduction").loc[
-        [metric for metric, _ in METRICS]
-    ]
+    metric_order, display_order = _metric_display_labels(table)
+    pivot = table.pivot(index="metric", columns="scenario", values="pct_reduction").loc[metric_order]
     lines = [
         r"\begin{tabular}{lrr}",
         r"\toprule",
         r"Metric & Water based (\%) & Nitrogen based (\%) \\",
         r"\midrule",
     ]
-    for metric, row in pivot.iterrows():
-        lines.append(f"{metric} & {row['Water based']:.3f} & {row['Nitrogen based']:.3f} \\\\")
+    for metric, display_metric in zip(pivot.index.tolist(), display_order, strict=True):
+        row = pivot.loc[metric]
+        lines.append(f"{display_metric} & {row['Water based']:.3f} & {row['Nitrogen based']:.3f} \\\\")
     lines.extend([r"\bottomrule", r"\end{tabular}"])
     out_tex.write_text("\n".join(lines) + "\n")
 
@@ -564,7 +577,7 @@ def write_audit_note(
         (
             "This file is intended as the clean method-consistent alternative to the approved manuscript branch."
             if use_historical_caps
-            else "This file is intended as the approved Figure 2(b) rebuild used in the current release."
+            else "This file is intended as the approved Figure 2(b) rebuild used in the revised manuscript."
         ),
         "It does not include whiskers, because the currently reproducible bootstrap pipeline is not yet aligned",
         (
@@ -585,7 +598,8 @@ def write_audit_note(
         subset = table[table["scenario"] == scenario]
         lines.append(f"## {scenario}")
         for row in subset.itertuples(index=False):
-            lines.append(f"- {row.metric}: {row.pct_reduction:.3f}%")
+            metric_label = getattr(row, "display_metric", row.metric)
+            lines.append(f"- {metric_label}: {row.pct_reduction:.3f}%")
         lines.append("")
     out_md.write_text("\n".join(lines).rstrip() + "\n")
 
@@ -601,7 +615,7 @@ def build_figure(table: pd.DataFrame, out_png: Path, out_pdf: Path) -> None:
             "font.family": "DejaVu Sans",
         }
     )
-    metric_order = [metric for metric, _ in METRICS]
+    metric_order, display_order = _metric_display_labels(table)
     water = table[table["scenario"] == "Water based"].set_index("metric").loc[metric_order]
     nitrogen = table[table["scenario"] == "Nitrogen based"].set_index("metric").loc[metric_order]
 
@@ -633,7 +647,7 @@ def build_figure(table: pd.DataFrame, out_png: Path, out_pdf: Path) -> None:
 
     ax.axvline(0, color="black", linewidth=0.8, zorder=2)
     ax.set_yticks(positions)
-    ax.set_yticklabels(metric_order)
+    ax.set_yticklabels(display_order)
     ax.invert_yaxis()
     ax.set_xlabel("Change relative to baseline (%)")
     ax.set_title("Percentage Change in Socio-Environmental Objectives", fontweight="bold", pad=8)

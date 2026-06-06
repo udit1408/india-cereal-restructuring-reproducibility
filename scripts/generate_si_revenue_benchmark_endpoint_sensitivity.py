@@ -158,7 +158,7 @@ def summarize_ranges(values: pd.DataFrame) -> pd.DataFrame:
     rows = []
     realized = values[values["scenario_key"] != "MSP"].copy()
     for strategy in ["Water based", "Nitrogen based"]:
-        for metric in ["Water Demand", "Nitrogen Surplus", "Profit", "Calorie"]:
+        for metric in ["Water Demand", "Nitrogen Surplus", "Net return", "Calorie"]:
             subset = realized[(realized["strategy"] == strategy) & (realized["metric"] == metric)]
             if subset.empty:
                 continue
@@ -267,7 +267,7 @@ def write_audit(values: pd.DataFrame, summary: pd.DataFrame) -> None:
         "alternative official price data do not support a like-for-like district-scale benchmark.",
         "",
         "Accordingly, this exercise is interpreted as benchmark sensitivity rather than as a direct",
-        "replacement for the district-scale MSP term used in the main optimization.",
+        "replacement for the state-resolved primary benchmark used in the main optimization.",
         "",
         "Headline ranges across realized-price scenarios:",
     ]

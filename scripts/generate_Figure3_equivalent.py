@@ -4,43 +4,119 @@ from __future__ import annotations
 import contextlib
 import io
 import sys
+import types
 from pathlib import Path
 
 import matplotlib
 
 matplotlib.use("Agg")
 
+import matplotlib.image as mpimg
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+from matplotlib.colors import to_hex, to_rgb
 from pycirclize import Circos
 from pycirclize.parser import Matrix
 
 
 ROOT = Path(__file__).resolve().parents[1]
 AUDIT_ROOT = ROOT / "_audit" / "Nitrogen-Surplus-restructuring"
-FIG_DIR = ROOT / "figures" / "manuscript_final"
-DATA_DIR = ROOT / "data" / "generated" / "figure3_trade_networks"
+FIG_DIR = ROOT / "figures" / "working_variants"
+OUT_DIR = ROOT / "data" / "generated" / "Figure3_equivalent"
+TRADE_STAGE_DIR = AUDIT_ROOT / "outputs" / "generated" / "trade_stage"
+OPTIMIZED_AREA_PATH = (
+    ROOT
+    / "data"
+    / "generated"
+    / "Figure2_equivalent"
+    / "Figure2_equivalent_panel_d_optimized_areas.csv"
+)
 
+
+def _ensure_geopandas_stub() -> None:
+    if "geopandas" not in sys.modules:
+        sys.modules["geopandas"] = types.ModuleType("geopandas")
+
+
+_ensure_geopandas_stub()
 sys.path.insert(0, str(AUDIT_ROOT))
 
 from repro.config import default_layout  # noqa: E402
 from repro.figure2a_clean_rebuild import _build_season_context  # noqa: E402
 
 
-OPTIMIZED_AREA_PATH = (
-    ROOT
-    / "data"
-    / "generated"
-    / "figure2d_no_historical_cap_core"
-    / "figure2d_no_historical_cap_core_optimized_areas.csv"
-)
-TRADE_STAGE_DIR = AUDIT_ROOT / "outputs" / "generated" / "trade_stage"
-
 SEASON_NOTEBOOKS = {
     "kharif": "kharif_nitrogen_min.ipynb",
     "rabi": "rabi__nitrogen_kharif_cop.ipynb",
 }
+
+PANEL_A_PNG = FIG_DIR / "Figure3_equivalent_panel_a.png"
+PANEL_A_PDF = FIG_DIR / "Figure3_equivalent_panel_a.pdf"
+PANEL_B_PNG = FIG_DIR / "Figure3_equivalent_panel_b.png"
+PANEL_B_PDF = FIG_DIR / "Figure3_equivalent_panel_b.pdf"
+PANEL_C_PNG = FIG_DIR / "Figure3_equivalent_panel_c.png"
+PANEL_C_PDF = FIG_DIR / "Figure3_equivalent_panel_c.pdf"
+COMPOSITE_PNG = FIG_DIR / "Figure3_equivalent.png"
+COMPOSITE_PDF = FIG_DIR / "Figure3_equivalent.pdf"
+MANIFEST_MD = OUT_DIR / "Figure3_equivalent_manifest.md"
+AUDIT_MD = OUT_DIR / "Figure3_equivalent_audit.md"
+
+CROP_ORDER = ["bajra", "jowar", "maize", "ragi", "rice", "wheat"]
+CROP_COLORS = {
+    "bajra": "#c54b3c",
+    "jowar": "#b3be39",
+    "maize": "#39ad39",
+    "ragi": "#2e99a3",
+    "rice": "#4d47c1",
+    "wheat": "#b846b2",
+}
+
+STATE_ABBREV = {
+    "andhra pradesh": "AP",
+    "assam": "AS",
+    "bihar": "BR",
+    "chhattisgarh": "CH",
+    "delhi": "DL",
+    "gujarat": "GJ",
+    "haryana": "HR",
+    "himachal pradesh": "HP",
+    "jammu and kashmir": "JK",
+    "jharkhand": "JH",
+    "karnataka": "KA",
+    "kerala": "KL",
+    "madhya pradesh": "MP",
+    "maharashtra": "MH",
+    "mizoram": "MZ",
+    "nagaland": "NL",
+    "odisha": "OD",
+    "punjab": "PN",
+    "rajasthan": "RJ",
+    "tamil nadu": "TN",
+    "telangana": "TE",
+    "tripura": "TR",
+    "uttar pradesh": "UP",
+    "uttarakhand": "UR",
+    "west bengal": "WB",
+}
+
+DISPLAY_STATE_ORDER = [
+    "west bengal",
+    "uttar pradesh",
+    "tamil nadu",
+    "rajasthan",
+    "punjab",
+    "odisha",
+    "madhya pradesh",
+    "maharashtra",
+    "karnataka",
+    "haryana",
+    "gujarat",
+    "chhattisgarh",
+    "bihar",
+    "assam",
+    "andhra pradesh",
+]
 
 MASTER_ORDER = [
     "west bengal",
@@ -69,59 +145,31 @@ MASTER_ORDER = [
     "uttarakhand",
 ]
 
-STATE_ABBR = {
-    "andhra pradesh": "AP",
-    "assam": "AS",
-    "bihar": "BR",
-    "chhattisgarh": "CH",
-    "delhi": "DL",
-    "gujarat": "GJ",
-    "haryana": "HR",
-    "himachal pradesh": "HP",
-    "jammu and kashmir": "JK",
-    "jharkhand": "JH",
-    "karnataka": "KA",
-    "kerala": "KL",
-    "madhya pradesh": "MP",
-    "maharashtra": "MH",
-    "mizoram": "MZ",
-    "nagaland": "NL",
-    "odisha": "OD",
-    "punjab": "PN",
-    "rajasthan": "RJ",
-    "tamil nadu": "TN",
-    "telangana": "TE",
-    "tripura": "TR",
-    "uttar pradesh": "UP",
-    "uttarakhand": "UR",
-    "west bengal": "WB",
-}
-
 STATE_COLORS = {
-    "WB": "#6b6b6b",
-    "AP": "#ff6b6b",
-    "AS": "#62d2a2",
-    "BR": "#e0b52a",
-    "CH": "#aa7c7c",
-    "DL": "#9aa4ad",
-    "GJ": "#ff5d73",
-    "HR": "#4d93ff",
-    "JH": "#b78aed",
-    "JK": "#e1c24a",
-    "KA": "#d8aa2f",
-    "KL": "#34c9c7",
-    "MP": "#b8bb2b",
-    "MH": "#ff9436",
-    "MZ": "#9ea345",
-    "NL": "#7d8d85",
-    "OD": "#3e88e8",
-    "PN": "#ca85f5",
-    "RJ": "#9c7e7e",
-    "TN": "#a37a7a",
-    "TE": "#a7b232",
-    "TR": "#b2762f",
-    "UP": "#8ec2ff",
-    "UR": "#9ac638",
+    "WB": "#555555",
+    "AP": "#d94b4b",
+    "AS": "#33b680",
+    "BR": "#c89a12",
+    "CH": "#8e6969",
+    "DL": "#6f7b86",
+    "GJ": "#d73f58",
+    "HR": "#2f74da",
+    "JH": "#8f66c7",
+    "JK": "#b5992b",
+    "KA": "#bf8d17",
+    "KL": "#1fa8a6",
+    "MP": "#9aa317",
+    "MH": "#d97a18",
+    "MZ": "#6e7f2d",
+    "NL": "#5d6a63",
+    "OD": "#2f76cf",
+    "PN": "#a85ad4",
+    "RJ": "#7a5f5f",
+    "TN": "#8b6767",
+    "TE": "#869420",
+    "TR": "#9a6420",
+    "UP": "#70aef2",
+    "UR": "#7fb221",
 }
 
 RICE_KCAL_PER_QTL = 356000.0
@@ -146,6 +194,11 @@ def normalize_state(name: str) -> str:
     return mapping.get(value, value)
 
 
+def darken_hex(color: str, factor: float = 0.82) -> str:
+    rgb = np.array(to_rgb(color), dtype=float)
+    return to_hex(np.clip(rgb * factor, 0.0, 1.0))
+
+
 def build_contexts() -> dict[str, dict[str, object]]:
     layout = default_layout(AUDIT_ROOT)
     contexts: dict[str, dict[str, object]] = {}
@@ -155,8 +208,127 @@ def build_contexts() -> dict[str, dict[str, object]]:
     return contexts
 
 
-def build_clean_state_crop_production(contexts: dict[str, dict[str, object]]) -> tuple[pd.DataFrame, int]:
-    areas = pd.read_csv(OPTIMIZED_AREA_PATH)
+def load_area_frame() -> pd.DataFrame:
+    df = pd.read_csv(OPTIMIZED_AREA_PATH)
+    return df.loc[:, ~df.columns.astype(str).str.startswith("Unnamed")].copy()
+
+
+def build_state_crop_totals(df: pd.DataFrame) -> pd.DataFrame:
+    grouped = (
+        df.groupby(["State", "Crop"], as_index=False)[["Original Area (Hectare)", "Optimized Area (Hectare)"]]
+        .sum()
+        .rename(
+            columns={
+                "Original Area (Hectare)": "original_area_ha",
+                "Optimized Area (Hectare)": "optimized_area_ha",
+            }
+        )
+    )
+    grouped["state_abbrev"] = grouped["State"].map(STATE_ABBREV)
+    grouped["crop_order"] = grouped["Crop"].map({crop: idx for idx, crop in enumerate(CROP_ORDER)})
+    return grouped.sort_values(["State", "crop_order"]).reset_index(drop=True)
+
+
+def build_display_frame(state_crop: pd.DataFrame) -> pd.DataFrame:
+    display = state_crop[state_crop["State"].isin(DISPLAY_STATE_ORDER)].copy()
+    display["state_order"] = display["State"].map({state: idx for idx, state in enumerate(DISPLAY_STATE_ORDER)})
+    return display.sort_values(["state_order", "crop_order"]).reset_index(drop=True)
+
+
+def plot_panel_a(display: pd.DataFrame) -> None:
+    states = DISPLAY_STATE_ORDER
+    state_labels = [STATE_ABBREV[state] for state in states]
+    y_positions = list(range(len(states)))
+    original_pivot = (
+        display.pivot_table(
+            index="State",
+            columns="Crop",
+            values="original_area_ha",
+            aggfunc="sum",
+            fill_value=0.0,
+        )
+        .reindex(index=states, columns=CROP_ORDER, fill_value=0.0)
+    )
+    optimized_pivot = (
+        display.pivot_table(
+            index="State",
+            columns="Crop",
+            values="optimized_area_ha",
+            aggfunc="sum",
+            fill_value=0.0,
+        )
+        .reindex(index=states, columns=CROP_ORDER, fill_value=0.0)
+    )
+
+    fig, ax = plt.subplots(figsize=(10.7, 6.0), dpi=320)
+    ax.set_facecolor("white")
+    ax.grid(axis="x", linestyle="--", linewidth=0.75, color="#d5dae4", alpha=0.9)
+    ax.set_axisbelow(True)
+
+    original_left = [0.0 for _ in states]
+    optimized_left = [0.0 for _ in states]
+    for crop in CROP_ORDER:
+        original = [float(original_pivot.loc[state, crop]) / 1e6 for state in states]
+        optimized = [float(optimized_pivot.loc[state, crop]) / 1e6 for state in states]
+        ax.barh(
+            y_positions,
+            [-value for value in original],
+            left=original_left,
+            color=CROP_COLORS[crop],
+            edgecolor="white",
+            linewidth=0.4,
+            height=0.56,
+        )
+        ax.barh(
+            y_positions,
+            optimized,
+            left=optimized_left,
+            color=CROP_COLORS[crop],
+            edgecolor="white",
+            linewidth=0.4,
+            height=0.56,
+        )
+        original_left = [left - value for left, value in zip(original_left, original)]
+        optimized_left = [left + value for left, value in zip(optimized_left, optimized)]
+
+    max_extent = max(max(abs(value) for value in original_left), max(optimized_left))
+    ax.axvline(0.0, color="black", linewidth=1.2)
+    ax.set_xlim(-max_extent * 1.08, max_extent * 1.08)
+    ax.set_yticks(y_positions)
+    ax.set_yticklabels(state_labels, fontsize=9, fontweight="bold")
+    ax.invert_yaxis()
+    ax.tick_params(axis="x", labelsize=9)
+    ax.set_xlabel("Area (Mha)", fontsize=10, fontweight="bold")
+    ax.text(0.17, 0.08, "Original Area", transform=ax.transAxes, ha="center", va="center", fontsize=10, fontweight="bold")
+    ax.text(0.79, 0.08, "Optimized Area", transform=ax.transAxes, ha="center", va="center", fontsize=10, fontweight="bold")
+
+    legend_handles = [
+        plt.Rectangle((0, 0), 1, 1, facecolor=CROP_COLORS[crop], edgecolor="white", linewidth=0.4)
+        for crop in CROP_ORDER
+    ]
+    ax.legend(
+        legend_handles,
+        CROP_ORDER,
+        loc="lower right",
+        frameon=True,
+        framealpha=0.96,
+        edgecolor="#d3d7de",
+        fontsize=10.0,
+        handlelength=1.85,
+        borderpad=0.5,
+        labelspacing=0.42,
+    )
+
+    fig.tight_layout(pad=0.45)
+    fig.savefig(PANEL_A_PNG, bbox_inches="tight", facecolor="white")
+    fig.savefig(PANEL_A_PDF, bbox_inches="tight", facecolor="white")
+    plt.close(fig)
+
+
+def build_clean_state_crop_production(
+    contexts: dict[str, dict[str, object]],
+) -> tuple[pd.DataFrame, int]:
+    areas = load_area_frame()
     rows: list[dict[str, float | str]] = []
     missing_keys = 0
     for _, row in areas.iterrows():
@@ -399,14 +571,17 @@ def node_flow_table(edges: pd.DataFrame, value_col: str) -> pd.DataFrame:
     return flow.groupby("State", as_index=False)["flow"].sum().sort_values("flow", ascending=False).reset_index(drop=True)
 
 
-def select_states(node_flows: pd.DataFrame, max_states: int = 20) -> list[str]:
+def select_states(node_flows: pd.DataFrame, max_states: int) -> list[str]:
     chosen = node_flows.loc[node_flows["flow"] > 0, "State"].head(max_states).tolist()
     order_rank = {state: idx for idx, state in enumerate(MASTER_ORDER)}
-    return sorted(chosen, key=lambda state: (order_rank.get(state, 999), -float(node_flows.loc[node_flows["State"] == state, "flow"].iloc[0])))
+    return sorted(
+        chosen,
+        key=lambda state: (order_rank.get(state, 999), -float(node_flows.loc[node_flows["State"] == state, "flow"].iloc[0])),
+    )
 
 
 def abbreviate(state: str) -> str:
-    return STATE_ABBR.get(state, state[:2].upper())
+    return STATE_ABBREV.get(state, state[:2].upper())
 
 
 def build_matrix(edges: pd.DataFrame, value_col: str, states: list[str]) -> tuple[pd.DataFrame, pd.DataFrame]:
@@ -421,16 +596,9 @@ def build_matrix(edges: pd.DataFrame, value_col: str, states: list[str]) -> tupl
     return filtered, matrix
 
 
-def draw_chord_panel(
-    matrix: pd.DataFrame,
-    *,
-    states: list[str],
-    title: str | None,
-    out_png: Path,
-    out_pdf: Path,
-) -> None:
+def draw_chord_panel(matrix: pd.DataFrame, *, states: list[str], out_png: Path, out_pdf: Path) -> None:
     label_order = [abbreviate(state) for state in states]
-    color_map = {abbr: STATE_COLORS.get(abbr, "#999999") for abbr in label_order}
+    color_map = {abbr: darken_hex(STATE_COLORS.get(abbr, "#888888"), 0.88) for abbr in label_order}
     circos = Circos.chord_diagram(
         matrix,
         start=-90,
@@ -438,25 +606,79 @@ def draw_chord_panel(
         space=4,
         endspace=False,
         cmap=color_map,
-        label_kws={"r": 110, "size": 11},
-        link_kws={"alpha": 0.42, "ec": "none", "lw": 0.0},
+        label_kws={"r": 102, "size": 10.3, "color": "#111111"},
+        link_kws={
+            "alpha": 0.62,
+            "direction": 1,
+            "arrow_length_ratio": 0.11,
+            "ec": "#ffffff",
+            "lw": 0.18,
+        },
     )
-    fig = circos.plotfig(figsize=(8.2, 8.2), dpi=300)
-    if title:
-        ax = fig.axes[0]
-        ax.set_title(title, fontsize=14, pad=12)
-    fig.savefig(out_png, dpi=300, bbox_inches="tight")
-    fig.savefig(out_pdf, bbox_inches="tight")
+    fig = circos.plotfig(figsize=(8.8, 8.8), dpi=320)
+    for ax in fig.axes:
+        for text in ax.texts:
+            text.set_fontweight("bold")
+            text.set_fontsize(11)
+            text.set_color("#111111")
+    fig.savefig(out_png, dpi=320, bbox_inches="tight", facecolor="white", pad_inches=0.02)
+    fig.savefig(out_pdf, bbox_inches="tight", facecolor="white", pad_inches=0.02)
     plt.close(fig)
 
 
-def build_audit_text(
-    missing_keys: int,
+def crop_white_margins(image: np.ndarray, *, threshold: float = 0.985, pad_px: int = 8) -> np.ndarray:
+    rgb = image[..., :3]
+    mask = np.any(rgb < threshold, axis=2)
+    ys, xs = np.where(mask)
+    if len(xs) == 0 or len(ys) == 0:
+        return image
+    x0 = max(int(xs.min()) - pad_px, 0)
+    x1 = min(int(xs.max()) + pad_px + 1, image.shape[1])
+    y0 = max(int(ys.min()) - pad_px, 0)
+    y1 = min(int(ys.max()) + pad_px + 1, image.shape[0])
+    return image[y0:y1, x0:x1]
+
+
+def assemble_composite() -> None:
+    fig = plt.figure(figsize=(13.0, 10.0), dpi=320, constrained_layout=True)
+    gs = fig.add_gridspec(2, 2, height_ratios=[0.92, 1.0], wspace=0.015, hspace=0.015)
+    axes = [
+        fig.add_subplot(gs[0, :]),
+        fig.add_subplot(gs[1, 0]),
+        fig.add_subplot(gs[1, 1]),
+    ]
+    images = [
+        crop_white_margins(mpimg.imread(PANEL_A_PNG), pad_px=6),
+        crop_white_margins(mpimg.imread(PANEL_B_PNG), pad_px=8),
+        crop_white_margins(mpimg.imread(PANEL_C_PNG), pad_px=8),
+    ]
+    for ax, image, label in zip(axes, images, ["a", "b", "c"]):
+        ax.imshow(image)
+        ax.set_axis_off()
+        ax.text(
+            0.0,
+            1.01,
+            label,
+            transform=ax.transAxes,
+            ha="left",
+            va="bottom",
+            fontsize=14,
+            fontweight="bold",
+            color="black",
+        )
+    fig.savefig(COMPOSITE_PNG, dpi=320, bbox_inches="tight", facecolor="white", pad_inches=0.02)
+    fig.savefig(COMPOSITE_PDF, bbox_inches="tight", facecolor="white", pad_inches=0.02)
+    plt.close(fig)
+
+
+def write_audit(
+    display_a: pd.DataFrame,
     alt_states: list[str],
     rw_states: list[str],
     alt_summary: pd.DataFrame,
     alt_new_links: pd.DataFrame,
-) -> str:
+    missing_keys: int,
+) -> None:
     capacity_limited_states = alt_summary.loc[alt_summary["capacity_limited"], "State"].tolist()
     top_new_links = alt_new_links.head(10)
     if top_new_links.empty:
@@ -467,50 +689,87 @@ def build_audit_text(
             for row in top_new_links.itertuples()
         ]
     lines = [
-        "# Figure 3 trade-network rebuild",
+        "# Figure3_equivalent audit",
         "",
-        "This rebuild aligns Figure 3(b) and Figure 3(c) to the same approved nitrogen-focused",
-        "optimization branch used for the revised Figure 2(d): fixed district cropped area,",
-        "substitution among historically observed cereals, and the shared state calorie and",
-        "MSP-benchmarked income floors.",
+        "This standalone Figure 3 equivalent is rebuilt from the primary official price-and-cost",
+        "nitrogen-focused optimized area table exported by the final Figure2_equivalent workflow.",
+        f"Input optimized area table: {OPTIMIZED_AREA_PATH}",
         "",
-        "District-crop optimized production is reconstructed from the approved optimized-area table",
-        "using notebook-derived district yield and calorie coefficients, with historical-but-missing",
-        "district-crop options completed from state-crop and crop-level means before reconstruction.",
+        "Figure 3(a) keeps the manuscript display-state set and order for panel comparability,",
+        "but the stacked original-versus-optimized totals are recomputed from the primary benchmark",
+        "optimized district areas.",
         "",
-        f"District-crop combinations still unresolved after coefficient completion: {missing_keys}",
+        "Figure 3(b) and Figure 3(c) rebuild optimized state-crop production from those same",
+        "district areas using the notebook-derived yield and calorie coefficients. For panel (b),",
+        "positive rice-wheat calorie deficits on exporter-importer links are added to the",
+        "corresponding baseline alternate-cereal links, which allows new alternate-cereal links",
+        "to appear when needed. Exporter outflows are then scaled only if they exceed optimized",
+        "alternate-cereal production capacity.",
         "",
-        "For Figure 3(c), interstate rice and wheat flows are rebuilt by scaling each source state's",
-        "2016-2018 average trade links in proportion to the change in that source state's optimized",
-        "versus baseline production for the corresponding crop. Same-state flows are excluded.",
-        "",
-        "For Figure 3(b), positive rice-wheat calorie deficits on exporter-importer links are added",
-        "to the corresponding baseline alternate-cereal links. This allows new alternate-cereal",
-        "links to appear when a staple-deficit link exists but no baseline alternate-cereal link was",
-        "present. If the resulting outbound alternate trade from a source state exceeds its optimized",
-        "alternate-cereal production, all outbound alternate links from that source are scaled",
-        "proportionally to satisfy the exporter production-capacity constraint.",
-        "",
+        f"Unresolved district-crop production keys after coefficient reconstruction: {missing_keys}",
         f"Figure 3(b) displayed states: {', '.join(alt_states)}.",
         f"Figure 3(c) displayed states: {', '.join(rw_states)}.",
-        "",
         f"Alternate-network source states with capacity-limited outbound trade: {', '.join(capacity_limited_states) if capacity_limited_states else 'none'}.",
         f"New alternate-cereal links introduced: {len(alt_new_links)}.",
         "Largest new alternate-cereal links:",
         *[f"- {line}" for line in new_link_lines],
         "",
+        f"Figure 3(a) displayed-state rows: {len(display_a)}.",
     ]
-    return "\n".join(lines)
+    AUDIT_MD.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+
+
+def write_manifest() -> None:
+    lines = [
+        "# Figure3_equivalent manifest",
+        "",
+        "Composite outputs:",
+        f"- {COMPOSITE_PNG}",
+        f"- {COMPOSITE_PDF}",
+        "",
+        "Panel outputs:",
+        f"- {PANEL_A_PNG}",
+        f"- {PANEL_A_PDF}",
+        f"- {PANEL_B_PNG}",
+        f"- {PANEL_B_PDF}",
+        f"- {PANEL_C_PNG}",
+        f"- {PANEL_C_PDF}",
+        "",
+        "Tabular outputs:",
+        f"- {OUT_DIR / 'Figure3_equivalent_panel_a_all_states.csv'}",
+        f"- {OUT_DIR / 'Figure3_equivalent_panel_a_display_states.csv'}",
+        f"- {OUT_DIR / 'Figure3_equivalent_state_crop_production.csv'}",
+        f"- {OUT_DIR / 'Figure3_equivalent_panel_b_alt_trade_edges.csv'}",
+        f"- {OUT_DIR / 'Figure3_equivalent_panel_b_alt_node_flows.csv'}",
+        f"- {OUT_DIR / 'Figure3_equivalent_panel_b_alt_new_links.csv'}",
+        f"- {OUT_DIR / 'Figure3_equivalent_panel_c_rw_trade_edges.csv'}",
+        f"- {OUT_DIR / 'Figure3_equivalent_panel_c_rw_node_flows.csv'}",
+        f"- {OUT_DIR / 'Figure3_equivalent_panel_b_fromto.csv'}",
+        f"- {OUT_DIR / 'Figure3_equivalent_panel_c_fromto.csv'}",
+        "",
+        "Notes:",
+        f"- {AUDIT_MD}",
+    ]
+    MANIFEST_MD.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
 
 def main() -> None:
     FIG_DIR.mkdir(parents=True, exist_ok=True)
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+
+    area_frame = load_area_frame()
+    state_crop_area = build_state_crop_totals(area_frame)
+    display_a = build_display_frame(state_crop_area)
+    state_crop_area.to_csv(OUT_DIR / "Figure3_equivalent_panel_a_all_states.csv", index=False)
+    display_a.to_csv(OUT_DIR / "Figure3_equivalent_panel_a_display_states.csv", index=False)
+    plot_panel_a(display_a)
 
     contexts = build_contexts()
-    state_crop, missing_keys = build_clean_state_crop_production(contexts)
-    rw_crop_edges, rw_edges, rw_source_summary = build_rice_wheat_edges(state_crop)
-    alt_baseline_edges, alt_summary, alt_edges, alt_new_links = build_alternative_edges(state_crop, rw_edges)
+    state_crop_production, missing_keys = build_clean_state_crop_production(contexts)
+    state_crop_production.to_csv(OUT_DIR / "Figure3_equivalent_state_crop_production.csv", index=False)
+
+    rw_crop_edges, rw_edges, rw_source_summary = build_rice_wheat_edges(state_crop_production)
+    alt_baseline_edges, alt_summary, alt_edges, alt_new_links = build_alternative_edges(state_crop_production, rw_edges)
 
     alt_node_flows = node_flow_table(alt_edges.rename(columns={"optimized_trade_kcal": "value"}), "value")
     rw_node_flows = node_flow_table(rw_edges.rename(columns={"optimized_trade_kcal": "value"}), "value")
@@ -520,36 +779,28 @@ def main() -> None:
     alt_fromto, alt_matrix = build_matrix(alt_edges, "optimized_trade_kcal", alt_states)
     rw_fromto, rw_matrix = build_matrix(rw_edges, "optimized_trade_kcal", rw_states)
 
-    draw_chord_panel(
-        alt_matrix,
-        states=alt_states,
-        title=None,
-        out_png=FIG_DIR / "figure3b_alt_trade_network_clean.png",
-        out_pdf=FIG_DIR / "figure3b_alt_trade_network_clean.pdf",
-    )
-    draw_chord_panel(
-        rw_matrix,
-        states=rw_states,
-        title=None,
-        out_png=FIG_DIR / "figure3c_rice_wheat_trade_network_clean.png",
-        out_pdf=FIG_DIR / "figure3c_rice_wheat_trade_network_clean.pdf",
-    )
+    draw_chord_panel(alt_matrix, states=alt_states, out_png=PANEL_B_PNG, out_pdf=PANEL_B_PDF)
+    draw_chord_panel(rw_matrix, states=rw_states, out_png=PANEL_C_PNG, out_pdf=PANEL_C_PDF)
+    assemble_composite()
 
-    state_crop.to_csv(DATA_DIR / "figure3_trade_state_crop_production_clean.csv", index=False)
-    rw_crop_edges.to_csv(DATA_DIR / "figure3c_rice_wheat_trade_edges_by_crop_clean.csv", index=False)
-    rw_edges.to_csv(DATA_DIR / "figure3c_rice_wheat_trade_edges_clean.csv", index=False)
-    rw_source_summary.to_csv(DATA_DIR / "figure3c_rice_wheat_source_summary_clean.csv", index=False)
-    rw_node_flows.to_csv(DATA_DIR / "figure3c_rice_wheat_node_flows_clean.csv", index=False)
-    rw_fromto.to_csv(DATA_DIR / "figure3c_rice_wheat_fromto_clean.csv", index=False)
-    alt_baseline_edges.to_csv(DATA_DIR / "figure3b_alt_trade_edges_baseline_clean.csv", index=False)
-    alt_summary.to_csv(DATA_DIR / "figure3b_alt_trade_source_summary_clean.csv", index=False)
-    alt_edges.to_csv(DATA_DIR / "figure3b_alt_trade_edges_clean.csv", index=False)
-    alt_new_links.to_csv(DATA_DIR / "figure3b_alt_trade_new_links_clean.csv", index=False)
-    alt_node_flows.to_csv(DATA_DIR / "figure3b_alt_node_flows_clean.csv", index=False)
-    alt_fromto.to_csv(DATA_DIR / "figure3b_alt_fromto_clean.csv", index=False)
-    (DATA_DIR / "figure3_trade_networks_audit.md").write_text(
-        build_audit_text(missing_keys, alt_states, rw_states, alt_summary, alt_new_links) + "\n"
-    )
+    rw_crop_edges.to_csv(OUT_DIR / "Figure3_equivalent_panel_c_rw_trade_edges_by_crop.csv", index=False)
+    rw_edges.to_csv(OUT_DIR / "Figure3_equivalent_panel_c_rw_trade_edges.csv", index=False)
+    rw_source_summary.to_csv(OUT_DIR / "Figure3_equivalent_panel_c_rw_source_summary.csv", index=False)
+    rw_node_flows.to_csv(OUT_DIR / "Figure3_equivalent_panel_c_rw_node_flows.csv", index=False)
+    rw_fromto.to_csv(OUT_DIR / "Figure3_equivalent_panel_c_fromto.csv", index=False)
+    alt_baseline_edges.to_csv(OUT_DIR / "Figure3_equivalent_panel_b_alt_trade_edges_baseline.csv", index=False)
+    alt_summary.to_csv(OUT_DIR / "Figure3_equivalent_panel_b_alt_source_summary.csv", index=False)
+    alt_edges.to_csv(OUT_DIR / "Figure3_equivalent_panel_b_alt_trade_edges.csv", index=False)
+    alt_new_links.to_csv(OUT_DIR / "Figure3_equivalent_panel_b_alt_new_links.csv", index=False)
+    alt_node_flows.to_csv(OUT_DIR / "Figure3_equivalent_panel_b_alt_node_flows.csv", index=False)
+    alt_fromto.to_csv(OUT_DIR / "Figure3_equivalent_panel_b_fromto.csv", index=False)
+
+    write_audit(display_a, alt_states, rw_states, alt_summary, alt_new_links, missing_keys)
+    write_manifest()
+
+    print(f"figure_png: {COMPOSITE_PNG}")
+    print(f"figure_pdf: {COMPOSITE_PDF}")
+    print(f"audit_md: {AUDIT_MD}")
 
 
 if __name__ == "__main__":
