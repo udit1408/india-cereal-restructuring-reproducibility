@@ -1,0 +1,33 @@
+season,component,perturbation,metric,display_metric,pct_reduction,display_pct_change
+kharif,Atmospheric deposition,+10%,Nitrogen Surplus,Nitrogen Surplus,15.522384649119646,-15.522384649119646
+kharif,Atmospheric deposition,-10%,Nitrogen Surplus,Nitrogen Surplus,15.55839654107768,-15.55839654107768
+kharif,BNF input,+10%,Nitrogen Surplus,Nitrogen Surplus,15.210751139119195,-15.210751139119195
+kharif,BNF input,-10%,Nitrogen Surplus,Nitrogen Surplus,15.9053544244863,-15.9053544244863
+kharif,Manure N,+10%,Nitrogen Surplus,Nitrogen Surplus,15.589221347988955,-15.589221347988955
+kharif,Manure N,-10%,Nitrogen Surplus,Nitrogen Surplus,15.491109963779174,-15.491109963779174
+kharif,Synthetic N,+10%,Nitrogen Surplus,Nitrogen Surplus,15.788449694973345,-15.788449694973345
+kharif,Synthetic N,-10%,Nitrogen Surplus,Nitrogen Surplus,15.28245460696506,-15.28245460696506
+kharif,Atmospheric deposition,+10%,Greenhouse Gas emission,Greenhouse Gas emission,11.408318580650862,-11.408318580650862
+kharif,Atmospheric deposition,-10%,Greenhouse Gas emission,Greenhouse Gas emission,11.403663041106407,-11.403663041106407
+kharif,BNF input,+10%,Greenhouse Gas emission,Greenhouse Gas emission,11.468539474735778,-11.468539474735778
+kharif,BNF input,-10%,Greenhouse Gas emission,Greenhouse Gas emission,11.386326991008742,-11.386326991008742
+kharif,Manure N,+10%,Greenhouse Gas emission,Greenhouse Gas emission,11.403663041106407,-11.403663041106407
+kharif,Manure N,-10%,Greenhouse Gas emission,Greenhouse Gas emission,11.378000117708059,-11.378000117708059
+kharif,Synthetic N,+10%,Greenhouse Gas emission,Greenhouse Gas emission,11.401332620006327,-11.401332620006327
+kharif,Synthetic N,-10%,Greenhouse Gas emission,Greenhouse Gas emission,11.294035458190834,-11.294035458190834
+kharif,Atmospheric deposition,+10%,Water Demand,Water Demand,23.297563999649835,-23.297563999649835
+kharif,Atmospheric deposition,-10%,Water Demand,Water Demand,23.319450187386728,-23.319450187386728
+kharif,BNF input,+10%,Water Demand,Water Demand,23.528878309780254,-23.528878309780254
+kharif,BNF input,-10%,Water Demand,Water Demand,23.36164154861613,-23.36164154861613
+kharif,Manure N,+10%,Water Demand,Water Demand,23.319450187386728,-23.319450187386728
+kharif,Manure N,-10%,Water Demand,Water Demand,23.317330437703237,-23.317330437703237
+kharif,Synthetic N,+10%,Water Demand,Water Demand,23.50451572247867,-23.50451572247867
+kharif,Synthetic N,-10%,Water Demand,Water Demand,23.38519485496304,-23.38519485496304
+kharif,Atmospheric deposition,+10%,Calorie,Calorie,-1.374612476949289,1.374612476949289
+kharif,Atmospheric deposition,-10%,Calorie,Calorie,-1.3746124769493147,1.3746124769493147
+kharif,BNF input,+10%,Calorie,Calorie,-1.510223690319916,1.510223690319916
+kharif,BNF input,-10%,Calorie,Calorie,-1.3746124769493147,1.3746124769493147
+kharif,Manure N,+10%,Calorie,Calorie,-1.3746124769493147,1.3746124769493147
+kharif,Manure N,-10%,Calorie,Calorie,-1.3746124769493147,1.3746124769493147
+kharif,Synthetic N,+10%,Calorie,Calorie,-1.5278410211844893,1.5278410211844893
+kharif,Synthetic N,-10%,Calorie,Calorie,-1.371409060422141,1.371409060422141

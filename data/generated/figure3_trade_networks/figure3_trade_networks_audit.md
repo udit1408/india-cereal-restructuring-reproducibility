@@ -15,19 +15,27 @@ For Figure 3(c), interstate rice and wheat flows are rebuilt by scaling each sou
 2016-2018 average trade links in proportion to the change in that source state's optimized
 versus baseline production for the corresponding crop. Same-state flows are excluded.
 
-For Figure 3(b), baseline interstate alternate-cereal links (maize, ragi, bajra, jowar)
-are preserved as the network topology. Source-wise optimized alternate trade is then scaled
-from that baseline using:
+For Figure 3(b), positive rice-wheat calorie deficits on exporter-importer links are added
+to the corresponding baseline alternate-cereal links. This allows new alternate-cereal
+links to appear when a staple-deficit link exists but no baseline alternate-cereal link was
+present. If the resulting outbound alternate trade from a source state exceeds its optimized
+alternate-cereal production, all outbound alternate links from that source are scaled
+proportionally to satisfy the exporter production-capacity constraint.
 
-optimized alternate trade = baseline alternate trade + alternate-calorie surplus +
-change in rice+wheat interstate trade from the same source state.
-
-Negative source totals are clipped to zero to avoid implying negative exports. Source states
-with no baseline alternate-trade links are not assigned new destinations in this figure,
-because the panel is intended as a conservative network rescaling rather than a new trade-allocation model.
-
-Figure 3(b) displayed states: west bengal, andhra pradesh, assam, bihar, chhattisgarh, gujarat, haryana, karnataka, kerala, madhya pradesh, maharashtra, odisha, punjab, rajasthan, tamil nadu, telangana, uttar pradesh, uttarakhand.
+Figure 3(b) displayed states: west bengal, andhra pradesh, assam, bihar, chhattisgarh, haryana, jharkhand, karnataka, kerala, madhya pradesh, maharashtra, odisha, punjab, rajasthan, tamil nadu, telangana, uttar pradesh, uttarakhand.
 Figure 3(c) displayed states: west bengal, andhra pradesh, assam, bihar, chhattisgarh, gujarat, haryana, jharkhand, jammu and kashmir, karnataka, kerala, madhya pradesh, maharashtra, nagaland, odisha, punjab, rajasthan, tamil nadu, uttar pradesh, chandigarh.
 
-Alternate-network source states clipped to zero after the raw trade update: tripura, rajasthan, punjab, kerala, jharkhand, himachal pradesh, goa, delhi, dadra and nagar haveli.
+Alternate-network source states with capacity-limited outbound trade: kerala, goa, delhi.
+New alternate-cereal links introduced: 253.
+Largest new alternate-cereal links:
+- chhattisgarh -> andhra pradesh: 1.778e+12 kcal
+- chhattisgarh -> jharkhand: 1.632e+12 kcal
+- chhattisgarh -> bihar: 1.009e+12 kcal
+- chhattisgarh -> maharashtra: 9.307e+11 kcal
+- odisha -> jharkhand: 7.153e+11 kcal
+- rajasthan -> assam: 6.821e+11 kcal
+- rajasthan -> uttar pradesh: 6.417e+11 kcal
+- rajasthan -> bihar: 5.483e+11 kcal
+- haryana -> maharashtra: 5.127e+11 kcal
+- rajasthan -> maharashtra: 4.636e+11 kcal
 

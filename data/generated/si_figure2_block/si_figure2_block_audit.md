@@ -1,7 +1,7 @@
 # SI figure-2 supporting block regeneration audit
 
-This audit documents the rebuilt assets for Supplementary Figures S2, S3, and S4.
-All three figures are now generated from the primary 2017-18 realized-price benchmark
+This audit documents the rebuilt revision-2 assets for Supplementary Figures S2, S3, and S4.
+All three figures are now generated from the primary 2017-18 official price-and-cost benchmark
 used in the revised main text, rather than from the older district-MSP figure branch.
 Archived district-MSP versions of these seasonal figures have been preserved separately in
 `figures/manuscript_final/si_msp_s2_seasonal_pareto.*`,
@@ -10,43 +10,39 @@ Archived district-MSP versions of these seasonal figures have been preserved sep
 remains documented later in Supplementary Figures S18-S19.
 
 ## Figure S2
-- Source files: `data/generated/figure2_main/figure2_main_panel_a_rabi_by_alpha.csv` and
-  `data/generated/figure2_main/figure2_main_panel_a_kharif_by_alpha.csv`.
+- Source files: `data/generated/Figure2_equivalent/Figure2_equivalent_panel_a_rabi_by_alpha.csv` and
+  `data/generated/Figure2_equivalent/Figure2_equivalent_panel_a_kharif_by_alpha.csv`.
 - Plot content: decile alpha points from the primary kharif and rabi Pareto frontiers, with water-focused
   and nitrogen-focused endpoints highlighted explicitly.
-- rabi: nitrogen surplus 2.715 to 3.053 Mt; water demand 90.638 to 102.584 BCM.
-- kharif: nitrogen surplus 4.110 to 4.612 Mt; water demand 210.029 to 245.643 BCM.
+- rabi: nitrogen surplus 2.711 to 3.062 Mt; water demand 92.130 to 104.417 BCM.
+- kharif: nitrogen surplus 4.466 to 4.889 Mt; water demand 241.922 to 276.375 BCM.
 
 ## Figure S3
 - Source logic: season-specific endpoint solves from `generate_figure2b_clean.py` with
   fixed district cropped area, substitution among historically observed cereals, no district-crop
-  historical area caps, and the primary 2017-18 realized-price benchmark
-  applied to the state price term before solving.
+  historical area caps, and the primary 2017-18 official price-and-cost benchmark
+  applied to the revenue and production-cost terms before solving.
 - Values below are changes relative to the baseline cereal allocation.
 - kharif water:
-  - Profit: +1.783%
-  - Calorie: +10.230%
-  - Nitrogen Surplus: -12.776%
-  - Water Demand: -41.727%
+  - Calorie: +4.804%
+  - Nitrogen Surplus: -7.533%
+  - Water Demand: -32.878%
 - kharif nitrogen:
-  - Profit: +4.781%
-  - Calorie: +8.114%
-  - Nitrogen Surplus: -22.263%
-  - Water Demand: -31.846%
+  - Calorie: +1.375%
+  - Nitrogen Surplus: -15.540%
+  - Water Demand: -23.319%
 - rabi water:
-  - Profit: +6.464%
-  - Calorie: +6.595%
-  - Nitrogen Surplus: +1.846%
-  - Water Demand: -15.420%
+  - Calorie: +4.544%
+  - Nitrogen Surplus: +2.155%
+  - Water Demand: -14.028%
 - rabi nitrogen:
-  - Profit: +1.459%
-  - Calorie: +2.152%
-  - Nitrogen Surplus: -9.435%
-  - Water Demand: -4.273%
+  - Calorie: +1.589%
+  - Nitrogen Surplus: -9.551%
+  - Water Demand: -2.562%
 
 ## Figure S4
-- Source files: `data/generated/figure2_main/figure2_main_panel_c_kharif.csv` and
-  `data/generated/figure2_main/figure2_main_panel_c_rabi.csv`.
+- Source files: `data/generated/Figure2_equivalent/Figure2_equivalent_panel_c_kharif.csv` and
+  `data/generated/Figure2_equivalent/Figure2_equivalent_panel_c_rabi.csv`.
 - Plot content: nitrogen-surplus reduction as the state-level retained rice or wheat floor is relaxed.
-- kharif: 11.989% reduction at full retention (0% substitution allowed) and 22.263% at full relaxation (100% substitution allowed).
-- rabi: 7.312% reduction at full retention (0% substitution allowed) and 9.435% at full relaxation (100% substitution allowed).
+- kharif: 11.407% reduction at full retention (0% substitution allowed) and 15.540% at full relaxation (100% substitution allowed).
+- rabi: 6.568% reduction at full retention (0% substitution allowed) and 9.551% at full relaxation (100% substitution allowed).

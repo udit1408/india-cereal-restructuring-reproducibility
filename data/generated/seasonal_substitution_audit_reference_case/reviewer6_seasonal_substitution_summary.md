@@ -1,7 +1,7 @@
-# Seasonal Substitution Audit
+# Reviewer 6 Seasonal Substitution Audit
 
 This audit uses the approved nitrogen-focused optimized area table from the current
-current rebuild. The optimization itself is seasonal: kharif and rabi are solved
+revision-2 rebuild. The optimization itself is seasonal: kharif and rabi are solved
 independently, and the annual Figure 2(d) is an aggregation of those two seasonal outputs.
 
 - districts with baseline kharif wheat area: 0

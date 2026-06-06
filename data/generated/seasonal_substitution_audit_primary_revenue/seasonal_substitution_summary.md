@@ -1,7 +1,7 @@
 # Seasonal Substitution Audit
 
 This audit uses the primary nitrogen-focused optimized area table generated under the
-2017-18 realized-price revenue benchmark with MSP fallback for unmatched state-crop pairs. The optimization itself is seasonal:
+hybrid 2017-18 realized-price revenue benchmark. The optimization itself is seasonal:
 kharif and rabi are solved
 independently, and the annual Figure 2(d) is an aggregation of those two seasonal outputs.
 
@@ -21,59 +21,60 @@ Key interpretation:
 Top direct seasonal findings from the primary realized-price rebuild:
 
 ## Kharif crop-area totals
-- bajra: original=7286546.00 ha, optimized=8414830.38 ha, delta=1128284.38 ha (15.5%)
-- jowar: original=2041066.00 ha, optimized=7994134.39 ha, delta=5953068.39 ha (291.7%)
-- maize: original=7470863.00 ha, optimized=11182688.32 ha, delta=3711825.32 ha (49.7%)
-- ragi: original=1103945.00 ha, optimized=2593937.94 ha, delta=1489992.94 ha (135.0%)
-- rice: original=40085352.75 ha, optimized=27802181.72 ha, delta=-12283171.03 ha (-30.6%)
+- bajra: original=7286546.00 ha, optimized=9211500.79 ha, delta=1924954.79 ha (26.4%)
+- jowar: original=2041066.00 ha, optimized=8514033.19 ha, delta=6472967.19 ha (317.1%)
+- maize: original=7470863.00 ha, optimized=5439370.92 ha, delta=-2031492.08 ha (-27.2%)
+- ragi: original=1103945.00 ha, optimized=893945.11 ha, delta=-209999.89 ha (-19.0%)
+- rice: original=40085352.75 ha, optimized=33928922.74 ha, delta=-6156430.01 ha (-15.4%)
 
 ## Rabi crop-area totals
-- bajra: original=279267.00 ha, optimized=509607.24 ha, delta=230340.24 ha (82.5%)
-- jowar: original=4197163.00 ha, optimized=5300316.60 ha, delta=1103153.60 ha (26.3%)
-- maize: original=1968674.82 ha, optimized=2998186.24 ha, delta=1029511.42 ha (52.3%)
-- ragi: original=91039.00 ha, optimized=221339.81 ha, delta=130300.81 ha (143.1%)
-- rice: original=4459552.00 ha, optimized=4296359.28 ha, delta=-163192.72 ha (-3.7%)
-- wheat: original=30731432.50 ha, optimized=28401319.15 ha, delta=-2330113.35 ha (-7.6%)
+- bajra: original=279267.00 ha, optimized=1225676.93 ha, delta=946409.93 ha (338.9%)
+- jowar: original=4197163.00 ha, optimized=5806551.58 ha, delta=1609388.58 ha (38.3%)
+- maize: original=1968674.82 ha, optimized=3079850.95 ha, delta=1111176.13 ha (56.4%)
+- ragi: original=91039.00 ha, optimized=41419.56 ha, delta=-49619.44 ha (-54.5%)
+- rice: original=4459552.00 ha, optimized=4211855.03 ha, delta=-247696.97 ha (-5.6%)
+- wheat: original=30731432.50 ha, optimized=27361774.27 ha, delta=-3369658.23 ha (-11.0%)
 
 ## Kharif largest non-diagonal transition-rule flows
-- rice -> maize: 7680164.8 ha
-- rice -> jowar: 3273673.9 ha
-- rice -> bajra: 2107213.4 ha
-- maize -> jowar: 1999473.5 ha
-- rice -> ragi: 1925120.5 ha
-- bajra -> jowar: 1627046.8 ha
-- maize -> rice: 1588123.6 ha
-- maize -> bajra: 1392295.2 ha
-- bajra -> rice: 776580.0 ha
-- jowar -> bajra: 609424.2 ha
-- ragi -> maize: 465175.1 ha
-- jowar -> maize: 432003.0 ha
+- rice -> jowar: 3473656.0 ha
+- rice -> bajra: 2908067.7 ha
+- rice -> maize: 2609886.6 ha
+- maize -> jowar: 2391290.1 ha
+- maize -> rice: 2009400.6 ha
+- bajra -> jowar: 1571344.1 ha
+- maize -> bajra: 1123658.8 ha
+- bajra -> rice: 786266.9 ha
+- jowar -> bajra: 727141.0 ha
+- ragi -> jowar: 421642.0 ha
+- ragi -> maize: 393146.0 ha
+- rice -> ragi: 326719.6 ha
 
 ## Rabi largest non-diagonal transition-rule flows
-- wheat -> maize: 1450775.0 ha
-- wheat -> jowar: 1051789.5 ha
-- wheat -> rice: 867096.2 ha
-- rice -> wheat: 561281.1 ha
-- rice -> maize: 468565.7 ha
-- maize -> rice: 404673.2 ha
-- maize -> jowar: 372701.0 ha
-- rice -> jowar: 369563.6 ha
-- maize -> wheat: 362062.1 ha
-- jowar -> maize: 306738.0 ha
-- jowar -> wheat: 288889.6 ha
-- wheat -> bajra: 235593.2 ha
+- wheat -> maize: 1342890.5 ha
+- wheat -> rice: 1028657.5 ha
+- wheat -> jowar: 1027953.2 ha
+- wheat -> bajra: 781890.4 ha
+- rice -> jowar: 713220.0 ha
+- rice -> maize: 598778.3 ha
+- maize -> jowar: 528975.0 ha
+- jowar -> maize: 393313.4 ha
+- jowar -> wheat: 323432.0 ha
+- maize -> rice: 314772.2 ha
+- maize -> wheat: 314413.0 ha
+- rice -> wheat: 172428.1 ha
 
 ## Rice/wheat same-season audit
-- rabi | wheat_loss_rice_gain: 69 districts, 867096.2 ha co-occurring area
-- rabi | rice_loss_wheat_gain: 60 districts, 561281.1 ha co-occurring area
+- rabi | wheat_loss_rice_gain: 73 districts, 1028657.5 ha co-occurring area
+- rabi | rice_loss_wheat_gain: 54 districts, 172428.1 ha co-occurring area
 
 Top states for rabi rice-loss / wheat-gain co-adjustment:
-- west bengal: 489571.1 ha across 7 districts
+- west bengal: 97922.3 ha across 3 districts
 - uttar pradesh: 19927.0 ha across 20 districts
-- assam: 19342.0 ha across 2 districts
+- bihar: 15754.0 ha across 4 districts
 - uttarakhand: 13949.0 ha across 2 districts
-- gujarat: 7878.0 ha across 6 districts
-- madhya pradesh: 6200.0 ha across 15 districts
-- bihar: 4133.0 ha across 5 districts
+- madhya pradesh: 12070.0 ha across 17 districts
+- assam: 9323.8 ha across 2 districts
+- gujarat: 1856.0 ha across 1 districts
+- odisha: 1340.0 ha across 1 districts
 - meghalaya: 281.0 ha across 2 districts
-- dadra and nagar haveli: 0.0 ha across 1 districts
+- karnataka: 5.0 ha across 1 districts

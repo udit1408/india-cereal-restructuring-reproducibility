@@ -1,7 +1,7 @@
-# Revenue endpoint equivalent audit
+# Hybrid revenue endpoint equivalent audit
 
-This SI-only figure is the Figure 2(b)-equivalent endpoint comparison built from the 2017-18 realized-price benchmark.
-Matched official state-year realized prices are used where available, and the district MSP term is
+This SI-only figure is the Figure 2(b)-equivalent endpoint comparison built from the hybrid 2017-18 revenue benchmark.
+Matched reviewer-suggested state-year realized prices are used where available, and the district MSP term is
 scaled by the corresponding all-India realized-price/MSP multiplier only for unmatched state-crop combinations.
 
 For 2017-18, direct realized-price coverage is 94.06% of decision keys
@@ -23,7 +23,7 @@ Headline 2017-18 endpoint reductions:
 - Profit: -3.625%
 - Calorie: -5.182%
 
-Ordering checks across realized-price year scenarios:
+Ordering checks across hybrid year scenarios:
 - 2013-14: water endpoint larger water reduction=True; nitrogen endpoint larger nitrogen-surplus reduction=True
 - 2014-15: water endpoint larger water reduction=True; nitrogen endpoint larger nitrogen-surplus reduction=True
 - 2015-16: water endpoint larger water reduction=True; nitrogen endpoint larger nitrogen-surplus reduction=True

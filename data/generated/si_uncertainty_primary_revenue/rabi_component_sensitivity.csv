@@ -1,0 +1,33 @@
+season,component,perturbation,metric,display_metric,pct_reduction,display_pct_change
+rabi,Atmospheric deposition,+10%,Nitrogen Surplus,Nitrogen Surplus,9.539577587388697,-9.539577587388697
+rabi,Atmospheric deposition,-10%,Nitrogen Surplus,Nitrogen Surplus,9.563451925089861,-9.563451925089861
+rabi,BNF input,+10%,Nitrogen Surplus,Nitrogen Surplus,9.29800226307416,-9.29800226307416
+rabi,BNF input,-10%,Nitrogen Surplus,Nitrogen Surplus,9.84008397293645,-9.84008397293645
+rabi,Manure N,+10%,Nitrogen Surplus,Nitrogen Surplus,9.527131617605342,-9.527131617605342
+rabi,Manure N,-10%,Nitrogen Surplus,Nitrogen Surplus,9.57595505064483,-9.57595505064483
+rabi,Synthetic N,+10%,Nitrogen Surplus,Nitrogen Surplus,9.696353095596608,-9.696353095596608
+rabi,Synthetic N,-10%,Nitrogen Surplus,Nitrogen Surplus,9.605847731668613,-9.605847731668613
+rabi,Atmospheric deposition,+10%,Greenhouse Gas emission,Greenhouse Gas emission,-6.321704344155962,6.321704344155962
+rabi,Atmospheric deposition,-10%,Greenhouse Gas emission,Greenhouse Gas emission,-6.324052076233832,6.324052076233832
+rabi,BNF input,+10%,Greenhouse Gas emission,Greenhouse Gas emission,-6.866683729283445,6.866683729283445
+rabi,BNF input,-10%,Greenhouse Gas emission,Greenhouse Gas emission,-5.608852612043352,5.608852612043352
+rabi,Manure N,+10%,Greenhouse Gas emission,Greenhouse Gas emission,-6.321704344155962,6.321704344155962
+rabi,Manure N,-10%,Greenhouse Gas emission,Greenhouse Gas emission,-6.416157472079303,6.416157472079303
+rabi,Synthetic N,+10%,Greenhouse Gas emission,Greenhouse Gas emission,-8.444005885886837,8.444005885886837
+rabi,Synthetic N,-10%,Greenhouse Gas emission,Greenhouse Gas emission,-2.5675213851535306,2.5675213851535306
+rabi,Atmospheric deposition,+10%,Water Demand,Water Demand,2.5622906744416745,-2.5622906744416745
+rabi,Atmospheric deposition,-10%,Water Demand,Water Demand,2.5615867956351956,-2.5615867956351956
+rabi,BNF input,+10%,Water Demand,Water Demand,2.3371642371175976,-2.3371642371175976
+rabi,BNF input,-10%,Water Demand,Water Demand,2.7492603078709457,-2.7492603078709457
+rabi,Manure N,+10%,Water Demand,Water Demand,2.5622906744416745,-2.5622906744416745
+rabi,Manure N,-10%,Water Demand,Water Demand,2.5411429400777457,-2.5411429400777457
+rabi,Synthetic N,+10%,Water Demand,Water Demand,1.7358876259671385,-1.7358876259671385
+rabi,Synthetic N,-10%,Water Demand,Water Demand,4.085496088949454,-4.085496088949454
+rabi,Atmospheric deposition,+10%,Calorie,Calorie,-1.5889384665038409,1.5889384665038409
+rabi,Atmospheric deposition,-10%,Calorie,Calorie,-1.5890379128841827,1.5890379128841827
+rabi,BNF input,+10%,Calorie,Calorie,-1.648397939864105,1.648397939864105
+rabi,BNF input,-10%,Calorie,Calorie,-1.509084686295483,1.509084686295483
+rabi,Manure N,+10%,Calorie,Calorie,-1.5889384665038409,1.5889384665038409
+rabi,Manure N,-10%,Calorie,Calorie,-1.5930529080595186,1.5930529080595186
+rabi,Synthetic N,+10%,Calorie,Calorie,-1.5767218047261407,1.5767218047261407
+rabi,Synthetic N,-10%,Calorie,Calorie,-1.3779896016571695,1.3779896016571695

@@ -14,14 +14,14 @@ a separate set of re-optimized frontiers.
 
 ## Revenue benchmark coverage
 
-- kharif: direct realized-price coverage = 90.97% of decision keys and 99.97% of baseline cereal area
-- rabi: direct realized-price coverage = 97.15% of decision keys and 99.99% of baseline cereal area
+- kharif: direct realized-price coverage = 97.93% of decision keys and 99.95% of baseline cereal area
+- rabi: direct realized-price coverage = 98.60% of decision keys and 99.95% of baseline cereal area
 
 ## Run metadata
 
 Bootstrap iterations requested: 500
 Random seed: 42
-Elapsed time (s): 29.12
+Elapsed time (s): 30.55
 
 ## Solve status counts
 
@@ -32,9 +32,12 @@ frontier and the fixed-allocation bootstrap ensemble.
 
 ## Endpoint envelopes
 
-- Water-based endpoint: nitrogen 7.665 Tg N (envelope 7.515 to 7.829), water 300.667 BCM (envelope 291.498 to 319.450), optimal 500/500
-- Nitrogen-based endpoint: nitrogen 6.825 Tg N (envelope 6.637 to 6.968), water 348.227 BCM (envelope 334.710 to 369.131), optimal 500/500
+- Water-based endpoint: nitrogen 7.952 Tg N (envelope 7.821 to 8.124), water 334.053 BCM (envelope 323.087 to 355.641), optimal 500/500
+- Nitrogen-based endpoint: nitrogen 7.177 Tg N (envelope 7.014 to 7.312), water 380.792 BCM (envelope 368.034 to 403.808), optimal 500/500
+
+Panel d reports the fixed-allocation bootstrap distributions at the two frontier endpoints,
+with deterministic values shown explicitly against the bootstrap median and central spread.
 
 ## Mid-frontier check
 
-- Alpha=0.50: nitrogen 6.999 Tg N (envelope 6.836 to 7.150), water 311.004 BCM (envelope 302.139 to 328.609), optimal 500.0/500.0
+- Alpha=0.50: nitrogen 7.372 Tg N (envelope 7.235 to 7.504), water 344.138 BCM (envelope 334.256 to 363.420), optimal 500.0/500.0

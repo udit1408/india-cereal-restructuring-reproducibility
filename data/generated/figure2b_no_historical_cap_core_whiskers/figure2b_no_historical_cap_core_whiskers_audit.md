@@ -1,6 +1,6 @@
 # Figure 2(b) approved core whisker audit
 
-This rebuild adds whiskers to the approved Figure 2(b) branch used in the current release.
+This rebuild adds whiskers to the approved Figure 2(b) branch used in the revised manuscript.
 The deterministic bar centers come directly from `figure2b_no_historical_cap_core_values.csv` and therefore
 remain aligned with the current state calorie and state profit floors in both seasons.
 
@@ -16,7 +16,7 @@ the approved manuscript branch rather than a replacement of the optimization inp
 Calorie and profit constraint coefficients are held fixed at their prepared 2017 values.
 
 Bootstrap iterations requested: 500
-Elapsed time (s): 75.22
+Elapsed time (s): 78.53
 
 ## Deterministic reproduction check
 

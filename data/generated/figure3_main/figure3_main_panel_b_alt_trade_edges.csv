@@ -1,989 +1,990 @@
-source_state,target_state,quantity_kcal,State,original_alt_trade_kcal,trade_alt_needed_clipped,scale_factor,optimized_trade_kcal
-andhra pradesh,arunachal pradesh,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,assam,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,bihar,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,chandigarh,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,chhattisgarh,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,delhi,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,goa,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,gujarat,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,haryana,4327732500.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,himachal pradesh,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,jammu and kashmir,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,jharkhand,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,karnataka,50043240000.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,kerala,8652150000.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,madhya pradesh,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,maharashtra,4395690000.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,manipur,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,meghalaya,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,mizoram,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,nagaland,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,odisha,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,puducherry,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,punjab,8214570000.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,rajasthan,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,tamil nadu,270065370000.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,tripura,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,uttar pradesh,8691930000.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,uttarakhand,0.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-andhra pradesh,west bengal,43544182500.0,andhra pradesh,397934865000.0,0.0,0.0,0.0
-arunachal pradesh,andhra pradesh,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,assam,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,bihar,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,chandigarh,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,chhattisgarh,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,daman and diu,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,delhi,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,goa,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,gujarat,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,haryana,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,himachal pradesh,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,jammu and kashmir,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,jharkhand,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,karnataka,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,kerala,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,madhya pradesh,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,maharashtra,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,manipur,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,meghalaya,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,mizoram,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,nagaland,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,odisha,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,puducherry,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,punjab,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,rajasthan,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,tamil nadu,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,telangana,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,tripura,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,uttar pradesh,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,uttarakhand,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-arunachal pradesh,west bengal,0.0,arunachal pradesh,0.0,193994785243.0659,0.0,0.0
-assam,andhra pradesh,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,arunachal pradesh,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,bihar,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,chandigarh,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,chhattisgarh,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,daman and diu,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,delhi,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,goa,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,gujarat,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,haryana,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,himachal pradesh,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,jammu and kashmir,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,jharkhand,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,karnataka,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,kerala,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,madhya pradesh,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,maharashtra,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,manipur,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,meghalaya,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,mizoram,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,nagaland,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,odisha,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,puducherry,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,punjab,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,rajasthan,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,tamil nadu,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,telangana,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,tripura,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,uttar pradesh,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,uttarakhand,0.0,assam,0.0,82468910270.75531,0.0,0.0
-assam,west bengal,0.0,assam,0.0,82468910270.75531,0.0,0.0
-bihar,andhra pradesh,57056122500.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,1106313544693.3306
-bihar,arunachal pradesh,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,assam,58547320000.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,1135227742149.753
-bihar,chandigarh,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,chhattisgarh,26463645000.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,513127910251.1029
-bihar,daman and diu,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,delhi,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,goa,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,gujarat,11446695000.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,221950479030.0712
-bihar,haryana,32257160000.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,625463691847.267
-bihar,himachal pradesh,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,jammu and kashmir,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,jharkhand,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,karnataka,238432480000.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,4623186269253.078
-bihar,kerala,32243900000.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,625206581532.7229
-bihar,madhya pradesh,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,maharashtra,43262960000.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,838865252918.7515
-bihar,manipur,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,meghalaya,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,mizoram,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,nagaland,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,odisha,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,puducherry,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,punjab,87622080000.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,1698984958506.4702
-bihar,rajasthan,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,tamil nadu,476427380000.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,9237887898126.207
-bihar,telangana,16893240000.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,327558540729.00165
-bihar,tripura,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,uttar pradesh,0.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,0.0
-bihar,uttarakhand,363047750000.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,7039466153618.099
-bihar,west bengal,25303395000.0,bihar,1469004127500.0,28483869780384.36,19.389918140569936,490630757728.5066
-chandigarh,andhra pradesh,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,arunachal pradesh,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,assam,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,bihar,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,chhattisgarh,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,daman and diu,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,delhi,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,goa,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,gujarat,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,haryana,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,himachal pradesh,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,jammu and kashmir,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,jharkhand,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,karnataka,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,kerala,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,madhya pradesh,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,maharashtra,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,manipur,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,meghalaya,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,mizoram,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,nagaland,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,odisha,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,puducherry,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,punjab,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,rajasthan,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,tamil nadu,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,telangana,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,tripura,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,uttar pradesh,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,uttarakhand,0.0,chandigarh,0.0,0.0,0.0,0.0
-chandigarh,west bengal,0.0,chandigarh,0.0,0.0,0.0,0.0
-chhattisgarh,andhra pradesh,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,arunachal pradesh,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,assam,5850975000.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,3927752209935.6284
-chhattisgarh,bihar,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,chandigarh,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,daman and diu,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,delhi,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,goa,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,gujarat,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,haryana,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,himachal pradesh,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,jammu and kashmir,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,jharkhand,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,karnataka,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,kerala,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,madhya pradesh,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,maharashtra,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,manipur,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,meghalaya,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,mizoram,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,nagaland,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,odisha,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,puducherry,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,punjab,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,rajasthan,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,tamil nadu,2927145000.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,1964988782647.6829
-chhattisgarh,telangana,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,tripura,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,uttar pradesh,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,uttarakhand,0.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,0.0
-chhattisgarh,west bengal,14618045000.0,chhattisgarh,23396165000.0,15705816343903.129,671.2987510518552,9813075351319.816
-daman and diu,arunachal pradesh,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,assam,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,bihar,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,chandigarh,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,chhattisgarh,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,delhi,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,goa,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,gujarat,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,haryana,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,himachal pradesh,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,jammu and kashmir,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,jharkhand,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,karnataka,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,kerala,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,madhya pradesh,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,maharashtra,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,manipur,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,meghalaya,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,mizoram,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,nagaland,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,odisha,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,puducherry,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,punjab,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,rajasthan,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,tamil nadu,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,telangana,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,tripura,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,uttar pradesh,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,uttarakhand,0.0,daman and diu,0.0,0.0,0.0,0.0
-daman and diu,west bengal,0.0,daman and diu,0.0,0.0,0.0,0.0
-delhi,andhra pradesh,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,arunachal pradesh,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,assam,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,bihar,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,chandigarh,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,chhattisgarh,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,daman and diu,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,goa,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,gujarat,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,haryana,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,himachal pradesh,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,jammu and kashmir,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,jharkhand,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,karnataka,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,kerala,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,madhya pradesh,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,maharashtra,2940405000.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,manipur,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,meghalaya,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,mizoram,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,nagaland,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,odisha,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,puducherry,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,punjab,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,rajasthan,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,tamil nadu,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,telangana,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,tripura,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,uttar pradesh,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,uttarakhand,0.0,delhi,2940405000.0,0.0,0.0,0.0
-delhi,west bengal,0.0,delhi,2940405000.0,0.0,0.0,0.0
-goa,andhra pradesh,0.0,goa,0.0,0.0,0.0,0.0
-goa,arunachal pradesh,0.0,goa,0.0,0.0,0.0,0.0
-goa,assam,0.0,goa,0.0,0.0,0.0,0.0
-goa,bihar,0.0,goa,0.0,0.0,0.0,0.0
-goa,chandigarh,0.0,goa,0.0,0.0,0.0,0.0
-goa,chhattisgarh,0.0,goa,0.0,0.0,0.0,0.0
-goa,daman and diu,0.0,goa,0.0,0.0,0.0,0.0
-goa,delhi,0.0,goa,0.0,0.0,0.0,0.0
-goa,gujarat,0.0,goa,0.0,0.0,0.0,0.0
-goa,haryana,0.0,goa,0.0,0.0,0.0,0.0
-goa,himachal pradesh,0.0,goa,0.0,0.0,0.0,0.0
-goa,jammu and kashmir,0.0,goa,0.0,0.0,0.0,0.0
-goa,jharkhand,0.0,goa,0.0,0.0,0.0,0.0
-goa,karnataka,0.0,goa,0.0,0.0,0.0,0.0
-goa,kerala,0.0,goa,0.0,0.0,0.0,0.0
-goa,madhya pradesh,0.0,goa,0.0,0.0,0.0,0.0
-goa,maharashtra,0.0,goa,0.0,0.0,0.0,0.0
-goa,manipur,0.0,goa,0.0,0.0,0.0,0.0
-goa,meghalaya,0.0,goa,0.0,0.0,0.0,0.0
-goa,mizoram,0.0,goa,0.0,0.0,0.0,0.0
-goa,nagaland,0.0,goa,0.0,0.0,0.0,0.0
-goa,odisha,0.0,goa,0.0,0.0,0.0,0.0
-goa,puducherry,0.0,goa,0.0,0.0,0.0,0.0
-goa,punjab,0.0,goa,0.0,0.0,0.0,0.0
-goa,rajasthan,0.0,goa,0.0,0.0,0.0,0.0
-goa,tamil nadu,0.0,goa,0.0,0.0,0.0,0.0
-goa,telangana,0.0,goa,0.0,0.0,0.0,0.0
-goa,tripura,0.0,goa,0.0,0.0,0.0,0.0
-goa,uttar pradesh,0.0,goa,0.0,0.0,0.0,0.0
-goa,uttarakhand,0.0,goa,0.0,0.0,0.0,0.0
-goa,west bengal,0.0,goa,0.0,0.0,0.0,0.0
-gujarat,andhra pradesh,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,arunachal pradesh,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,assam,2448680000.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,385179041206.1389
-gujarat,bihar,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,chandigarh,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,chhattisgarh,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,daman and diu,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,delhi,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,goa,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,haryana,16929172333.333332,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,2662970403550.822
-gujarat,himachal pradesh,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,jammu and kashmir,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,jharkhand,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,karnataka,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,kerala,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,madhya pradesh,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,maharashtra,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,manipur,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,meghalaya,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,mizoram,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,nagaland,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,odisha,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,puducherry,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,punjab,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,rajasthan,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,tamil nadu,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,telangana,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,tripura,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,uttar pradesh,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,uttarakhand,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-gujarat,west bengal,0.0,gujarat,19377852333.333332,3048149444756.961,157.30068494296475,0.0
-haryana,andhra pradesh,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,arunachal pradesh,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,assam,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,bihar,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,chandigarh,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,chhattisgarh,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,daman and diu,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,delhi,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,goa,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,gujarat,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,himachal pradesh,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,jammu and kashmir,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,jharkhand,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,karnataka,6059570000.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,4862836842.268167
-haryana,kerala,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,madhya pradesh,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,maharashtra,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,manipur,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,meghalaya,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,mizoram,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,nagaland,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,odisha,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,puducherry,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,punjab,30066276500.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,24128345257.83539
-haryana,rajasthan,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,tamil nadu,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,telangana,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,tripura,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,uttar pradesh,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,uttarakhand,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-haryana,west bengal,0.0,haryana,36125846500.0,28991182100.103558,0.8025052672496839,0.0
-himachal pradesh,andhra pradesh,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,arunachal pradesh,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,assam,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,bihar,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,chandigarh,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,chhattisgarh,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,daman and diu,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,delhi,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,goa,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,gujarat,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,haryana,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,jammu and kashmir,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,jharkhand,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,karnataka,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,kerala,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,madhya pradesh,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,maharashtra,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,manipur,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,meghalaya,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,mizoram,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,nagaland,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,odisha,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,puducherry,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,punjab,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,rajasthan,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,tamil nadu,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,telangana,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,tripura,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,uttar pradesh,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,uttarakhand,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-himachal pradesh,west bengal,0.0,himachal pradesh,0.0,0.0,0.0,0.0
-jammu and kashmir,andhra pradesh,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,arunachal pradesh,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,assam,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,bihar,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,chandigarh,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,chhattisgarh,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,daman and diu,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,delhi,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,goa,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,gujarat,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,haryana,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,himachal pradesh,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,jharkhand,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,karnataka,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,kerala,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,madhya pradesh,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,maharashtra,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,manipur,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,meghalaya,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,mizoram,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,nagaland,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,odisha,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,puducherry,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,punjab,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,rajasthan,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,tamil nadu,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,telangana,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,tripura,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,uttar pradesh,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,uttarakhand,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jammu and kashmir,west bengal,0.0,jammu and kashmir,0.0,593857955614.2538,0.0,0.0
-jharkhand,andhra pradesh,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,arunachal pradesh,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,assam,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,bihar,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,chandigarh,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,chhattisgarh,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,daman and diu,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,delhi,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,goa,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,gujarat,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,haryana,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,himachal pradesh,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,jammu and kashmir,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,karnataka,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,kerala,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,madhya pradesh,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,maharashtra,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,manipur,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,meghalaya,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,mizoram,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,nagaland,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,odisha,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,puducherry,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,punjab,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,rajasthan,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,tamil nadu,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,telangana,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,tripura,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,uttar pradesh,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,uttarakhand,0.0,jharkhand,0.0,0.0,0.0,0.0
-jharkhand,west bengal,0.0,jharkhand,0.0,0.0,0.0,0.0
-karnataka,andhra pradesh,48226620000.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,1238721916375.2573
-karnataka,arunachal pradesh,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,assam,6532760000.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,167796809861.8486
-karnataka,bihar,2861950000.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,73510442750.70837
-karnataka,chandigarh,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,chhattisgarh,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,daman and diu,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,delhi,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,goa,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,gujarat,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,haryana,5771415000.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,148241329145.54047
-karnataka,himachal pradesh,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,jammu and kashmir,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,jharkhand,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,kerala,14685450000.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,377202233265.2179
-karnataka,madhya pradesh,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,maharashtra,17036890000.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,437600002444.1783
-karnataka,manipur,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,meghalaya,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,mizoram,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,nagaland,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,odisha,14201460000.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,364770737541.3529
-karnataka,puducherry,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,punjab,5681910000.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,145942353908.9353
-karnataka,rajasthan,2847585000.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,73141471416.43842
-karnataka,tamil nadu,211553134000.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,5433835163311.706
-karnataka,telangana,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,tripura,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,uttar pradesh,0.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,0.0
-karnataka,uttarakhand,8454355000.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,217153821423.0385
-karnataka,west bengal,17605965000.0,karnataka,355459494000.0,9130133225207.557,25.68543921127496,452216943763.3346
-kerala,andhra pradesh,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,arunachal pradesh,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,assam,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,bihar,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,chandigarh,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,chhattisgarh,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,daman and diu,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,delhi,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,goa,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,gujarat,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,haryana,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,himachal pradesh,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,jammu and kashmir,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,jharkhand,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,karnataka,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,madhya pradesh,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,maharashtra,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,manipur,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,meghalaya,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,mizoram,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,nagaland,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,odisha,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,puducherry,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,punjab,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,rajasthan,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,tamil nadu,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,telangana,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,tripura,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,uttar pradesh,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,uttarakhand,0.0,kerala,0.0,0.0,0.0,0.0
-kerala,west bengal,0.0,kerala,0.0,0.0,0.0,0.0
-madhya pradesh,andhra pradesh,5575830000.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,48393480661.66686
-madhya pradesh,arunachal pradesh,0.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,0.0
-madhya pradesh,assam,3717220000.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,32262320441.11124
-madhya pradesh,bihar,68894429500.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,597945281994.7561
-madhya pradesh,chandigarh,0.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,0.0
-madhya pradesh,chhattisgarh,30144400000.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,261627854231.12802
-madhya pradesh,daman and diu,0.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,0.0
-madhya pradesh,delhi,0.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,0.0
-madhya pradesh,goa,0.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,0.0
-madhya pradesh,gujarat,11728470000.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,101793183460.74753
-madhya pradesh,haryana,109400525000.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,949503874932.2885
-madhya pradesh,himachal pradesh,0.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,0.0
-madhya pradesh,jammu and kashmir,0.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,0.0
-madhya pradesh,jharkhand,0.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,0.0
-madhya pradesh,karnataka,14119690000.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,122546947264.12587
-madhya pradesh,kerala,2937090000.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,25491452952.57838
-madhya pradesh,maharashtra,0.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,0.0
-madhya pradesh,manipur,0.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,0.0
-madhya pradesh,meghalaya,0.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,0.0
-madhya pradesh,mizoram,0.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,0.0
-madhya pradesh,nagaland,0.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,0.0
-madhya pradesh,odisha,0.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,0.0
-madhya pradesh,puducherry,0.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,0.0
-madhya pradesh,punjab,334741735000.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,2905274672896.2886
-madhya pradesh,rajasthan,0.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,0.0
-madhya pradesh,tamil nadu,181171800000.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,1572417738657.6306
-madhya pradesh,telangana,34810815000.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,302128383132.08307
-madhya pradesh,tripura,0.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,0.0
-madhya pradesh,uttar pradesh,2923830000.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,25376367386.201054
-madhya pradesh,uttarakhand,374529363000.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,3250597576605.9775
-madhya pradesh,west bengal,67405994500.0,madhya pradesh,1242101192000.0,10780386061785.484,8.679152818803095,585026927168.9009
-maharashtra,andhra pradesh,18822570000.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,265450008465.951
-maharashtra,arunachal pradesh,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,assam,5850975000.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,82514840602.74806
-maharashtra,bihar,23711090000.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,334391586336.8778
-maharashtra,chandigarh,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,chhattisgarh,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,daman and diu,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,delhi,1252834000.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,17668405319.062767
-maharashtra,goa,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,gujarat,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,haryana,39094900000.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,551345620495.7935
-maharashtra,himachal pradesh,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,jammu and kashmir,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,jharkhand,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,karnataka,81739060000.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,1152745569228.7969
-maharashtra,kerala,5844345000.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,82421339366.93759
-maharashtra,madhya pradesh,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,manipur,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,meghalaya,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,mizoram,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,nagaland,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,odisha,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,puducherry,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,punjab,37132420000.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,523669254695.8916
-maharashtra,rajasthan,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,tamil nadu,204894625000.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,2889577775026.357
-maharashtra,telangana,97321770000.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,1372504640462.027
-maharashtra,tripura,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,uttar pradesh,0.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,0.0
-maharashtra,uttarakhand,123008600000.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,1734759595070.4277
-maharashtra,west bengal,25031350000.0,maharashtra,663704539000.0,9360059518781.979,14.102750499318159,353010883711.1076
-manipur,andhra pradesh,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,arunachal pradesh,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,assam,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,bihar,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,chandigarh,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,chhattisgarh,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,daman and diu,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,delhi,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,goa,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,gujarat,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,haryana,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,himachal pradesh,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,jammu and kashmir,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,jharkhand,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,karnataka,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,kerala,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,madhya pradesh,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,maharashtra,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,meghalaya,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,mizoram,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,nagaland,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,odisha,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,puducherry,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,punjab,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,rajasthan,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,tamil nadu,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,telangana,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,tripura,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,uttar pradesh,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,uttarakhand,0.0,manipur,0.0,306500239102.855,0.0,0.0
-manipur,west bengal,0.0,manipur,0.0,306500239102.855,0.0,0.0
-meghalaya,andhra pradesh,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,arunachal pradesh,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,assam,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,bihar,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,chandigarh,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,chhattisgarh,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,daman and diu,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,delhi,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,goa,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,gujarat,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,haryana,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,himachal pradesh,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,jammu and kashmir,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,jharkhand,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,karnataka,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,kerala,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,madhya pradesh,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,maharashtra,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,manipur,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,mizoram,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,nagaland,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,odisha,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,puducherry,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,punjab,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,rajasthan,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,tamil nadu,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,telangana,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,tripura,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,uttar pradesh,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,uttarakhand,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-meghalaya,west bengal,0.0,meghalaya,0.0,37323273029.709045,0.0,0.0
-mizoram,andhra pradesh,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,arunachal pradesh,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,assam,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,bihar,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,chandigarh,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,chhattisgarh,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,daman and diu,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,delhi,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,goa,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,gujarat,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,haryana,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,himachal pradesh,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,jammu and kashmir,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,jharkhand,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,karnataka,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,kerala,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,madhya pradesh,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,maharashtra,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,manipur,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,meghalaya,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,nagaland,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,odisha,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,puducherry,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,punjab,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,rajasthan,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,tamil nadu,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,telangana,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,tripura,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,uttar pradesh,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,uttarakhand,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-mizoram,west bengal,0.0,mizoram,0.0,113824091928.23961,0.0,0.0
-nagaland,andhra pradesh,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,arunachal pradesh,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,assam,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,bihar,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,chandigarh,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,chhattisgarh,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,daman and diu,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,delhi,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,goa,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,gujarat,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,haryana,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,himachal pradesh,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,jammu and kashmir,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,jharkhand,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,karnataka,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,kerala,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,madhya pradesh,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,maharashtra,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,manipur,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,meghalaya,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,mizoram,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,odisha,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,puducherry,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,punjab,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,rajasthan,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,tamil nadu,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,telangana,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,tripura,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,uttar pradesh,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,uttarakhand,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-nagaland,west bengal,0.0,nagaland,0.0,93873717645.82835,0.0,0.0
-odisha,andhra pradesh,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,arunachal pradesh,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,assam,5706220000.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,77396931818.30229
-odisha,bihar,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,chandigarh,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,chhattisgarh,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,daman and diu,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,delhi,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,goa,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,gujarat,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,haryana,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,himachal pradesh,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,jammu and kashmir,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,jharkhand,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,karnataka,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,kerala,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,madhya pradesh,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,maharashtra,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,manipur,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,meghalaya,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,mizoram,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,nagaland,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,puducherry,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,punjab,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,rajasthan,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,tamil nadu,17433585000.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,236462314736.12613
-odisha,telangana,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,tripura,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,uttar pradesh,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,uttarakhand,0.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,0.0
-odisha,west bengal,90572430000.0,odisha,113712235000.0,1542348191833.0818,13.563608101037516,1228488945278.6533
-puducherry,andhra pradesh,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,arunachal pradesh,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,assam,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,bihar,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,chandigarh,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,chhattisgarh,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,daman and diu,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,delhi,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,goa,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,gujarat,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,haryana,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,himachal pradesh,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,jammu and kashmir,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,jharkhand,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,karnataka,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,kerala,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,madhya pradesh,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,maharashtra,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,manipur,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,meghalaya,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,mizoram,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,nagaland,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,odisha,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,punjab,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,rajasthan,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,tamil nadu,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,telangana,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,tripura,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,uttar pradesh,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,uttarakhand,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-puducherry,west bengal,0.0,puducherry,0.0,436630699.08012736,0.0,0.0
-punjab,andhra pradesh,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,arunachal pradesh,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,assam,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,bihar,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,chandigarh,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,chhattisgarh,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,daman and diu,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,delhi,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,goa,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,gujarat,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,haryana,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,himachal pradesh,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,jammu and kashmir,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,jharkhand,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,karnataka,5867550000.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,kerala,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,madhya pradesh,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,maharashtra,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,manipur,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,meghalaya,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,mizoram,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,nagaland,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,odisha,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,puducherry,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,rajasthan,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,tamil nadu,2937090000.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,telangana,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,tripura,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,uttar pradesh,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,uttarakhand,0.0,punjab,8804640000.0,0.0,0.0,0.0
-punjab,west bengal,0.0,punjab,8804640000.0,0.0,0.0,0.0
-rajasthan,andhra pradesh,1288980000.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,arunachal pradesh,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,assam,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,bihar,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,chandigarh,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,chhattisgarh,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,daman and diu,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,delhi,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,goa,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,gujarat,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,haryana,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,himachal pradesh,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,jammu and kashmir,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,jharkhand,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,karnataka,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,kerala,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,madhya pradesh,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,maharashtra,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,manipur,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,meghalaya,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,mizoram,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,nagaland,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,odisha,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,puducherry,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,punjab,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,tamil nadu,26980374666.666664,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,telangana,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,tripura,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,uttar pradesh,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,uttarakhand,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-rajasthan,west bengal,0.0,rajasthan,28269354666.666664,0.0,0.0,0.0
-tamil nadu,andhra pradesh,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,arunachal pradesh,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,assam,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,bihar,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,chandigarh,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,chhattisgarh,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,daman and diu,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,delhi,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,goa,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,gujarat,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,haryana,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,himachal pradesh,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,jammu and kashmir,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,jharkhand,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,karnataka,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,kerala,2923830000.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,55581180273767.98
-tamil nadu,madhya pradesh,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,maharashtra,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,manipur,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,meghalaya,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,mizoram,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,nagaland,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,odisha,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,puducherry,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,punjab,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,rajasthan,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,telangana,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,tripura,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,uttar pradesh,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,uttarakhand,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-tamil nadu,west bengal,0.0,tamil nadu,2923830000.0,55581180273767.98,19009.716800829043,0.0
-telangana,arunachal pradesh,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,assam,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,bihar,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,chandigarh,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,chhattisgarh,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,daman and diu,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,delhi,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,goa,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,gujarat,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,haryana,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,himachal pradesh,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,jammu and kashmir,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,jharkhand,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,karnataka,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,kerala,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,madhya pradesh,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,maharashtra,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,manipur,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,meghalaya,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,mizoram,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,nagaland,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,odisha,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,puducherry,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,punjab,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,rajasthan,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,tamil nadu,82898205000.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,5616900560556.813
-telangana,tripura,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,uttar pradesh,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,uttarakhand,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-telangana,west bengal,0.0,telangana,82898205000.0,5616900560556.814,67.7566005265954,0.0
-tripura,andhra pradesh,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,arunachal pradesh,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,assam,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,bihar,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,chandigarh,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,chhattisgarh,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,daman and diu,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,delhi,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,goa,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,gujarat,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,haryana,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,himachal pradesh,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,jammu and kashmir,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,jharkhand,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,karnataka,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,kerala,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,madhya pradesh,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,maharashtra,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,manipur,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,meghalaya,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,mizoram,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,nagaland,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,odisha,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,puducherry,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,punjab,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,rajasthan,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,tamil nadu,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,telangana,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,uttar pradesh,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,uttarakhand,0.0,tripura,0.0,0.0,0.0,0.0
-tripura,west bengal,0.0,tripura,0.0,0.0,0.0,0.0
-uttar pradesh,andhra pradesh,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,arunachal pradesh,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,assam,29189600000.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,403750335359.6936
-uttar pradesh,bihar,2306135000.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,31898442583.47929
-uttar pradesh,chandigarh,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,chhattisgarh,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,daman and diu,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,delhi,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,goa,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,gujarat,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,haryana,28099045000.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,388665786514.27637
-uttar pradesh,himachal pradesh,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,jammu and kashmir,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,jharkhand,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,karnataka,2831010000.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,39158509774.2568
-uttar pradesh,kerala,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,madhya pradesh,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,maharashtra,33071545000.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,457445370426.90546
-uttar pradesh,manipur,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,meghalaya,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,mizoram,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,nagaland,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,odisha,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,puducherry,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,punjab,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,rajasthan,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,tamil nadu,212814758333.3333,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,2943652192787.002
-uttar pradesh,telangana,88311600000.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,1221525410288.2917
-uttar pradesh,tripura,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,uttarakhand,0.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,0.0
-uttar pradesh,west bengal,30246700000.0,uttar pradesh,426870393333.3333,5904468182621.8125,13.831992742610163,418372134887.9068
-uttarakhand,andhra pradesh,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,arunachal pradesh,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,assam,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,bihar,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,chandigarh,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,chhattisgarh,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,daman and diu,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,delhi,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,goa,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,gujarat,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,haryana,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,himachal pradesh,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,jammu and kashmir,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,jharkhand,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,karnataka,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,kerala,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,madhya pradesh,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,maharashtra,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,manipur,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,meghalaya,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,mizoram,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,nagaland,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,odisha,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,puducherry,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,punjab,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,rajasthan,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,tamil nadu,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,telangana,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,tripura,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,uttar pradesh,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-uttarakhand,west bengal,0.0,uttarakhand,0.0,377953036693.59045,0.0,0.0
-west bengal,andhra pradesh,17577787500.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,410245429390.7312
-west bengal,arunachal pradesh,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,assam,2947035000.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,68780421825.2447
-west bengal,bihar,7245485000.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,169101322050.29227
-west bengal,chandigarh,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,chhattisgarh,5857605000.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,136709792311.81932
-west bengal,daman and diu,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,delhi,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,goa,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,gujarat,2755870000.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,64318849655.85312
-west bengal,haryana,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,himachal pradesh,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,jammu and kashmir,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,jharkhand,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,karnataka,87655230000.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,2045772681555.816
-west bengal,kerala,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,madhya pradesh,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,maharashtra,22975160000.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,536213922231.154
-west bengal,manipur,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,meghalaya,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,mizoram,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,nagaland,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,odisha,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,puducherry,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,punjab,20472335000.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,477800853076.9811
-west bengal,rajasthan,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,tamil nadu,155118795000.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,3620295026398.9595
-west bengal,telangana,96135000000.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,2243680801948.3647
-west bengal,tripura,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,uttar pradesh,0.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,0.0
-west bengal,uttarakhand,29071445000.0,west bengal,447811747500.0,10451413332841.303,23.33885475579513,678494232396.0865
+source_state,target_state,baseline_alt_trade_kcal,staple_deficit_kcal,quantity_kcal,is_new_link,pre_scale_trade_kcal,State,scale_factor,optimized_alt_prod_kcal,pre_scale_alt_trade_kcal,optimized_alt_trade_kcal,capacity_limited,optimized_trade_kcal
+andhra pradesh,arunachal pradesh,0.0,0.0,0.0,False,0.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,0.0
+andhra pradesh,assam,0.0,6978921133.52944,0.0,True,6978921133.52944,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,6978921133.52944
+andhra pradesh,bihar,0.0,5279261566.402133,0.0,True,5279261566.402133,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,5279261566.402133
+andhra pradesh,chandigarh,0.0,0.0,0.0,False,0.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,0.0
+andhra pradesh,chhattisgarh,0.0,295618763.4297676,0.0,True,295618763.4297676,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,295618763.4297676
+andhra pradesh,delhi,0.0,0.0,0.0,False,0.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,0.0
+andhra pradesh,goa,0.0,0.0,0.0,False,0.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,0.0
+andhra pradesh,gujarat,0.0,0.0,0.0,False,0.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,0.0
+andhra pradesh,haryana,4327732500.0,0.0,4327732500.0,False,4327732500.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,4327732500.0
+andhra pradesh,himachal pradesh,0.0,0.0,0.0,False,0.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,0.0
+andhra pradesh,jammu and kashmir,0.0,0.0,0.0,False,0.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,0.0
+andhra pradesh,jharkhand,0.0,0.0,0.0,False,0.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,0.0
+andhra pradesh,karnataka,50043240000.0,0.0,50043240000.0,False,50043240000.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,50043240000.0
+andhra pradesh,kerala,8652150000.0,0.0,8652150000.0,False,8652150000.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,8652150000.0
+andhra pradesh,madhya pradesh,0.0,1027099500.0,0.0,True,1027099500.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,1027099500.0
+andhra pradesh,maharashtra,4395690000.0,0.0,4395690000.0,False,4395690000.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,4395690000.0
+andhra pradesh,manipur,0.0,0.0,0.0,False,0.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,0.0
+andhra pradesh,meghalaya,0.0,0.0,0.0,False,0.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,0.0
+andhra pradesh,mizoram,0.0,0.0,0.0,False,0.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,0.0
+andhra pradesh,nagaland,0.0,2486917598.6578436,0.0,True,2486917598.6578436,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,2486917598.6578436
+andhra pradesh,odisha,0.0,36437788333.33333,0.0,True,36437788333.33333,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,36437788333.33333
+andhra pradesh,puducherry,0.0,0.0,0.0,False,0.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,0.0
+andhra pradesh,punjab,8214570000.0,0.0,8214570000.0,False,8214570000.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,8214570000.0
+andhra pradesh,rajasthan,0.0,427795783.3333334,0.0,True,427795783.3333334,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,427795783.3333334
+andhra pradesh,tamil nadu,270065370000.0,0.0,270065370000.0,False,270065370000.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,270065370000.0
+andhra pradesh,tripura,0.0,580019805.190455,0.0,True,580019805.190455,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,580019805.190455
+andhra pradesh,uttar pradesh,8691930000.0,70667044.12892747,8691930000.0,False,8762597044.128927,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,8762597044.128927
+andhra pradesh,uttarakhand,0.0,0.0,0.0,False,0.0,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,0.0
+andhra pradesh,west bengal,43544182500.0,2600589124.590658,43544182500.0,False,46144771624.59066,andhra pradesh,1.0,8068367512167.041,454119543652.5958,454119543652.5958,False,46144771624.59066
+arunachal pradesh,andhra pradesh,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,assam,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,bihar,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,chandigarh,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,chhattisgarh,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,daman and diu,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,delhi,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,goa,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,gujarat,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,haryana,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,himachal pradesh,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,jammu and kashmir,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,jharkhand,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,karnataka,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,kerala,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,madhya pradesh,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,maharashtra,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,manipur,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,meghalaya,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,mizoram,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,nagaland,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,odisha,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,puducherry,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,punjab,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,rajasthan,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,tamil nadu,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,telangana,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,tripura,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,uttar pradesh,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,uttarakhand,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+arunachal pradesh,west bengal,0.0,0.0,0.0,False,0.0,arunachal pradesh,0.0,312867817789.8175,0.0,0.0,False,0.0
+assam,andhra pradesh,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,arunachal pradesh,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,bihar,0.0,88557252.67091683,0.0,True,88557252.67091683,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,88557252.67091683
+assam,chandigarh,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,chhattisgarh,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,daman and diu,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,delhi,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,goa,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,gujarat,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,haryana,0.0,835911515.4386554,0.0,True,835911515.4386554,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,835911515.4386554
+assam,himachal pradesh,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,jammu and kashmir,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,jharkhand,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,karnataka,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,kerala,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,madhya pradesh,0.0,97418341.6820297,0.0,True,97418341.6820297,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,97418341.6820297
+assam,maharashtra,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,manipur,0.0,2564236528.8480387,0.0,True,2564236528.8480387,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,2564236528.8480387
+assam,meghalaya,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,mizoram,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,nagaland,0.0,1831678920.4274726,0.0,True,1831678920.4274726,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,1831678920.4274726
+assam,odisha,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,puducherry,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,punjab,0.0,965245151.37882,0.0,True,965245151.37882,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,965245151.37882
+assam,rajasthan,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,tamil nadu,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,telangana,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,tripura,0.0,3867295453.2773094,0.0,True,3867295453.2773094,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,3867295453.2773094
+assam,uttar pradesh,0.0,1114599981.6400356,0.0,True,1114599981.6400356,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,1114599981.6400356
+assam,uttarakhand,0.0,0.0,0.0,False,0.0,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,0.0
+assam,west bengal,0.0,152514699.69084758,0.0,True,152514699.69084758,assam,1.0,317795655969.20044,11517457845.054127,11517457845.054127,False,152514699.69084758
+bihar,andhra pradesh,57056122500.0,0.0,57056122500.0,False,57056122500.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,57056122500.0
+bihar,arunachal pradesh,0.0,0.0,0.0,False,0.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,0.0
+bihar,assam,58547320000.0,3631947476.571164,58547320000.0,False,62179267476.57117,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,62179267476.57117
+bihar,chandigarh,0.0,0.0,0.0,False,0.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,0.0
+bihar,chhattisgarh,26463645000.0,0.0,26463645000.0,False,26463645000.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,26463645000.0
+bihar,daman and diu,0.0,0.0,0.0,False,0.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,0.0
+bihar,delhi,0.0,0.0,0.0,False,0.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,0.0
+bihar,goa,0.0,0.0,0.0,False,0.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,0.0
+bihar,gujarat,11446695000.0,0.0,11446695000.0,False,11446695000.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,11446695000.0
+bihar,haryana,32257160000.0,6291687031.91169,32257160000.0,False,38548847031.91169,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,38548847031.91169
+bihar,himachal pradesh,0.0,0.0,0.0,False,0.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,0.0
+bihar,jammu and kashmir,0.0,0.0,0.0,False,0.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,0.0
+bihar,jharkhand,0.0,0.0,0.0,False,0.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,0.0
+bihar,karnataka,238432480000.0,325089562.0099272,238432480000.0,False,238757569562.00992,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,238757569562.00992
+bihar,kerala,32243900000.0,0.0,32243900000.0,False,32243900000.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,32243900000.0
+bihar,madhya pradesh,0.0,1707854947.1364923,0.0,True,1707854947.1364923,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,1707854947.1364923
+bihar,maharashtra,43262960000.0,0.0,43262960000.0,False,43262960000.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,43262960000.0
+bihar,manipur,0.0,0.0,0.0,False,0.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,0.0
+bihar,meghalaya,0.0,0.0,0.0,False,0.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,0.0
+bihar,mizoram,0.0,0.0,0.0,False,0.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,0.0
+bihar,nagaland,0.0,354024933.19784933,0.0,True,354024933.19784933,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,354024933.19784933
+bihar,odisha,0.0,0.0,0.0,False,0.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,0.0
+bihar,puducherry,0.0,0.0,0.0,False,0.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,0.0
+bihar,punjab,87622080000.0,8778567166.680141,87622080000.0,False,96400647166.68015,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,96400647166.68015
+bihar,rajasthan,0.0,134569477.43249324,0.0,True,134569477.43249324,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,134569477.43249324
+bihar,tamil nadu,476427380000.0,1048561568.7897716,476427380000.0,False,477475941568.7898,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,477475941568.7898
+bihar,telangana,16893240000.0,343224172.5240167,16893240000.0,False,17236464172.524017,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,17236464172.524017
+bihar,tripura,0.0,0.0,0.0,False,0.0,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,0.0
+bihar,uttar pradesh,0.0,184231744.21571326,0.0,True,184231744.21571326,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,184231744.21571326
+bihar,uttarakhand,363047750000.0,12131277.249197282,363047750000.0,False,363059881277.2492,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,363059881277.2492
+bihar,west bengal,25303395000.0,784542107.620126,25303395000.0,False,26087937107.620125,bihar,1.0,21375279179266.508,1492600558965.3389,1492600558965.3389,False,26087937107.620125
+chandigarh,andhra pradesh,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,arunachal pradesh,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,assam,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,bihar,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,chhattisgarh,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,daman and diu,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,delhi,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,goa,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,gujarat,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,haryana,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,himachal pradesh,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,jammu and kashmir,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,jharkhand,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,karnataka,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,kerala,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,madhya pradesh,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,maharashtra,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,manipur,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,meghalaya,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,mizoram,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,nagaland,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,odisha,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,puducherry,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,punjab,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,rajasthan,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,tamil nadu,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,telangana,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,tripura,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,uttar pradesh,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,uttarakhand,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chandigarh,west bengal,0.0,0.0,0.0,False,0.0,chandigarh,0.0,0.0,0.0,0.0,False,0.0
+chhattisgarh,andhra pradesh,0.0,3435077064.309082,0.0,True,3435077064.309082,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,3435077064.309082
+chhattisgarh,arunachal pradesh,0.0,0.0,0.0,False,0.0,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,0.0
+chhattisgarh,assam,5850975000.0,180767254.25390625,5850975000.0,False,6031742254.253906,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,6031742254.253906
+chhattisgarh,bihar,0.0,1948643068.7324219,0.0,True,1948643068.7324219,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,1948643068.7324219
+chhattisgarh,chandigarh,0.0,2375201.8809645176,0.0,True,2375201.8809645176,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,2375201.8809645176
+chhattisgarh,daman and diu,0.0,0.0,0.0,False,0.0,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,0.0
+chhattisgarh,delhi,0.0,4715918.55735445,0.0,True,4715918.55735445,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,4715918.55735445
+chhattisgarh,goa,0.0,46180411.70520401,0.0,True,46180411.70520401,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,46180411.70520401
+chhattisgarh,gujarat,0.0,83888156.17176819,0.0,True,83888156.17176819,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,83888156.17176819
+chhattisgarh,haryana,0.0,8690761.652580261,0.0,True,8690761.652580261,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,8690761.652580261
+chhattisgarh,himachal pradesh,0.0,4616294.633027554,0.0,True,4616294.633027554,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,4616294.633027554
+chhattisgarh,jammu and kashmir,0.0,11606454.511184692,0.0,True,11606454.511184692,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,11606454.511184692
+chhattisgarh,jharkhand,0.0,3153100680.1816406,0.0,True,3153100680.1816406,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,3153100680.1816406
+chhattisgarh,karnataka,0.0,613165338.3545532,0.0,True,613165338.3545532,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,613165338.3545532
+chhattisgarh,kerala,0.0,337281073.0414734,0.0,True,337281073.0414734,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,337281073.0414734
+chhattisgarh,madhya pradesh,0.0,129946176.58892822,0.0,True,129946176.58892822,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,129946176.58892822
+chhattisgarh,maharashtra,0.0,1798078259.6157227,0.0,True,1798078259.6157227,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,1798078259.6157227
+chhattisgarh,manipur,0.0,1151734.5455436707,0.0,True,1151734.5455436707,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,1151734.5455436707
+chhattisgarh,meghalaya,0.0,0.0,0.0,False,0.0,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,0.0
+chhattisgarh,mizoram,0.0,1176239.5358743668,0.0,True,1176239.5358743668,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,1176239.5358743668
+chhattisgarh,nagaland,0.0,12877506.082374573,0.0,True,12877506.082374573,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,12877506.082374573
+chhattisgarh,odisha,0.0,13141803.541723251,0.0,True,13141803.541723251,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,13141803.541723251
+chhattisgarh,puducherry,0.0,0.0,0.0,False,0.0,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,0.0
+chhattisgarh,punjab,0.0,29213869.272663116,0.0,True,29213869.272663116,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,29213869.272663116
+chhattisgarh,rajasthan,0.0,681684.2764725685,0.0,True,681684.2764725685,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,681684.2764725685
+chhattisgarh,tamil nadu,2927145000.0,2313523622.2834473,2927145000.0,False,5240668622.283447,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,5240668622.283447
+chhattisgarh,telangana,0.0,0.0,0.0,False,0.0,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,0.0
+chhattisgarh,tripura,0.0,0.0,0.0,False,0.0,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,0.0
+chhattisgarh,uttar pradesh,0.0,3549659.2357239723,0.0,True,3549659.2357239723,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,3549659.2357239723
+chhattisgarh,uttarakhand,0.0,1225695.0618145466,0.0,True,1225695.0618145466,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,1225695.0618145466
+chhattisgarh,west bengal,14618045000.0,678806232.1900635,14618045000.0,False,15296851232.190063,chhattisgarh,1.0,1085685272486.0793,38209645160.215515,38209645160.215515,False,15296851232.190063
+daman and diu,arunachal pradesh,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,assam,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,bihar,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,chandigarh,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,chhattisgarh,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,delhi,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,goa,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,gujarat,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,haryana,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,himachal pradesh,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,jammu and kashmir,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,jharkhand,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,karnataka,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,kerala,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,madhya pradesh,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,maharashtra,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,manipur,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,meghalaya,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,mizoram,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,nagaland,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,odisha,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,puducherry,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,punjab,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,rajasthan,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,tamil nadu,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,telangana,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,tripura,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,uttar pradesh,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,uttarakhand,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+daman and diu,west bengal,0.0,0.0,0.0,False,0.0,daman and diu,0.0,0.0,0.0,0.0,False,0.0
+delhi,andhra pradesh,0.0,0.0,0.0,False,0.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,arunachal pradesh,0.0,0.0,0.0,False,0.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,assam,0.0,71016599666.66667,0.0,True,71016599666.66667,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,bihar,0.0,0.0,0.0,False,0.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,chandigarh,0.0,19386808333.333332,0.0,True,19386808333.333332,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,chhattisgarh,0.0,0.0,0.0,False,0.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,daman and diu,0.0,0.0,0.0,False,0.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,goa,0.0,0.0,0.0,False,0.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,gujarat,0.0,11479220000.0,0.0,True,11479220000.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,haryana,0.0,503554333.3333333,0.0,True,503554333.3333333,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,himachal pradesh,0.0,2383716666.6666665,0.0,True,2383716666.6666665,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,jammu and kashmir,0.0,0.0,0.0,False,0.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,jharkhand,0.0,0.0,0.0,False,0.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,karnataka,0.0,0.0,0.0,False,0.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,kerala,0.0,0.0,0.0,False,0.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,madhya pradesh,0.0,1130160966.6666667,0.0,True,1130160966.6666667,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,maharashtra,2940405000.0,0.0,2940405000.0,False,2940405000.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,manipur,0.0,0.0,0.0,False,0.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,meghalaya,0.0,0.0,0.0,False,0.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,mizoram,0.0,0.0,0.0,False,0.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,nagaland,0.0,6399066666.666667,0.0,True,6399066666.666667,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,odisha,0.0,1428875000.0,0.0,True,1428875000.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,puducherry,0.0,0.0,0.0,False,0.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,punjab,0.0,251938166.66666666,0.0,True,251938166.66666666,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,rajasthan,0.0,142466216.66666666,0.0,True,142466216.66666666,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,tamil nadu,0.0,0.0,0.0,False,0.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,telangana,0.0,0.0,0.0,False,0.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,tripura,0.0,3325633333.333333,0.0,True,3325633333.333333,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,uttar pradesh,0.0,2093000000.0,0.0,True,2093000000.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,uttarakhand,0.0,0.0,0.0,False,0.0,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+delhi,west bengal,0.0,10646016666.666666,0.0,True,10646016666.666666,delhi,0.0,0.0,133127461016.66669,0.0,True,0.0
+goa,andhra pradesh,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,arunachal pradesh,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,assam,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,bihar,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,chandigarh,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,chhattisgarh,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,daman and diu,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,delhi,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,gujarat,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,haryana,0.0,159497333.3333333,0.0,True,159497333.3333333,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,himachal pradesh,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,jammu and kashmir,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,jharkhand,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,karnataka,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,kerala,0.0,1500160000.0,0.0,True,1500160000.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,madhya pradesh,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,maharashtra,0.0,2931976666.6666665,0.0,True,2931976666.6666665,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,manipur,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,meghalaya,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,mizoram,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,nagaland,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,odisha,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,puducherry,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,punjab,0.0,2223018166.6666665,0.0,True,2223018166.6666665,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,rajasthan,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,tamil nadu,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,telangana,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,tripura,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,uttar pradesh,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,uttarakhand,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+goa,west bengal,0.0,0.0,0.0,False,0.0,goa,0.0,0.0,6814652166.666666,0.0,True,0.0
+gujarat,andhra pradesh,0.0,3486550820.0520205,0.0,True,3486550820.0520205,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,3486550820.0520205
+gujarat,arunachal pradesh,0.0,0.0,0.0,False,0.0,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,0.0
+gujarat,assam,2448680000.0,658311686.7392671,2448680000.0,False,3106991686.7392673,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,3106991686.7392673
+gujarat,bihar,0.0,5042029.055506652,0.0,True,5042029.055506652,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,5042029.055506652
+gujarat,chandigarh,0.0,0.0,0.0,False,0.0,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,0.0
+gujarat,chhattisgarh,0.0,0.0,0.0,False,0.0,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,0.0
+gujarat,daman and diu,0.0,0.0,0.0,False,0.0,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,0.0
+gujarat,delhi,0.0,0.0,0.0,False,0.0,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,0.0
+gujarat,goa,0.0,0.0,0.0,False,0.0,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,0.0
+gujarat,haryana,16929172333.333332,12057730653.764698,16929172333.333332,False,28986902987.09803,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,28986902987.09803
+gujarat,himachal pradesh,0.0,0.0,0.0,False,0.0,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,0.0
+gujarat,jammu and kashmir,0.0,2182695400.1136913,0.0,True,2182695400.1136913,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,2182695400.1136913
+gujarat,jharkhand,0.0,0.0,0.0,False,0.0,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,0.0
+gujarat,karnataka,0.0,7822008140.159706,0.0,True,7822008140.159706,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,7822008140.159706
+gujarat,kerala,0.0,1272297836.139351,0.0,True,1272297836.139351,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,1272297836.139351
+gujarat,madhya pradesh,0.0,8556275408.047442,0.0,True,8556275408.047442,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,8556275408.047442
+gujarat,maharashtra,0.0,5344050691.152482,0.0,True,5344050691.152482,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,5344050691.152482
+gujarat,manipur,0.0,0.0,0.0,False,0.0,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,0.0
+gujarat,meghalaya,0.0,0.0,0.0,False,0.0,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,0.0
+gujarat,mizoram,0.0,0.0,0.0,False,0.0,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,0.0
+gujarat,nagaland,0.0,0.0,0.0,False,0.0,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,0.0
+gujarat,odisha,0.0,0.0,0.0,False,0.0,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,0.0
+gujarat,puducherry,0.0,0.0,0.0,False,0.0,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,0.0
+gujarat,punjab,0.0,25894415402.998295,0.0,True,25894415402.998295,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,25894415402.998295
+gujarat,rajasthan,0.0,1136347865.078192,0.0,True,1136347865.078192,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,1136347865.078192
+gujarat,tamil nadu,0.0,4148985231.5156207,0.0,True,4148985231.5156207,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,4148985231.5156207
+gujarat,telangana,0.0,660460500.83801,0.0,True,660460500.83801,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,660460500.83801
+gujarat,tripura,0.0,0.0,0.0,False,0.0,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,0.0
+gujarat,uttar pradesh,0.0,20539808348.462563,0.0,True,20539808348.462563,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,20539808348.462563
+gujarat,uttarakhand,0.0,0.0,0.0,False,0.0,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,0.0
+gujarat,west bengal,0.0,1991925683.3241398,0.0,True,1991925683.3241398,gujarat,1.0,17487759072427.385,115134758030.7743,115134758030.7743,False,1991925683.3241398
+haryana,andhra pradesh,0.0,0.0,0.0,False,0.0,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,0.0
+haryana,arunachal pradesh,0.0,2125136.009804249,0.0,True,2125136.009804249,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,2125136.009804249
+haryana,assam,0.0,818309749.2963867,0.0,True,818309749.2963867,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,818309749.2963867
+haryana,bihar,0.0,821138998.9243164,0.0,True,821138998.9243164,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,821138998.9243164
+haryana,chandigarh,0.0,80956597.06141663,0.0,True,80956597.06141663,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,80956597.06141663
+haryana,chhattisgarh,0.0,0.0,0.0,False,0.0,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,0.0
+haryana,daman and diu,0.0,0.0,0.0,False,0.0,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,0.0
+haryana,delhi,0.0,20808808.17786026,0.0,True,20808808.17786026,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,20808808.17786026
+haryana,goa,0.0,23643589.704704285,0.0,True,23643589.704704285,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,23643589.704704285
+haryana,gujarat,0.0,227673052.3157959,0.0,True,227673052.3157959,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,227673052.3157959
+haryana,himachal pradesh,0.0,7747614.57960701,0.0,True,7747614.57960701,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,7747614.57960701
+haryana,jammu and kashmir,0.0,41870774.63449097,0.0,True,41870774.63449097,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,41870774.63449097
+haryana,jharkhand,0.0,5782945.869103432,0.0,True,5782945.869103432,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,5782945.869103432
+haryana,karnataka,6059570000.0,961824354.0769043,6059570000.0,False,7021394354.076904,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,7021394354.076904
+haryana,kerala,0.0,82925277.45439148,0.0,True,82925277.45439148,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,82925277.45439148
+haryana,madhya pradesh,0.0,20665548.88500595,0.0,True,20665548.88500595,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,20665548.88500595
+haryana,maharashtra,0.0,1010230666.2141113,0.0,True,1010230666.2141113,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,1010230666.2141113
+haryana,manipur,0.0,15067668.263053894,0.0,True,15067668.263053894,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,15067668.263053894
+haryana,meghalaya,0.0,379631.8475536704,0.0,True,379631.8475536704,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,379631.8475536704
+haryana,mizoram,0.0,13450749.081428528,0.0,True,13450749.081428528,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,13450749.081428528
+haryana,nagaland,0.0,70864681.92373657,0.0,True,70864681.92373657,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,70864681.92373657
+haryana,odisha,0.0,7417178.6277599335,0.0,True,7417178.6277599335,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,7417178.6277599335
+haryana,puducherry,0.0,0.0,0.0,False,0.0,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,0.0
+haryana,punjab,30066276500.0,0.0,30066276500.0,False,30066276500.0,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,30066276500.0
+haryana,rajasthan,0.0,9175013.435112,0.0,True,9175013.435112,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,9175013.435112
+haryana,tamil nadu,0.0,302726543.06066895,0.0,True,302726543.06066895,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,302726543.06066895
+haryana,telangana,0.0,0.0,0.0,False,0.0,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,0.0
+haryana,tripura,0.0,84969124.10862732,0.0,True,84969124.10862732,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,84969124.10862732
+haryana,uttar pradesh,0.0,854274482.7519531,0.0,True,854274482.7519531,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,854274482.7519531
+haryana,uttarakhand,0.0,561213.2651821375,0.0,True,561213.2651821375,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,561213.2651821375
+haryana,west bengal,0.0,69176397.02217102,0.0,True,69176397.02217102,haryana,1.0,2932610407035.19,41679612296.59115,41679612296.59115,False,69176397.02217102
+himachal pradesh,andhra pradesh,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,arunachal pradesh,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,assam,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,bihar,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,chandigarh,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,chhattisgarh,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,daman and diu,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,delhi,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,goa,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,gujarat,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,haryana,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,jammu and kashmir,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,jharkhand,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,karnataka,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,kerala,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,madhya pradesh,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,maharashtra,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,manipur,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,meghalaya,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,mizoram,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,nagaland,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,odisha,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,puducherry,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,punjab,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,rajasthan,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,tamil nadu,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,telangana,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,tripura,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,uttar pradesh,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,uttarakhand,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+himachal pradesh,west bengal,0.0,0.0,0.0,False,0.0,himachal pradesh,0.0,1677927413033.1033,0.0,0.0,False,0.0
+jammu and kashmir,andhra pradesh,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,arunachal pradesh,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,assam,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,bihar,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,chandigarh,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,chhattisgarh,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,daman and diu,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,delhi,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,goa,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,gujarat,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,haryana,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,himachal pradesh,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,jharkhand,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,karnataka,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,kerala,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,madhya pradesh,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,maharashtra,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,manipur,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,meghalaya,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,mizoram,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,nagaland,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,odisha,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,puducherry,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,punjab,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,rajasthan,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,tamil nadu,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,telangana,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,tripura,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,uttar pradesh,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,uttarakhand,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jammu and kashmir,west bengal,0.0,0.0,0.0,False,0.0,jammu and kashmir,0.0,1436213228030.4207,0.0,0.0,False,0.0
+jharkhand,andhra pradesh,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,arunachal pradesh,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,assam,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,bihar,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,chandigarh,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,chhattisgarh,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,daman and diu,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,delhi,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,goa,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,gujarat,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,haryana,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,himachal pradesh,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,jammu and kashmir,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,karnataka,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,kerala,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,madhya pradesh,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,maharashtra,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,manipur,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,meghalaya,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,mizoram,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,nagaland,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,odisha,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,puducherry,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,punjab,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,rajasthan,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,tamil nadu,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,telangana,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,tripura,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,uttar pradesh,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,uttarakhand,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+jharkhand,west bengal,0.0,0.0,0.0,False,0.0,jharkhand,0.0,524973480208.9746,0.0,0.0,False,0.0
+karnataka,andhra pradesh,48226620000.0,20984036549.761063,48226620000.0,False,69210656549.76106,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,69210656549.76106
+karnataka,arunachal pradesh,0.0,0.0,0.0,False,0.0,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,0.0
+karnataka,assam,6532760000.0,759746768.450293,6532760000.0,False,7292506768.450293,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,7292506768.450293
+karnataka,bihar,2861950000.0,48482352.67876382,2861950000.0,False,2910432352.678764,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,2910432352.678764
+karnataka,chandigarh,0.0,0.0,0.0,False,0.0,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,0.0
+karnataka,chhattisgarh,0.0,0.0,0.0,False,0.0,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,0.0
+karnataka,daman and diu,0.0,0.0,0.0,False,0.0,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,0.0
+karnataka,delhi,0.0,0.0,0.0,False,0.0,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,0.0
+karnataka,goa,0.0,0.0,0.0,False,0.0,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,0.0
+karnataka,gujarat,0.0,382740020.9964553,0.0,True,382740020.9964553,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,382740020.9964553
+karnataka,haryana,5771415000.0,19771350234.70932,5771415000.0,False,25542765234.70932,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,25542765234.70932
+karnataka,himachal pradesh,0.0,0.0,0.0,False,0.0,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,0.0
+karnataka,jammu and kashmir,0.0,0.0,0.0,False,0.0,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,0.0
+karnataka,jharkhand,0.0,0.0,0.0,False,0.0,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,0.0
+karnataka,kerala,14685450000.0,10762031675.446852,14685450000.0,False,25447481675.446854,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,25447481675.446854
+karnataka,madhya pradesh,0.0,6823384743.921679,0.0,True,6823384743.921679,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,6823384743.921679
+karnataka,maharashtra,17036890000.0,807540585.7462313,17036890000.0,False,17844430585.74623,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,17844430585.74623
+karnataka,manipur,0.0,0.0,0.0,False,0.0,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,0.0
+karnataka,meghalaya,0.0,0.0,0.0,False,0.0,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,0.0
+karnataka,mizoram,0.0,0.0,0.0,False,0.0,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,0.0
+karnataka,nagaland,0.0,0.0,0.0,False,0.0,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,0.0
+karnataka,odisha,14201460000.0,1686471073.6847112,14201460000.0,False,15887931073.684711,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,15887931073.684711
+karnataka,puducherry,0.0,24403881.06745167,0.0,True,24403881.06745167,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,24403881.06745167
+karnataka,punjab,5681910000.0,65959304427.6738,5681910000.0,False,71641214427.6738,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,71641214427.6738
+karnataka,rajasthan,2847585000.0,1787647816.1605024,2847585000.0,False,4635232816.160502,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,4635232816.160502
+karnataka,tamil nadu,211553134000.0,5749201650.135262,211553134000.0,False,217302335650.13525,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,217302335650.13525
+karnataka,telangana,0.0,1795424669.747069,0.0,True,1795424669.747069,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,1795424669.747069
+karnataka,tripura,0.0,0.0,0.0,False,0.0,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,0.0
+karnataka,uttar pradesh,0.0,5184138264.904892,0.0,True,5184138264.904892,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,5184138264.904892
+karnataka,uttarakhand,8454355000.0,0.0,8454355000.0,False,8454355000.0,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,8454355000.0
+karnataka,west bengal,17605965000.0,47882721.77082133,17605965000.0,False,17653847721.77082,karnataka,1.0,40410044967093.05,498033281436.85516,498033281436.85516,False,17653847721.77082
+kerala,andhra pradesh,0.0,5.6524763107299805,0.0,True,5.6524763107299805,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,5.8024003179198524e-08
+kerala,arunachal pradesh,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,assam,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,bihar,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,chandigarh,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,chhattisgarh,0.0,1.3461675643920898,0.0,True,1.3461675643920898,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,1.3818727711913782e-08
+kerala,daman and diu,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,delhi,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,goa,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,gujarat,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,haryana,0.0,1202535835.1020627,0.0,True,1202535835.1020627,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,12.344314117090237
+kerala,himachal pradesh,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,jammu and kashmir,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,jharkhand,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,karnataka,0.0,859434100.9692317,0.0,True,859434100.9692317,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,8.822293852393027
+kerala,madhya pradesh,0.0,5266994250.0,0.0,True,5266994250.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,54.06693886123559
+kerala,maharashtra,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,manipur,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,meghalaya,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,mizoram,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,nagaland,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,odisha,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,puducherry,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,punjab,0.0,4175009070.043282,0.0,True,4175009070.043282,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,42.857453306529464
+kerala,rajasthan,0.0,2110841483.3333333,0.0,True,2110841483.3333333,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,21.668285934647294
+kerala,tamil nadu,0.0,81504371979.7739,0.0,True,81504371979.7739,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,836.6616114596742
+kerala,telangana,0.0,25.54117202758789,0.0,True,25.54117202758789,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,2.621861579704392e-07
+kerala,tripura,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,uttar pradesh,0.0,284809000.0,0.0,True,284809000.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,2.9236315931291643
+kerala,uttarakhand,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+kerala,west bengal,0.0,0.0,0.0,False,0.0,kerala,1.0265235976142482e-08,979.3445294587278,95403995751.76161,979.3445294587278,True,0.0
+madhya pradesh,andhra pradesh,5575830000.0,0.0,5575830000.0,False,5575830000.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,5575830000.0
+madhya pradesh,arunachal pradesh,0.0,0.0,0.0,False,0.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,0.0
+madhya pradesh,assam,3717220000.0,0.0,3717220000.0,False,3717220000.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,3717220000.0
+madhya pradesh,bihar,68894429500.0,0.0,68894429500.0,False,68894429500.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,68894429500.0
+madhya pradesh,chandigarh,0.0,0.0,0.0,False,0.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,0.0
+madhya pradesh,chhattisgarh,30144400000.0,0.0,30144400000.0,False,30144400000.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,30144400000.0
+madhya pradesh,daman and diu,0.0,0.0,0.0,False,0.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,0.0
+madhya pradesh,delhi,0.0,0.0,0.0,False,0.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,0.0
+madhya pradesh,goa,0.0,0.0,0.0,False,0.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,0.0
+madhya pradesh,gujarat,11728470000.0,0.0,11728470000.0,False,11728470000.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,11728470000.0
+madhya pradesh,haryana,109400525000.0,0.0,109400525000.0,False,109400525000.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,109400525000.0
+madhya pradesh,himachal pradesh,0.0,0.0,0.0,False,0.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,0.0
+madhya pradesh,jammu and kashmir,0.0,0.0,0.0,False,0.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,0.0
+madhya pradesh,jharkhand,0.0,0.0,0.0,False,0.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,0.0
+madhya pradesh,karnataka,14119690000.0,0.0,14119690000.0,False,14119690000.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,14119690000.0
+madhya pradesh,kerala,2937090000.0,0.0,2937090000.0,False,2937090000.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,2937090000.0
+madhya pradesh,maharashtra,0.0,0.0,0.0,False,0.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,0.0
+madhya pradesh,manipur,0.0,0.0,0.0,False,0.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,0.0
+madhya pradesh,meghalaya,0.0,0.0,0.0,False,0.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,0.0
+madhya pradesh,mizoram,0.0,0.0,0.0,False,0.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,0.0
+madhya pradesh,nagaland,0.0,0.0,0.0,False,0.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,0.0
+madhya pradesh,odisha,0.0,0.0,0.0,False,0.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,0.0
+madhya pradesh,puducherry,0.0,0.0,0.0,False,0.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,0.0
+madhya pradesh,punjab,334741735000.0,664575184.7087412,334741735000.0,False,335406310184.70874,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,335406310184.70874
+madhya pradesh,rajasthan,0.0,0.0,0.0,False,0.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,0.0
+madhya pradesh,tamil nadu,181171800000.0,0.0,181171800000.0,False,181171800000.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,181171800000.0
+madhya pradesh,telangana,34810815000.0,0.0,34810815000.0,False,34810815000.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,34810815000.0
+madhya pradesh,tripura,0.0,0.0,0.0,False,0.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,0.0
+madhya pradesh,uttar pradesh,2923830000.0,21942862596.744385,2923830000.0,False,24866692596.744385,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,24866692596.744385
+madhya pradesh,uttarakhand,374529363000.0,0.0,374529363000.0,False,374529363000.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,374529363000.0
+madhya pradesh,west bengal,67405994500.0,0.0,67405994500.0,False,67405994500.0,madhya pradesh,1.0,22503551670778.742,1264708629781.4531,1264708629781.4531,False,67405994500.0
+maharashtra,andhra pradesh,18822570000.0,151160404333.2492,18822570000.0,False,169982974333.2492,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,169982974333.2492
+maharashtra,arunachal pradesh,0.0,0.0,0.0,False,0.0,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,0.0
+maharashtra,assam,5850975000.0,25787360650.238026,5850975000.0,False,31638335650.238026,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,31638335650.238026
+maharashtra,bihar,23711090000.0,0.0,23711090000.0,False,23711090000.0,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,23711090000.0
+maharashtra,chandigarh,0.0,1041379674.1816359,0.0,True,1041379674.1816359,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,1041379674.1816359
+maharashtra,chhattisgarh,0.0,311974549.7915512,0.0,True,311974549.7915512,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,311974549.7915512
+maharashtra,daman and diu,0.0,0.0,0.0,False,0.0,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,0.0
+maharashtra,delhi,1252834000.0,0.0,1252834000.0,False,1252834000.0,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,1252834000.0
+maharashtra,goa,0.0,5944794891.297163,0.0,True,5944794891.297163,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,5944794891.297163
+maharashtra,gujarat,0.0,8650332625.700375,0.0,True,8650332625.700375,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,8650332625.700375
+maharashtra,haryana,39094900000.0,21637569794.757412,39094900000.0,False,60732469794.757416,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,60732469794.757416
+maharashtra,himachal pradesh,0.0,0.0,0.0,False,0.0,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,0.0
+maharashtra,jammu and kashmir,0.0,275977486.3540646,0.0,True,275977486.3540646,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,275977486.3540646
+maharashtra,jharkhand,0.0,3992168140.2792983,0.0,True,3992168140.2792983,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,3992168140.2792983
+maharashtra,karnataka,81739060000.0,4724781429.67141,81739060000.0,False,86463841429.67142,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,86463841429.67142
+maharashtra,kerala,5844345000.0,14975175541.79509,5844345000.0,False,20819520541.79509,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,20819520541.79509
+maharashtra,madhya pradesh,0.0,5036973611.032674,0.0,True,5036973611.032674,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,5036973611.032674
+maharashtra,manipur,0.0,0.0,0.0,False,0.0,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,0.0
+maharashtra,meghalaya,0.0,0.0,0.0,False,0.0,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,0.0
+maharashtra,mizoram,0.0,0.0,0.0,False,0.0,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,0.0
+maharashtra,nagaland,0.0,251644306.71886414,0.0,True,251644306.71886414,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,251644306.71886414
+maharashtra,odisha,0.0,0.0,0.0,False,0.0,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,0.0
+maharashtra,puducherry,0.0,0.0,0.0,False,0.0,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,0.0
+maharashtra,punjab,37132420000.0,36886820257.05232,37132420000.0,False,74019240257.05232,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,74019240257.05232
+maharashtra,rajasthan,0.0,727150280.6541476,0.0,True,727150280.6541476,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,727150280.6541476
+maharashtra,tamil nadu,204894625000.0,13002431544.607504,204894625000.0,False,217897056544.6075,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,217897056544.6075
+maharashtra,telangana,97321770000.0,318430023.16800714,97321770000.0,False,97640200023.16801,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,97640200023.16801
+maharashtra,tripura,0.0,0.0,0.0,False,0.0,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,0.0
+maharashtra,uttar pradesh,0.0,1112856901.5061352,0.0,True,1112856901.5061352,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,1112856901.5061352
+maharashtra,uttarakhand,123008600000.0,0.0,123008600000.0,False,123008600000.0,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,123008600000.0
+maharashtra,west bengal,25031350000.0,7034724266.408371,25031350000.0,False,32066074266.40837,maharashtra,1.0,30339952650147.773,966577489308.4631,966577489308.4631,False,32066074266.40837
+manipur,andhra pradesh,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,arunachal pradesh,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,assam,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,bihar,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,chandigarh,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,chhattisgarh,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,daman and diu,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,delhi,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,goa,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,gujarat,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,haryana,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,himachal pradesh,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,jammu and kashmir,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,jharkhand,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,karnataka,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,kerala,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,madhya pradesh,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,maharashtra,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,meghalaya,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,mizoram,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,nagaland,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,odisha,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,puducherry,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,punjab,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,rajasthan,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,tamil nadu,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,telangana,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,tripura,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,uttar pradesh,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,uttarakhand,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+manipur,west bengal,0.0,0.0,0.0,False,0.0,manipur,0.0,213692451201.25656,0.0,0.0,False,0.0
+meghalaya,andhra pradesh,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,arunachal pradesh,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,assam,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,bihar,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,chandigarh,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,chhattisgarh,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,daman and diu,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,delhi,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,goa,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,gujarat,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,haryana,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,himachal pradesh,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,jammu and kashmir,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,jharkhand,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,karnataka,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,kerala,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,madhya pradesh,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,maharashtra,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,manipur,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,mizoram,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,nagaland,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,odisha,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,puducherry,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,punjab,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,rajasthan,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,tamil nadu,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,telangana,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,tripura,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,uttar pradesh,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,uttarakhand,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+meghalaya,west bengal,0.0,0.0,0.0,False,0.0,meghalaya,0.0,151712740036.385,0.0,0.0,False,0.0
+mizoram,andhra pradesh,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,arunachal pradesh,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,assam,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,bihar,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,chandigarh,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,chhattisgarh,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,daman and diu,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,delhi,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,goa,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,gujarat,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,haryana,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,himachal pradesh,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,jammu and kashmir,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,jharkhand,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,karnataka,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,kerala,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,madhya pradesh,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,maharashtra,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,manipur,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,meghalaya,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,nagaland,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,odisha,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,puducherry,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,punjab,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,rajasthan,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,tamil nadu,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,telangana,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,tripura,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,uttar pradesh,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,uttarakhand,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+mizoram,west bengal,0.0,0.0,0.0,False,0.0,mizoram,0.0,36042089979.44082,0.0,0.0,False,0.0
+nagaland,andhra pradesh,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,arunachal pradesh,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,assam,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,bihar,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,chandigarh,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,chhattisgarh,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,daman and diu,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,delhi,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,goa,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,gujarat,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,haryana,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,himachal pradesh,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,jammu and kashmir,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,jharkhand,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,karnataka,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,kerala,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,madhya pradesh,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,maharashtra,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,manipur,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,meghalaya,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,mizoram,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,odisha,0.0,1205950160.1928253,0.0,True,1205950160.1928253,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,1205950160.1928253
+nagaland,puducherry,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,punjab,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,rajasthan,0.0,1704174760.159195,0.0,True,1704174760.159195,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,1704174760.159195
+nagaland,tamil nadu,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,telangana,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,tripura,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,uttar pradesh,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,uttarakhand,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+nagaland,west bengal,0.0,0.0,0.0,False,0.0,nagaland,1.0,87733877465.79893,2910124920.3520203,2910124920.3520203,False,0.0
+odisha,andhra pradesh,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,arunachal pradesh,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,assam,5706220000.0,94552350.46683264,5706220000.0,False,5800772350.466833,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,5800772350.466833
+odisha,bihar,0.0,6414553692.038326,0.0,True,6414553692.038326,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,6414553692.038326
+odisha,chandigarh,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,chhattisgarh,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,daman and diu,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,delhi,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,goa,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,gujarat,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,haryana,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,himachal pradesh,0.0,172654062.94838238,0.0,True,172654062.94838238,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,172654062.94838238
+odisha,jammu and kashmir,0.0,43561093.25223899,0.0,True,43561093.25223899,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,43561093.25223899
+odisha,jharkhand,0.0,42534769574.75,0.0,True,42534769574.75,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,42534769574.75
+odisha,karnataka,0.0,1530088303.804718,0.0,True,1530088303.804718,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,1530088303.804718
+odisha,kerala,0.0,213866466.0083847,0.0,True,213866466.0083847,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,213866466.0083847
+odisha,madhya pradesh,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,maharashtra,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,manipur,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,meghalaya,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,mizoram,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,nagaland,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,puducherry,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,punjab,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,rajasthan,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,tamil nadu,17433585000.0,0.0,17433585000.0,False,17433585000.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,17433585000.0
+odisha,telangana,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,tripura,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,uttar pradesh,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,uttarakhand,0.0,0.0,0.0,False,0.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,0.0
+odisha,west bengal,90572430000.0,0.0,90572430000.0,False,90572430000.0,odisha,1.0,1140053029414.3657,164716280543.2689,164716280543.2689,False,90572430000.0
+puducherry,andhra pradesh,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,arunachal pradesh,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,assam,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,bihar,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,chandigarh,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,chhattisgarh,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,daman and diu,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,delhi,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,goa,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,gujarat,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,haryana,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,himachal pradesh,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,jammu and kashmir,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,jharkhand,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,karnataka,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,kerala,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,madhya pradesh,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,maharashtra,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,manipur,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,meghalaya,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,mizoram,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,nagaland,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,odisha,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,punjab,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,rajasthan,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,tamil nadu,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,telangana,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,tripura,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,uttar pradesh,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,uttarakhand,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+puducherry,west bengal,0.0,0.0,0.0,False,0.0,puducherry,0.0,933500795.306431,0.0,0.0,False,0.0
+punjab,andhra pradesh,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,arunachal pradesh,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,assam,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,bihar,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,chandigarh,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,chhattisgarh,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,daman and diu,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,delhi,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,goa,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,gujarat,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,haryana,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,himachal pradesh,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,jammu and kashmir,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,jharkhand,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,karnataka,5867550000.0,0.0,5867550000.0,False,5867550000.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,5867550000.0
+punjab,kerala,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,madhya pradesh,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,maharashtra,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,manipur,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,meghalaya,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,mizoram,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,nagaland,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,odisha,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,puducherry,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,rajasthan,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,tamil nadu,2937090000.0,0.0,2937090000.0,False,2937090000.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,2937090000.0
+punjab,telangana,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,tripura,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,uttar pradesh,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,uttarakhand,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+punjab,west bengal,0.0,0.0,0.0,False,0.0,punjab,1.0,1088989299853.1852,8804640000.0,8804640000.0,False,0.0
+rajasthan,andhra pradesh,1288980000.0,0.0,1288980000.0,False,1288980000.0,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,1288980000.0
+rajasthan,arunachal pradesh,0.0,0.0,0.0,False,0.0,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,0.0
+rajasthan,assam,0.0,67397495066.79944,0.0,True,67397495066.79944,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,67397495066.79944
+rajasthan,bihar,0.0,54177393043.88269,0.0,True,54177393043.88269,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,54177393043.88269
+rajasthan,chandigarh,0.0,259026450.1161437,0.0,True,259026450.1161437,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,259026450.1161437
+rajasthan,chhattisgarh,0.0,0.0,0.0,False,0.0,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,0.0
+rajasthan,daman and diu,0.0,0.0,0.0,False,0.0,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,0.0
+rajasthan,delhi,0.0,261430271.85782814,0.0,True,261430271.85782814,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,261430271.85782814
+rajasthan,goa,0.0,1654386341.365387,0.0,True,1654386341.365387,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,1654386341.365387
+rajasthan,gujarat,0.0,21597634791.451843,0.0,True,21597634791.451843,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,21597634791.451843
+rajasthan,haryana,0.0,0.0,0.0,False,0.0,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,0.0
+rajasthan,himachal pradesh,0.0,0.0,0.0,False,0.0,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,0.0
+rajasthan,jammu and kashmir,0.0,9653572225.209015,0.0,True,9653572225.209015,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,9653572225.209015
+rajasthan,jharkhand,0.0,455612164.74706936,0.0,True,455612164.74706936,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,455612164.74706936
+rajasthan,karnataka,0.0,45525598872.070984,0.0,True,45525598872.070984,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,45525598872.070984
+rajasthan,kerala,0.0,1478409000.934513,0.0,True,1478409000.934513,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,1478409000.934513
+rajasthan,madhya pradesh,0.0,422222494.45708656,0.0,True,422222494.45708656,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,422222494.45708656
+rajasthan,maharashtra,0.0,45813090089.39667,0.0,True,45813090089.39667,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,45813090089.39667
+rajasthan,manipur,0.0,0.0,0.0,False,0.0,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,0.0
+rajasthan,meghalaya,0.0,0.0,0.0,False,0.0,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,0.0
+rajasthan,mizoram,0.0,0.0,0.0,False,0.0,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,0.0
+rajasthan,nagaland,0.0,6445672110.931114,0.0,True,6445672110.931114,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,6445672110.931114
+rajasthan,odisha,0.0,0.0,0.0,False,0.0,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,0.0
+rajasthan,puducherry,0.0,0.0,0.0,False,0.0,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,0.0
+rajasthan,punjab,0.0,0.0,0.0,False,0.0,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,0.0
+rajasthan,tamil nadu,26980374666.666664,18078087982.83435,26980374666.666664,False,45058462649.501015,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,45058462649.501015
+rajasthan,telangana,0.0,0.0,0.0,False,0.0,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,0.0
+rajasthan,tripura,0.0,0.0,0.0,False,0.0,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,0.0
+rajasthan,uttar pradesh,0.0,63409563591.8147,0.0,True,63409563591.8147,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,63409563591.8147
+rajasthan,uttarakhand,0.0,0.0,0.0,False,0.0,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,0.0
+rajasthan,west bengal,0.0,2017392739.2590294,0.0,True,2017392739.2590294,rajasthan,1.0,20268478013045.07,366915941903.79456,366915941903.79456,False,2017392739.2590294
+tamil nadu,andhra pradesh,0.0,12289165223.709143,0.0,True,12289165223.709143,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,12289165223.709143
+tamil nadu,arunachal pradesh,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+tamil nadu,assam,0.0,2845675000.0,0.0,True,2845675000.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,2845675000.0
+tamil nadu,bihar,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+tamil nadu,chandigarh,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+tamil nadu,chhattisgarh,0.0,24441611819.270515,0.0,True,24441611819.270515,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,24441611819.270515
+tamil nadu,daman and diu,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+tamil nadu,delhi,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+tamil nadu,goa,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+tamil nadu,gujarat,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+tamil nadu,haryana,0.0,7457594282.808804,0.0,True,7457594282.808804,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,7457594282.808804
+tamil nadu,himachal pradesh,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+tamil nadu,jammu and kashmir,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+tamil nadu,jharkhand,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+tamil nadu,karnataka,0.0,35091998666.06235,0.0,True,35091998666.06235,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,35091998666.06235
+tamil nadu,kerala,2923830000.0,4011419043.163596,2923830000.0,False,6935249043.163596,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,6935249043.163596
+tamil nadu,madhya pradesh,0.0,8776523233.333334,0.0,True,8776523233.333334,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,8776523233.333334
+tamil nadu,maharashtra,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+tamil nadu,manipur,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+tamil nadu,meghalaya,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+tamil nadu,mizoram,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+tamil nadu,nagaland,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+tamil nadu,odisha,0.0,4615418630.667866,0.0,True,4615418630.667866,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,4615418630.667866
+tamil nadu,puducherry,0.0,70915133.33333334,0.0,True,70915133.33333334,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,70915133.33333334
+tamil nadu,punjab,0.0,15738284278.26368,0.0,True,15738284278.26368,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,15738284278.26368
+tamil nadu,rajasthan,0.0,8123598466.666666,0.0,True,8123598466.666666,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,8123598466.666666
+tamil nadu,telangana,0.0,30700926559.3982,0.0,True,30700926559.3982,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,30700926559.3982
+tamil nadu,tripura,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+tamil nadu,uttar pradesh,0.0,3075488008.1743193,0.0,True,3075488008.1743193,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,3075488008.1743193
+tamil nadu,uttarakhand,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+tamil nadu,west bengal,0.0,0.0,0.0,False,0.0,tamil nadu,1.0,43285307064698.8,160162448344.8518,160162448344.8518,False,0.0
+telangana,andhra pradesh,0.0,156621548.96064544,0.0,True,156621548.96064544,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,156621548.96064544
+telangana,arunachal pradesh,0.0,0.0,0.0,False,0.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,0.0
+telangana,assam,0.0,38237513.32056373,0.0,True,38237513.32056373,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,38237513.32056373
+telangana,bihar,0.0,1461711193.1905289,0.0,True,1461711193.1905289,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,1461711193.1905289
+telangana,chandigarh,0.0,0.0,0.0,False,0.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,0.0
+telangana,chhattisgarh,0.0,0.0,0.0,False,0.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,0.0
+telangana,daman and diu,0.0,0.0,0.0,False,0.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,0.0
+telangana,delhi,0.0,0.0,0.0,False,0.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,0.0
+telangana,goa,0.0,0.0,0.0,False,0.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,0.0
+telangana,gujarat,0.0,69495650.0,0.0,True,69495650.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,69495650.0
+telangana,haryana,0.0,323341666.6666666,0.0,True,323341666.6666666,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,323341666.6666666
+telangana,himachal pradesh,0.0,0.0,0.0,False,0.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,0.0
+telangana,jammu and kashmir,0.0,0.0,0.0,False,0.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,0.0
+telangana,jharkhand,0.0,682589131.4332542,0.0,True,682589131.4332542,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,682589131.4332542
+telangana,karnataka,0.0,14156685143.420547,0.0,True,14156685143.420547,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,14156685143.420547
+telangana,kerala,0.0,43901850521.93201,0.0,True,43901850521.93201,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,43901850521.93201
+telangana,madhya pradesh,0.0,6750947350.0,0.0,True,6750947350.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,6750947350.0
+telangana,maharashtra,0.0,0.0,0.0,False,0.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,0.0
+telangana,manipur,0.0,0.0,0.0,False,0.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,0.0
+telangana,meghalaya,0.0,0.0,0.0,False,0.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,0.0
+telangana,mizoram,0.0,0.0,0.0,False,0.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,0.0
+telangana,nagaland,0.0,222777057.3633318,0.0,True,222777057.3633318,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,222777057.3633318
+telangana,odisha,0.0,0.0,0.0,False,0.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,0.0
+telangana,puducherry,0.0,0.0,0.0,False,0.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,0.0
+telangana,punjab,0.0,0.0,0.0,False,0.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,0.0
+telangana,rajasthan,0.0,658256550.0,0.0,True,658256550.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,658256550.0
+telangana,tamil nadu,82898205000.0,134959883828.54346,82898205000.0,False,217858088828.54346,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,217858088828.54346
+telangana,tripura,0.0,0.0,0.0,False,0.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,0.0
+telangana,uttar pradesh,0.0,1189897333.3333335,0.0,True,1189897333.3333335,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,1189897333.3333335
+telangana,uttarakhand,0.0,0.0,0.0,False,0.0,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,0.0
+telangana,west bengal,0.0,15130580605.866974,0.0,True,15130580605.866974,telangana,1.0,11852609660379.26,302601080094.03125,302601080094.03125,False,15130580605.866974
+tripura,andhra pradesh,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,arunachal pradesh,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,assam,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,bihar,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,chandigarh,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,chhattisgarh,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,daman and diu,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,delhi,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,goa,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,gujarat,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,haryana,0.0,192075799.09621835,0.0,True,192075799.09621835,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,192075799.09621835
+tripura,himachal pradesh,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,jammu and kashmir,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,jharkhand,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,karnataka,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,kerala,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,madhya pradesh,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,maharashtra,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,manipur,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,meghalaya,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,mizoram,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,nagaland,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,odisha,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,puducherry,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,punjab,0.0,985743123.7914263,0.0,True,985743123.7914263,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,985743123.7914263
+tripura,rajasthan,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,tamil nadu,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,telangana,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,uttar pradesh,0.0,352688668.69832385,0.0,True,352688668.69832385,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,352688668.69832385
+tripura,uttarakhand,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+tripura,west bengal,0.0,0.0,0.0,False,0.0,tripura,1.0,43616333888.960724,1530507591.5859685,1530507591.5859685,False,0.0
+uttar pradesh,andhra pradesh,0.0,23408654722.46621,0.0,True,23408654722.46621,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,23408654722.46621
+uttar pradesh,arunachal pradesh,0.0,58081786.32135689,0.0,True,58081786.32135689,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,58081786.32135689
+uttar pradesh,assam,29189600000.0,38776150657.03818,29189600000.0,False,67965750657.03818,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,67965750657.03818
+uttar pradesh,bihar,2306135000.0,1150242877.435234,2306135000.0,False,3456377877.435234,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,3456377877.435234
+uttar pradesh,chandigarh,0.0,755615523.9836171,0.0,True,755615523.9836171,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,755615523.9836171
+uttar pradesh,chhattisgarh,0.0,0.0,0.0,False,0.0,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,0.0
+uttar pradesh,daman and diu,0.0,0.0,0.0,False,0.0,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,0.0
+uttar pradesh,delhi,0.0,939868509.0719147,0.0,True,939868509.0719147,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,939868509.0719147
+uttar pradesh,goa,0.0,1846961516.3249054,0.0,True,1846961516.3249054,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,1846961516.3249054
+uttar pradesh,gujarat,0.0,42939651415.74509,0.0,True,42939651415.74509,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,42939651415.74509
+uttar pradesh,haryana,28099045000.0,704443240.2982635,28099045000.0,False,28803488240.298264,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,28803488240.298264
+uttar pradesh,himachal pradesh,0.0,114395581.40181565,0.0,True,114395581.40181565,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,114395581.40181565
+uttar pradesh,jammu and kashmir,0.0,5990914714.466545,0.0,True,5990914714.466545,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,5990914714.466545
+uttar pradesh,jharkhand,0.0,257886623.5952015,0.0,True,257886623.5952015,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,257886623.5952015
+uttar pradesh,karnataka,2831010000.0,83804803729.42593,2831010000.0,False,86635813729.42593,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,86635813729.42593
+uttar pradesh,kerala,0.0,9667520297.182373,0.0,True,9667520297.182373,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,9667520297.182373
+uttar pradesh,madhya pradesh,0.0,213305305.6975522,0.0,True,213305305.6975522,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,213305305.6975522
+uttar pradesh,maharashtra,33071545000.0,5601108644.135778,33071545000.0,False,38672653644.13578,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,38672653644.13578
+uttar pradesh,manipur,0.0,0.0,0.0,False,0.0,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,0.0
+uttar pradesh,meghalaya,0.0,0.0,0.0,False,0.0,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,0.0
+uttar pradesh,mizoram,0.0,0.0,0.0,False,0.0,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,0.0
+uttar pradesh,nagaland,0.0,4729625111.383133,0.0,True,4729625111.383133,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,4729625111.383133
+uttar pradesh,odisha,0.0,33966384454.588966,0.0,True,33966384454.588966,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,33966384454.588966
+uttar pradesh,puducherry,0.0,0.0,0.0,False,0.0,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,0.0
+uttar pradesh,punjab,0.0,11679895058.434353,0.0,True,11679895058.434353,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,11679895058.434353
+uttar pradesh,rajasthan,0.0,192713227.96313095,0.0,True,192713227.96313095,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,192713227.96313095
+uttar pradesh,tamil nadu,212814758333.3333,48462346687.40336,212814758333.3333,False,261277105020.73666,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,261277105020.73666
+uttar pradesh,telangana,88311600000.0,869109570.7417488,88311600000.0,False,89180709570.74174,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,89180709570.74174
+uttar pradesh,tripura,0.0,2246469754.774807,0.0,True,2246469754.774807,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,2246469754.774807
+uttar pradesh,uttarakhand,0.0,58081786.32135689,0.0,True,58081786.32135689,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,58081786.32135689
+uttar pradesh,west bengal,30246700000.0,32335200846.87383,30246700000.0,False,62581900846.873825,uttar pradesh,1.0,21001859344296.227,777639824976.4078,777639824976.4078,False,62581900846.873825
+uttarakhand,andhra pradesh,0.0,160881795.01989996,0.0,True,160881795.01989996,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,160881795.01989996
+uttarakhand,arunachal pradesh,0.0,0.0,0.0,False,0.0,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,0.0
+uttarakhand,assam,0.0,73561251150.76956,0.0,True,73561251150.76956,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,73561251150.76956
+uttarakhand,bihar,0.0,35711937566.403625,0.0,True,35711937566.403625,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,35711937566.403625
+uttarakhand,chandigarh,0.0,3691434301.626095,0.0,True,3691434301.626095,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,3691434301.626095
+uttarakhand,chhattisgarh,0.0,313643755.564219,0.0,True,313643755.564219,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,313643755.564219
+uttarakhand,daman and diu,0.0,0.0,0.0,False,0.0,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,0.0
+uttarakhand,delhi,0.0,322127164.71781087,0.0,True,322127164.71781087,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,322127164.71781087
+uttarakhand,goa,0.0,0.0,0.0,False,0.0,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,0.0
+uttarakhand,gujarat,0.0,6956819676.402882,0.0,True,6956819676.402882,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,6956819676.402882
+uttarakhand,haryana,0.0,341479369.90246344,0.0,True,341479369.90246344,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,341479369.90246344
+uttarakhand,himachal pradesh,0.0,479373212.9576001,0.0,True,479373212.9576001,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,479373212.9576001
+uttarakhand,jammu and kashmir,0.0,318612609.4970372,0.0,True,318612609.4970372,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,318612609.4970372
+uttarakhand,jharkhand,0.0,0.0,0.0,False,0.0,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,0.0
+uttarakhand,karnataka,0.0,5664432887.632851,0.0,True,5664432887.632851,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,5664432887.632851
+uttarakhand,kerala,0.0,1603121946.9101582,0.0,True,1603121946.9101582,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,1603121946.9101582
+uttarakhand,madhya pradesh,0.0,642490243.1650848,0.0,True,642490243.1650848,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,642490243.1650848
+uttarakhand,maharashtra,0.0,320854653.3447721,0.0,True,320854653.3447721,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,320854653.3447721
+uttarakhand,manipur,0.0,530819029.8961668,0.0,True,530819029.8961668,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,530819029.8961668
+uttarakhand,meghalaya,0.0,0.0,0.0,False,0.0,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,0.0
+uttarakhand,mizoram,0.0,426291309.9679835,0.0,True,426291309.9679835,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,426291309.9679835
+uttarakhand,nagaland,0.0,7222126207.532218,0.0,True,7222126207.532218,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,7222126207.532218
+uttarakhand,odisha,0.0,0.0,0.0,False,0.0,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,0.0
+uttarakhand,puducherry,0.0,0.0,0.0,False,0.0,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,0.0
+uttarakhand,punjab,0.0,161063582.35890543,0.0,True,161063582.35890543,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,161063582.35890543
+uttarakhand,rajasthan,0.0,483675513.3140645,0.0,True,483675513.3140645,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,483675513.3140645
+uttarakhand,tamil nadu,0.0,2629084858.849757,0.0,True,2629084858.849757,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,2629084858.849757
+uttarakhand,telangana,0.0,0.0,0.0,False,0.0,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,0.0
+uttarakhand,tripura,0.0,4857781868.685616,0.0,True,4857781868.685616,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,4857781868.685616
+uttarakhand,uttar pradesh,0.0,648496034.0124178,0.0,True,648496034.0124178,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,648496034.0124178
+uttarakhand,west bengal,0.0,175198872.16258812,0.0,True,175198872.16258812,uttarakhand,1.0,1176920608402.7932,147222997610.6938,147222997610.6938,False,175198872.16258812
+west bengal,andhra pradesh,17577787500.0,0.0,17577787500.0,False,17577787500.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,17577787500.0
+west bengal,arunachal pradesh,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,assam,2947035000.0,0.0,2947035000.0,False,2947035000.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,2947035000.0
+west bengal,bihar,7245485000.0,0.0,7245485000.0,False,7245485000.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,7245485000.0
+west bengal,chandigarh,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,chhattisgarh,5857605000.0,0.0,5857605000.0,False,5857605000.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,5857605000.0
+west bengal,daman and diu,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,delhi,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,goa,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,gujarat,2755870000.0,0.0,2755870000.0,False,2755870000.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,2755870000.0
+west bengal,haryana,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,himachal pradesh,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,jammu and kashmir,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,jharkhand,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,karnataka,87655230000.0,0.0,87655230000.0,False,87655230000.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,87655230000.0
+west bengal,kerala,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,madhya pradesh,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,maharashtra,22975160000.0,0.0,22975160000.0,False,22975160000.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,22975160000.0
+west bengal,manipur,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,meghalaya,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,mizoram,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,nagaland,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,odisha,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,puducherry,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,punjab,20472335000.0,0.0,20472335000.0,False,20472335000.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,20472335000.0
+west bengal,rajasthan,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,tamil nadu,155118795000.0,0.0,155118795000.0,False,155118795000.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,155118795000.0
+west bengal,telangana,96135000000.0,0.0,96135000000.0,False,96135000000.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,96135000000.0
+west bengal,tripura,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,uttar pradesh,0.0,0.0,0.0,False,0.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,0.0
+west bengal,uttarakhand,29071445000.0,0.0,29071445000.0,False,29071445000.0,west bengal,1.0,4085420249550.2466,447811747500.0,447811747500.0,False,29071445000.0
