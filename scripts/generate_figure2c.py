@@ -610,22 +610,26 @@ def plot_nominal_panel(frame: pd.DataFrame, output_stem: str) -> tuple[Path, Pat
         ax.plot(
             maximum["nominal_substitution_pct"],
             maximum["pct_reduction_n_surplus"],
-            marker="o",
-            markersize=5.5,
-            color="red",
+            marker="^",
+            markersize=7.2,
+            color="#E69F00",
+            markeredgecolor="black",
+            markeredgewidth=0.8,
             linestyle="None",
             label="Maximum alternate crop penetration",
-            zorder=4,
+            zorder=5,
         )
         ax.plot(
             minimum["nominal_substitution_pct"],
             minimum["pct_reduction_n_surplus"],
-            marker="o",
-            markersize=5.5,
-            color="green",
+            marker="s",
+            markersize=6.6,
+            color="#009E73",
+            markeredgecolor="black",
+            markeredgewidth=0.8,
             linestyle="None",
             label="Minimum alternate crop penetration",
-            zorder=4,
+            zorder=5,
         )
 
         ax.set_xlim(-2, 102)

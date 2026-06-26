@@ -21,10 +21,10 @@ ARTICLE_DIR = ROOT / "R_2_sources" / "article"
 PDF_DIR = ROOT / "R_2_PDFs"
 
 PANELS = {
-    "a": CANONICAL_FIG_DIR / "figure2a_no_historical_cap_core.png",
-    "b": CANONICAL_FIG_DIR / "figure2b_no_historical_cap_core_all_metric_bootstrap.png",
-    "c": CANONICAL_FIG_DIR / "figure2c_regenerated_state_retention.png",
-    "d": CANONICAL_FIG_DIR / "figure2d_no_historical_cap_core.png",
+    "a": WORKING_FIG_DIR / "Figure2_equivalent_panel_a.png",
+    "b": WORKING_FIG_DIR / "Figure2_equivalent_panel_b.png",
+    "c": WORKING_FIG_DIR / "Figure2_equivalent_panel_c.png",
+    "d": WORKING_FIG_DIR / "Figure2_equivalent_panel_d.png",
 }
 
 LABEL_BOX_WIDTH = {
